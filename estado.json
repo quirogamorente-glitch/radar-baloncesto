@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-09T17:38+00:00",
+ "actualizado": "2026-10-09T17:40+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
@@ -12,11 +12,6 @@
    "ok": true,
    "leidas": 73,
    "guardadas": 73
-  },
-  {
-   "fuente": "UCAM Deportes (web oficial)",
-   "ok": false,
-   "error": "404 Client Error: Not Found for url: https://www.ucamdeportes.com/feed/"
   },
   {
    "fuente": "Fundación CB Granada (web oficial)",

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-09T17:38+00:00",
+ "actualizado": "2026-10-09T17:40+00:00",
  "ventana_horas": 72,
  "total": 400,
  "nota": "Avisos de noticias detectadas. NO están verificadas: comprobar siempre en la fuente original. Los enlaces de Google Noticias (enlace_es_google=true) no se abren directamente: buscar el titular.",
@@ -196,7 +196,9 @@
    "publicada": "2026-10-09T15:46+00:00",
    "enlace_es_google": true,
    "id": "6e0974994fab",
-   "etiquetas": [],
+   "etiquetas": [
+    "granada"
+   ],
    "detectada": "2026-10-09T17:38+00:00",
    "vias": [
     "Google Noticias · Primera FEB"
@@ -368,7 +370,9 @@
    "publicada": "2026-10-09T14:28+00:00",
    "enlace_es_google": true,
    "id": "939ad5b32e2b",
-   "etiquetas": [],
+   "etiquetas": [
+    "granada"
+   ],
    "detectada": "2026-10-09T17:38+00:00",
    "vias": [
     "Google Noticias · Covirán Granada"
@@ -460,7 +464,9 @@
    "publicada": "2026-10-09T14:06+00:00",
    "enlace_es_google": true,
    "id": "fd1f0f9d47b6",
-   "etiquetas": [],
+   "etiquetas": [
+    "granada"
+   ],
    "detectada": "2026-10-09T17:38+00:00",
    "vias": [
     "Google Noticias · Covirán Granada"
@@ -825,7 +831,9 @@
    "publicada": "2026-10-09T11:13+00:00",
    "enlace_es_google": true,
    "id": "db1991ce6578",
-   "etiquetas": [],
+   "etiquetas": [
+    "granada"
+   ],
    "detectada": "2026-10-09T17:38+00:00",
    "vias": [
     "Google Noticias · Covirán Granada",
@@ -1358,7 +1366,9 @@
    "publicada": "2026-10-09T08:56+00:00",
    "enlace_es_google": true,
    "id": "ffaa1406efae",
-   "etiquetas": [],
+   "etiquetas": [
+    "granada"
+   ],
    "detectada": "2026-10-09T17:38+00:00",
    "vias": [
     "Google Noticias · Covirán Granada"
@@ -3525,6 +3535,22 @@
    ]
   },
   {
+   "titulo": "Más de 1.200 niños del Sagrado Corazón plantan cara a la leucemia con una carrera benéfica en Granada",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjdRSy1zSGo5SXlRN0E1YlFuRERodzZFY2VENEtYMVF0TkJXRmJNTkhqT1dqek5SYXdCbm40V3ZQclJwd2JmVjFJWGdVNDYwWHMwT1d4WEVRbU1CNFp1U0UzR0J1LXB4MENYdG5scUtJd2dCOUM0SVlmLTJ4eGlBU3ozOEkwX1pDSHJseS1QNVdtQ3pqSllzbDJad080clpza3R0N1VZanF2VzhFMFNnU0M4OFZlMVJSUmQxVnRySEZCd9IBwgFBVV95cUxPRjdRSy1zSGo5SXlRN0E1YlFuRERodzZFY2VENEtYMVF0TkJXRmJNTkhqT1dqek5SYXdCbm40V3ZQclJwd2JmVjFJWGdVNDYwWHMwT1d4WEVRbU1CNFp1U0UzR0J1LXB4MENYdG5scUtJd2dCOUM0SVlmLTJ4eGlBU3ozOEkwX1pDSHJseS1QNVdtQ3pqSllzbDJad080clpza3R0N1VZanF2VzhFMFNnU0M4OFZlMVJSUmQxVnRySEZCdw?oc=5",
+   "medio": "Ideal",
+   "resumen": "",
+   "publicada": "2026-10-08T15:27+00:00",
+   "enlace_es_google": true,
+   "id": "fb011f6019af",
+   "etiquetas": [
+    "granada"
+   ],
+   "detectada": "2026-10-09T17:38+00:00",
+   "vias": [
+    "Google Noticias · Covirán Granada"
+   ]
+  },
+  {
    "titulo": "Zonas de tiro Kevin Tumba",
    "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NdmRXblFENTNXOWFGLUQwWHUxdnZYdnNJWE1LUXpZaVdmcXM3aDFRSXozVjNwWkEyUEtEV0ZwSkV3N1c3V0ExOGViMWlXZ0YxWUpvZ2RaLU5FbFhqdGdsekNSS05GX2pQSklTdjU1el9JUkh6b2tJ?oc=5",
    "medio": "ACB",
@@ -3550,20 +3576,6 @@
    "detectada": "2026-10-09T17:38+00:00",
    "vias": [
     "Google Noticias · UCAM CB"
-   ]
-  },
-  {
-   "titulo": "Más de 1.200 niños del Sagrado Corazón plantan cara a la leucemia con una carrera benéfica en Granada",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjdRSy1zSGo5SXlRN0E1YlFuRERodzZFY2VENEtYMVF0TkJXRmJNTkhqT1dqek5SYXdCbm40V3ZQclJwd2JmVjFJWGdVNDYwWHMwT1d4WEVRbU1CNFp1U0UzR0J1LXB4MENYdG5scUtJd2dCOUM0SVlmLTJ4eGlBU3ozOEkwX1pDSHJseS1QNVdtQ3pqSllzbDJad080clpza3R0N1VZanF2VzhFMFNnU0M4OFZlMVJSUmQxVnRySEZCd9IBwgFBVV95cUxPRjdRSy1zSGo5SXlRN0E1YlFuRERodzZFY2VENEtYMVF0TkJXRmJNTkhqT1dqek5SYXdCbm40V3ZQclJwd2JmVjFJWGdVNDYwWHMwT1d4WEVRbU1CNFp1U0UzR0J1LXB4MENYdG5scUtJd2dCOUM0SVlmLTJ4eGlBU3ozOEkwX1pDSHJseS1QNVdtQ3pqSllzbDJad080clpza3R0N1VZanF2VzhFMFNnU0M4OFZlMVJSUmQxVnRySEZCdw?oc=5",
-   "medio": "Ideal",
-   "resumen": "",
-   "publicada": "2026-10-08T15:27+00:00",
-   "enlace_es_google": true,
-   "id": "fb011f6019af",
-   "etiquetas": [],
-   "detectada": "2026-10-09T17:38+00:00",
-   "vias": [
-    "Google Noticias · Covirán Granada"
    ]
   },
   {
@@ -5806,171 +5818,6 @@
    ]
   },
   {
-   "titulo": "Apuestas BV Chemnitz 99 - Neptunas",
-   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMlFmNFVQWlJDYW1WZmxxVW14S3dYeGJJcVFDdlV6NnZzd2hNZVlGU2h0STNvYTN4eVV3UVdmbFFaZi1YX1hoWXlYYkFNb0EwMUhXX0dPaDByZV9WaHZ3V2JaMWZuSkxKREVORDdUWmxSRlItNTh2SVEwbjJnSEFkNFkxTzlxbVJTbVlZ?oc=5",
-   "medio": "Gainblers",
-   "resumen": "",
-   "publicada": "2026-10-07T19:23+00:00",
-   "enlace_es_google": true,
-   "id": "2c52556de647",
-   "etiquetas": [],
-   "detectada": "2026-10-09T17:38+00:00",
-   "vias": [
-    "Google Noticias · EuroCup"
-   ]
-  },
-  {
-   "titulo": "BC Roma vs Balkan » Mejores Cuotas y Estadísticas",
-   "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50SzZub1k4emJSbnZ2SmdJSTUwSnRIcFVYUmhWUG1Bai1WYWNOcGt4U1luYjRBb2d1bDdZeDIxR0FMM0Y2a0x2MFRnME5XVGU3RERPb0pYZVNFNlBBQjRaWlBCRkJ1QQ?oc=5",
-   "medio": "Odds Scanner",
-   "resumen": "",
-   "publicada": "2026-10-07T19:21+00:00",
-   "enlace_es_google": true,
-   "id": "7875832e1a8b",
-   "etiquetas": [],
-   "detectada": "2026-10-09T17:38+00:00",
-   "vias": [
-    "Google Noticias · EuroCup"
-   ]
-  },
-  {
-   "titulo": "Willy Hernangómez firma una actuación descomunal en la paliza del Unicaja en la BCL",
-   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN1EwMXpkOUFaaGFzaWtDRFowSjdPXzVELXVJZjRscUZkQnZCanVUTFBiWF8yVTlrSW54ZURiZ0VpWlZiZzVRd0FIMjk5MVRZaHNMOXpEV1JpQlhoMVlJNXlVTmFwemdfVXRUaktueDYzRG9NSE9sRzU4LW5jLXlnT3VhckRZWnNnVmItZHJneXMyWDQ1Ry1kN0E5OTJmd3FPeW5mUzlYeHZsaF9sUzhGQkZIZWlZSG1TaEItRVVqN0NTZWR6SjBvMDQwSGVIZlZLUlloeFNCQ2pVVXZ5a25PUmlDdlpJZnlhWHdsOEZJd9IB_AFBVV95cUxQc1ZlUzc0bEtrNHdjby01RzhhSDlmb2dKdzVjTmNMcHpsaHRPb2NuRkpYOWNnbXV2VlVpYU9tZXZLN3dRVmVDdFhjVnhwUDgzSldJTUI3Z3Z1S1dsdDZhN3NVWE9keW9ZUHdCWGdJaG8wNGFFZ2dfbHVCMlRuQ3E0YXNWbkR3SWllYnVmTTh3d3BMUFl2XzFGTm5NenNhclFZYl9lelFzRmxWcUl0dG9CWmtrcnRrbF9oU2FMMkdKSThLNHpqVE9RYmY4YkZrZ010WDB4VnJNTjAtckptTVFXMHpaYzN2MndPYTA5bk9nQW14LTAtTlprWEdVMHI?oc=5",
-   "medio": "Mundo Deportivo",
-   "resumen": "",
-   "publicada": "2026-10-07T19:16+00:00",
-   "enlace_es_google": true,
-   "id": "e1dbc31f3a94",
-   "etiquetas": [
-    "bcl"
-   ],
-   "detectada": "2026-10-09T17:38+00:00",
-   "vias": [
-    "Google Noticias · BCL"
-   ]
-  },
-  {
-   "titulo": "BC Juventus Utena 69 - Unicaja 105 1ª Fase Liga Regular Basketball Champions League 2026/27",
-   "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xYWE1WG45V2R2SHUxazRsMDhqSmYwS3B2WW0xV0NmNktES0d1S1pqelZyZzI5VWRsUWNEVndIY0oyUHR5aW9QbkZrc1Y3blF6aFgybWpfWjRMbjJ5UzlFLUZVSWNuUDh4YXBj?oc=5",
-   "medio": "Unicaja Baloncesto",
-   "resumen": "",
-   "publicada": "2026-10-07T19:13+00:00",
-   "enlace_es_google": true,
-   "id": "187c8d424bba",
-   "etiquetas": [
-    "bcl"
-   ],
-   "detectada": "2026-10-09T17:38+00:00",
-   "vias": [
-    "Google Noticias · BCL"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Pere Capdevila | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0NrcF9LMEFhMXVqV19wenZtRWNmdEJWcFVPaHdwTDJHZ1hUQlJ2ODVFbUx1LWZOcG92MEpzVTV1SHE4MmFZbmp6SzFmNkYxTEJTd3ZTMXVWOVNFS0VSSlFNQ1NHQ3hKcXIyS0FYRFU5Qm5RcTdRZGs0ckFsNjktNmp1QjRIdzZLeXdhYjVQN0dWWTlEVEpZTFVxb3YwMEdWRi16SGt1NUZMQ080a19HTE5EbTVWdw?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-07T19:11+00:00",
-   "enlace_es_google": true,
-   "id": "572e6e91c141",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-09T17:38+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Vídeos y noticias de David Navarro",
-   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWktJc3pQZnVNMnR2UDk1VjlqaDJpeXBOMHNUMHJ2bVdleXFrTnNpLXhEOUotblQzQ3UtV3lERHZ5QVM1ak9PdW1DWENXVnVzdnRiLVh4OVpwSmF4Q0sxM0JNNkxOV3hhTDNVcl9xVm9SODU5bjJMQmk2QjRBWDNYOTNMdk1wR1dHazAwZVR3SV9YZUxaOWZfWHBESzFHZw?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-07T19:11+00:00",
-   "enlace_es_google": true,
-   "id": "5b1e672dccb2",
-   "etiquetas": [],
-   "detectada": "2026-10-09T17:38+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Willy se lo pasa pipa",
-   "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrU1VkanJWSERoc1NvVFBrMHR0VXotcnhpeWlPNk9BSUY5WUJTY1RyYld0bllWY0pWZ0d3ZnM5ZXZWa0ZFN28zVVNUTDJnSkcyMHVnaEtiaG0xVUNER285R3p6Qnd3aXpUZmpUZkVBRmRvcEs3X2wxTXl4VGVQUdIBfkFVX3lxTFBrU1VkanJWSERoc1NvVFBrMHR0VXotcnhpeWlPNk9BSUY5WUJTY1RyYld0bllWY0pWZ0d3ZnM5ZXZWa0ZFN28zVVNUTDJnSkcyMHVnaEtiaG0xVUNER285R3p6Qnd3aXpUZmpUZkVBRmRvcEs3X2wxTXl4VGVQUQ?oc=5",
-   "medio": "Diario AS",
-   "resumen": "",
-   "publicada": "2026-10-07T18:59+00:00",
-   "enlace_es_google": true,
-   "id": "27642d4f1746",
-   "etiquetas": [],
-   "detectada": "2026-10-09T17:38+00:00",
-   "vias": [
-    "Google Noticias · BCL",
-    "Google Noticias · EuroCup"
-   ]
-  },
-  {
-   "titulo": "BC Juventus Utena 69 - Unicaja 105 1ª Fase Liga Regular Basketball Champions League 2026/27 / Web Oficial del Unicaja Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIcDc4N2k2Skt4UmZoTmdXOElYTUpTaTdnZEZVVUxWQmlJSUp1OFEwemYtYjc0QmxTbzRmenlNQnh1Um5HX3lHZmcxS2lNeVRCYjkwYkxrSmoyQlh3bzBLdER2bDF5b0VCNEE?oc=5",
-   "medio": "Unicaja Baloncesto",
-   "resumen": "",
-   "publicada": "2026-10-07T18:51+00:00",
-   "enlace_es_google": true,
-   "id": "7cbcb30a40ab",
-   "etiquetas": [
-    "bcl"
-   ],
-   "detectada": "2026-10-09T17:38+00:00",
-   "vias": [
-    "Google Noticias · BCL"
-   ]
-  },
-  {
-   "titulo": "69-105 | Paseo del Unicaja en Lituania para estrenarse en la BCL",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOamthZDljMzFPdERzUGpzRjhVVC1DRHpYMVBvNy1uaTNCZ054QlZobXpGZXl5aTZlMG9hMTRqWWJFaU1yT0VpdGxhYVU5RUpVc2J5S1hYWU9yOERZQmpGbmNwT2lYQXlXbEVLaUg0T0NwWXRJQng0WFpIa2pRRDNrejNadlRiUnlSSi1DUU1ER2gwMDN5djdFNndrdlhITmFhRGVLTjh3SnBYX213cDJLaTJDVTVKbGpFMnRURNIBvAFBVV95cUxOamthZDljMzFPdERzUGpzRjhVVC1DRHpYMVBvNy1uaTNCZ054QlZobXpGZXl5aTZlMG9hMTRqWWJFaU1yT0VpdGxhYVU5RUpVc2J5S1hYWU9yOERZQmpGbmNwT2lYQXlXbEVLaUg0T0NwWXRJQng0WFpIa2pRRDNrejNadlRiUnlSSi1DUU1ER2gwMDN5djdFNndrdlhITmFhRGVLTjh3SnBYX213cDJLaTJDVTVKbGpFMnRURA?oc=5",
-   "medio": "El Español",
-   "resumen": "",
-   "publicada": "2026-10-07T18:51+00:00",
-   "enlace_es_google": true,
-   "id": "e2188e8025fc",
-   "etiquetas": [
-    "bcl"
-   ],
-   "detectada": "2026-10-09T17:38+00:00",
-   "vias": [
-    "Google Noticias · BCL"
-   ]
-  },
-  {
-   "titulo": "El COB de Moncho López acelera si derriba el muro de los noventa puntos",
-   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmV4T1A0bU1xcmVuUHd2MjRlQkRYSS1XS2dGdmZOMzNjeDJGck1MMWszMGtPNHdSOGxrcnVKQUo0bm91aWtBVGxVTEJDNTdQT19sNXJtOV83YV9IcEtsTE93U2RTbGFvRDhQUFRGQnFCcGJPZFNCM3ZYUDZRNG0wdjNyMzEyX0JVSnhhQkJXNHJHRkNLSzdsU1ptaWRMcHpLcldtSnU0YWJ6ME1NYmJ5NVpRQjJqbnpnTmNVMjRiNURodDVkSzc3Q3dxWmrSAegBQVVfeXFMT3RXZmJsWnpjTDdmbnRRSDZmMG9kWjZRMXU5X0otQU5JdWM5aEtpbjNJQUZraGRNWE9pV3J6b0p0QVppM2hMV1VuZDhaYkEzSVpsNGNDcVFaS2dEdS1ZVmRlT1hfSjhmR2NVck1Xc3hEN2YtV0doZVMwbkhqTTZwMkpkRUM4YUNEbnFaeUpfaXJneUpDVDNIYWVwQ2NmQVpselFvU3kyQ0VOVUJBSjVVdUhmRVhEOEw3SDlFVDdJVEZoa3ZrVUZWcm1aQ1lwRTAwVUVXWm1OMlpqTXNDdkxUR1lyaDF2VmZTTQ?oc=5",
-   "medio": "La Voz de Galicia",
-   "resumen": "",
-   "publicada": "2026-10-07T18:41+00:00",
-   "enlace_es_google": true,
-   "id": "79d777b65606",
-   "etiquetas": [],
-   "detectada": "2026-10-09T17:38+00:00",
-   "vias": [
-    "Google Noticias · Primera FEB"
-   ]
-  },
-  {
-   "titulo": "El fichaje de Carvajal, en espera hasta el lunes",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWUpUOU9RUlFhNXNCX1ZfV1lnanUxVGxQVWZhLVRfYmFpQWJjOGZZWVlzaE5KcTNhakplbnVLYV9FRWZUaXZqU1BhQzgtRzVDQTdaU3J3YXhYLW9MR2lYbUV3Ukt3ell0UGFqcWN0WWtoY0VMWXdBZldtSnhJRnItaUFZQjNDUlUtTlQ5RVphQ1VWYUZGTG14Y2Rxb9IBmwFBVV95cUxOWUpUOU9RUlFhNXNCX1ZfV1lnanUxVGxQVWZhLVRfYmFpQWJjOGZZWVlzaE5KcTNhakplbnVLYV9FRWZUaXZqU1BhQzgtRzVDQTdaU3J3YXhYLW9MR2lYbUV3Ukt3ell0UGFqcWN0WWtoY0VMWXdBZldtSnhJRnItaUFZQjNDUlUtTlQ5RVphQ1VWYUZGTG14Y2Rxbw?oc=5",
-   "medio": "Diario AS",
-   "resumen": "",
-   "publicada": "2026-10-07T18:39+00:00",
-   "enlace_es_google": true,
-   "id": "c19d9fc92110",
-   "etiquetas": [],
-   "detectada": "2026-10-09T17:38+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa mercado"
-   ]
-  },
-  {
    "titulo": "Watch UCAM Murcia vs. Varese Live Stream Online | DAZN ES",
    "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPek5zXzBnX3VETG5QcWkyZVV5RFZGTjNvdmJXdEpBdkxUeWl3S3VOdnBEX0FySUZOYmJRc1ZvN0hTbUI1YU5VWDMyVF9aUURJRlR6ZnVOZVRYMGM2emxMTHZ3UVYwSC1ZenJQdkpmZDlnRDgwZVhMTFl6Ymw4S0hMc3Ztc3BMMDdYTlFhTQ?oc=5",
    "medio": "DAZN",
@@ -5987,33 +5834,220 @@
    ]
   },
   {
-   "titulo": "Valencia Basket vs Hapoel Tel Aviv: Pronóstico, Cuotas y Apuestas - Euroliga",
-   "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUWQzbnNxQy1jeXJvWF84aGRHaHFtQkVTQnhjSjRqRjBPN1UxbWJsQkdCWkZJbXJpN2hsVERpWk5JWVp1VDhSMnhjUTB0SXN1a3BQWG9EZmpCYm5DWXRBLWVfZkRfRHBQVEpWY3A0SnRaRndGN1NTZ2hhZk9td1VpV1ZzOWJXZDdwTDJLT2xn?oc=5",
-   "medio": "Casasdeapuestas.com",
+   "titulo": "El UCAM Murcia marca territorio en la Champions frente al Varese",
+   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdmx3Zms4dkhtSXlPUzdZNmNvMFh5RElSNWU1ZE1CbjBCWkRfbzdRRmQzV2JDRjFDRjFhXzFueTNhSmhGbTlqeXZnblRYLVRxNDFYUWEyLUlvZnNNYk1rOUNsUnhDX1gzbDdtUFlTSkpiVnpOSl9jQmJVZGdJeHNybjFXd3FjQ1oyVGNLMWx4TEc5Z0JWeGlpelVSbFVxS1lpTVBwb29JX2pNSzY3bGR0b1RqVWUzdk5XS2NLUmtJVl9NdTNHQUxCa05MX3FDLXMzMmlJ0gHYAUFVX3lxTE1jZ0Y3UnNObE56NHg5akxZTjlaSzdVX2JzUThyUWV2NGNCbW9kQVFwS0p6NW10Y0Zib2d6VGV2ODNRZmtITEZETVNtSW9sN25sTC04YkJWTzNicTVEb3VXenRHOUFJaVlzNG9vX0JzY0RNcllsLXJLRkRVajg4WnJBbjE3VmJpODYtM3FXTkpsdnhJb0tIdkx0czMxNXB2djVzSlg5TFViWFNFZWdYQjFaUTJIcnFyeENVN2xJeEJHbTRWMnliYjgtck5TODNKRUtLZ3ZVd1d3Mw?oc=5",
+   "medio": "La Opinión de Murcia",
    "resumen": "",
-   "publicada": "2026-10-07T18:30+00:00",
+   "publicada": "2026-10-07T18:15+00:00",
    "enlace_es_google": true,
-   "id": "68061ecb9052",
+   "id": "92e7816a58ef",
    "etiquetas": [
-    "euroliga"
+    "ucam"
    ],
-   "detectada": "2026-10-09T17:38+00:00",
+   "detectada": "2026-10-09T17:40+00:00",
    "vias": [
-    "Google Noticias · EuroCup"
+    "Google Noticias · UCAM CB",
+    "Google Noticias · UCAM Murcia CB"
    ]
   },
   {
-   "titulo": "Más problemas para Deck: una molestia en el hombro izquierdo e inactividad en el Real Madrid",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3R2SGh2Yk5sMVVwc1NQTi00RzVMNmNXSkhQbjlqREd6UEVENWJiaEY5VmIyTUYtdVJ6cXhwNFZvc2paSUhsYTRtTW9VNllfRmZBcWt6MFdfUlhmbEtlc0RLdVBTcFVRazJmLUcwTEJEb2hpa0o5S0tibXM0OWFQekNTM19JcDNROW9FelZ1QWFmQmJhd2tyY3pJYlZiakNnU01Sang2Qnpybmtt?oc=5",
-   "medio": "DeporTV",
+   "titulo": "El UCAM Murcia CB hace los deberes en su regreso a la Champions",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3FzVzZqLUdGWU5OXzNGeENhRXNJTUJxT1c4N2l3QVZHMHByeTRabmJkY1lWS1RVWXp6Y0xiMmYxUE1NSTktVUJ5eVV1ZHBrNlpSeTh4VWMyUzZUbDQ4RzVDbHlUWDhacTgzZzAtUS0yQUdpQUxwd2pFWW1jUkVWT3dsM2RHTVhTWEZkQWhhX0Q1ZmJHNlBZ?oc=5",
+   "medio": "Onda Regional de Murcia | ORM",
    "resumen": "",
-   "publicada": "2026-10-07T18:18+00:00",
+   "publicada": "2026-10-07T17:30+00:00",
    "enlace_es_google": true,
-   "id": "473b6b9940a0",
-   "etiquetas": [],
-   "detectada": "2026-10-09T17:38+00:00",
+   "id": "e14c61951f7e",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-09T17:40+00:00",
    "vias": [
-    "Google Noticias · Liga Endesa mercado"
+    "Google Noticias · BCL",
+    "Google Noticias · UCAM CB",
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "Tanner McGrew: “Queremos ofrecerle a la afición algo especial”",
+   "enlace": "https://fundacioncbgranada.es/tanner-mcgrew-queremos-ofrecerle-a-la-aficion-algo-especial/",
+   "medio": "Fundación CB Granada (web oficial)",
+   "resumen": "El rojinegro fue el mejor jugador del Coviran Granada el pasado sábado Tanner McGrew fue uno de los 7 fichajes realizados por el Coviran Granada durante el pasado verano. El estadounidense, que demuestra una perfecta adaptación a España con su dominio del idioma, fue uno de los baluartes sobre la pi",
+   "publicada": "2026-10-07T16:43+00:00",
+   "enlace_es_google": false,
+   "id": "8ae919c7ee2f",
+   "etiquetas": [
+    "granada"
+   ],
+   "detectada": "2026-10-09T17:40+00:00",
+   "vias": [
+    "Fundación CB Granada (web oficial)"
+   ]
+  },
+  {
+   "titulo": "Boum se pierde el estreno europeo del UCAM Murcia ante el Varese y Gates regresa",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaWF4eWdhUUowSWd0bEFIcGdxOTd6WFl1QlMteGFKVjhmS3g3OHVSSS1tT193ZkFfZElOV3hhZS0zUm1qRUc5aDZpSmtiS0dXaDhZY0JTNE5rcjVrQW9BbnJUQ2o0WHFTb2QtNEJNWWdoYmNzYXhnaGxodDJhUThpZnA3UFpuZ3RmZE0zeDJyZkVKaHdyd3d0enpCZE1YWHBxX1HSAacBQVVfeXFMTXlkRzhSeWdJRnFSZHhBY2ZfdjE2aU1kM1VSNFFER2dKM2VXM29sTzRqSEZPY3JReGdWajBxZ0NyazhRTjkwdkU5WmJlWGxSSzFJSEszWGpTRkt0OElPdlBrWGNNTm0weDBMaS13M3pRbmdjYUJuZ0Ezb1V1MU01M2t5RWNNQU14dWpzeENlMDJULXpmTTVQQXlnc1Y5SkJLS1kyaGdxZHM?oc=5",
+   "medio": "La Opinión de Murcia",
+   "resumen": "",
+   "publicada": "2026-10-07T14:20+00:00",
+   "enlace_es_google": true,
+   "id": "86d38e239fa4",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-09T17:40+00:00",
+   "vias": [
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "Champions League - UCAM Murcia vs Varese: plantillas, horario y dónde ver",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEpNMTczcERQbkpaQVlsbkJFV1NYdVN2U2xWMFFNZVZOQjNQcVpjeFRjZlY1cElwMkxiQ0kzbzV6ZTBYZWVFTzJDOGVGclRGTGlhTThaNnU3bVBteGZhVW1oem9LU0hkeHJIQWM1VENpQS1vOEl0RXNTcmQ3TjcwbFRJTUUyNHZqajlub0lHMTRvLXNmTFA5YjJlMXlKWk45M3dqUWdiM1ZkZ2R6UzNlcXpycWxxbnRCejlHM0QyZ2NmUQ?oc=5",
+   "medio": "bet365 - Apuestas deportivas en la red",
+   "resumen": "",
+   "publicada": "2026-10-07T13:51+00:00",
+   "enlace_es_google": true,
+   "id": "ce41f4c1eb09",
+   "etiquetas": [
+    "bcl",
+    "ucam"
+   ],
+   "detectada": "2026-10-09T17:40+00:00",
+   "vias": [
+    "Google Noticias · BCL",
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "El Covirán Granada, ante el primer partido asequible de la temporada",
+   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0pGcDVqS2tuWUhHcU9HRkpRRTBmd2VmNG5Tbmx5WW5TTUwzSzVGT2VPZGlMaWpWR1g3WDBCVWtmb1VGTWJjOHFXaUZLbkEzSFpGdEFNckpyV1pxQXNOc3AyY0oycmFrbmZuS3pmdW5rQnQ2UDBwMmZmSEtqUkhGOXlWbEZtUXhVcXY0eUlVb0ZlZ1JLOTRKTFNKMGRkeG9PRzhj?oc=5",
+   "medio": "Granada Hoy",
+   "resumen": "",
+   "publicada": "2026-10-07T10:50+00:00",
+   "enlace_es_google": true,
+   "id": "b4955c8e6c7b",
+   "etiquetas": [
+    "granada"
+   ],
+   "detectada": "2026-10-09T17:40+00:00",
+   "vias": [
+    "Google Noticias · Covirán Granada"
+   ]
+  },
+  {
+   "titulo": "El UCAM Murcia debuta en la Liga de Campeones FIBA ante el Itelyum Varese",
+   "enlace": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPb0VmckhjLUJDbmtQdG10U0NwQS12d3JNOTdYaHVRa0tfTUhrNFMxS3Ntd2V2X3NaWnE1NThycHhOdE9wV1RPLWZPYTROMU0zWVY1SEIyeExmSnpIbTVpZ3hzdzdRVEs4V1gtWmxFWGNWdTJyWkpreUp0TDk3RGVqZ2FTdUNwZ2ZKUGlNWXQ3SUt3YU9GZWpaSGNObmNBZV93ZUtPbU0weG90Vml3a2pTaVdwMGhfOWUtZDNiaTQwSU5FRnFjQlRfRUYtWkEzbGtfS1lQVHR2dndfUVRyY19VTFRtOFJMWXhFR3p6bnp3U1FWNUVSc1F1WS1sdWNZeXp5SVVUNFp1a0FaWG1CaUZfd1p5Yi1Zemlr0gGeAkFVX3lxTE04WFoyNlZ2WENiWVdaTU12WFExR1lzekFtczlia3dmRWI0TldVdWFXODg1bDM2Z0tSZDcxTl9VeGhSQnl5S0VMZlZZemcwWlcyX3J4OG05ek05M1BuNW9aNUU3dE9NeFRPcER3TVFDemJyNDhaQWt3MWxOeUlvbTNWamRNemR1dm5YRUYwY2F3TElob3d5TGkycWFOMzJhaV9Ia3N3a2dhLXhJM2N6YmMyU184WVQwbnRkQWlidlZweWRIZ21VZ0hNNHdaS2Qxb3hIN29uRURFUERBS1NsOW81TjNRZE93VUNvd1ppT0VRbXdqYll6dHlIUDd4WVF3aXgxZS1tZmx0dU9VdkVPNkRzVDM3VWhzNmNXdUh1VGc?oc=5",
+   "medio": "COPE",
+   "resumen": "",
+   "publicada": "2026-10-07T07:39+00:00",
+   "enlace_es_google": true,
+   "id": "5fd5bcaa90a5",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-09T17:40+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB",
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "Apuestas UCAM Murcia - Varese",
+   "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU2dlQldnU2Q3TEFhSnotN3VYc2J1QnV0OERCUlZ5THlmVnJ3QnV4T0Z6WlZLOFZOT1FHeG0zTURMYXFqYXBjcXBJYzVkWEdMdGdDeUMySjZXdTZ1MkpiaWgyUUZjdTgydXJqNzJaejhmNHFwUGhFN2xZSHlXdE9weTZjWElpdkxDVzNTS0VPT3Y?oc=5",
+   "medio": "Gainblers",
+   "resumen": "",
+   "publicada": "2026-10-07T07:33+00:00",
+   "enlace_es_google": true,
+   "id": "9ef2744dccb3",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-09T17:40+00:00",
+   "vias": [
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "El reestreno en la BCL abre las rotaciones en el UCAM Murcia",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXlLZ1N5U1dud3dPZ2FXZzRZdlNFc2NQTzNzYk91SnR6R0Z1WVRTRWJBUlphemRzelBTY1pxQzVDek5Ya0NDVDR1NktxZ1NrRzB6Q1hXX3YwN3pQWFJIQm40aGdKMlBLRkUtYzlNREwwSWMwNUhUVHg4QU9oZTUzWEs1S2dESzd6TC1hYV9mOUY0R3NrMTZWOExZR2NCZE9xV3FVbdIBqgFBVV95cUxOSHdTaWhYSV91WGdEelZiMjNBQkRpZERIUV9zeXJUSzBLNl9KWk5VY3BtZGNfSWhwV1VnTVVsTndiZmlmRkdFQlZ6UDhJZVZZUUE2UGtjc0ZsZVpWcE9BSmg5eFlRVUloLUVUcjV0UFVDVTZWbGxfYktINFk2S2E5QWlzQmc5dDh6LVc1WGlTSlBjMEpnUHowNnVWdTVLOHhzanB4b0treFZxZw?oc=5",
+   "medio": "La Opinión de Murcia",
+   "resumen": "",
+   "publicada": "2026-10-07T04:01+00:00",
+   "enlace_es_google": true,
+   "id": "c09c4856c63f",
+   "etiquetas": [
+    "bcl",
+    "ucam"
+   ],
+   "detectada": "2026-10-09T17:40+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "Hora y dónde ver los partidos de Joventut, Unicaja, Bilbao y UCAM Murcia en la Champions League de baloncesto",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWM4dVVQV2pzLVl1Q1lPM2hXZ1ZEcHZRb0dBU1M5YlpLSXY3S000d3BzZDkwLVF0cjVhRWx6OUNqWmlBc0FMY0hRRFgyMHp3RTZaeUNjaVY4U2E2UXdlMXRLeGlLNldvMUV6TFhfOG00ZGd6T0ZsSGFFMXV1V2Ric2pHZmVFQThPSmlpXzFEZEU4Y0d3RHNlTXBrYk43THRxOWRqN1A3OWNSUUxHb3lwVV9mNGJPazB1UDd0amcyV3FoS21sQVVzREwwaVZ0bTJ2UFE?oc=5",
+   "medio": "RTVE.es",
+   "resumen": "",
+   "publicada": "2026-10-06T22:20+00:00",
+   "enlace_es_google": true,
+   "id": "afe840b72f01",
+   "etiquetas": [
+    "bcl",
+    "ucam"
+   ],
+   "detectada": "2026-10-09T17:40+00:00",
+   "vias": [
+    "Google Noticias · BCL",
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "Baloncesto | UCAM Murcia vs. Barcelona",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGxsbmp1eFZwb0F0MEZIYkRYdUtSdWZxZzFBTTBNN3RaVkJjclAwRDF5bTRuNHF4ZmN5d0xma2JQOHdfU2F0bHFZSGxYWTljdkI5c21zUS1wVG5lWUN6bGVuSlVqc0N5OUVTS0tsSkdZTkNZTThLMi1jZThHRC0xbWNEYkdIX1Jwam16dFNvNUtrM2Z5TGN3RGVLUXZITWM?oc=5",
+   "medio": "DAZN",
+   "resumen": "",
+   "publicada": "2026-10-06T21:11+00:00",
+   "enlace_es_google": true,
+   "id": "cede0f5cfb48",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-09T17:40+00:00",
+   "vias": [
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "La Champions, una competición fetiche que no regalará nada al UCAM Murcia",
+   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORzFlelBxY0piaS1nUjRScU85NF9hUS1Tdmpsa2Y5akF2NFRBRkZvRTBVbFRoTWRIX2ZKei1KN3dDZ1owN0VvTGtsUE1ITHlhSWYxX1lpRE9haWhjeUF0RnVpWVZvLWhIVVpFS25nUXdLX0ZyblhkUkZWRFJVc3lGMTJTNW5scEhCRHpUT04xamNKYUx2UWFsWlpPaGFmZ21Qd2tkTWVNNUNqR0pPdk42ekNGMNIBuAFBVV95cUxPam9nT1ltNklyeHZvWG5VNl9uOWNtRVRTQkhBZ2g4ZnZoS0xxbzVmekU3MUFvQzBwdTE3V2VIMkhLV1E1MVhocmxseHRHTFdjY2IyR2p6M1ZIUWlSSUdlSzdpMFNMRHdzbVVDUDBwNG5QRWxrem1heTJtYThnd3IxRUpvQ2Faak9nM3U0bF9uWGNJNmNLUmNtV1VCT0o2c1g1cVZEc29jLVlhcGpzd1d6VjVmQ0VCZS1w?oc=5",
+   "medio": "La Verdad",
+   "resumen": "",
+   "publicada": "2026-10-06T21:04+00:00",
+   "enlace_es_google": true,
+   "id": "c2622b904d05",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-09T17:40+00:00",
+   "vias": [
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "SITO ALONSO CAMBIA EL UCAM MURCIA: ¿MANTENDRÁ LA FÓRMULA QUE DERROTÓ AL BARÇA?",
+   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54NmdxaDdIQXhhWGkzMUV0c2E1c2h5MHFnYTJmbDNoSkFmeEdGVnZJc00ySk9JOGcxeXliX1U4RG50NHhMd1dkaDluRXR0eDd1R3lsWEZwVk83bjFz?oc=5",
+   "medio": "YouTube",
+   "resumen": "",
+   "publicada": "2026-10-06T18:32+00:00",
+   "enlace_es_google": true,
+   "id": "185cc5d1480b",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-09T17:40+00:00",
+   "vias": [
+    "Google Noticias · Olga Lorente"
    ]
   }
  ]

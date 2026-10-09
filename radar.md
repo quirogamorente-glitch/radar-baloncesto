@@ -1,9 +1,9 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-09T17:40+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-09T17:41+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (40)
+## UCAM Murcia CB (92)
 
 - 2026-10-09 14:07 UTC · **El arsenal exterior de UCAM Murcia, principal amenaza para el Canarias** — Radio Marca Tenerife
 - 2026-10-09 13:11 UTC · **Sito Alonso: "No tenemos que obsesionarnos con Marcelinho Huertas"** — Onda Regional de Murcia | ORM
@@ -15,58 +15,133 @@ Actualizado: 2026-10-09T17:40+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-09 11:10 UTC · **Sito Alonso analiza el reto de recibir a La Laguna Tenerife: "La intensidad no es negociable"** — Región Online Murcia
 - 2026-10-09 11:04 UTC · **Lakovic: "Tenemos que saber sobreponernos a la intensidad física del UCAM Murcia"** — Radio Marca Tenerife
 - 2026-10-09 10:51 UTC · **Sito Alonso: "Todavía tenemos que fabricar esa consistencia propia del UCAM Murcia"** — La Opinión de Murcia
+- 2026-10-09 10:42 UTC · **“La intensidad no es negociable”** — UCAM Deportes
 - 2026-10-09 09:55 UTC · **Sito Alonso analiza la previa del UCAM Murcia vs. La Laguna Tenerife: "Tenemos que seguir un camino claro sin pasar de la euforia al desánimo"** — Murcia Actualidad
 - 2026-10-09 09:27 UTC · **"Hay que ganar a Tenerife, no a Marcelinho": Sito Alonso analiza el duelo ante La Laguna Tenerife** — MurciaEconomía.com
+- 2026-10-09 06:47 UTC · **Pablo José Sánchez** — ACB
 - 2026-10-09 04:01 UTC · **UCAM Murcia CB: el Palacio, el fortín de la ACB** — La Opinión de Murcia
+- 2026-10-09 03:40 UTC · **Trayectoria Vitor Benite | Jugador acb | acb.com** — ACB
+- 2026-10-09 00:31 UTC · **Zonas de tiro Askia Booker** — ACB
+- 2026-10-08 22:53 UTC · **Zonas de tiro Kyle Hunt** — ACB
+- 2026-10-08 22:40 UTC · **Zonas de tiro Sadiel Rojas** — ACB
+- 2026-10-08 22:17 UTC · **Zonas de tiro DJ Strawberry** — ACB
+- 2026-10-08 21:51 UTC · **Zonas de tiro Ismael Corraliza** — ACB
+- 2026-10-08 21:06 UTC · **Tertulia de baloncesto de Onda Regional** — Onda Regional de Murcia | ORM
+- 2026-10-08 20:07 UTC · **Trayectoria Chumi Ortega | Jugador acb | acb.com** — ACB
+- 2026-10-08 18:00 UTC · **Zonas de tiro Alex Antetokounmpo** — ACB
+- 2026-10-08 17:04 UTC · **Zonas de tiro Isaiah Taylor** — ACB
+- 2026-10-08 17:02 UTC · **Zonas de tiro Rinalds Malmanis** — ACB
+- 2026-10-08 15:27 UTC · **Zonas de tiro Kevin Tumba** — ACB
+- 2026-10-08 15:27 UTC · **Zonas de tiro Marques Townes** — ACB
+- 2026-10-08 14:00 UTC · **Zonas de tiro Noah Churchill** — ACB
+- 2026-10-08 13:10 UTC · **Partidos Héctor Manzano** — ACB
 - 2026-10-08 11:24 UTC · **UCAM Murcia CB logra frente a Varese la victoria más holgada de su historia en Europa** — COPE
 - 2026-10-08 09:51 UTC · **El Gobierno de Murcia aprueba 1,5 millones para autobuses, protege 224 molinos y destina 200.000 euros al UCAM** — Murcia Actualidad
 - 2026-10-08 08:45 UTC · **El UCAM CB lleva seis de ocho campañas con debut triunfal en Europa y con la mayor paliza de inicio** — Murcia Plaza
 - 2026-10-08 08:25 UTC · **El UCAM Murcia arrasa al Varese en su estreno en la Champions (85-58)** — La 7
+- 2026-10-08 07:55 UTC · **Zonas de tiro Peter Jok** — ACB
+- 2026-10-08 07:54 UTC · **Zonas de tiro Augusto Lima** — ACB
+- 2026-10-08 07:36 UTC · **Trayectoria Scott Wood | Jugador acb | acb.com** — ACB
+- 2026-10-08 04:32 UTC · **Zonas de tiro G. Larentzakis** — ACB
+- 2026-10-08 04:14 UTC · **Zonas de tiro Caio Pacheco** — ACB
+- 2026-10-08 04:00 UTC · **Zonas de tiro Wilhelm Falk** — ACB
 - 2026-10-08 02:46 UTC · **El UCAM CB debuta en Europa pasando por encima de un histórico continental venido muy a menos** — Murcia Plaza
+- 2026-10-08 02:39 UTC · **Trayectoria Sergio Pérez | Jugador acb | acb.com** — ACB
+- 2026-10-08 01:49 UTC · **Miguel Servera** — ACB
 - 2026-10-08 00:50 UTC · **Basketball | Bamberg vs. UCAM Murcia** — DAZN
+- 2026-10-08 00:18 UTC · **Zonas de tiro Jordan Davis** — ACB
 - 2026-10-07 22:23 UTC · **El UCAM Murcia arrasa al Varese en su estreno europeo (85-58)** — MurciaEconomía.com
 - 2026-10-07 21:53 UTC · **UCAM Murcia arranca la BCL con una exhibición ante Varese en el Palacio** — Cadena SER
 - 2026-10-07 21:45 UTC · **El UCAM Murcia arrolla al Varese (85-58) y debuta en la Champions League con una exhibición en el Palacio** — Murcia Actualidad
 - 2026-10-07 21:25 UTC · **El UCAM Murcia arrolla al Varese en su estreno europeo (85-58)** — piratasdelbasket
 - 2026-10-07 21:13 UTC · **85-58. El UCAM Murcia debuta pasando por encima de un histórico europeo venido a menos** — Infobae
+- 2026-10-07 21:03 UTC · **Exhibición del Murcia** — Diario AS
 - 2026-10-07 21:00 UTC · **El UCAM debuta pasando por encima de un histórico europeo venido a menos (85-58)** — MARCA
 - 2026-10-07 20:58 UTC · **UCAM Murcia CB arranca con autoridad en la Champions League tras arrollar al Varese** — COPE
+- 2026-10-07 20:48 UTC · **Vídeos y noticias de Edu Durán** — ACB
 - 2026-10-07 20:45 UTC · **Qué ha pasado en la Basketball Champions League: Unicaja Málaga y UCAM Murcia completan el pleno de los españoles** — Gigantes del Basket
+- 2026-10-07 20:36 UTC · **Zonas de tiro Edu Durán** — ACB
 - 2026-10-07 19:24 UTC · **Basketball Champions League: UCAM Murcia - Varese, en directo** — La Opinión de Murcia
 - 2026-10-07 18:30 UTC · **Watch UCAM Murcia vs. Varese Live Stream Online | DAZN ES** — DAZN
 - 2026-10-07 18:15 UTC · **El UCAM Murcia marca territorio en la Champions frente al Varese** — La Opinión de Murcia
 - 2026-10-07 17:30 UTC · **El UCAM Murcia CB hace los deberes en su regreso a la Champions** — Onda Regional de Murcia | ORM
 - 2026-10-07 14:20 UTC · **Boum se pierde el estreno europeo del UCAM Murcia ante el Varese y Gates regresa** — La Opinión de Murcia
+- 2026-10-07 14:17 UTC · **Estad. Avanzada Javier Pérez** — ACB
 - 2026-10-07 13:51 UTC · **Champions League - UCAM Murcia vs Varese: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-10-07 13:51 UTC · **Zonas de tiro Marcus Lewis** — ACB
+- 2026-10-07 13:27 UTC · **Trayectoria Augusto Lima | Jugador acb | acb.com** — ACB
+- 2026-10-07 12:05 UTC · **Parte médico** — UCAM Deportes
+- 2026-10-07 11:47 UTC · **Vídeos y noticias de Juan Rubio** — ACB
+- 2026-10-07 10:39 UTC · **Zonas de tiro Pedro Rivero** — ACB
+- 2026-10-07 10:34 UTC · **Zonas de tiro David DiLeo** — ACB
 - 2026-10-07 07:39 UTC · **El UCAM Murcia debuta en la Liga de Campeones FIBA ante el Itelyum Varese** — COPE
 - 2026-10-07 07:33 UTC · **Apuestas UCAM Murcia - Varese** — Gainblers
+- 2026-10-07 05:33 UTC · **Zonas de tiro Julen Olaizola** — ACB
+- 2026-10-07 05:01 UTC · **Zonas de tiro Kostas Vasileiadis** — ACB
+- 2026-10-07 04:52 UTC · **Zonas de tiro Damjan Rudez** — ACB
 - 2026-10-07 04:01 UTC · **El reestreno en la BCL abre las rotaciones en el UCAM Murcia** — La Opinión de Murcia
+- 2026-10-07 03:35 UTC · **Zonas de tiro Sergio Sánchez** — ACB
+- 2026-10-07 03:09 UTC · **Estad. Avanzada Milton Doyle** — ACB
+- 2026-10-07 02:12 UTC · **Zonas de tiro Milton Doyle** — ACB
+- 2026-10-07 00:36 UTC · **Trayectoria Manu Lecomte | Jugador acb | acb.com** — ACB
+- 2026-10-06 23:48 UTC · **Vídeos y noticias de Damjan Rudez** — ACB
+- 2026-10-06 22:27 UTC · **Vídeos y noticias de Clevin Hannah** — ACB
 - 2026-10-06 22:20 UTC · **Hora y dónde ver los partidos de Joventut, Unicaja, Bilbao y UCAM Murcia en la Champions League de baloncesto** — RTVE.es
+- 2026-10-06 22:01 UTC · **Vídeos y noticias de Michael Forrest** — ACB
+- 2026-10-06 21:58 UTC · **Vídeos y noticias de Serhiy Lishchuk** — ACB
+- 2026-10-06 21:45 UTC · **Vídeos y noticias de Sergio Pérez** — ACB
 - 2026-10-06 21:11 UTC · **Baloncesto | UCAM Murcia vs. Barcelona** — DAZN
 - 2026-10-06 21:04 UTC · **La Champions, una competición fetiche que no regalará nada al UCAM Murcia** — La Verdad
+- 2026-10-06 20:51 UTC · **Vídeos y noticias de Conner Frankamp** — ACB
+- 2026-10-06 20:50 UTC · **Vídeos y noticias de Kostas Vasileiadis** — ACB
+- 2026-10-06 19:26 UTC · **Alonso** — ACB
+- 2026-10-06 18:42 UTC · **Vídeos y noticias de Joe Ragland** — ACB
 - 2026-10-06 18:32 UTC · **SITO ALONSO CAMBIA EL UCAM MURCIA: ¿MANTENDRÁ LA FÓRMULA QUE DERROTÓ AL BARÇA?** — YouTube
 
-## Covirán Granada (13)
+## Covirán Granada (32)
 
 - 2026-10-09 15:46 UTC · **Pombar exige al Tizona un salto defensivo ante el Granada para cambiar la imagen** — El Correo de Burgos
 - 2026-10-09 14:28 UTC · **Onda Deportiva Granada, viernes 9/10/2026** — Onda Cero
 - 2026-10-09 14:06 UTC · **El coro mallorquín de voces graves 'Spiritualmallorca a l'Octava' desembarca en Granada por su X aniversario** — Ideal
+- 2026-10-09 12:34 UTC · **Vídeos y noticias de Miguel Rivera** — ACB
+- 2026-10-09 11:43 UTC · **Arturo Ruiz: “Necesitamos a nuestra afición más que nunca ahora que tenemos lesiones”** — Granada Hoy
 - 2026-10-09 11:13 UTC · **Visitamos Granada con la defensa como punto de partida** — CB Tizona
+- 2026-10-09 10:53 UTC · **Arturo Ruiz: «El Tizona tira 30 veces más que nosotros»** — Ideal
+- 2026-10-09 10:44 UTC · **Arturo Ruiz: "Necesitamos gente para trabajar con calidad"** — GranadaDigital
 - 2026-10-09 09:57 UTC · **El Coviran Granada quiere estrenarse en casa** — Fundación CB Granada (web oficial) · https://fundacioncbgranada.es/el-coviran-granada-quiere-estrenarse-en-casa/
 - 2026-10-09 09:05 UTC · **Covirán Granada - Grupo Ureta Tizona Burgos, en directo** — GranadaDigital
 - 2026-10-09 08:56 UTC · **El Cieza persigue el lleno en su estadio contra el Granada CF por la Copa del Rey** — Ideal
+- 2026-10-09 08:47 UTC · **El Ayuntamiento triplica la ayuda al CD Villa de Albox, que alcanzará los 60.000 euros en 2027** — Ideal
+- 2026-10-09 08:39 UTC · **La defensa y las lesiones lastran a un Tizona Burgos necesitado de victorias** — GranadaDigital
+- 2026-10-09 08:03 UTC · **PREVIA J.3: La caldera de Castilla enciende una jornada de lo más ardiente** — Federación Española de Baloncesto
 - 2026-10-08 22:46 UTC · **El Covirán Granada, en busca de un triunfo liberador e inédito en casa esta década** — Ideal
+- 2026-10-08 17:51 UTC · **El Tizona Burgos, un rival que busca no sufrir tanto** — Granada Hoy
+- 2026-10-08 17:39 UTC · **Tanner McGrew: “Arturo Ruiz me dijo que iba a ser importante y eso es lo que buscaba”** — Granada Hoy
+- 2026-10-08 17:31 UTC · **Miguel Rivera** — ACB
 - 2026-10-08 15:58 UTC · **El Covirán Granada, obligado a mantener su plan B ante la escasez de bases** — Ideal
 - 2026-10-08 15:27 UTC · **Más de 1.200 niños del Sagrado Corazón plantan cara a la leucemia con una carrera benéfica en Granada** — Ideal
+- 2026-10-08 15:10 UTC · **El Club Atletismo Maracena domina el Nacional máster de campo a través con nueve medallas** — Ideal
 - 2026-10-08 09:38 UTC · **Los partidos del Covirán Granada se retransmitirán gratis hasta nueva orden** — Ideal
+- 2026-10-08 08:27 UTC · **Progresos del Tizona pese a la derrota en casa con Albacete** — Ideal
+- 2026-10-08 08:17 UTC · **Mus Barro: "Tenemos que aprender de nuestros errores, no salir como contra Gipuzkoa"** — GranadaDigital
+- 2026-10-07 22:51 UTC · **El Tizona espera mantenerse sin apuros** — Ideal
 - 2026-10-07 16:43 UTC · **Tanner McGrew: “Queremos ofrecerle a la afición algo especial”** — Fundación CB Granada (web oficial) · https://fundacioncbgranada.es/tanner-mcgrew-queremos-ofrecerle-a-la-aficion-algo-especial/
+- 2026-10-07 15:09 UTC · **Vídeos y noticias de Richard Scott** — ACB
+- 2026-10-07 11:54 UTC · **La peña de fútbol de La Hispanidad celebra sus bodas de oro** — Ideal
 - 2026-10-07 10:50 UTC · **El Covirán Granada, ante el primer partido asequible de la temporada** — Granada Hoy
+- 2026-10-07 10:03 UTC · **V Torneo de Golf IDEAL: deporte, gran ambiente y convivencia en Las Gabias** — Ideal
+- 2026-10-07 00:47 UTC · **Estad. Avanzada Miguel Rivera** — ACB
+- 2026-10-06 21:17 UTC · **Estad. Avanzada Carlos Montes** — ACB
 
-## Periodistas preferentes (0)
+## Periodistas preferentes (5)
 
-- (nada)
+- 2026-10-09 11:18 UTC · **Reencuentro con la memoria y arbitraje marcado por el pasado en el próximo compromiso del UCAM Murcia** — MurciaEconomía.com
+- 2026-10-09 09:27 UTC · **"Hay que ganar a Tenerife, no a Marcelinho": Sito Alonso analiza el duelo ante La Laguna Tenerife** — MurciaEconomía.com
+- 2026-10-08 21:06 UTC · **Tertulia de baloncesto de Onda Regional** — Onda Regional de Murcia | ORM
+- 2026-10-07 22:23 UTC · **El UCAM Murcia arrasa al Varese en su estreno europeo (85-58)** — MurciaEconomía.com
+- 2026-10-06 18:32 UTC · **SITO ALONSO CAMBIA EL UCAM MURCIA: ¿MANTENDRÁ LA FÓRMULA QUE DERROTÓ AL BARÇA?** — YouTube
 
-## Resto (últimas 12 h) (106)
+## Resto (últimas 12 h) (97)
 
 - 2026-10-09 17:19 UTC · **Horario y dónde ver online el Leyma Coruña - Casademont Zaragoza de Liga Endesa** — Sport Aragón
 - 2026-10-09 16:59 UTC · **Barcelona - Zalgiris Kaunas en directo | Última hora de Euroliga en vivo hoy** — MARCA
@@ -104,11 +179,9 @@ Actualizado: 2026-10-09T17:40+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-09 13:00 UTC · **Rigas Zelli vs Cedevita Olimpija » Mejores Cuotas y Estadísticas** — Odds Scanner
 - 2026-10-09 12:54 UTC · **"Hasta ahora no me puedo quejar, pero hay detalles y cosas básicas que mejorar"** — Tinta Amarilla
 - 2026-10-09 12:42 UTC · **Vídeos y noticias de Andrei Fetissov** — ACB
-- 2026-10-09 12:34 UTC · **Vídeos y noticias de Miguel Rivera** — ACB
 - 2026-10-09 12:22 UTC · **¡Le lleva la contraria a Scariolo! Pedro Martínez catapulta a su Real Madrid con un cambio** — Solobasket · https://www.solobasket.com/euroliga/lleva-contraria-scariolo-pedro-martinez-catapulta-real-madrid-cambio
 - 2026-10-09 12:15 UTC · **Novedades y parte médico de la Jornada 3 de la Liga Endesa 2026-27** — ACB
 - 2026-10-09 12:04 UTC · **Savignani pide "ser consistentes" para doblegar a un invicto Lucentum Alicante** — Cadena SER
-- 2026-10-09 11:43 UTC · **Arturo Ruiz: “Necesitamos a nuestra afición más que nunca ahora que tenemos lesiones”** — Granada Hoy
 - 2026-10-09 11:38 UTC · **Baloncesto: Girona - Jairis (f), en directo | Liga Endesa** — RTVE.es
 - 2026-10-09 11:37 UTC · **¡La fórmula del éxito! El concepto que puede llevar a Valencia Basket a lo más alto** — Solobasket · https://www.solobasket.com/euroliga/formula-exito-concepto-puede-llevar-valencia-basket-alto
 - 2026-10-09 11:33 UTC · **El CB Toledo necesita otra cara en Magariños** — La Tribuna de Talavera
@@ -116,13 +189,10 @@ Actualizado: 2026-10-09T17:40+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-09 11:13 UTC · **PREVIA J.2 | Choques de ‘gallitos’ buscando la segunda victoria** — Federación Española de Baloncesto
 - 2026-10-09 10:57 UTC · **El dueño de los Warriors rompe su silencio tras un verano que ha desesperado a la afición** — Solobasket · https://www.solobasket.com/nba/el-dueno-de-los-warriors-rompe-su-silencio-tras-un-verano-que-ha-desesperado-a-la-aficion
 - 2026-10-09 10:55 UTC · **Horario y Televisión del Unicaja VS MoraBanc Andorra de la Jornada 3 de la Liga Endesa** — Radio Marca Málaga
-- 2026-10-09 10:53 UTC · **Arturo Ruiz: «El Tizona tira 30 veces más que nosotros»** — Ideal
 - 2026-10-09 10:50 UTC · **Segunda FEB: Movistar Estudiantes recibe al CB Toledo Basket (10 octubre, 19:30h)** — Movistar Estudiantes
 - 2026-10-09 10:48 UTC · **El Valencia Basket supera al Hapoel Tel Aviv de Blakeney y sigue invicto en la Euroliga (93-82)** — Actualidad CEU
-- 2026-10-09 10:44 UTC · **Arturo Ruiz: "Necesitamos gente para trabajar con calidad"** — GranadaDigital
 - 2026-10-09 10:44 UTC · **Zan Tabak, entrenador del MoraBanc Andorra: "No haber ganado aún en Liga Endesa hace al Unicaja más peligroso"** — La Opinión de Málaga
 - 2026-10-09 10:44 UTC · **El Caja Rural CB Zamora "corta" a Biram Faye** — La Opinión de Zamora
-- 2026-10-09 10:42 UTC · **“La intensidad no es negociable”** — UCAM Deportes
 - 2026-10-09 10:30 UTC · **PREVIA J.2: Derbis con aliciente para continuar la recta de salida** — Federación Española de Baloncesto
 - 2026-10-09 10:27 UTC · **Los Consejos de Luisheel para la Jornada 3** — ACB
 - 2026-10-09 10:18 UTC · **Savignani engrasa al Granca: «Tenemos que estar consistentes para un partido duro»** — Canarias7
@@ -139,16 +209,13 @@ Actualizado: 2026-10-09T17:40+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-09 09:19 UTC · **Jonas Valanciunas, la gran amenaza para el Barça: "Puede ser el 'MVP' de la Euroliga"** — SPORT
 - 2026-10-09 09:07 UTC · **Andreea Nemes - Sdent Sierre Basket - Perfil del Jugador/de la Jugadora - EuroCup Women** — FIBA
 - 2026-10-09 09:00 UTC · **La NBA amenaza otra vez a la Euroliga con dejarla fuera en su proyecto europeo: "Seguimos adelante"** — Blog de Basket
-- 2026-10-09 08:47 UTC · **El Ayuntamiento triplica la ayuda al CD Villa de Albox, que alcanzará los 60.000 euros en 2027** — Ideal
 - 2026-10-09 08:46 UTC · **Barcelona - Zalgiris: a qué hora y dónde ver hoy el partido de la Euroliga por TV, online y en directo** — SPORT
 - 2026-10-09 08:41 UTC · **Valencia Basket supera al Hapoel Tel Aviv e iguala su mejor inicio histórico en Euroliga** — Official Press
-- 2026-10-09 08:39 UTC · **La defensa y las lesiones lastran a un Tizona Burgos necesitado de victorias** — GranadaDigital
 - 2026-10-09 08:39 UTC · **A la cuarta fue la vencida: el Madrid por fin sumó una victoria en la Euroliga** — El Confidencial
 - 2026-10-09 08:30 UTC · **Javier Zamora: «Estamos muy orgullosos de nuestro proyecto y sabemos qué podemos trabajar para ser el equipo más competitivo posible** — Bàsquet Menorca
 - 2026-10-09 08:26 UTC · **Luis Casimiro: "Antes se entrenaba desde el miedo, el orden y mando. Ahora a los chicos los tienes que convencer"** — El Mundo
 - 2026-10-09 08:08 UTC · **Iberolea Palencia vs Bàsquet Menorca: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
 - 2026-10-09 08:05 UTC · **Resumen Real Madrid-Partizan: Campazzo y Maledon lideran la primera victoria en Europa (86-76)** — Eurosport
-- 2026-10-09 08:03 UTC · **PREVIA J.3: La caldera de Castilla enciende una jornada de lo más ardiente** — Federación Española de Baloncesto
 - 2026-10-09 08:00 UTC · **Bilbao Basket – San Pablo Burgos se juega el domingo a las 18 horas en Miribilla** — BilbaoHiria
 - 2026-10-09 07:53 UTC · **Hugo González sigue creciendo con los Boston Celtics** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2018451/hugo-gonzalez-sigue-creciendo-con-los-boston-celtics/
 - 2026-10-09 07:50 UTC · **El puzle de Sekulic tiene una pieza por encajar en el Barça Basket** — Solobasket · https://www.solobasket.com/liga-endesa/puzle-sekulic-tiene-una-pieza-por-encajar-barca-basket-tyrese-martin
@@ -165,7 +232,6 @@ Actualizado: 2026-10-09T17:40+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-09 07:13 UTC · **Michael Ruzic jugará finalmente en la NCAA tras su salida del Joventut** — Gigantes del Basket · https://www.gigantes.com/ncaa/michael-ruzic-jugara-finalmente-en-la-ncaa-tras-su-salida-del-joventut/
 - 2026-10-09 07:11 UTC · **El Barça busca otra victoria en casa ante el Zalgiris para seguir en la zona alta de la Euroliga: aquí puedes verlo** — Mundo Deportivo
 - 2026-10-09 06:48 UTC · **El partido que presentó a Sergio de Larrea y Cooper Flagg cuatro años antes de coincidir en los Dallas Mavericks** — Gigantes del Basket · https://www.gigantes.com/nba/sergio-de-larrea-cooper-flagg-final-mundial-u17-2022-dallas-mavericks/
-- 2026-10-09 06:47 UTC · **Pablo José Sánchez** — ACB
 - 2026-10-09 06:45 UTC · **J.2: Iyana Martín, la MVP de la estrella que no cesa de brillar** — Federación Española de Baloncesto
 - 2026-10-09 06:32 UTC · **El martillo de Doncic** — Diario AS
 - 2026-10-09 06:30 UTC · **El reto de los 100 puntos con el que el COB quiere sumar apoyo en Ourense** — La Voz de Galicia

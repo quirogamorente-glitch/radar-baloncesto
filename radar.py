@@ -150,6 +150,8 @@ def main():
                 pid = hashlib.sha1(normalizar(p["titulo"]).encode()).hexdigest()[:12]
                 p["id"] = pid
                 p["etiquetas"] = sorted(k for k, ws in etiquetas.items() if any(contiene(texto, w) for w in ws))
+                if f.get("etiqueta"):
+                    p["etiquetas"] = sorted(set(p["etiquetas"]) | {f["etiqueta"]})
                 previa = previas.get(pid) or nuevas.get(pid)
                 if previa:
                     # misma noticia vista en otra fuente: se conserva la primera y se suman vías

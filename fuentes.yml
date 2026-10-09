@@ -4,6 +4,7 @@
 #  Cada fuente: nombre, tipo y la búsqueda o la dirección.
 #    - tipo: google  → búsqueda en Google Noticias (escribe la búsqueda en «q»)
 #    - tipo: rss     → dirección RSS de una web, YouTube o Bluesky (en «url»)
+#  «etiqueta» (opcional): etiqueta que llevan siempre sus noticias (ucam, granada, periodista…).
 #  «filtro» (opcional): solo guarda las noticias que contengan alguna de esas palabras.
 # ─────────────────────────────────────────────────────────────
 
@@ -22,28 +23,35 @@ etiquetas:
 fuentes:
   # ── UCAM Murcia CB (prioridad máxima) ──
   - nombre: "Google Noticias · UCAM Murcia CB"
+    etiqueta: ucam
     tipo: google
     q: '"UCAM Murcia" baloncesto'
   - nombre: "Google Noticias · UCAM CB"
+    etiqueta: ucam
     tipo: google
     q: '"UCAM Murcia CB" OR "UCAM CB"'
 
   # ── Covirán Granada ──
   - nombre: "Fundación CB Granada (web oficial)"
+    etiqueta: granada
     tipo: rss
     url: "https://fundacioncbgranada.es/feed/"
   - nombre: "Google Noticias · Covirán Granada"
+    etiqueta: granada
     tipo: google
     q: '"Covirán Granada" OR "Fundación CB Granada"'
 
   # ── Periodistas preferentes ──
   - nombre: "Google Noticias · Olga Lorente"
+    etiqueta: periodista
     tipo: google
     q: '"Olga Lorente" baloncesto'
   - nombre: "Google Noticias · Jaime Nadal"
+    etiqueta: periodista
     tipo: google
     q: '"Jaime Nadal" UCAM OR baloncesto'
   - nombre: "Google Noticias · Noelia Gómez Mira"
+    etiqueta: periodista
     tipo: google
     q: '"Noelia Gómez Mira"'
 

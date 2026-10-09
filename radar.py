@@ -24,6 +24,7 @@ BASE = Path(__file__).resolve().parent
 FUENTES = BASE / "fuentes.yml"
 SALIDA = BASE / "noticias.json"
 ESTADO = BASE / "estado.json"
+MD = BASE / "radar.md"
 
 HORAS_VENTANA = 72          # noticias más antiguas que esto se descartan
 MAX_NOTICIAS = 400          # tope de piezas en noticias.json
@@ -93,6 +94,36 @@ def leer_fuente(f: dict):
     return piezas
 
 
+def escribir_md(lista, actualizado, estado):
+    """radar.md: versión legible y ordenada por prioridad (la que lee el feed)."""
+    def linea(n):
+        hora = n["publicada"][:16].replace("T", " ")
+        enlace = "" if n.get("enlace_es_google") else f' · {n["enlace"]}'
+        marca = " [posible rumor]" if "posible_rumor" in n["etiquetas"] else ""
+        return f'- {hora} UTC · **{n["titulo"]}** — {n["medio"]}{marca}{enlace}'
+
+    bloques = [
+        ("UCAM Murcia CB", lambda n: "ucam" in n["etiquetas"], 72),
+        ("Covirán Granada", lambda n: "granada" in n["etiquetas"] and "ucam" not in n["etiquetas"], 72),
+        ("Periodistas preferentes", lambda n: "periodista" in n["etiquetas"], 72),
+        ("Resto (últimas 12 h)", lambda n: not {"ucam", "granada"} & set(n["etiquetas"]), 12),
+    ]
+    partes = [f"# Radar de baloncesto\n\nActualizado: {actualizado} UTC. "
+              "Avisos sin verificar: comprobar siempre en la fuente. "
+              "Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.\n"]
+    for titulo, cond, horas in bloques:
+        limite = AHORA - timedelta(hours=horas)
+        sel = [n for n in lista if cond(n) and datetime.fromisoformat(n["publicada"]) >= limite][:150]
+        partes.append(f"\n## {titulo} ({len(sel)})\n")
+        partes.extend(linea(n) for n in sel)
+        if not sel:
+            partes.append("- (nada)")
+    caidas = [e["fuente"] for e in estado if not e["ok"]]
+    if caidas:
+        partes.append("\n## Fuentes que han fallado\n" + "\n".join(f"- {c}" for c in caidas))
+    MD.write_text("\n".join(partes) + "\n", encoding="utf-8")
+
+
 def main():
     conf = yaml.safe_load(FUENTES.read_text(encoding="utf-8"))
     etiquetas = conf.get("etiquetas", {})
@@ -142,7 +173,13 @@ def main():
         if pid not in nuevas and datetime.fromisoformat(n["publicada"]) >= limite:
             nuevas[pid] = n
 
-    lista = sorted(nuevas.values(), key=lambda n: n["publicada"], reverse=True)[:MAX_NOTICIAS]
+    PRIORIDAD = {"ucam", "granada", "periodista"}
+    todas = sorted(nuevas.values(), key=lambda n: n["publicada"], reverse=True)
+    prioritarias = [n for n in todas if PRIORIDAD & set(n["etiquetas"])]
+    resto = [n for n in todas if not PRIORIDAD & set(n["etiquetas"])]
+    # lo del UCAM, el Covirán y los periodistas nunca se recorta; el resto, hasta el tope
+    lista = sorted(prioritarias + resto[: max(0, MAX_NOTICIAS - len(prioritarias))],
+                   key=lambda n: n["publicada"], reverse=True)
     for n in lista:
         n.pop("via", None)
 
@@ -161,8 +198,9 @@ def main():
         except Exception:
             return True
 
-    if cambia(SALIDA, "noticias", lista):
+    if cambia(SALIDA, "noticias", lista) or not MD.exists():
         SALIDA.write_text(json.dumps(salida, ensure_ascii=False, indent=1), encoding="utf-8")
+        escribir_md(lista, salida["actualizado"], estado)
     resumen_estado = [{"fuente": e["fuente"], "ok": e["ok"]} for e in estado]
     try:
         antes = [{"fuente": e["fuente"], "ok": e["ok"]}

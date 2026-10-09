@@ -33,9 +33,9 @@ jobs:
         run: |
           git config user.name "radar-baloncesto"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add noticias.json estado.json
-          # solo se guarda si hay cambios reales (no basta con la hora de actualización)
-          if git diff --cached --quiet -I '"actualizado"' -I '"detectada"'; then
+          git add noticias.json estado.json radar.md
+          # radar.py solo reescribe los archivos si hay novedades reales
+          if git diff --cached --quiet; then
             echo "Sin novedades"
           else
             git commit -m "Radar: novedades $(date -u +'%Y-%m-%d %H:%M') UTC"

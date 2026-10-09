@@ -10,7 +10,7 @@
 # Palabras que sirven para etiquetar cada noticia en noticias.json
 etiquetas:
   ucam: ["UCAM Murcia", "UCAM CB", "UCAM", "Sito Alonso", "Palacio de los Deportes de Murcia"]
-  granada: ["Covirán Granada", "Coviran Granada", "Fundación CB Granada", "CB Granada"]
+  granada: ["Covirán Granada", "Coviran Granada", "Covirán", "Fundación CB Granada", "CB Granada", "Granada"]
   periodista: ["Olga Lorente", "Jaime Nadal", "Noelia Gómez Mira", "Noelia Gómez"]
   acb: ["Liga Endesa", "ACB"]
   euroliga: ["Euroliga", "EuroLeague", "Euroleague"]
@@ -27,10 +27,6 @@ fuentes:
   - nombre: "Google Noticias · UCAM CB"
     tipo: google
     q: '"UCAM Murcia CB" OR "UCAM CB"'
-  - nombre: "UCAM Deportes (web oficial)"
-    tipo: rss
-    url: "https://ucamdeportes.com/feed/"
-    filtro: ["baloncesto", "UCAM Murcia CB", "UCAM CB", "Liga Endesa", "BCL"]
 
   # ── Covirán Granada ──
   - nombre: "Fundación CB Granada (web oficial)"

@@ -1,0 +1,87 @@
+# ─────────────────────────────────────────────────────────────
+#  FUENTES DEL RADAR DE BALONCESTO
+#  Puedes editar este archivo desde la web de GitHub (icono del lápiz).
+#  Cada fuente: nombre, tipo y la búsqueda o la dirección.
+#    - tipo: google  → búsqueda en Google Noticias (escribe la búsqueda en «q»)
+#    - tipo: rss     → dirección RSS de una web, YouTube o Bluesky (en «url»)
+#  «filtro» (opcional): solo guarda las noticias que contengan alguna de esas palabras.
+# ─────────────────────────────────────────────────────────────
+
+# Palabras que sirven para etiquetar cada noticia en noticias.json
+etiquetas:
+  ucam: ["UCAM Murcia", "UCAM CB", "UCAM", "Sito Alonso", "Palacio de los Deportes de Murcia"]
+  granada: ["Covirán Granada", "Coviran Granada", "Fundación CB Granada", "CB Granada"]
+  periodista: ["Olga Lorente", "Jaime Nadal", "Noelia Gómez Mira", "Noelia Gómez"]
+  acb: ["Liga Endesa", "ACB"]
+  euroliga: ["Euroliga", "EuroLeague", "Euroleague"]
+  eurocup: ["EuroCup", "Eurocup"]
+  bcl: ["Champions League", "BCL"]
+  feb: ["Primera FEB"]
+  posible_rumor: ["rumor", "según", "podría", "interés", "negocia", "suena", "en la órbita"]
+
+fuentes:
+  # ── UCAM Murcia CB (prioridad máxima) ──
+  - nombre: "Google Noticias · UCAM Murcia CB"
+    tipo: google
+    q: '"UCAM Murcia" baloncesto'
+  - nombre: "Google Noticias · UCAM CB"
+    tipo: google
+    q: '"UCAM Murcia CB" OR "UCAM CB"'
+  - nombre: "UCAM Deportes (web oficial)"
+    tipo: rss
+    url: "https://ucamdeportes.com/feed/"
+    filtro: ["baloncesto", "UCAM Murcia CB", "UCAM CB", "Liga Endesa", "BCL"]
+
+  # ── Covirán Granada ──
+  - nombre: "Fundación CB Granada (web oficial)"
+    tipo: rss
+    url: "https://fundacioncbgranada.es/feed/"
+  - nombre: "Google Noticias · Covirán Granada"
+    tipo: google
+    q: '"Covirán Granada" OR "Fundación CB Granada"'
+
+  # ── Periodistas preferentes ──
+  - nombre: "Google Noticias · Olga Lorente"
+    tipo: google
+    q: '"Olga Lorente" baloncesto'
+  - nombre: "Google Noticias · Jaime Nadal"
+    tipo: google
+    q: '"Jaime Nadal" UCAM OR baloncesto'
+  - nombre: "Google Noticias · Noelia Gómez Mira"
+    tipo: google
+    q: '"Noelia Gómez Mira"'
+
+  # ── Competiciones ──
+  - nombre: "Google Noticias · Liga Endesa"
+    tipo: google
+    q: '"Liga Endesa"'
+  - nombre: "Google Noticias · Liga Endesa mercado"
+    tipo: google
+    q: '"Liga Endesa" fichaje OR renovación OR lesión'
+  - nombre: "Google Noticias · Euroliga"
+    tipo: google
+    q: 'Euroliga baloncesto'
+  - nombre: "Google Noticias · EuroCup"
+    tipo: google
+    q: 'EuroCup baloncesto'
+  - nombre: "Google Noticias · BCL"
+    tipo: google
+    q: '"Basketball Champions League" OR "BCL" baloncesto'
+  - nombre: "Google Noticias · Primera FEB"
+    tipo: google
+    q: '"Primera FEB"'
+
+  # ── Medios especializados ──
+  - nombre: "Gigantes del Basket"
+    tipo: rss
+    url: "https://www.gigantes.com/feed/"
+  - nombre: "Eurohoops (español)"
+    tipo: rss
+    url: "https://www.eurohoops.net/es/feed/"
+  - nombre: "Solobasket"
+    tipo: rss
+    url: "https://www.solobasket.com/feed/"
+
+  # ── Plantillas para añadir más adelante (quita la # para activarlas) ──
+  # YouTube de un canal:  url: "https://www.youtube.com/feeds/videos.xml?channel_id=ID_DEL_CANAL"
+  # Bluesky de un perfil: url: "https://bsky.app/profile/USUARIO.bsky.social/rss"

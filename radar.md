@@ -1,9 +1,9 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-10T01:39+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-10T07:44+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (86)
+## UCAM Murcia CB (76)
 
 - 2026-10-09 20:43 UTC · **El UCAM CB sub 22 vence al Amara Lleida a domicilio por 73-86 y firma el dos de dos en el arranque liguero** — Murcia Plaza
 - 2026-10-09 18:35 UTC · **LIGA U, Amara Lleida - UCAM Murcia Juver** — SPORT
@@ -81,18 +81,8 @@ Actualizado: 2026-10-10T01:39+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-07 11:47 UTC · **Vídeos y noticias de Juan Rubio** — ACB
 - 2026-10-07 10:39 UTC · **Zonas de tiro Pedro Rivero** — ACB
 - 2026-10-07 10:34 UTC · **Zonas de tiro David DiLeo** — ACB
-- 2026-10-07 07:39 UTC · **El UCAM Murcia debuta en la Liga de Campeones FIBA ante el Itelyum Varese** — COPE
-- 2026-10-07 07:33 UTC · **Apuestas UCAM Murcia - Varese** — Gainblers
-- 2026-10-07 07:13 UTC · **Baloncesto | Bilbao - UCAM Murcia** — DAZN
-- 2026-10-07 05:33 UTC · **Zonas de tiro Julen Olaizola** — ACB
-- 2026-10-07 05:01 UTC · **Zonas de tiro Kostas Vasileiadis** — ACB
-- 2026-10-07 04:52 UTC · **Zonas de tiro Damjan Rudez** — ACB
-- 2026-10-07 04:01 UTC · **El reestreno en la BCL abre las rotaciones en el UCAM Murcia** — La Opinión de Murcia
-- 2026-10-07 03:35 UTC · **Zonas de tiro Sergio Sánchez** — ACB
-- 2026-10-07 03:09 UTC · **Estad. Avanzada Milton Doyle** — ACB
-- 2026-10-07 02:12 UTC · **Zonas de tiro Milton Doyle** — ACB
 
-## Covirán Granada (36)
+## Covirán Granada (35)
 
 - 2026-10-09 22:38 UTC · **El Covirán, a evitar otro desliz en casa que le aleje de la zona alta** — Ideal
 - 2026-10-09 19:25 UTC · **El Tizona busca dar un paso adelante ante un Granada que aspira al ascenso** — Revista Forofos
@@ -129,7 +119,6 @@ Actualizado: 2026-10-10T01:39+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-07 11:54 UTC · **La peña de fútbol de La Hispanidad celebra sus bodas de oro** — Ideal
 - 2026-10-07 10:50 UTC · **El Covirán Granada, ante el primer partido asequible de la temporada** — Granada Hoy
 - 2026-10-07 10:03 UTC · **V Torneo de Golf IDEAL: deporte, gran ambiente y convivencia en Las Gabias** — Ideal
-- 2026-10-07 07:00 UTC · **El Covirán busca una mayor regularidad** — Granada en Juego
 
 ## Periodistas preferentes (4)
 
@@ -138,8 +127,13 @@ Actualizado: 2026-10-10T01:39+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-08 21:06 UTC · **Tertulia de baloncesto de Onda Regional** — Onda Regional de Murcia | ORM
 - 2026-10-07 22:23 UTC · **El UCAM Murcia arrasa al Varese en su estreno europeo (85-58)** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (114)
+## Resto (últimas 12 h) (49)
 
+- 2026-10-10 06:46 UTC · **Atlanta Dream y Golden State Valkyries lucharán por su primer título en las Finales WNBA** — Gigantes del Basket · https://www.gigantes.com/wnba/atlanta-dream-golden-state-valkyries-finales/
+- 2026-10-10 06:28 UTC · **¿Habrá salidas? El Real Madrid tiene otro objetivo en el mercado NBA y las dudas crecen** — Solobasket · https://www.solobasket.com/euroliga/habra-salidas-real-madrid-tiene-objetivo-mercado-nba-dudas-crecen
+- 2026-10-10 05:55 UTC · **¡Un pívot titular! El Barça Basket sale derrotado, pero con refuerzo en la pintura** — Solobasket · https://www.solobasket.com/euroliga/pivot-titular-barca-basket-sale-derrotado-refuerzo-pintura
+- 2026-10-10 05:30 UTC · **La competencia de Aday Mara en los OKC Thunder: Rol, contexto y situación** — Gigantes del Basket · https://www.gigantes.com/nba/aday-mara-okc-thunder-competencia-rol-situacion/
+- 2026-10-10 04:25 UTC · **La muerte de la agencia libre: causas y consecuencias** — Gigantes del Basket · https://www.gigantes.com/revista/muerte-agencia-libre-causas-consecuencias-nba/
 - 2026-10-09 23:32 UTC · **Vargas, el fichaje de octubre** — Diario AS
 - 2026-10-09 23:30 UTC · **El Baskonia paga su desacierto exterior en su partido 700** — El Día de Valladolid
 - 2026-10-09 23:17 UTC · **Los colegiales quieren arrancar la temporada con buen pie** — Melilla Hoy
@@ -184,73 +178,17 @@ Actualizado: 2026-10-10T01:39+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-09 20:13 UTC · **O Noso Basket: Carles Marco, Siro López y los tres gallegos de la ACB** — piratasdelbasket
 - 2026-10-09 20:09 UTC · **Adam Silver: "Lograremos un acuerdo con la Euroliga"** — Europa Press
 - 2026-10-09 19:55 UTC · **Qué ha pasado en la Euroliga: Barça y Kosner Baskonia cierran la jornada 4 con derrota** — Gigantes del Basket · https://www.gigantes.com/euroliga/que-ha-pasado-hoy-jornada4-euroliga-2026/
-- 2026-10-09 19:39 UTC · **Vídeos y noticias de Vitor Benite** — ACB
-- 2026-10-09 19:30 UTC · **Un presupuesto de 5,87 millones para afrontar el reto de la Liga Endesa** — DXT Campeón
-- 2026-10-09 19:29 UTC · **Estadísticas Ourense Baloncesto - Grupo Alega Cantabria: Resultados Baloncesto** — Eurosport
-- 2026-10-09 19:19 UTC · **Primera FEB Partidos relacionados** — Eurosport
-- 2026-10-09 19:11 UTC · **Maljkovic** — ACB
-- 2026-10-09 19:07 UTC · **El Lucentum, ante su primer gran reto** — Información
-- 2026-10-09 19:05 UTC · **Josep Puerto, el 'factor X' de Valencia Basket** — Superdeporte
-- 2026-10-09 19:05 UTC · **EN DIRECTO - Baskonia reacciona contra Besiktas (30-32)** — Gasteiz Hoy
-- 2026-10-09 19:00 UTC · **Resumen del Alimerka Oviedo Baloncesto - Fibwi Mallorca Basquet Palma** — Eurosport
-- 2026-10-09 18:56 UTC · **El Básquet Coruña aprueba las cuentas más ambiciosas de su historia** — La Voz de Galicia
-- 2026-10-09 18:56 UTC · **El Barça adelanta al Real Madrid** — Diario AS
-- 2026-10-09 18:53 UTC · **Vídeos y noticias de Tomas Van den Spiegel** — ACB
-- 2026-10-09 18:48 UTC · **Lucentum Alicante vs Cajasiete Gran Canaria: a qué hora juega y previa de la J3 de Primera FEB** — Radio Televisión Canaria
-- 2026-10-09 18:45 UTC · **HLA Alicante - CB Gran Canaria: Duelo de invictos en una cancha histórica** — La Provincia
-- 2026-10-09 18:42 UTC · **El Leyma, con un presupuesto de 5,87 millones de euros** — La Opinión A Coruña
-- 2026-10-09 18:35 UTC · **Galatasaray vs Beretta - Famila - Semifinales - EuroCup Women** — FIBA Basketball
-- 2026-10-09 18:24 UTC · **Víctor Claver: «El Valencia Basket lo tiene todo para ser franquicia de la Euroliga»** — Las Provincias
-- 2026-10-09 18:17 UTC · **Baskonia - Besiktas Estambul en directo | Última hora de Euroliga en vivo hoy** — MARCA
-- 2026-10-09 18:16 UTC · **El comisionado NBA, optimista sobre el desembarco en Europa: "Vamos a llegar a un acuerdo con la Euroliga"** — MARCA
-- 2026-10-09 18:14 UTC · **Un Alimerka OCB al completo recibe a Fibwi Palma en el Palacio** — Club Baloncesto – Oviedo
-- 2026-10-09 18:00 UTC · **Barcelona - Zalgiris, en directo: Euroliga en vivo hoy** — Diario AS
-- 2026-10-09 18:00 UTC · **Baskonia - Besiktas, baloncesto: resultado, valoraciones y estadísticas en vivo del partido de la Euroliga** — El Español
-- 2026-10-09 18:00 UTC · **Barça - Zalgiris, baloncesto: resultado, valoraciones y estadísticas en vivo del partido de la Euroliga** — El Español
-- 2026-10-09 18:00 UTC · **Valencia Basket iguala su mejor arranque en Euroliga** — Levante-EMV
-- 2026-10-09 18:00 UTC · **Baskonia - Besiktas, baloncesto hoy en directo: resultado, valoraciones y estadísticas en vivo del partido de la Euroliga** — El Español
-- 2026-10-09 18:00 UTC · **Barça - Zalgiris, baloncesto hoy en directo: resultado, valoraciones y estadísticas en vivo del partido de la Euroliga** — El Español
-- 2026-10-09 17:57 UTC · **Un duelo de recién ascendidos para creer en su potencial** — elDiario.es
-- 2026-10-09 17:55 UTC · **El nuevo Valencia Basket: de la inesperada era post Pedro Martínez a un pleno histórico en Euroliga** — RTVE.es
-- 2026-10-09 17:40 UTC · **Tosan Evbuomwan y Josh Nebo entran en la convocatoria de Sekulic para el Barça - Zalgiris** — SPORT
-- 2026-10-09 17:40 UTC · **Árbitros de la jornada 3 de la Liga Endesa** — piratasdelbasket
-- 2026-10-09 17:34 UTC · **Deportes hoy: programación gratis en Teledeporte y RTVE Play la semana del 5 al 9 de octubre** — RTVE.es
-- 2026-10-09 17:19 UTC · **Horario y dónde ver online el Leyma Coruña - Casademont Zaragoza de Liga Endesa** — Sport Aragón
-- 2026-10-09 17:18 UTC · **Trayectoria Pepe Arcega | Jugador acb | acb.com** — ACB
-- 2026-10-09 17:15 UTC · **Hlinason y Hilliard, aptos para la visita del Burgos** — Diario AS
-- 2026-10-09 16:59 UTC · **Barcelona - Zalgiris Kaunas en directo | Última hora de Euroliga en vivo hoy** — MARCA
-- 2026-10-09 16:55 UTC · **Cómo ver Joventut Badalona vs Valencia Basket en directo hoy: horario y dónde ver el tercer partido de semifinales de los Playoffs de la Liga Endesa** — DAZN
-- 2026-10-09 16:51 UTC · **Adam Silver sigue confiando en el acuerdo con la Euroliga** — Mundo Deportivo
-- 2026-10-09 16:44 UTC · **A qué hora es el Baskonia - Besiktas Istanbul: horario y dónde ver hoy en TV el partido de Euroliga** — MARCA
-- 2026-10-09 16:43 UTC · **A qué hora es el Barcelona - Zalgiris: horario y dónde ver hoy en TV el partido de Euroliga** — MARCA
-- 2026-10-09 16:39 UTC · **Carles Marco – Previa J3 – Leyma Coruña vs Casademont Zaragoza** — Basquet Coruña
-- 2026-10-09 16:37 UTC · **HLA Alicante-Cajasiete Gran Canaria: un duelo de invictos para seguir asustando** — Canarias7
-- 2026-10-09 16:28 UTC · **"La mejor ciudad en la que he jugado es, sin lugar a dudas, Barcelona"** — Mundo Deportivo
-- 2026-10-09 16:23 UTC · **Vídeos y noticias de Germán González** — ACB
-- 2026-10-09 16:19 UTC · **Barça y Real Madrid vuelven a chocar por el futuro del baloncesto europeo** — SPORT
-- 2026-10-09 16:18 UTC · **NBA Europa apunta a 2028 si no hay acuerdo con la Euroliga** — Málaga Hoy
-- 2026-10-09 16:10 UTC · **Valencia Basket no echa de menos a Pedro Martínez** — SPORT
-- 2026-10-09 16:07 UTC · **Vídeos y noticias de Stan Okoye** — ACB
-- 2026-10-09 16:07 UTC · **Kennedy Brown, juventud estadounidense con experiencia EuroCup para el interior de Meins Avenida** — Tribuna de Salamanca.
-- 2026-10-09 15:51 UTC · **El Cajasol Coto Córdoba buscará en Albacete su primera victoria a domicilio en la Primera FEB** — Diario Córdoba
-- 2026-10-09 15:49 UTC · **España cambia de fecha su primer partido de clasificación para el Eurobasket** — Gigantes del Basket · https://www.gigantes.com/selecciones/espana-republica-checa-oviedo-cambio-fecha/
-- 2026-10-09 15:33 UTC · **"Cuando estuve aquí era un club bastante humilde y ahora es un club profesional que quiere crecer"** — eldiariocantabria.es
-- 2026-10-09 15:31 UTC · **Trayectoria Juanan Morales | Jugador acb | acb.com** — ACB
-- 2026-10-09 15:22 UTC · **El Iberolea Palencia, a por el tercer triunfo consecutivo** — El Norte de Castilla
-- 2026-10-09 15:18 UTC · **Triple-doble de Sengun en el debut de Sergio de Larrea** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2018607/triple-doble-de-sengun-en-el-debut-de-sergio-de-larrea/
-- 2026-10-09 15:16 UTC · **Zonas de tiro Nikola Tanaskovic** — ACB
-- 2026-10-09 15:08 UTC · **Trayectoria Gonzalo Martínez | Jugador acb | acb.com** — ACB
-- 2026-10-09 15:05 UTC · **Vídeos y noticias de Michal Chylinski** — ACB
-- 2026-10-09 15:03 UTC · **El Fibwi Mallorca quiere alzar el vuelo** — Ultima Hora
-- 2026-10-09 15:01 UTC · **El estreno de Sergio De Larrea con los Dallas Mavericks: Números y sensaciones en el amistoso ante los Rockets** — Gigantes del Basket · https://www.gigantes.com/nba/sergio-de-larrea-mavericks-estreno-pretemporada/
-- 2026-10-09 14:59 UTC · **First great challenge at the Martin Urbano** — Unicaja Baloncesto
-- 2026-10-09 14:54 UTC · **Vídeos y noticias de Hans Vanwijn** — ACB
-- 2026-10-09 14:51 UTC · **El España - República Checa de Oviedo pasa a disputarse el día 10 de noviembre** — Federación Española de Baloncesto
-- 2026-10-09 14:46 UTC · **Xavi Pascual, contundente: "Fue la peor noche de la temporada"** — Mundo Deportivo
-- 2026-10-09 14:45 UTC · **Vídeos y noticias de Gonzalo Martínez** — ACB
-- 2026-10-09 14:31 UTC · **Trayectoria Mous Sonko | Jugador acb | acb.com** — ACB
-- 2026-10-09 14:24 UTC · **Amine Noua, de su debut en Liga Endesa con el Andorra a ser un líder en el Unicaja bajo el radar** — La Opinión de Málaga
-- 2026-10-09 14:19 UTC · **Carles Marco, en la previa del duelo ante el Zaragoza: «Todos los partidos son de nuestra liga»** — La Voz de Galicia
-- 2026-10-09 14:18 UTC · **Vídeos y noticias de Albert Ventura** — ACB
-- 2026-10-09 14:15 UTC · **Adam Silver confía en la unión con la Euroliga: “Llegaremos a un acuerdo con ellos”** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2018574/adam-silver-confia-en-la-asociacion-con-la-euroliga-llegaremos-a-un-acuerdo-con-ellos/
-- 2026-10-09 14:15 UTC · **Adam Silver confía en la asociación con la Euroliga: "Llegaremos a un acuerdo con ellos"** — Eurohoops
+
+## Fuentes que han fallado
+- Google Noticias · UCAM Murcia CB
+- Google Noticias · UCAM CB
+- Google Noticias · Covirán Granada
+- Google Noticias · Olga Lorente
+- Google Noticias · Jaime Nadal
+- Google Noticias · Noelia Gómez Mira
+- Google Noticias · Liga Endesa
+- Google Noticias · Liga Endesa mercado
+- Google Noticias · Euroliga
+- Google Noticias · EuroCup
+- Google Noticias · BCL
+- Google Noticias · Primera FEB

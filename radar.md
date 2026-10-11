@@ -1,24 +1,33 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-11T13:55+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-11T18:45+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (81)
+## UCAM Murcia CB (80)
 
+- 2026-10-11 16:56 UTC · **Jaka Lakovic, entrenador de La Laguna Tenerife, tras ganar en Murcia: "Estuvimos excelentes"** — Diario de Avisos
+- 2026-10-11 15:18 UTC · **El UCAM Murcia cae en el Palacio ante la Laguna Tenerife (77-90)** — Región Online Murcia
+- 2026-10-11 14:12 UTC · **Sito Alonso tras caer ante Tenerife: "A mí me parece un buen aprendizaje siempre el sufrir"** — COPE
+- 2026-10-11 14:00 UTC · **Sito Alonso: "No estuvimos lo suficientemente contundentes"** — Murcia Plaza
+- 2026-10-11 13:40 UTC · **El UCAM no puede en casa ante La Laguna Tenerife (77-90)** — La 7
 - 2026-10-11 13:36 UTC · **Superioridad aurinegra en Murcia (77-90)** — Cadena SER
 - 2026-10-11 13:30 UTC · **El UCAM CB sufre a La Laguna y a Marcelinho, un chaval de 43 años que es el mejor en el Palacio** — Murcia Plaza
 - 2026-10-11 13:26 UTC · **El UCAM Murcia cae en casa ante un implacable La Laguna Tenerife guiado por Huertas (77-90)** — COPE
 - 2026-10-11 13:23 UTC · **El UCAM Murcia se estrella ante La Laguna Tenerife (77-90) y sufre su primera derrota en el Palacio** — Murcia Actualidad
 - 2026-10-11 12:45 UTC · **UCAM Murcia cede ante La Laguna Tenerife** — Cadena SER
+- 2026-10-11 12:42 UTC · **El UCAM Murcia paga su mermada dirección de juego frente a La Laguna Tenerife (77-90)** — MurciaEconomía.com
 - 2026-10-11 12:40 UTC · **Marcelinho y Guy bajan al UCAM de la nube** — Onda Regional de Murcia | ORM
 - 2026-10-11 12:37 UTC · **El UCAM Murcia pierde fuerza en el Palacio al caer con La Laguna Tenerife** — La Opinión de Murcia
 - 2026-10-11 12:27 UTC · **UCAM Murcia vs La Laguna Tenerife 11 oct 2026** — ACB
 - 2026-10-11 10:15 UTC · **Liga Endesa: UCAM Murcia - La Laguna Tenerife, en directo** — La Opinión de Murcia
+- 2026-10-11 10:00 UTC · **La Laguna Tenerife domina de principio a fin en Murcia (79-90)** — Diario de Avisos
 - 2026-10-11 10:00 UTC · **EN DIRECTO | UCAM Murcia-La Laguna Tenerife** — Diario de Avisos
+- 2026-10-11 07:04 UTC · **Zonas de tiro Jordan Davis** — ACB
 - 2026-10-11 04:01 UTC · **El UCAM Murcia pone a prueba su crecimiento ante el Tenerife** — La Opinión de Murcia
 - 2026-10-11 02:30 UTC · **UCAM Murcia vs La Laguna Tenerife: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN
 - 2026-10-11 01:58 UTC · **Liga Endesa | acb.com** — ACB
 - 2026-10-11 01:29 UTC · **Sigue en directo los partidos de la jornada 2 de la liga acb 26/27** — Flashscore.es
+- 2026-10-10 18:27 UTC · **Trayectoria Marko Popovic | Jugador acb | acb.com** — ACB
 - 2026-10-10 17:31 UTC · **El vigor del UCAM Murcia pone a prueba a La Laguna Tenerife** — Eldía
 - 2026-10-10 14:39 UTC · **Liga Endesa: UCAM Murcia – Tenerife / Barcelona – Valencia** — Pensador de Apuestas
 - 2026-10-10 14:16 UTC · **La presentación de la camiseta oficial marca el inicio de la 15K Formentera Sunset Run** — Murcia Plaza
@@ -76,21 +85,14 @@ Actualizado: 2026-10-11T13:55+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-08 21:51 UTC · **Zonas de tiro Ismael Corraliza** — ACB
 - 2026-10-08 21:06 UTC · **Tertulia de baloncesto de Onda Regional** — Onda Regional de Murcia | ORM
 - 2026-10-08 20:07 UTC · **Trayectoria Chumi Ortega | Jugador acb | acb.com** — ACB
-- 2026-10-08 18:00 UTC · **Zonas de tiro Alex Antetokounmpo** — ACB
-- 2026-10-08 17:31 UTC · **Saskia Baskonia, Río Breogán y Real Madrid marcan el ritmo en el inicio de temporada de la Liga Endesa** — Meridiano.net
-- 2026-10-08 17:11 UTC · **Partidos Rafael Huertas** — ACB
-- 2026-10-08 17:04 UTC · **Zonas de tiro Isaiah Taylor** — ACB
-- 2026-10-08 17:02 UTC · **Zonas de tiro Rinalds Malmanis** — ACB
-- 2026-10-08 15:46 UTC · **Designaciones arbitrales de la Jornada 3 de la Liga Endesa** — ACB
-- 2026-10-08 15:27 UTC · **Zonas de tiro Kevin Tumba** — ACB
-- 2026-10-08 15:27 UTC · **Zonas de tiro Marques Townes** — ACB
-- 2026-10-08 15:11 UTC · **Partidos Chris Czerapowicz** — ACB
-- 2026-10-08 14:00 UTC · **Zonas de tiro Noah Churchill** — ACB
 
-## Covirán Granada (60)
+## Covirán Granada (58)
 
+- 2026-10-11 15:31 UTC · **Un Lluís Costa irreconocible a la espera de sus «mejores días» con el Covirán Granada** — Ideal
+- 2026-10-11 12:01 UTC · **Roope Korhonen buscará su segundo triunfo en el Rally de Granada** — Ideal
 - 2026-10-11 11:48 UTC · **Covirán Granada derrota al Tizona Burgos y suma su segundo triunfo consecutivo (91-88)** — Muchodeporte
 - 2026-10-11 09:52 UTC · **La prensa granadina demuestra un alto nivel en el torneo de pádel AGPD Tiro Pichón** — Ideal
+- 2026-10-11 09:13 UTC · **91-88 | El Tizona cae en Granada** — Burgosnoticias
 - 2026-10-11 08:46 UTC · **Vídeo | Vídeo: Resumen de la victoria del Covirán Granada ante el Tizona Burgos** — Granada Hoy
 - 2026-10-10 22:17 UTC · **El Palacio se quita un peso de encima pese a la apatía generalizada** — Ideal
 - 2026-10-10 20:24 UTC · **El Sima Granada mantiene su condición de invicto tras un festival de goles ante el Sporting Almería** — Ideal
@@ -117,6 +119,7 @@ Actualizado: 2026-10-11T13:55+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-09 23:38 UTC · **El Covirán busca una mayor regularidad** — Granada en Juego
 - 2026-10-09 22:38 UTC · **El Covirán, a evitar otro desliz en casa que le aleje de la zona alta** — Ideal
 - 2026-10-09 21:38 UTC · **El pelotón sigue bajo las estrellas** — Ideal
+- 2026-10-09 21:14 UTC · **La caldera de Castilla enciende una jornada de lo más ardiente** — piratasdelbasket
 - 2026-10-09 21:10 UTC · **Coviran Granada - Grupo Ureta Tizona Burgos Partidos relacionados: Actualizaciones en directo de Baloncesto** — Eurosport
 - 2026-10-09 20:32 UTC · **Estadísticas Coviran Granada - Grupo Ureta Tizona Burgos: Resultados Baloncesto** — Eurosport
 - 2026-10-09 19:25 UTC · **El Tizona busca dar un paso adelante ante un Granada que aspira al ascenso** — Revista Forofos
@@ -143,30 +146,74 @@ Actualizado: 2026-10-11T13:55+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-09 08:39 UTC · **La defensa y las lesiones lastran a un Tizona Burgos necesitado de victorias** — GranadaDigital
 - 2026-10-09 08:03 UTC · **PREVIA J.3: La caldera de Castilla enciende una jornada de lo más ardiente** — Federación Española de Baloncesto
 - 2026-10-08 22:46 UTC · **El Covirán Granada, en busca de un triunfo liberador e inédito en casa esta década** — Ideal
-- 2026-10-08 17:51 UTC · **El Tizona Burgos, un rival que busca no sufrir tanto** — Granada Hoy
-- 2026-10-08 17:39 UTC · **Tanner McGrew: “Arturo Ruiz me dijo que iba a ser importante y eso es lo que buscaba”** — Granada Hoy
-- 2026-10-08 17:31 UTC · **Miguel Rivera** — ACB
-- 2026-10-08 15:58 UTC · **El Covirán Granada, obligado a mantener su plan B ante la escasez de bases** — Ideal
-- 2026-10-08 15:27 UTC · **Más de 1.200 niños del Sagrado Corazón plantan cara a la leucemia con una carrera benéfica en Granada** — Ideal
-- 2026-10-08 15:10 UTC · **El Club Atletismo Maracena domina el Nacional máster de campo a través con nueve medallas** — Ideal
 
-## Periodistas preferentes (3)
+## Periodistas preferentes (4)
 
+- 2026-10-11 12:42 UTC · **El UCAM Murcia paga su mermada dirección de juego frente a La Laguna Tenerife (77-90)** — MurciaEconomía.com
 - 2026-10-09 11:18 UTC · **Reencuentro con la memoria y arbitraje marcado por el pasado en el próximo compromiso del UCAM Murcia** — MurciaEconomía.com
 - 2026-10-09 09:27 UTC · **"Hay que ganar a Tenerife, no a Marcelinho": Sito Alonso analiza el duelo ante La Laguna Tenerife** — MurciaEconomía.com
 - 2026-10-08 21:06 UTC · **Tertulia de baloncesto de Onda Regional** — Onda Regional de Murcia | ORM
 
-## Resto (últimas 12 h) (80)
+## Resto (últimas 12 h) (116)
 
+- 2026-10-11 18:25 UTC · **El Movistar Estudiantes enseña los dientes** — Diario AS
+- 2026-10-11 18:13 UTC · **Surne Bilbao logra una trabajada victoria ante Recoletas Salud San Pablo Burgos** — Bilbao Basket
+- 2026-10-11 17:32 UTC · **Deportes: Programa Estadio 2, en directo | 12/10** — RTVE.es
+- 2026-10-11 17:26 UTC · **Kurucs y Duarte acaban con la Penya y consolidan el liderato del Kosner Baskonia** — MARCA
+- 2026-10-11 17:24 UTC · **El HLA Alicante doblega a Gran Canaria en el Ferrándiz con una gran segunda mitad** — Cadena SER
+- 2026-10-11 17:22 UTC · **El Kosner Baskonia ilusiona y sigue vestido de líder (93-73)** — ACB
+- 2026-10-11 17:16 UTC · **Baskonia ajusta cuentas con el Joventut y se mantiene líder en liga** — Gasteiz Hoy
+- 2026-10-11 17:15 UTC · **SESE Bàsquet volverá a ser sede del Campus Gigantes Basket Lover** — Gigantes del Basket
+- 2026-10-11 17:11 UTC · **SESE Bàsquet volverá a ser sede del Campus Gigantes Basket Lover tres años después** — Gigantes del Basket · https://www.gigantes.com/campus-gigantes/sese-barcelona-sede-campus-gigantes-tres-anos-despues/
+- 2026-10-11 17:08 UTC · **Barça vs Valencia Basket 11 oct 2026** — ACB
+- 2026-10-11 17:07 UTC · **Kosner Baskonia llega a los 140.000 puntos anotados** — ACB
+- 2026-10-11 17:07 UTC · **Surne Bilbao vs Recoletas Salud San Pablo Burgos Oct 11, 2026** — ACB
+- 2026-10-11 16:53 UTC · **El Baskonia suma un nuevo triunfo en su feudo** — Diario AS
+- 2026-10-11 16:45 UTC · **Alarma por la lesión de Gaby Deck en Real Madrid: confirmaron que es más grave de lo previsto** — Cuestión Entrerriana
+- 2026-10-11 16:43 UTC · **El Río Breogán entra en los libros de historia de la Liga Endesa** — El Progreso de Lugo
+- 2026-10-11 16:35 UTC · **Tremendo aviso de Jean Montero a Valencia Basket antes de su regreso al Roig Arena** — Superdeporte
+- 2026-10-11 16:30 UTC · **Barça - Valencia Basket, en directo: sigue el partido de la Liga Endesa, en vivo hoy** — SPORT
+- 2026-10-11 16:30 UTC · **Malas noticias para la Selección: Tortu Deck sufrió una lesión "más grave" de lo esperado** — Olé
+- 2026-10-11 16:12 UTC · **Los descartes de Xavi Albert para el Valencia Basket-FC Barcelona** — Superdeporte
+- 2026-10-11 16:06 UTC · **La Euroliga, de visita oficial a Israel** — Eurohoops · https://www.eurohoops.net/es/euroleague-es/2019528/la-euroliga-de-visita-oficial-a-israel/
+- 2026-10-11 16:01 UTC · **Pedro Martínez, pesimista con la lesión de Gabriel Deck: "Es más grave de lo previsto"** — Eurohoops [posible rumor] · https://www.eurohoops.net/es/euroleague-es/2019532/pedro-martinez-pesimista-con-la-lesion-de-gabriel-deck-es-mas-grave-de-lo-previsto/
+- 2026-10-11 16:01 UTC · **Dusko Ivanovic quiere a Howard** — Gasteiz Hoy
+- 2026-10-11 16:00 UTC · **Los Jazz siguen esperando a Filipowski: su regreso todavía no tiene fecha** — Blog de Basket
+- 2026-10-11 15:57 UTC · **El Palmer Basket suma ante el Zamora la segunda victoria de la temporada** — Diario de Mallorca
+- 2026-10-11 15:56 UTC · **Kyrie Irving vuelve a las pistas, buenos minutos de de Larra** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2019529/kyrie-irving-vuelve-a-las-pistas-buenos-minutos-de-de-larra/
+- 2026-10-11 15:54 UTC · **Preocupación en el Real Madrid por la lesión de Gabriel Deck: 'Es más grave de lo que pensábamos'** — SPORT
+- 2026-10-11 15:41 UTC · **¡Mariana Valenzuela explota en Portugal! Clava cinco triples y se roba el show** — El Sol de México
+- 2026-10-11 15:40 UTC · **De Larrea se luce en el regreso de Irving 19 meses después** — Mundo Deportivo
+- 2026-10-11 15:28 UTC · **Gal Mekel, ex del Unicaja, mueve ficha para llevar al Hapoel Jerusalén a la Euroliga** — Málaga Hoy
+- 2026-10-11 15:27 UTC · **A qué hora es el Barcelona - Valencia Basket: horario y dónde ver hoy en TV el partido de la Liga Endesa** — MARCA
+- 2026-10-11 15:10 UTC · **Barcelona - Valencia Basket en directo | Última hora de Liga Endesa en vivo hoy** — MARCA
+- 2026-10-11 15:00 UTC · **Kosner Baskonia vs Asisa Joventut Oct 11, 2026** — ACB
+- 2026-10-11 14:51 UTC · **Pedro Martínez: "La lesión de Deck es más grave de lo que pensábamos"** — MARCA
+- 2026-10-11 14:46 UTC · **EN DIRECTO | Koprivica lidera al San Pablo al descanso** — Diario de Burgos
+- 2026-10-11 14:42 UTC · **Diego Ocampo: "Es evidente que ahora mismo no estamos para competir al nivel del Real Madrid"** — Mundo Deportivo
+- 2026-10-11 14:37 UTC · **Joan Sastre, un icono del deporte mallorquín, para engrandecer el proyecto del Palmer Basket** — Federación Española de Baloncesto
+- 2026-10-11 14:14 UTC · **Pedro Martínez revela que Deck está lesionado de gravedad: «Es más de lo que pensábamos»** — OkDiario
+- 2026-10-11 14:10 UTC · **Joan Sastre regresa a casa: el internacional mallorquín ficha por el Palmer Basket** — Mallorcadiario.com
+- 2026-10-11 14:09 UTC · **Lección magistral de Marcelinho** — Diario AS
+- 2026-10-11 14:04 UTC · **El internacional Joan Sastre ficha por Palmer Basket** — Infobae
+- 2026-10-11 13:57 UTC · **Joan Sastre vuelve a casa y refuerza el proyecto del Palmer Basket** — Diario de Mallorca
+- 2026-10-11 13:56 UTC · **Ver Río Breogán - FIATC Girona Online en Directo | DAZN ES** — DAZN
+- 2026-10-11 13:53 UTC · **Pedro Martínez: "La lesión de Gaby Deck es más grave de lo que pensábamos"** — Mundo Deportivo
 - 2026-10-11 13:50 UTC · **La lesión de Deck es "más grave" de lo pensado inicialmente, según técnico del Real Madrid** — Infobae [posible rumor]
+- 2026-10-11 13:47 UTC · **La Laguna Tenerife asalta el fortín de Murcia y firma un triunfo de equipo en la Liga Endesa** — Canarias en Pleno
+- 2026-10-11 13:44 UTC · **Así queda la clasificación de la Liga Endesa: el Real Madrid, nuevo líder** — Mundo Deportivo
+- 2026-10-11 13:39 UTC · **Pedro Martínez: “La lesión de Deck es más grave de lo previsto”** — Diario AS
 - 2026-10-11 13:39 UTC · **Pedro Martínez: “La fuerza va a estar en el grupo, no en uno o dos jugadores”** — Diario AS
+- 2026-10-11 13:25 UTC · **77-90. La Laguna, con una lección magistral más de Marcelinho, vence en Murcia** — Infobae
 - 2026-10-11 13:24 UTC · **Joel Soriano lidera el segundo triunfo del Obradoiro** — Diario AS
 - 2026-10-11 13:23 UTC · **La Laguna Tenerife ‘asalta’ el fortín de Murcia con un gran ejercicio colectivo** — CB Canarias
+- 2026-10-11 13:22 UTC · **El Palmer Basket arrolla al Zamora en Son Moix** — Mallorcadiario.com
 - 2026-10-11 13:21 UTC · **Soriano sella el sufrido triunfo obradoirista (91-89)** — ACB
 - 2026-10-11 13:19 UTC · **77-90: La Laguna Tenerife, con otra lección magistral de Marcelinho, vence en Murcia** — Mundo Deportivo
 - 2026-10-11 13:19 UTC · **Melilla 82-69 Ponferrada: 'Sin opción desde una floja defensa y un final con pequeña reacción'** — La Nueva Crónica
 - 2026-10-11 13:17 UTC · **Howard, con un pie fuera de Baskonia y rumbo al Zenit de Ivanovic** — Gasteiz Hoy
 - 2026-10-11 13:11 UTC · **91-89: El Lleida acaricia la remontada, pero se queda sin premio en Sar** — Mundo Deportivo
+- 2026-10-11 13:08 UTC · **Joan Sastre vuelve a casa de la mano del Palmer Basket** — Ultima Hora
 - 2026-10-11 13:05 UTC · **La Laguna Tenerife vuelve a impresionar a domicilio (77-90)** — ACB
 - 2026-10-11 13:00 UTC · **Josh Hart se pronuncia sobre los contratos de los Knicks y deja clara su postura** — Blog de Basket
 - 2026-10-11 12:51 UTC · **El Caja 87 se hace grande en la Primera FEB (77-74)** — Diario de Sevilla
@@ -192,15 +239,19 @@ Actualizado: 2026-10-11T13:55+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-11 11:49 UTC · **El Madrid aplasta al Manresa y asalta el liderato** — El Imparcial - Diario liberal e independiente
 - 2026-10-11 11:49 UTC · **Markus Howard, cada vez más lejos del Kosner Baskonia** — Eurohoops (español) [posible rumor] · https://www.eurohoops.net/es/euroleague-es/2019395/markus-howard-cada-vez-mas-lejos-del-kosner-baskonia/
 - 2026-10-11 11:36 UTC · **Dwight Howard vuelve a la acción en Georgia** — Eurohoops (español) · https://www.eurohoops.net/es/others-es/2019387/dwight-howard-vuelve-a-la-accion-en-georgia/
+- 2026-10-11 11:35 UTC · **Trayectoria Romain Sato | Jugador acb | acb.com** — ACB
 - 2026-10-11 11:26 UTC · **¡Bombazo en el mercado ACB! Este club negocia con Baskonia el fichaje de Markus Howard** — Solobasket [posible rumor] · https://www.solobasket.com/liga-endesa/bombazo-mercado-acb-club-zenit-ivanovic-markus-howard-fichaje
 - 2026-10-11 11:18 UTC · **A Valencia Basket se le abre una vía en el mercado NBA y así está su posible fichaje** — Solobasket · https://www.solobasket.com/liga-endesa/abierta-via-mercado-nba-valencia-basket-intento-fichaje-barca-koloko
 - 2026-10-11 11:06 UTC · **Markus Howard, con pie y medio en el Zenit de San Petersburgo** — Diario AS
-- 2026-10-11 10:57 UTC · **Real Madrid vs Kids&Us Manresa 11 oct 2026 | ACB Live Estadísticas del Partido | ACB.com** — ACB
 - 2026-10-11 10:57 UTC · **Real Madrid vs Kids&Us Manresa 11 oct 2026** — ACB
+- 2026-10-11 10:57 UTC · **Real Madrid vs Kids&Us Manresa 11 oct 2026 | ACB Live Estadísticas del Partido | ACB.com** — ACB
 - 2026-10-11 10:55 UTC · **El Papa Leon XIV pasará por quirófano la semana que viene para extirparle un nódulo pulmonar** — Diario AS
+- 2026-10-11 10:44 UTC · **J.2: El Sevilla Cajasol Gardenstore tiene un color especial y el Sparking Truth Maristas, también** — Federación Española de Baloncesto
 - 2026-10-11 10:44 UTC · **J.2: El Sevilla Cajasol Gardenstore tiene un color especial** — Federación Española de Baloncesto
+- 2026-10-11 10:15 UTC · **Buducnost vs Slovan Bratislava » Mejores Cuotas y Estadísticas** — Odds Scanner
 - 2026-10-11 10:13 UTC · **El temido regreso de Mirotic al Palau** — SPORT
 - 2026-10-11 10:04 UTC · **A qué hora es el Real Madrid - Manresa: horario y dónde ver hoy en TV el partido de la Liga Endesa** — MARCA
+- 2026-10-11 10:01 UTC · **Valencia Basket Abre Una Vía En La NBA Para Un Posible Fichaje** — ElPeriodico.digital
 - 2026-10-11 10:00 UTC · **De brillar como rookie a encender las alarmas: los Kings temen una grave lesión** — Blog de Basket
 - 2026-10-11 09:54 UTC · **Basketball | Andorra vs. Breogán** — DAZN
 - 2026-10-11 09:54 UTC · **J.3: El quinto periodo, al habla los entrenadores** — Federación Española de Baloncesto
@@ -213,28 +264,11 @@ Actualizado: 2026-10-11T13:55+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-11 09:04 UTC · **Real Madrid - Kids&Us Manresa, en directo: Liga Endesa de baloncesto 2026-27 en vivo hoy** — Diario AS
 - 2026-10-11 09:00 UTC · **«En los 90 descorchamos la botella». Entrevista a Jordi Villacampa** — Gigantes del Basket · https://www.gigantes.com/revista/en-los-90-descorchamos-la-botella-entrevista-a-jordi-villacampa/
 - 2026-10-11 08:49 UTC · **J.3: El invicto HLA Alicante le muestra al Cajasiete Gran Canaria la dureza de la Primera FEB** — Federación Española de Baloncesto
-- 2026-10-11 08:24 UTC · **Carles Marco: "No hemos estado nada bien, sobre todo en defensa"** — Cadena SER
 - 2026-10-11 08:24 UTC · **Grupo Alega Cantabria consigue su tercera victoria consecutiva en Ourense** — Filtración.es
+- 2026-10-11 08:24 UTC · **Carles Marco: "No hemos estado nada bien, sobre todo en defensa"** — Cadena SER
 - 2026-10-11 08:18 UTC · **Euroliga 2026/27: fichajes y movimientos en el mercado** — Blog de Basket
 - 2026-10-11 08:15 UTC · **Balcerowski emerge como pívot de nivel en Euroliga** — Blog de Basket
 - 2026-10-11 08:13 UTC · **Un Real Madrid los domingos y otro entre semana** — MARCA
-- 2026-10-11 06:00 UTC · **El Valencia Basket pone a prueba a un Barça obligado a reaccionar** — SPORT
-- 2026-10-11 05:07 UTC · **El mapa del basket europeo: ¿quién jugaría Euroliga y quién NBA Europa ahora mismo?** — Mundo Deportivo
-- 2026-10-11 05:01 UTC · **El CB Zamora visita a Palmer Mallorca: a la tercera tiene que ir la vencida** — La Opinión de Zamora
-- 2026-10-11 05:00 UTC · **Barça-Valencia Basket: un duelo en la cumbre con sabor a revancha** — Mundo Deportivo
-- 2026-10-11 04:58 UTC · **Cristóbal Rodríguez: “Lo más importante es el jugador; lo menos importante es su equipo”** — Diario AS
-- 2026-10-11 04:57 UTC · **Nikola Mirotic, última llamada** — Diario AS
-- 2026-10-11 04:56 UTC · **Real Madrid - Manresa: horario, TV y dónde ver la ACB 2026-27** — Diario AS
-- 2026-10-11 04:56 UTC · **Barcelona - Valencia: horario, TV y dónde ver la ACB 2026-27** — Diario AS
-- 2026-10-11 04:55 UTC · **Timmy Zeus Allen, la nueva joya** — Diario AS
-- 2026-10-11 04:55 UTC · **TJ Shorts: “El juego del Valencia maximiza mi talento”** — Diario AS
-- 2026-10-11 04:23 UTC · **Baloncesto | Nanterre 92 - Vilnius Rytas** — DAZN
-- 2026-10-11 04:20 UTC · **Los cuatro caminos que pueden cambiar el futuro de los Nets de Jordi Fernández** — Solobasket · https://www.solobasket.com/nba/cuatro-caminos-pueden-cambiar-futuro-brooklyn-nets-jordi-fernandez
-- 2026-10-11 04:08 UTC · **El CB Zamora busca en Mallorca su primera victoria de la temporada** — Zamora24horas
-- 2026-10-11 04:04 UTC · **Valencia Basket visita al Estudiantes con la Euroliga en el horizonte** — Plaza Deportiva
-- 2026-10-11 04:01 UTC · **Valencia Basket vuelve al Palau en busca de prolongar su buen momento** — Plaza Deportiva
-- 2026-10-11 02:55 UTC · **Caja 87 vs. Fuenlabrada en la Primera FEB de básquet de España: horario y claves del partido en Sevilla** — Radio Mitre
-- 2026-10-11 02:05 UTC · **Real Madrid vs Kids&Us Manresa: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN
-- 2026-10-11 02:00 UTC · **El Valencia Basket se pone a prueba en el Palau Blaugrana** — Levante-EMV
-- 2026-10-11 02:00 UTC · **Alberto Menéndez analiza la victoria del Alimerka Oviedo Baloncesto ante el Fibwi Palma: Demasiados altibajos** — La Nueva España
-- 2026-10-11 01:59 UTC · **Gerónimo Rubio ya tiene vía libre para incorporarse al Bàsquet Menorca** — Menorca - Es diari
+- 2026-10-11 08:06 UTC · **Clasificación Primera FEB: Resultados y partidos de Baloncesto** — Eurosport
+- 2026-10-11 07:26 UTC · **Edwin Eugene Draughan - Lugano Basket - Perfil del Jugador/de la Jugadora - EuroChallenge** — FIBA Basketball
+- 2026-10-11 07:15 UTC · **Kosner Baskonia vs Asisa Joventut: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN

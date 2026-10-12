@@ -1,10 +1,15 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-12T09:02+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-12T18:54+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (79)
+## UCAM Murcia CB (65)
 
+- 2026-10-12 14:06 UTC · **Trayectoria Augusto Lima | Jugador acb | acb.com** — ACB
+- 2026-10-12 13:58 UTC · **El cambio de agencia de DeJulius no altera los planes del UCAM Murcia** — MurciaEconomía.com
+- 2026-10-12 09:45 UTC · **Agenda deportiva de la semana: qué ver en televisión y los equipos de la Región** — La Opinión de Murcia
+- 2026-10-12 09:27 UTC · **Zonas de tiro Delroy James** — ACB
+- 2026-10-12 09:22 UTC · **El UCAM CB, en el puesto 13 tras ser el 16, vuelve a las clasificaciones de la Liga 2022/2023** — Murcia Plaza
 - 2026-10-12 08:54 UTC · **David DeJulius cambia de agente tras su conflicto con el UCAM Murcia** — La Opinión de Murcia
 - 2026-10-12 07:00 UTC · **Deportes hoy: programación gratis en Teledeporte y RTVE Play la semana del 12 al 16 de octubre** — RTVE.es
 - 2026-10-12 04:23 UTC · **Zonas de tiro Peter Jok** — ACB
@@ -12,8 +17,10 @@ Actualizado: 2026-10-12T09:02+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-12 04:06 UTC · **Alonso** — ACB
 - 2026-10-12 04:00 UTC · **Análisis del UCAM Murcia - La Laguna Tenerife: el UCAM sigue encontrándose** — La Opinión de Murcia
 - 2026-10-11 21:49 UTC · **Trayectoria Nikola Radicevic | Jugador acb | acb.com** — ACB
+- 2026-10-11 19:05 UTC · **España y Latinoamérica se unen a través del deporte en 'Madrid corre en español'** — La Verdad
 - 2026-10-11 16:56 UTC · **Jaka Lakovic, entrenador de La Laguna Tenerife, tras ganar en Murcia: "Estuvimos excelentes"** — Diario de Avisos
 - 2026-10-11 15:18 UTC · **El UCAM Murcia cae en el Palacio ante la Laguna Tenerife (77-90)** — Región Online Murcia
+- 2026-10-11 14:39 UTC · **Clínic de Marcelinho Huertas para aupar a La Laguna en Murcia** — MARCA
 - 2026-10-11 14:12 UTC · **Sito Alonso tras caer ante Tenerife: "A mí me parece un buen aprendizaje siempre el sufrir"** — COPE
 - 2026-10-11 14:00 UTC · **Sito Alonso: "No estuvimos lo suficientemente contundentes"** — Murcia Plaza
 - 2026-10-11 13:40 UTC · **El UCAM no puede en casa ante La Laguna Tenerife (77-90)** — La 7
@@ -38,10 +45,13 @@ Actualizado: 2026-10-12T09:02+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-11 01:29 UTC · **Sigue en directo los partidos de la jornada 2 de la liga acb 26/27** — Flashscore.es
 - 2026-10-10 18:27 UTC · **Trayectoria Marko Popovic | Jugador acb | acb.com** — ACB
 - 2026-10-10 17:31 UTC · **El vigor del UCAM Murcia pone a prueba a La Laguna Tenerife** — Eldía
+- 2026-10-10 15:25 UTC · **El Rayo-Athletic en Vallecas queda suspendido por el lanzamiento de bolas y aviones de papel** — La Verdad
 - 2026-10-10 14:39 UTC · **Liga Endesa: UCAM Murcia – Tenerife / Barcelona – Valencia** — Pensador de Apuestas
+- 2026-10-10 14:25 UTC · **Aficionados del Rayo Vallecano aportan su visión sobre la suspensión del partido en Vallecas** — La Verdad
 - 2026-10-10 14:16 UTC · **La presentación de la camiseta oficial marca el inicio de la 15K Formentera Sunset Run** — Murcia Plaza
 - 2026-10-10 13:34 UTC · **UCAM Murcia vs La Laguna Tenerife: previa de la jornada 3 de la Liga Endesa** — Radio Televisión Canaria
 - 2026-10-10 13:31 UTC · **Feijóo promete gobernar "con la verdad por delante" e imprimir a España un "cambio sereno, pero contundente"** — Murcia Plaza
+- 2026-10-10 13:31 UTC · **Sánchez se reivindica como "perro sin amo" y pide urnas llenas frente al "miedo" de PP y Vox al voto por correo** — Murcia Plaza
 - 2026-10-10 11:57 UTC · **UCAM Murcia pone a prueba la capacidad de recuperación de La Laguna Tenerife** — Mundo Deportivo
 - 2026-10-10 09:53 UTC · **El UCAM Murcia busca el pleno semanal ante La Laguna Tenerife** — UCAM Deportes
 - 2026-10-10 09:28 UTC · **El UCAM CB busca frente a La Laguna Tenerife su tercera victoria en casa de esta semana** — Infobae
@@ -53,41 +63,22 @@ Actualizado: 2026-10-12T09:02+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-10 04:03 UTC · **El UCAM CB busca cerrar una semana triple del Palacio ganando también a La Laguna Tenerife** — Murcia Plaza
 - 2026-10-10 01:29 UTC · **Trayectoria Oscar Quintana | Entrenador acb | acb.com** — ACB
 - 2026-10-10 00:37 UTC · **Vídeos y noticias de Dino Radoncic** — ACB
+- 2026-10-10 00:00 UTC · **El Lorca se muda a El Rubial para recibir al Baleares** — La Verdad
 - 2026-10-09 22:52 UTC · **Vídeos y noticias de Alberto Martín** — ACB
 - 2026-10-09 22:31 UTC · **Temporada Ehimen Orukpe** — ACB
 - 2026-10-09 22:30 UTC · **Temporada David Barlow** — ACB
 - 2026-10-09 20:43 UTC · **El UCAM CB sub 22 vence al Amara Lleida a domicilio por 73-86 y firma el dos de dos en el arranque liguero** — Murcia Plaza
 - 2026-10-09 20:05 UTC · **La Laguna Tenerife ante UCAM Murcia: un muro con 16 triunfos** — Canarias en Pleno
 - 2026-10-09 19:38 UTC · **Vídeos y noticias de Charlon Kloof** — ACB
-- 2026-10-09 18:45 UTC · **Vídeos y noticias de Igor Lutersek** — ACB
-- 2026-10-09 18:41 UTC · **UCAM Murcia, nueva exigente salida para La Laguna Tenerife** — 8SPORTS.es
-- 2026-10-09 18:35 UTC · **LIGA U, Amara Lleida - UCAM Murcia Juver** — SPORT
-- 2026-10-09 18:29 UTC · **Nicolas Winding Refn convierte 'Su propio infierno' en una hipérbole de su estilo** — Murcia Plaza
-- 2026-10-09 16:48 UTC · **Zonas de tiro Conner Frankamp** — ACB
-- 2026-10-09 16:33 UTC · **Vídeos y noticias de José Ángel Antelo** — ACB
-- 2026-10-09 14:07 UTC · **El arsenal exterior de UCAM Murcia, principal amenaza para el Canarias** — Radio Marca Tenerife
-- 2026-10-09 13:11 UTC · **Sito Alonso: "No tenemos que obsesionarnos con Marcelinho Huertas"** — Onda Regional de Murcia | ORM
-- 2026-10-09 13:09 UTC · **Sito Alonso se deshace en elogios al 'nuevo' CB Canarias y Lakovic: "Se ha ganado ser uno de los más respetados los últimos años"** — Cadena SER
-- 2026-10-09 12:44 UTC · **Las construcción de la fábrica de chips de Murcia empezará este año para comenzar a producir antes del 2028** — Murcia Plaza
-- 2026-10-09 12:06 UTC · **Sito Alonso analiza la previa del UCAM Murcia CB ante La Laguna Tenerife y exige mantener la máxima intensidad** — COPE
-- 2026-10-09 12:05 UTC · **Baloncesto: Murcia - Obradoiro, en directo | 16/10/26** — RTVE.es
-- 2026-10-09 11:59 UTC · **Sito Alonso: "Tenemos que fabricar todavía esa consistencia de UCAM Murcia"** — Cadena SER
-- 2026-10-09 11:49 UTC · **Baloncesto: Bamberg - Murcia, en directo | 14/10/26** — RTVE.es
-- 2026-10-09 11:45 UTC · **Sito Alonso asegura que en el UCAM CB "la intensidad no es negociable"** — Infobae
-- 2026-10-09 11:36 UTC · **Grimau** — ACB
-- 2026-10-09 11:18 UTC · **Reencuentro con la memoria y arbitraje marcado por el pasado en el próximo compromiso del UCAM Murcia** — MurciaEconomía.com
-- 2026-10-09 11:10 UTC · **Sito Alonso asegura que en el UCAM Murcia CB "la intensidad no es negociable"** — Murcia Plaza
-- 2026-10-09 11:10 UTC · **Sito Alonso analiza el reto de recibir a La Laguna Tenerife: "La intensidad no es negociable"** — Región Online Murcia
-- 2026-10-09 11:04 UTC · **Lakovic: "Tenemos que saber sobreponernos a la intensidad física del UCAM Murcia"** — Radio Marca Tenerife
-- 2026-10-09 10:51 UTC · **Sito Alonso: "Todavía tenemos que fabricar esa consistencia propia del UCAM Murcia"** — La Opinión de Murcia
-- 2026-10-09 10:42 UTC · **“La intensidad no es negociable”** — UCAM Deportes
-- 2026-10-09 10:40 UTC · **Ver Giants @ Commanders Online en Directo | DAZN ES** — DAZN
-- 2026-10-09 09:55 UTC · **Sito Alonso analiza la previa del UCAM Murcia vs. La Laguna Tenerife: "Tenemos que seguir un camino claro sin pasar de la euforia al desánimo"** — Murcia Actualidad
-- 2026-10-09 09:27 UTC · **"Hay que ganar a Tenerife, no a Marcelinho": Sito Alonso analiza el duelo ante La Laguna Tenerife** — MurciaEconomía.com
 
-## Covirán Granada (60)
+## Covirán Granada (50)
 
+- 2026-10-12 18:01 UTC · **Las lesiones lastran al Covirán Granada** — Granada Hoy
+- 2026-10-12 13:19 UTC · **El Covirán Granada escala posiciones en la tabla y persigue a los invictos** — Ideal
+- 2026-10-12 09:37 UTC · **Ty Roberts vuelve al Caja Rural CB Zamora** — ZA3.0
+- 2026-10-12 08:51 UTC · **Ty Roberts regresa al Caja Rural CB Zamora** — Zamora News
 - 2026-10-12 08:44 UTC · **Ya es oficial: Ty Roberts regresa al Caja Rural CB Zamora** — La Opinión de Zamora
+- 2026-10-12 08:36 UTC · **Ty Roberts vuelve al CB Zamora tras un verano de incertidumbre** — Zamora24horas
 - 2026-10-11 21:36 UTC · **El Covirán Granada se aboca a las remontadas en casa ante sus arranques negativos** — Ideal
 - 2026-10-11 20:30 UTC · **Arenas y Churriana golean a Málaga Juniors y Cantoria** — Ideal
 - 2026-10-11 18:44 UTC · **El Covirán Granada, a la estela de los cuatro equipos invictos en Primera FEB** — Granada Hoy
@@ -102,6 +93,7 @@ Actualizado: 2026-10-12T09:02+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-11 08:40 UTC · **Vídeos y noticias de Richard Scott** — ACB
 - 2026-10-10 22:17 UTC · **El Palacio se quita un peso de encima pese a la apatía generalizada** — Ideal
 - 2026-10-10 20:24 UTC · **El Sima Granada mantiene su condición de invicto tras un festival de goles ante el Sporting Almería** — Ideal
+- 2026-10-10 20:23 UTC · **El gran partido del Grupo Ureta Tizona se queda sin premio en Granada (91-88)** — Revista Forofos
 - 2026-10-10 20:19 UTC · **El Coviran Granada logra ante el Tizona Burgos su primera victoria en el Palacio** — Ahora Granada
 - 2026-10-10 20:19 UTC · **El gran partido del Grupo Ureta Tizona en Granada se queda sin premio (91-88)** — Revista Forofos
 - 2026-10-10 19:16 UTC · **Victoria de infarto del Coviran Granada** — Fundación CB Granada (web oficial) · https://fundacioncbgranada.es/victoria-de-infarto-del-coviran-granada/
@@ -119,6 +111,7 @@ Actualizado: 2026-10-12T09:02+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-10 17:57 UTC · **Galería | Encuéntrate en la grada del Palacio en el Covirán Granada - Tizona Burgos** — GranadaDigital
 - 2026-10-10 15:17 UTC · **Segunda salida para las chicas del filial lasaliano - El Faro de Melilla** — El Faro de Melilla
 - 2026-10-10 08:13 UTC · **El Triatlón Nazarí de Almuñécar lleva hasta Úbeda un novedoso duatlón por relevos** — Ideal
+- 2026-10-10 07:00 UTC · **Uno a Uno: Covirán Granada 91-88 Tizona** — Granada en Juego
 - 2026-10-10 06:30 UTC · **Covirán Granada – Tizona Burgos: empezar a mirar hacia arriba** — Agente Libre Digital
 - 2026-10-10 04:30 UTC · **El Covirán Granada, a brindarle por fin una alegría a su afición** — Granada Hoy
 - 2026-10-10 04:00 UTC · **El Covirán, obligado a poner la primera piedra del necesario fortín rojinegro** — GranadaDigital
@@ -130,76 +123,107 @@ Actualizado: 2026-10-12T09:02+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-09 20:32 UTC · **Estadísticas Coviran Granada - Grupo Ureta Tizona Burgos: Resultados Baloncesto** — Eurosport
 - 2026-10-09 19:25 UTC · **El Tizona busca dar un paso adelante ante un Granada que aspira al ascenso** — Revista Forofos
 - 2026-10-09 18:57 UTC · **Resumen del Coviran Granada - Grupo Ureta Tizona Burgos** — Eurosport
-- 2026-10-09 18:17 UTC · **El estadio rozará el lleno para cobrarse deudas pendientes ante el Villarreal B** — Ideal
-- 2026-10-09 18:15 UTC · **El Sima Granada quiere seguir invicto en el derbi de Andalucía Oriental** — Ideal
-- 2026-10-09 16:30 UTC · **El Coviran Granada regresa al Palacio de Deportes con el objetivo de sumar otro triunfo** — Ahora Granada
-- 2026-10-09 16:26 UTC · **Trayectoria Félix Sánchez | Jugador acb | acb.com** — ACB
-- 2026-10-09 16:10 UTC · **El Tizona es el peor en triples de Primera FEB** — Ideal
-- 2026-10-09 15:46 UTC · **Pombar exige al Tizona un salto defensivo ante el Granada para cambiar la imagen** — El Correo de Burgos
-- 2026-10-09 15:36 UTC · **Los equipos almerienses de voley, obligados a enderezar el rumbo** — Ideal
-- 2026-10-09 14:28 UTC · **Onda Deportiva Granada, viernes 9/10/2026** — Onda Cero
-- 2026-10-09 14:06 UTC · **El coro mallorquín de voces graves 'Spiritualmallorca a l'Octava' desembarca en Granada por su X aniversario** — Ideal
-- 2026-10-09 12:34 UTC · **Vídeos y noticias de Miguel Rivera** — ACB
-- 2026-10-09 11:43 UTC · **Arturo Ruiz: “Necesitamos a nuestra afición más que nunca ahora que tenemos lesiones”** — Granada Hoy
-- 2026-10-09 11:13 UTC · **Visitamos Granada con la defensa como punto de partida** — CB Tizona
-- 2026-10-09 10:53 UTC · **Arturo Ruiz: «El Tizona tira 30 veces más que nosotros»** — Ideal
-- 2026-10-09 10:44 UTC · **Arturo Ruiz: "Necesitamos gente para trabajar con calidad"** — GranadaDigital
-- 2026-10-09 09:57 UTC · **El Coviran Granada quiere estrenarse en casa** — Fundación CB Granada (web oficial) · https://fundacioncbgranada.es/el-coviran-granada-quiere-estrenarse-en-casa/
-- 2026-10-09 09:05 UTC · **Covirán Granada - Tizona Burgos: resumen, resultado y momentos destacados** — GranadaDigital
-- 2026-10-09 09:05 UTC · **Covirán Granada - Grupo Ureta Tizona Burgos, en directo** — GranadaDigital
 
 ## Periodistas preferentes (4)
 
+- 2026-10-12 13:58 UTC · **El cambio de agencia de DeJulius no altera los planes del UCAM Murcia** — MurciaEconomía.com
+- 2026-10-12 12:33 UTC · **Jarro de agua fría en Shanghái: Zizou Bergs frena en seco el impulso de Carlos Alcaraz** — MurciaEconomía.com
 - 2026-10-12 04:09 UTC · **UCAM Murcia CF asalta el liderato en un fin de semana sobresaliente para la Región en Segunda Federación** — murciaeconomia.com
 - 2026-10-11 12:42 UTC · **El UCAM Murcia paga su mermada dirección de juego frente a La Laguna Tenerife (77-90)** — MurciaEconomía.com
-- 2026-10-09 11:18 UTC · **Reencuentro con la memoria y arbitraje marcado por el pasado en el próximo compromiso del UCAM Murcia** — MurciaEconomía.com
-- 2026-10-09 09:27 UTC · **"Hay que ganar a Tenerife, no a Marcelinho": Sito Alonso analiza el duelo ante La Laguna Tenerife** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (46)
+## Resto (últimas 12 h) (94)
 
+- 2026-10-12 18:50 UTC · **Valencia Basket - Olympiacos BC: Hora y donde ver el regreso de Jean Montero por TV y online en directo** — Superdeporte
+- 2026-10-12 18:37 UTC · **Valencia Basket se cita ante un viejo conocido por un inicio histórico** — Notimérica
+- 2026-10-12 18:33 UTC · **El Estrella Roja de Ibon Navarro está en el mercado** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2019955/el-estrella-roja-de-ibon-navarro-esta-en-el-mercado/
+- 2026-10-12 18:30 UTC · **Así puedes ver toda la Euroliga del Valencia Basket gratis por TV y online** — Superdeporte
+- 2026-10-12 18:25 UTC · **Pésima noticia para Pedro Martínez: El Madrid pierde a un jugador clave durante seis meses** — Superdeporte
+- 2026-10-12 18:25 UTC · **El Barça quiere rehacerse en el Palau ante el Maccabi** — Europa Press
+- 2026-10-12 18:24 UTC · **El Real Madrid necesita impulso europeo en Milán** — Europa Press
+- 2026-10-12 18:24 UTC · **Slavia Praga-Nymburk aplasta al Pardubice antes de visitar al Bilbao Basket** — BilbaoHiria
+- 2026-10-12 18:22 UTC · **Previa del Kosner Baskonia - Dubai BC** — Teleprensa
+- 2026-10-12 17:39 UTC · **Aguas revueltas en el Spar Girona: "A partir de ahora no voy a admitir una sola falta de concentración y disciplina"** — SPORT
+- 2026-10-12 17:38 UTC · **A qué hora es el Armani Milán - Real Madrid: horario y dónde ver hoy en TV el partido de la Euroliga** — MARCA
+- 2026-10-12 17:30 UTC · **El rival europeo del Surne Bilbao llega a Miribilla tras ganar por 45 puntos** — Deia
+- 2026-10-12 17:12 UTC · **Xavi Albert avisa antes de recibir al campeón: "Se exigirá un nivel físico y de contacto muy alto"** — Superdeporte
+- 2026-10-12 16:56 UTC · **Kyle Greeley ya es el máximo anotador de la Primera FEB** — Menorca al Dia
+- 2026-10-12 16:32 UTC · **Deck será operado y estará de baja entre cinco y seis meses** — MARCA
+- 2026-10-12 16:29 UTC · **Olimpia Milano – Real Madrid: toca confirmar el despegue** — 24segundosenblanco
+- 2026-10-12 16:24 UTC · **Francis Alonso brilla con 27 puntos en la tercera jornada** — Blog de Basket
+- 2026-10-12 16:24 UTC · **Ruzic en el limbo: la NCAA frena su debut en LSU** — Blog de Basket
+- 2026-10-12 16:22 UTC · **Valencia busca mantener su pleno ante el campeón Olympiacos** — Blog de Basket
+- 2026-10-12 16:21 UTC · **Baskonia apunta al pívot camerunés Koloko** — Blog de Basket
+- 2026-10-12 16:15 UTC · **Gaby Deck será operado en los próximos días del hombro izquierdo** — HolaNews
+- 2026-10-12 16:02 UTC · **Gabriel Deck tendrá que pasar por quirófano** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2019912/gabriel-deck-tendra-que-pasar-por-quirofano/
+- 2026-10-12 16:01 UTC · **Trayectoria Andrés Feliz | Jugador acb | acb.com** — ACB
+- 2026-10-12 15:57 UTC · **Deck, obligado a parar por otra lesión** — Diario AS
+- 2026-10-12 15:45 UTC · **El Madrid no puede bajar el ritmo** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2019889/el-madrid-no-puede-bajar-el-ritmo/
+- 2026-10-12 15:39 UTC · **El reencuentro de Jean Montero y el Valencia Basket en el Roig Arena** — Las Provincias
+- 2026-10-12 15:32 UTC · **El FIATC Girona, a por la segunda victoria europea de la temporada** — SPORT
+- 2026-10-12 15:30 UTC · **El cambio de horario del Barça-Casademont Zaragoza evita la coincidencia con el partido del femenino ante Avenida** — El Periódico de Aragón
+- 2026-10-12 15:24 UTC · **Eurocup - Bahcesehir vs. Manresa: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-10-12 15:12 UTC · **El Kids&Us Manresa afronta otro test de nivel en Turquía** — SPORT
+- 2026-10-12 15:06 UTC · **Partizan - Panathinaikos: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-10-12 15:01 UTC · **Preocupación por Gabriel Deck: su entrenador advirtió que la lesión es más grave de lo previsto** — Info del Estero
+- 2026-10-12 14:58 UTC · **Sekulic y Nebo piden el apoyo del Palau para medirse al Maccabi: "Nos ayudan mucho, son muy importantes"** — SPORT
+- 2026-10-12 14:51 UTC · **Horario, canal y dónde ver por TV el Barça Basket - Maccabi Tel Aviv de la Euroliga de baloncesto** — Mundo Deportivo
+- 2026-10-12 14:51 UTC · **Christian Koloko es el elegido para la pintura** — Cadena SER
+- 2026-10-12 14:43 UTC · **Cambios a mejor: 6 jugadores que se movieron dentro de la Liga Endesa y han empezado destacando en la 26/27** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/cambios-jugadores-liga-endesa-mejora-2026/
+- 2026-10-12 14:42 UTC · **La camiseta de Michael Jordan de las Finales de la NBA de 1998 se vende por la cifra récord de 14 millones de dólares** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2019886/la-camiseta-de-michael-jordan-de-las-finales-de-la-nba-de-1998-se-vende-por-la-cifra-record-de-14-millones-de-dolares/
+- 2026-10-12 14:23 UTC · **Christian Koloko es el pívot elegido para el Baskonia** — Diario AS
+- 2026-10-12 14:21 UTC · **Valencia vs. Olympiacos: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-10-12 14:14 UTC · **Francis Alonso, Máximo Anotador Endesa de la Jornada 3 de la Liga Endesa 2026-27** — ACB
+- 2026-10-12 13:49 UTC · **Las cinco mejores jugadas de la 3ª jornada de la Liga Endesa** — kirolakeitb.eus
+- 2026-10-12 13:26 UTC · **Barcelona vs. Maccabi: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-10-12 13:09 UTC · **Río Breogán irrumpe con fuerza en la Jornada 3** — Blog de Basket
+- 2026-10-12 13:08 UTC · **Deportes: Programa Estadio 2, en directo | 13/10** — RTVE.es
+- 2026-10-12 13:02 UTC · **La lesión de Gaby Deck sería más grave de lo esperado** — Bernabéu Digital
+- 2026-10-12 12:42 UTC · **Kellogg’s lanza las Becas FEB K Nada Te Frene** — Diario AS
+- 2026-10-12 12:33 UTC · **Jarro de agua fría en Shanghái: Zizou Bergs frena en seco el impulso de Carlos Alcaraz** — MurciaEconomía.com
+- 2026-10-12 12:29 UTC · **Olise y la cláusula Madrid: el detalle que frena la renovación con el Bayern** — SPORT
+- 2026-10-12 12:19 UTC · **Maxima Roma, el nuevo proyecto que sacude la Eurocup y amenaza al Tenerife** — Canarias en Pleno
+- 2026-10-12 12:16 UTC · **Baskonia hace oferta a Christian Koloko, pívot que sonó para el Barça el pasado verano** — SPORT
+- 2026-10-12 12:05 UTC · **Baskonia vs. Dubai: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-10-12 12:02 UTC · **Los líos se multiplican en el baloncesto francés** — Diario AS
+- 2026-10-12 12:00 UTC · **Olimpia vs Real Madrid: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-10-12 11:59 UTC · **Vídeos y noticias de Armoni Brooks** — ACB
+- 2026-10-12 11:55 UTC · **El Valencia Basket busca pleno histórico en Euroliga ante el Olympiacos de Jean Montero** — Actualidad Valencia
+- 2026-10-12 11:43 UTC · **El Baskonia se fija en Koloko, descarte NBA y vinculado con el Barça en verano** — Mundo Deportivo
+- 2026-10-12 11:42 UTC · **Subotica vs Cluj Napoca » Mejores Cuotas y Estadísticas** — Odds Scanner
+- 2026-10-12 11:36 UTC · **Lo mejor y lo peor de la Jornada 3 en la Liga Endeda** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/zona-gigantes-mejor-peor-jornada-3/
+- 2026-10-12 11:36 UTC · **Movistar Estudiantes vence y convence, 106-76** — El Diario de Madrid
+- 2026-10-12 11:35 UTC · **El campeón Olympiacos Piraeus, la prueba más dura para el buen inicio taronja en EuroLeague** — Valencia Basket Club
+- 2026-10-12 11:30 UTC · **Pascual** — ACB
+- 2026-10-12 11:29 UTC · **Denizli Basket vs Trabzonspor » Mejores Cuotas y Estadísticas** — Odds Scanner
+- 2026-10-12 11:29 UTC · **Zalgiris Kaunas vs Taurage » Mejores Cuotas y Estadísticas** — Odds Scanner
+- 2026-10-12 11:17 UTC · **Mario Hezonja no echa de menos al Real Madrid** — SPORT
+- 2026-10-12 11:02 UTC · **El partido Barça-Casademont Zaragoza cambia de día y hora** — heraldo.es
+- 2026-10-12 11:02 UTC · **Aleksander Sekulic convence a Joan Laporta** — Diari ARA
+- 2026-10-12 11:01 UTC · **Previa de la jornada 3 de la EuroCup: tres españoles ante seis invictos** — piratasdelbasket
+- 2026-10-12 10:55 UTC · **La ACB anuncia el cambio de fecha del Barça-Casademont y el Girona-Penya de la jornada 5** — Mundo Deportivo
+- 2026-10-12 10:53 UTC · **Joel Soriano vuela alto: de un gran inicio a su mejor partido en la Liga Endesa** — Diario de Santiago
+- 2026-10-12 10:45 UTC · **Así está la clasificación de Primera FEB tras la jornada 3: Estudiantes alcanza el liderato** — elDiario.es
+- 2026-10-12 10:44 UTC · **Valencia Basket vs Maccabi: estadísticas previas y datos en directo | Euroliga 2026/2027** — Diario AS
+- 2026-10-12 10:11 UTC · **Trayectoria Ander García | Jugador acb | acb.com** — ACB
+- 2026-10-12 10:08 UTC · **Baskonia presenta una oferta por Christian Koloko** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2019755/baskonia-presenta-una-oferta-por-christian-koloko/
+- 2026-10-12 10:02 UTC · **Procida deja a todos con la boca abierta en el Top5 GWM** — ACB
+- 2026-10-12 09:47 UTC · **Trayectoria Michael Caicedo | Jugador acb | acb.com** — ACB
+- 2026-10-12 09:26 UTC · **Trayectoria Jesús Fernández | Jugador acb | acb.com** — ACB
+- 2026-10-12 09:00 UTC · **Valencia Basket y À Punt renuevan su alianza para retransmitir la Euroliga femenina desde el parqué del Roig Arena** — Hortanoticias.com
 - 2026-10-12 08:48 UTC · **Valencia Basket cae ante el Barça (89-86) tras rozar una remontada de trece puntos** — SempreValencia.com
 - 2026-10-12 08:40 UTC · **London Lions vs Frankfurt » Mejores Cuotas y Estadísticas** — Odds Scanner
+- 2026-10-12 08:34 UTC · **El equipo prepara la visita al Olimpia Milan** — Real Madrid CF | Web Oficial
 - 2026-10-12 08:23 UTC · **À Punt retransmitirá los partidos del Valencia Basket femenino en la Euroliga** — ABC
 - 2026-10-12 08:19 UTC · **À Punt retransmitirá los partidos del Valencia Basket en la Euroliga femenina** — Valencia News
 - 2026-10-12 08:15 UTC · **La NBA prueba balones ‘inteligentes’ para la próxima temporada: “Nadie notaría la diferencia”** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2019716/la-nba-prueba-balones-inteligentes-para-la-proxima-temporada-nadie-notaria-la-diferencia/
 - 2026-10-12 08:14 UTC · **El Valencia Basket y À Punt, juntos de nuevo en la Euroliga femenina** — Plaza Deportiva
 - 2026-10-12 08:08 UTC · **Juego del KO: Cuatro de cada cinco usuarios sobreviven a la Jornada 3** — ACB
 - 2026-10-12 08:04 UTC · **Doce años después de dejar España, Pedro Carrillo vive el baloncesto desde Mongolia** — Solobasket · https://www.solobasket.com/internacional/pero-carrillo-mongolia-entrevista
+- 2026-10-12 07:57 UTC · **Francis Alonso, MVP de la jornada en la Liga Endesa** — Diario de Santiago
 - 2026-10-12 07:56 UTC · **Las tres grandes diferencias de Valencia Basket: así ha evolucionado respecto a la era Pedro Martínez** — Solobasket · https://www.solobasket.com/liga-endesa/tres-grandes-diferencias-valencia-basket-evolucionado-pedro-martinez-euroliga-defensivo-ofensivo
 - 2026-10-12 07:45 UTC · **J.3: Alen Malovcic, la denominación de origen manchega de un nuevo MVP** — Federación Española de Baloncesto
+- 2026-10-12 07:31 UTC · **Trayectoria Lucio Angulo | Jugador acb | acb.com** — ACB
 - 2026-10-12 07:31 UTC · **Tosan Evbuomwan ya da que hablar en el Barça: el descomunal tapón con el que todos alucinan** — Mundo Deportivo
 - 2026-10-12 07:30 UTC · **Ajustes horarios en la Jornada 5 de Liga Endesa** — ACB
 - 2026-10-12 07:10 UTC · **Joan Sastre firma con Palmer Basket y jugará en Primera FEB** — Gigantes del Basket · https://www.gigantes.com/primera-feb/joan-sastre-palmer-basket/
-- 2026-10-12 06:31 UTC · **¿Dos canteranos del Barça Basket llamados a dominar el Draft NBA de 2028?** — Solobasket · https://www.solobasket.com/nba/dos-canteranos-barca-basket-llamados-dominar-draft-nba-2028-kusturica-boumtje-boumtje
-- 2026-10-12 06:14 UTC · **Trayectoria Ricky Rubio | Jugador acb | acb.com** — ACB
-- 2026-10-12 06:08 UTC · **Las palabras de Roberto Íñiguez tras la tercera derrota de SPAR Girona en Liga Femenina Endesa** — Gigantes del Basket · https://www.gigantes.com/liga-femenina/palabras-roberto-iniguez-derrota-girona/
-- 2026-10-12 06:01 UTC · **Las palabras de Michael Jordan sobre la presión actual en la NBA y por qué no envidia a las estrellas de esta época** — Gigantes del Basket · https://www.gigantes.com/nba/palabras-michael-jordan-presion-actual-apuestas/
-- 2026-10-12 06:00 UTC · **Umoja Gibson, una apuesta de riesgo con premio para Sekulic** — SPORT
-- 2026-10-12 05:51 UTC · **586 días después, Kyrie Irving vuelve a las canchas de la NBA** — Solobasket · https://www.solobasket.com/nba/586-dias-despues-kyrie-irving-vuelve-a-las-canchas-de-la-nba
-- 2026-10-12 05:36 UTC · **Las lesiones que quitan el sueño a los Lakers antes del debut** — Solobasket · https://www.solobasket.com/nba/las-lesiones-que-quitan-el-sueno-a-los-lakers-antes-del-debut
-- 2026-10-12 05:28 UTC · **Coro de NBA para Doncic en Roma** — Diario AS
-- 2026-10-12 04:15 UTC · **Liga Endesa: Obradoiro le gana al Lleida un duelo de infarto** — Blog de Basket
-- 2026-10-12 04:15 UTC · **Gaby Deck preocupa al Real Madrid: lesión más grave de lo esperado** — Blog de Basket
-- 2026-10-12 04:15 UTC · **Karl-Anthony Towns, muy decepcionado con los Knicks: en serio peligro su renovación** — Blog de Basket
-- 2026-10-12 04:11 UTC · **Howard quiere salir del Baskonia rumbo al Zenit** — Blog de Basket
-- 2026-10-12 04:00 UTC · **Un fichaje de lujo para un rival del Cajasol Coto: el Palmer Basket ficha a Joan Sastre, un escolta con 490 partidos en la ACB y que jugó con España en Vista Alegre** — Diario Córdoba
-- 2026-10-12 04:00 UTC · **Valencia Basket: un año para la eternidad escrito con letras de oro** — Levante-EMV
-- 2026-10-12 03:19 UTC · **Trayectoria Rafa Martínez | Jugador acb | acb.com** — ACB
-- 2026-10-12 03:00 UTC · **Horario y dónde ver gratis el partido Casademont Zaragoza-Basket Landes de la Euroliga** — heraldo.es
-- 2026-10-12 02:34 UTC · **Trayectoria Jaka Blazic | Jugador acb | acb.com** — ACB
-- 2026-10-12 01:39 UTC · **Trayectoria Pepe Sánchez | Jugador acb | acb.com** — ACB
-- 2026-10-12 00:33 UTC · **Baloncesto: Bilbao - Slavia Praha, en directo | 14/10** — RTVE.es
-- 2026-10-12 00:27 UTC · **"Es más grave de lo que pensábamos": preocupación por la lesión de Gabriel Deck** — Diario Panorama
-- 2026-10-11 23:32 UTC · **Lesión de Gabriel Deck: Real Madrid ante Olimpia Milano** — KarloBag.eu
-- 2026-10-11 22:34 UTC · **El Barça cambia su destino frente al Valencia** — El Periódico
-- 2026-10-11 22:28 UTC · **Programa Estudio Estadio. El debate, en directo | 12/10** — RTVE.es
-- 2026-10-11 22:21 UTC · **J.3: Maggie Doogan se estrena como MVP a lo grande** — Federación Española de Baloncesto
-- 2026-10-11 22:17 UTC · **Rodríguez, tras la derrota del Granca en Alicante: «Toca tratar de reflexionar cada uno lo que hizo mal»** — Canarias7
-- 2026-10-11 22:06 UTC · **El Real Madrid visita mañana al Olimpia Milan** — Real Madrid CF | Web Oficial
-- 2026-10-11 22:02 UTC · **Mirai Euskotren sigue en racha y el Inversus Gernika y el Kutxabank Araski caen derrotados** — kirolakeitb.eus
-- 2026-10-11 21:37 UTC · **Xavi Albert: "El equipo ha dado la cara hasta el final, agarrándose al partido y luchando, aunque no ha caído de cara"** — Mundo Deportivo
-- 2026-10-11 21:26 UTC · **Basketball | Malaga vs. Barcelona** — DAZN
-- 2026-10-11 21:25 UTC · **Trayectoria Yankuba Sima | Jugador acb | acb.com** — ACB
-- 2026-10-11 21:22 UTC · **El Spar Girona no levanta cabeza e Iyana Martín se lesiona** — Mundo Deportivo
-- 2026-10-11 21:08 UTC · **La Penya se rindió antes de tiempo en Vitoria** — SPORT
-- 2026-10-11 21:06 UTC · **Valencia Basket compite sin premio en el Palau Blaugrana** — Cadena SER
+- 2026-10-12 07:09 UTC · **El Real Madrid se afianza en lo alto de la Liga Endesa** — Blog de Basket

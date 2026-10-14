@@ -1,9 +1,866 @@
 {
- "actualizado": "2026-10-14T19:16+00:00",
+ "actualizado": "2026-10-14T22:24+00:00",
  "ventana_horas": 72,
  "total": 400,
  "nota": "Avisos de noticias detectadas. NO están verificadas: comprobar siempre en la fuente original. Los enlaces de Google Noticias (enlace_es_google=true) no se abren directamente: buscar el titular.",
  "noticias": [
+  {
+   "titulo": "Kravic y Gauzin, veteranía y juventud para el Covirán",
+   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkxweHFZcU5GcXd6QUZRci1sdGdQMkVQbVBESDRTR1QzeWtTbTlReGg0c2RLbldScTBRRFlGYjQ4RF96U3ZnTkhZVVluejVFSFRNdGNmVHYzNDdwM1lQUmsxSEcza25UbVR4dHBEemY2VVJwQ25MX1V4amNyYUdsUXpWRWZNUXBMQy0yTzZEYmhTQ3VBbzRuQURpelBLTEVzc3dxMVZnbU9oSjFnTEVpZG1n0gG3AUFVX3lxTE13S0FtWFNxSXZwZ0RWX2xxOG4yMTlNNGVpd3hmUmdKQ2JNTGRYQVlOZXBNUXlHWU1TLUtFYVZSTGFNcDRuMC14V3VaVzV6WmhIRk5YZHVUWms3ajB3UTlBX0Jzc3I0NmZXZllSc1lXS2xGTEZKMk9SRmRFX2NsaThwU3FKTU44NHdBeng1VUk0eFQtQlozZFBIWURIQXFHaE1iNG1McWgzWkM5OUdyVnQ4dm5uaGdoOA?oc=5",
+   "medio": "Ideal",
+   "resumen": "",
+   "publicada": "2026-10-14T22:12+00:00",
+   "enlace_es_google": true,
+   "id": "cb19c3d1a487",
+   "etiquetas": [
+    "granada"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Covirán Granada",
+    "Google Noticias · Primera FEB"
+   ]
+  },
+  {
+   "titulo": "Mariona Ortiz escribe su nombre en las listas de los récord de la EuroLeague Women",
+   "enlace": "https://www.gigantes.com/euroleague-women/mariona-ortiz-15-asistencias-euroleague-women/",
+   "medio": "Gigantes del Basket",
+   "resumen": "",
+   "publicada": "2026-10-14T22:03+00:00",
+   "enlace_es_google": false,
+   "id": "636f09824303",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Gigantes del Basket",
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Brycen Goodine vuelve donde lo dejó en el Alimerka Oviedo Baloncesto: \"Pensé que mi carrera terminaba para siempre\"",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQV8xYWhJclJvZ2NLOGd2MGxsNVB0NU9lY3BpN1lFcUV4LUdUT2hoaXRvekxyTTFmZEpZQzk1aTVaWnNIUEs0Z2hIOXg5VE01WEJPZEU5czRyd1BrMjh4V1JEVTg1NWU5YUxxbmNzcVZYOXlER0hYNmdhQnZwNC1IWXZUZTJNX0lnZE4yTkhQcmJKeFp0TmdCOVBHTzF3LTczb2Y5dzVR0gGrAUFVX3lxTFB0QVhKb3V1bXBtbi1sMjlidDlGYkJPYUhRMHhFNGVRQmh5RUF5cVl1Zjdjbk1GeWxRR1Uxcy1GTW5WaU9mOFFKSzJ5djZHYVB2NHJOLTlGYW53N0YyV2xvZFJEMGlCYjR5YzFCU2t2eVhZZ0RULW9hYlZka25NTzhvaWNhamVZcFRrckNySFpUS1loZmFxbEFGb0pfYWxBbGgtWlBUN0NyTlhlcw?oc=5",
+   "medio": "LNE",
+   "resumen": "",
+   "publicada": "2026-10-14T22:00+00:00",
+   "enlace_es_google": true,
+   "id": "136b95291e81",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Primera FEB"
+   ]
+  },
+  {
+   "titulo": "77-49: El Spar Girona coge aire con su primera victoria, contra el Ostrava checo",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQUFUR21CYk1XRDZTMnhkUW9QZzB5Z0Q3cjZiQnlHWFU3V2lySndUblF1SHU4OE9ES0o5dXFSSElSWXA2ZF9NbURFVnJwMWRNTDVMR3lxQy1Hdnd0STBVVmNudmdnQ1JZVUwyRGpjbjM0NE55V0s2U3hJd0h6OEMwYW9KbzBPaEZUSS1zYjVaU0RSTzItMnBnUDlUVEVNMXExQVZsRXhkcWFzbUhjUnJ4b0djXzZpaDNxNTU4aUhBYjlfYWvSAdABQVVfeXFMUEMzWDVVMHJrS3dEQi1aWXpDMEJkc19GeUVUTjZoWVlUNDhWaE1EQnEwb1dNNlp6X0F0cU41a1F5LUZ0dkNtR2NvbjdqTWl1U3Y0V3NOMDN3TE14NnBmX0ctbHRJWTJyTVhwc1BCT2NSWHB5NGswRUdhSXBxMGczaTJoWjlTeGJfVHFwbjRIc1BHWm9tM3A4MkN4djl3UHBpaHVkWGZNZEZQNHBsRVFwclgzNmdmVzQ5dHhZclV2bWxWSDJQQU5TN1prUkVOR0dicQ?oc=5",
+   "medio": "Mundo Deportivo",
+   "resumen": "",
+   "publicada": "2026-10-14T21:48+00:00",
+   "enlace_es_google": true,
+   "id": "f9dcee7329f0",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · EuroCup"
+   ]
+  },
+  {
+   "titulo": "La Laguna Tenerife, sin problemas ante el Maxima Roma",
+   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2dCb2lwRF82Z1FybmlkS21VOFVkYnJ6WUFnNmxHQ0tJY0dLd3l3ekFkaThjajV5TXBUUFFKQjdyS2VDc2luMDRMUmplb2ZickJPV0xKY3YyUjNzM0tEZmVQZWF0cGYxWkdzTXF5LXpjaFY2TG9rbTZpYVBfaHUyd0pjSG5URGFXUXhtVk5ZaEp3MndtQk1hNUJLbWI1d9IBsgFBVV95cUxNTFFRa05fWXh3UUl4SEpGZWhPa2wxc3lldmU2clF2bGZ6Y0JXWnExQUdicERSYzNjMjZRMmpzako4bjJNQjJoaHV5R0Z4TUtEajFya2I1TFYwZlhibHJJVWJwQ1N6dmRDRFMzUjN4bUtsRXJfRFROQ1FxbEtlQldINzVSZ3FIT2RLNE9aQk5LZFRyVFViLWoxNW5BQVpYRnJSS3IyREtwdktkbFZuZnczWXR3?oc=5",
+   "medio": "Diario AS",
+   "resumen": "",
+   "publicada": "2026-10-14T21:35+00:00",
+   "enlace_es_google": true,
+   "id": "a996aa11760e",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · EuroCup"
+   ]
+  },
+  {
+   "titulo": "Ganar sin brillo también suma",
+   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TazU3QVg5LXpjZS1xQjI4UC1xRXhQV19XQVFlc2pMNlFBR1EzU1VOeXR3Z3R2TW8wNkpVTl9JLVdaYXVfOFhVcjA0N1ZlWkpSTDZ6V2NfLXM3ajJoY0xmUFloVDhscEdlNmwxMHFuWQ?oc=5",
+   "medio": "Radio Popular de Bilbao",
+   "resumen": "",
+   "publicada": "2026-10-14T21:28+00:00",
+   "enlace_es_google": true,
+   "id": "0ad5ae0227f4",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · BCL"
+   ]
+  },
+  {
+   "titulo": "Primera jornada de la EuroLeague Women: Casademont Zaragoza remonta de forma agónica",
+   "enlace": "https://www.gigantes.com/euroleague-women/que-ha-pasado-j1-euroleague-women-zaragoza-valencia/",
+   "medio": "Gigantes del Basket",
+   "resumen": "",
+   "publicada": "2026-10-14T21:22+00:00",
+   "enlace_es_google": false,
+   "id": "4d36634d06d4",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Gigantes del Basket",
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Asisa Joventut vs MoraBanc Andorra 14 oct 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdnUyQTNtZUprbUdpSFhFbENfV3dBOFhBNkxWdGJJdldic2hxb3FZV3BhVld2V0N1WnBfRmdleHl0ZXRjbHhYNzl3TjIwOWg1alFya2Q2U1ZyT2VXWGdMS3lnT1VtcTFraUc1TF80Y0VreHM2WkRXWWZxTWZqU181UlhWR3ItQV9yU0E?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T21:21+00:00",
+   "enlace_es_google": true,
+   "id": "2709e1c390a5",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Liga Endesa"
+   ]
+  },
+  {
+   "titulo": "Resumen de EuroCup: Cara y cruz para los españoles",
+   "enlace": "https://www.eurohoops.net/es/eurocup-es/2021068/resumen-de-eurocup-cara-y-cruz-para-los-espanoles/",
+   "medio": "Eurohoops",
+   "resumen": "",
+   "publicada": "2026-10-14T21:19+00:00",
+   "enlace_es_google": false,
+   "id": "3effda241e46",
+   "etiquetas": [
+    "eurocup"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Eurohoops (español)",
+    "Google Noticias · EuroCup"
+   ]
+  },
+  {
+   "titulo": "Theo Maledon, mejor jugador de la segunda jornada",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMFNQSzYxdDlBZ1lobTlVRDFodnhjVHlrMm55bTV3dTAwaC1BYjdhbUhuanM0Skh5NGN4eUNWcndwZTVVbVBjZUQzdzlHSlBoOUJ4M2FyNWZPVzQySENCZjJSd0pTYUlGR2dmdkdsS3B5c05LbVRrNGxYN3V2bzVhd0FsUzdvOWlMcnZjMjlpRm9QUE50d1hwTExXWmFVcm1GNFHSAbwBQVVfeXFMUGxLQXhvMjhvSjNrYlVPdUJ5YXc2dnR5TzZzTGhqTU1sV05FQS02ZnFwSmR5a0ZhV0RmMy1lSWpyNExVVmVXVjRZZE8wcnNhb3A5UUpYTmRXTk9pbUY0NHBKc2RqLVc5M0pYXzdZdjIxNTQyaThTNW8ta2hIT0wyNGxSc0ZYcG5lMXlyRzdnbGhmVkVjQjZIVEhwaVZVeXB1bVh5TmxGN09GMFhNZkt5RTk1VUZxMFliYXVoTXI?oc=5",
+   "medio": "Infobae",
+   "resumen": "",
+   "publicada": "2026-10-14T21:16+00:00",
+   "enlace_es_google": true,
+   "id": "1315c3d23572",
+   "etiquetas": [
+    "granada"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Covirán Granada"
+   ]
+  },
+  {
+   "titulo": "Resumen de la BCL: Día perfecto para los españoles",
+   "enlace": "https://www.eurohoops.net/es/fiba-champions-league-es/2021058/resumen-de-la-bcl-dia-perfecto-para-los-espanoles/",
+   "medio": "Eurohoops (español)",
+   "resumen": "El miércoles se disputaron cinco partidos más de la segunda fase de la ​​Basketball Champions League con victorias para UCAM Murcia y Surne Bilbao The post Resumen de la BCL: Día perfecto para los españoles appeared first on Eurohoops .",
+   "publicada": "2026-10-14T21:16+00:00",
+   "enlace_es_google": false,
+   "id": "79dabc7635e1",
+   "etiquetas": [
+    "bcl",
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Eurohoops (español)"
+   ]
+  },
+  {
+   "titulo": "75-64. Meins Avenida supera al MBK Ruzomberok en un duro estreno en EuroCup",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUo5c19QVVVCZDB0bUYweUNyWDBDWUt6RmRvVWszay1SVlBLSEhxRWtDMWl1TnFaLVRGNWtwOGkzNDkxRWhYN1pqbkNGOER0WEoyVGttWDZQcUkwZ01rLTVoTjBTTFIyVlhvS2RKaWh2U0d1bHZVdjBDYUE3VzU0aVlwS09saTVWZUJmek1CN2FXSVlyaS1qWXZfYkhRMXFfOExEMC1NZERaczJvZ0VYUVliV28wOXFObGdJYUgzY1BPWkpO0gHfAUFVX3lxTE10V1FtR0dpd3JLcV93cGo0Yy1ZYl9WUlZkTjRWcms0WGROcnNiUExONUd2SktSclBVdFBfSnRJczEweXhyb0tnWFE5Z0FDcUJfZjIzZVpETlE0aGFoZmVUQWIyWVdoVWNkWFRXVzJMdnV1S1pUYS15b3FvV3dTS1lGNVhuZC1lMGFVMW03UXFMNkNxVEFJaDAtR3BWVjN0MVdFMWN0OUY1Y1ZBUUtnUU0wY0tZREE3Q2RONFhTWXRiWVdFTEtRb3VmVzB3QWxmX0x0bXQ2amRqVkQzRW8zSlE?oc=5",
+   "medio": "Infobae",
+   "resumen": "",
+   "publicada": "2026-10-14T21:16+00:00",
+   "enlace_es_google": true,
+   "id": "a6ac53d2d3f4",
+   "etiquetas": [
+    "eurocup"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · EuroCup"
+   ]
+  },
+  {
+   "titulo": "Resumen de la Euroliga: el Hapoel supera al Besiktas, victorias para Bayern y Virtus",
+   "enlace": "https://www.eurohoops.net/es/euroleague-es/2021059/resumen-de-la-euroliga-el-hapoel-supera-al-besiktas-victorias-para-bayern-y-virtus/",
+   "medio": "Eurohoops (español)",
+   "resumen": "La quinta jornada de la Euroliga terminó con tres partidos cargados de emoción The post Resumen de la Euroliga: el Hapoel supera al Besiktas, victorias para Bayern y Virtus appeared first on Eurohoops .",
+   "publicada": "2026-10-14T21:14+00:00",
+   "enlace_es_google": false,
+   "id": "2e5f2960f90a",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Eurohoops (español)"
+   ]
+  },
+  {
+   "titulo": "El Burgos supera al Obradoiro en el tiro de tres y en el rebote ofensivo",
+   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JENkRiSHlGUVQyVGxIZHNOWjZra3dvMlY3OXpvcGxINkNYb0lUWjB5cllCendMNWFrZHFnMWtoQVMzWXJHMEdTbVAwNmhuRU1HQWxGZmFmcXI3dXcyTWdoZU1JUFVMMjRwMWJ6ZF8tWXpVMEpLOVhzU3g0c3NaWXFwUHhlSEY0Q3NWaW9DaEtZT3p2aXlfb1JYcjkxR2ZMQVRZSURrTlF5SGNyT0ZXNEV1SkFzbWdKQmE4ZHpES0kzSGdiNXZ0MTBFSTllSXB30gHsAUFVX3lxTFA5RzFfOXNkdEVONFhJNjNFekFWaC1aMHFSNE12TzRuZWlPdFkxZEZKdm5CUTB1OHZHbmpWZGJmODZxaGxOeTloeFNkWWJwa1JHaTlFZzlYMDNvNk83MHlYY2NJTEszLVo3amkxZ0lQQkhBRklyQlpyUXd0Y0VmZXI5M3Q5NjFVLTVoT3lUenU5U0ZxQXpMMEZjVDY5UW94d18wQ3hxZGJ1Y3VHNTFVanl3RThNYkkxNjkwcE91X3RyeElhRFo4RGFLUUpISnlTSVRjXzUwUHdmeTEwQTIyMEJGRW9xa3pFQktlcDJN?oc=5",
+   "medio": "La Voz de Galicia",
+   "resumen": "",
+   "publicada": "2026-10-14T21:08+00:00",
+   "enlace_es_google": true,
+   "id": "c42a9d1afac1",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Primera FEB"
+   ]
+  },
+  {
+   "titulo": "Un UCAM muy sólido gana y convence en Alemania",
+   "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZEdobXNzZllBZGJsMFpOV041emxIUXNMaUdTUkVIR3Nyb21SR29mM3h5OGd1ZFVxOE5fR3hIMVowTXlIbjViQ2dFdm5TaTlRTHl5S3JkUi1jNEdtTHRrSXNMajdvOEdYWmpMM3g3am1VTjlCcHN1d0hxMVV0djRoZHdFQ2E0dXM?oc=5",
+   "medio": "Onda Regional de Murcia | ORM",
+   "resumen": "",
+   "publicada": "2026-10-14T21:06+00:00",
+   "enlace_es_google": true,
+   "id": "3e2977b6565e",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB",
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "Rodillo aurinegro en la Eurocup (96-71)",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGdfNG9Hbzk2T2xya0FBeDRMNFhkaWNTZjZDUk44ckJsNVZ1czlhQTMtSWxpNkUxV0JibWt1ZFFmRy1uak03cGZ4QjZFNmh3M3RPQUIyYndabGNLd21PU3BnWllpNy1fY2xLb3FzbDZkZDF2d0pfUHQ1YkVVbWZDeUNTY1JNblNLMnpqNkR6MVNQVnFRaDFSdmZzQlAzdkJOS2fSAbYBQVVfeXFMTVE4VlA5dWlUd0diTWtXZzZxNnBpVE1qRUdTV3I2LUN3TVQ2Mmd3cUR3T29MSGpXYUg5NzhjcHBEbkx6WjdGbUNmcDNuWnU1OUh5emRTd0p0ck5lRENYLXI1TUxJNThPZmJtczBzN1VTS0xrY0RzcVVHbHRYOE5qa2FmcTRfX29PdXJXSmhjazNBRVRpNnM5LTlXNUdZQS15b2xLRTFVU1FNd0FHWXNjWGVTMWQtb0E?oc=5",
+   "medio": "Cadena SER",
+   "resumen": "",
+   "publicada": "2026-10-14T21:04+00:00",
+   "enlace_es_google": true,
+   "id": "d4376ae410a1",
+   "etiquetas": [
+    "eurocup"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · EuroCup"
+   ]
+  },
+  {
+   "titulo": "Raquel Romo: «Nos viene muy bien este partido. Es el nivel de Eurocup, el nivel de dureza que sabemos que nos vamos a encontrar»",
+   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOTBNRlRmeTcyU3FlcTYtTEVwOWlIR1VOa0dmNTYzcjlyaVh0aDIycUlCSDBtaEk3ZUtpbVdRcHNOQUhheVZEdkliSEpJVS1pUFU1bkhMZVhTNG1kQ1VjajMxYUF1bFhVTno5WGhnbTlHU1JMMWliTlh1ZFlfWjJ4VkZOOEdCTGRHMVM0UnNlWXNVWkcwZE9oWmx5MTdwMG02d1dDdEZNaHZMelV2MnZsdnExV2JWY1ZlNzY3MGhiMkpkcWE3M0t4WjNiYVQzRzh3Y2VQMy12Ung3Z9IB3wFBVV95cUxOSEJROUlKODFsbFBQTnp4aUJBWjJidC1Ga3JTdjJqYnZ2OHltYjU5XzY0TThIbVFKTHRlUEdlYWh5bU1xN2dwWE8xMk1hUnJ5bERyaGVSTjVwdGdmNUF2akRlaEloaWlGdTNjQm9nQk9rVHZjOThxX2owN2JrVFVPVFJJTmpzdldYVTBYTjhHTGczZkI3ZU4ybFc0aUZCTUlNT2VVTFF2eWhKQlk3bWdSNFdGZHRqMG81V1JCT1h4cy1fME83U1NMY0NBVkJQbFFqbDB3VWtIdWdGRDNDOWNj?oc=5",
+   "medio": "La Gaceta de Salamanca",
+   "resumen": "",
+   "publicada": "2026-10-14T21:04+00:00",
+   "enlace_es_google": true,
+   "id": "7863c16ed099",
+   "etiquetas": [
+    "eurocup"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · EuroCup"
+   ]
+  },
+  {
+   "titulo": "Romo, tras ganar en Eurocup: «Trabajaremos para usar el plan B cuando los partidos sean de esta dureza»",
+   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFNTODJhZnF3T3BOQ1ZfanFGZ3A1RFh3cXpTc2hlZm1XeU9FN1lHMmhwbjRFc2FrU3U2Sl8za0V4djNNeVU5TzNPWXVwaHRLMi1LMWs4bEpNbEJYWmZUMUhoMVdwQ3ptYkx1eHVnQlRIQWVVTFNZZDg3Ry1RZDA2VlY4ZDZuZmNDaXV0RTBuSzkyZkRTUGFDczhkVU9sek5TYjQ5cDZXcFJUWGk3QlZkMVJJcmk5U3FLbm9hUVR4LTRlRkxRYWQyVmpSTdIB0AFBVV95cUxNNUZ2NGg1eXpzVkRSMXNXbWlDeFBVWERsUmJzdTNaSW81ZVpiV1NYZTVLQS1BOWQzMy1SQjJPampkQnp3MWhPcTR4bDIwcGxVZGhrS000b1NwVVQ5SVVxZ1B1M29KcU9sZHoxMWdjZ1RPNkxnZVQzQWNUWmpkb1VFa0RkYjFDMUJveENOenZVSkFSaS1RZkhBay1NSzdqbDVYMG1Ka3JVdE85ZUhFWEtySzFNVmpIbkc4MlBUM3F4S3dhbUFYQjBzTWRoOGtGRVk0?oc=5",
+   "medio": "Salamancahoy",
+   "resumen": "",
+   "publicada": "2026-10-14T21:01+00:00",
+   "enlace_es_google": true,
+   "id": "04bae27d1e4b",
+   "etiquetas": [
+    "eurocup"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · EuroCup"
+   ]
+  },
+  {
+   "titulo": "Virtus Bologna vence a Paris Basketball 96-94 en un emocionante duelo de la Euroliga",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb1R0SFktZkN0MTZtR2NtS1JIbXd2RDZTaXNSU0ZhZlI0WGs0VEpyUXA1ZFlaRjNwOENqdDQxa1NORC0wM1FEeFNwalo5VE1IejlCb0lyVENZWnB3TlJ3akJhclhPdEZKVXlYSE9DenhBRDlnVXZjNE5iVlVmNEJkLXlnbzVwdlUxV0h0UzcyejRWU1AyX1dJYkRQYnFLd1hmU2EzRHF0ZWM0ajZKTzdjNDVSTHZGTEd3b3c?oc=5",
+   "medio": "Sofascore",
+   "resumen": "",
+   "publicada": "2026-10-14T21:00+00:00",
+   "enlace_es_google": true,
+   "id": "16e9c5446bf5",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Carlos Cantero, entrenador del Casademont Zaragoza: “Aprender ganando sabe muy bien”",
+   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYjh3RW9JX0tEckF1TUZrWU9kU2ZQSVZRSk03dDB4Z2gzVmNBOHhFanBXSm16bXRQZGc4LUs1TkFyb0RENFBWSnBOUkk2cVZaYnF0ZnFYYmk4ek5nY2ljUFp2aWlPWnJtVVFBdFBUbVBDUUZJQS1FZUZrS21FZXR4cURKaHJrN21KTGVwNEdRZXpKd3FObmJOTjZoRERkakp3S0pOMGwya3hSNS1udjN0OGlTWkRsakZwb1A1QWE1Z1hMdjhGZ2tiTzZneGp0VXVMWHhmYlM5bmRsa1lZbWVvRWo0SWdfdjA?oc=5",
+   "medio": "heraldo.es",
+   "resumen": "",
+   "publicada": "2026-10-14T20:56+00:00",
+   "enlace_es_google": true,
+   "id": "4bccd03f1d63",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Torralba: \"Les hemos respetado demasiado, estábamos agarrotadas\"",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOExPRWVsM3FDeEZXQVJORG41eW52WjhtV2hPa1FRNjlGb0VTOTRNbk1xYkVyRFJfNzhwQnUwU3k2WXAtM1JTR3czOVc0ZTJaRnQ4RnlobTQ3S09CMW5iSjZKUmZYYU1Jc0FmUVlranU5T1lfYzg0NWtMWURPMXdoQ1ItZk9BSWNKel9XVzFOa2tXSDNrYTNYUTZmYk9uZS1NQTlLazc5MXJiMEtyYVhoQ1VkSTdLMzc4blRmM2ozaFhlV3BKeDlN0gHMAUFVX3lxTFBPUF9KVGhXc2RYb0RzbTJJbzQxQ2dlVEFwcGUwYjl3Y3laT2N6eUZKS2JfenRUZGJTZktGMXFlQXpZdG0zWjVqSnNEUXhjVWJxQ3o5amNvb2dZa1hBaW1YQkdVMmhWajdHeWtfNDhmQWhudkpVQlpyNnNHTGVGQ2w2bmVZQXJnbHFWcU8wYlNwM0VjTWFESkQzQXAzU1pEeEtFbkgtcjVaRnB5d2hOQkVKMWNtdXZXM1NMWE1TWE9udEJRS3lPNU9jUHhmQw?oc=5",
+   "medio": "Superdeporte",
+   "resumen": "",
+   "publicada": "2026-10-14T20:53+00:00",
+   "enlace_es_google": true,
+   "id": "7b2be534619c",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Derrota ante Fenerbahce en el Roig Arena",
+   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFNQWm5IUUVjYlNncUZSUG9ZM2otUVFJYUY0QWM0Nzl5OHlHd3lxX2I1Znk4N1hHMzhKQlRCVEJoQmlZZGVaRW9MWVU3MVMwQkgtMHVnajJSS3o3QVdMRGxOOFJ6RlU2YnVwZXh3OVROc1JMeVVMUVJpNGFMUGs0TFAzYXMxYTBfYkl1ZWhlUTYzTHE5VVFWUGJRRUIzVGFzcmpOMDFtUU42RG8?oc=5",
+   "medio": "Plaza Deportiva",
+   "resumen": "",
+   "publicada": "2026-10-14T20:40+00:00",
+   "enlace_es_google": true,
+   "id": "537cca67e0e5",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Ricky Rubio es una máquina de crear juego",
+   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXpiaElsSlhGcVM2bzgyNU9fZXlLcW96QngzTmxGNGpOMFJ2OTg5MUNVVnpWT3htbEdaYlFNV25RRFhCYzF4UjhDU2pZSldQaTNyektKMWNTVWxKMHk2UWNqZW0xemo3V0MySGd2VHRLVHo1dVU1Rl9kd0pfcU5sYXpzUW1ZMjJB?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T20:37+00:00",
+   "enlace_es_google": true,
+   "id": "61199cf0c2c9",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Liga Endesa"
+   ]
+  },
+  {
+   "titulo": "El mérito de ganar sin jugar bien",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDJLWVpBVm1qcGJvSmdQM3R1ZkJaR3Z0SHVoejZVSE1ncEVkWkFiOXFFcFdJMkp6d09RWENhMzU2REFCUU9qNW5mYk9VNXR6TjVLNXB3dkNzYmx4VWVqQno1dkVSeDhVR25YNnZDU0ZPSldBVkhKVUhKSUtWcEVOaDNUckRBM3htNldOajZZc1BUX3lDQ0ZnblVHWTNVclZkdnVxVTN2WnprME1KMnJIXy1RSTHSAboBQVVfeXFMTkVIdkFKR3BGZTk0NUhrbzdqd0d1dGVNTUw2MjdOZkpUNHlHZW00ZnJSNGpYUElDZnJaeGNTeUh3NWdhQmxpSk10aC1RZEo1d2p6TmpWVVlDbWtIRTRqVkEwbUs0TUtlYkRVcVJ5dFZCOFY0ZTZhYXVldFJSVGlGbkw2dERJWnk4UDhUMlJnYTFVQkl3Q25fdDJXaTlZWjR2a0x5SWRqZUtTQUFwYU5oejdDRDJoWGs1eFFB?oc=5",
+   "medio": "El Correo",
+   "resumen": "",
+   "publicada": "2026-10-14T20:37+00:00",
+   "enlace_es_google": true,
+   "id": "70ecc1fe74ad",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · BCL"
+   ]
+  },
+  {
+   "titulo": "El Bilbao Basket y la rutina de ganar",
+   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcDhMNjhsS1lHLVVWbDFsdnhWWnRxbUZ0eXBDNnc1dDlLbnhfQTlwblJMeTZNQVlodGQ4UHNXVDRkNHo3MVZIWXpsRVI2VnFOd3Zoa2Z1eDVUU3N1R1hiQ3o0aF9UNmJ4U09Sa294Y1BzVUxYdExHd1FLU3c1NTZhR3djeFhOcTRqQnZ3YUcwbnFfT2fSAZMBQVVfeXFMTXA4TDY4bEtZRy1VVmwxbHZ4Vlp0cW1GdHlwQzZ3NXQ5S254X0E5cG5STHk2TUFZaHRkOFBzV1Q0ZDR6NzFWSFl6bEVSNlZxTnd2aGtmdXg1VFNzdUdYYkN6NGhfVDZieFNPUmtveGNQc1VMWHRMR3dRS1N3NTU2YUd3Y3hYTnE0akJ2d2FHMG5xX09n?oc=5",
+   "medio": "Diario AS",
+   "resumen": "",
+   "publicada": "2026-10-14T20:25+00:00",
+   "enlace_es_google": true,
+   "id": "b7e5fdcadd54",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · BCL",
+    "Google Noticias · EuroCup"
+   ]
+  },
+  {
+   "titulo": "Baño del campeón Fenerbache a un flojo Valencia Basket (69-88)",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFE5amh2ejV3aXEyLVZjWElrYmV0MS1CWDBEQ0ZyRGE2R1lwSHhFWW5aVUY1QVRxaWNXaTdncWJxWjBZRkV6X21YcFdGR3UxS1llTHd0U1BjLUpxd1oybk56Z2Z4OHBvaWtRSndPVms5dnZ0YUx2c3dsWVR4NFJBeHNTQjZWWmNQM19CTjZTcUlZcFp4aURhMDJDdEVEM0JFdUHSAaIBQVVfeXFMTzlrMVdnSGM4ZFVRNzlBQXNOQS1kYXlqUG5tZjhsSnFiS0l3eWNuamtWdFM2MHlRZjhHYmxYSzh2ZWpoN2pYMl9xU2d5UlhudFhIOE9YVGJvRE5ScVFoZDNFZDFPV3R5SXFiYTd5MlRBOEpXeldVQUlNdXRDcWczbk5OMUdvd3FfOGwzYV8tbzl1d1lhWWRlakRRNFpDR0xGd0JR?oc=5",
+   "medio": "MARCA",
+   "resumen": "",
+   "publicada": "2026-10-14T20:22+00:00",
+   "enlace_es_google": true,
+   "id": "408af5a27e7f",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "El UCAM Murcia va de menos a más en Bamberg para seguir firme en la Champions (67-86)",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcU9HVVdYa2x0amRHSmhQUVpicW9CQ1B5M0NQSE1kbEpYbnBHVDFINE5WNi1yeHpETjJ4T2RzNGV1THZiNlpMX2M2Nk43MjlXT0I0bzR1cWhRYWs4LXlSUXY4emhZOVN4WVZpcnZTTWtMQmFCSjd4Z2c2cFR1WUdCbWpLSlM3SHAyN3c2RHZMcjN4M1FOYU9UeXdMWTVWenJsNmE1N1M3c2ZFVEhYSE51VjJFVGzSAbQBQVVfeXFMUHFPR1VXWGtsdGpkR0poUFFaYnFvQkNQeTNDUEhNZGxKWG5wR1QxSDROVjYtcnh6RE4yeE9kczRldUx2YjZaTF9jNjZONzI5V09CNG80dXFoUWFrOC15UlF2OHpoWTlTeFlWaXJ2U01rTEJhQko3eGdnNnBUdVlHQm1qS0pTN0hwMjd3NkR2THIzeDNRTmFPVHl3TFk1VnpybDZhNTdTN3NmRVRIWEhOdVYyRVRs?oc=5",
+   "medio": "La Verdad",
+   "resumen": "",
+   "publicada": "2026-10-14T20:20+00:00",
+   "enlace_es_google": true,
+   "id": "a265572ff092",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "El UCAM Murcia CB reacciona a tiempo en Bamberg y firma un triunfo con sello de líder (67-86)",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ1hOYmJMTDlmRC1xT1JqVjFVb3NkS3RSNV9HcjIwbkdXcFY5X1NhaDZDSHQ2Mm9haXYtMmJrbWwzZVRGOWRQRzdCal9YVGJFTU5RdV9zUkUwdWxFN0p1SkVHVlNlVjFseXdqSzl5Yk5QM3hNREhwY1M0U3lKMnNMMUxIb1VMOFRsSFNxWXZzZEVsSS00UjZ2Y3U1SXlRckxVclFpczBFSmNBcGpka2JCRHZTd2NVME94YnA0MlBMV3NwdFNNVUpoQw?oc=5",
+   "medio": "MurciaEconomía.com",
+   "resumen": "",
+   "publicada": "2026-10-14T20:12+00:00",
+   "enlace_es_google": true,
+   "id": "dd893ed94f95",
+   "etiquetas": [
+    "periodista",
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Jaime Nadal",
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "La Jornada 2 finaliza con otra marca sideral",
+   "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMEFWNVFWbzUzNTVpOGkwSC0yY1RITkZid3JKY1hEU211YV9QZ050WExMRkx3SzB4WnlnQjlnR3lqWTVmVzZueUpPYzc3QXI0aDd3ei1oWXBPWkxwUUtGQVlCVTlkTlEyUUFGbXUzSjdiXzNCblVCeHlKUU5hWUFfU1h0eU15UFpIMUEzUw?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T20:12+00:00",
+   "enlace_es_google": true,
+   "id": "fd7fdeef6390",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Liga Endesa"
+   ]
+  },
+  {
+   "titulo": "Fenerbahçe pasa por encima de Valencia Basket en la jornada 1 de la EuroLiga Femenina",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVFrQ0tpZy1wVUJ1ZmUzeEJQcjVpNURoaFB6RlowbFdRQUdtRGthNDhhQWN4T1pkSF81bkhhWnlXMnFncFFwOGtxRVFOc1ZfbUk3cmlFVjZaT2VOWTNnWmdJTk5KbXBCUGIyLTRmb001cGt2NGtKOERZYlZNZTA1eUw0c21XRkNrRDhncERNaFRVSW4tUGhOd05hTzZaTWZCdFF4VnAyT1FXNmU4WFplazdJbjXSAboBQVVfeXFMUDFLRzc1NGVIQ1JZWDQyUGMwd0ltTkVYWHlFQ2RSUXlKVVlEU1c0SjBnVHIwdHhkRF9jbHNQUU1kUXp3VVRweDdHRm12U2Q0OF81Y2tGcVVvOGJfb1FuY2JFT3NoXzJZZTM3Q095VzM5eFZUZ0dYZFhwWE1yOXhUVFNuWFRCX01QOFdZc2FvOEc1VndqTVhUUXBFaEJfWnloaGxEYlFTd1JGMU1qbWhWOVl0MW9kczV4bGh3?oc=5",
+   "medio": "piratasdelbasket",
+   "resumen": "",
+   "publicada": "2026-10-14T20:10+00:00",
+   "enlace_es_google": true,
+   "id": "46aa3ac49c05",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Primera FEB"
+   ]
+  },
+  {
+   "titulo": "El 1x1 del Casademont Zaragoza - Basket Landes. Mariona reparte los regalos y Hempe los abre todos",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmtydTdwaW11UmpJSzlMWmY4TTQwUHIweTV0RkpqZEFLbEdKdFRTUGtFNUlzLUVjUktZTEhZZ0NpLXRzSXhEZVVPUG5LeTRGZ0RVaTRJTHRTWnpkVkdHTTUtVktlc0IwUFR4SzdPc1VGZ1JFVjJQSk80VWwtZXRHWjFsTW91OXJxZUZCeXFNa3FWRG54cTRmR2dyQUJUQjI5YUtoOXhOWGRBbUdmY0VPNTB0bHg?oc=5",
+   "medio": "Sport Aragón",
+   "resumen": "",
+   "publicada": "2026-10-14T20:09+00:00",
+   "enlace_es_google": true,
+   "id": "75508e73bcaf",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Qué ha pasado en la BCL: UCAM Murcia y Surne Bilbao no fallan en sus compromisos",
+   "enlace": "https://www.gigantes.com/bcl/que-ha-pasado-bcl-ucam-bilbao-j2/",
+   "medio": "Gigantes del Basket",
+   "resumen": "",
+   "publicada": "2026-10-14T20:08+00:00",
+   "enlace_es_google": false,
+   "id": "41805fdd1d7c",
+   "etiquetas": [
+    "bcl",
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Gigantes del Basket",
+    "Google Noticias · BCL",
+    "Google Noticias · Primera FEB",
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "El UCAM Murcia CB se repone de un mal inicio para imponerse a domicilio 67-86 al Bamberg alemán",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSndPaGJXX1EyVXdoYi1RQWNfX3FKbkotLTlYdUNYbzJGUU1DblBSWEdidFNrMk9DenU4WXZQOEZubDRkN0o4ZmZEamlieWtRUDYxeHMzcXk3NkxFbzZYalRrQVhtWVJ0allwOU1VSWpteUh4R2psZ3cxZnc0SmJRZUV4VHFRb3lKTFprU1VIVXFRcUVTSVhqWENYV0xXY1hZcThKQkpXUDd4YTlIUktBWFhTb0J5Skd6?oc=5",
+   "medio": "Región Online Murcia",
+   "resumen": "",
+   "publicada": "2026-10-14T20:04+00:00",
+   "enlace_es_google": true,
+   "id": "645378a3a11d",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "El Valencia Basket vuelve a sucumbir ante el campeón Fenerbahce",
+   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZC1MWW0yQnF4SnlHeEJxQVlzQVFvWm44OFdhTXNaS25sdWdUV0NmcGhSR3NMWTBBeS1McGcwX2N3Nm1DSHdqVGNLaFJBSnZkRGl3QjZzemljc0k0VTctcDVJdHdFZGo2bERmOTNMWV9VUlE5ZDRhYnJfRFZqT1VPUExTUWhPNGRnOWxRaS1tTkFrZVh0T3dKWElZaVBxbExkMV9zTHdTQXduTEFYdm9RdVdn0gG3AUFVX3lxTE5GS2prTnhfRWU5bU43STNmUzduLUw0eVNpVm1nWXNkS3ktbUxSOGpKTE5saUl2M2o4cUtYQnpSWGZjNjFFZDFDUzJSTUd2MFRJWmI2SVBoM2xBUVdMVlNKektaNURqcnNtOEFDYm90dEZ1M2xweVhGQjAyYzFlenVMTXdwN0ttLVpQUW80X0RJMnlPc3pqQ1RpWnF4ajg3TTNqbHY2dlRxdGpncXZwVmVrdzJSLXpvQQ?oc=5",
+   "medio": "Superdeporte",
+   "resumen": "",
+   "publicada": "2026-10-14T20:02+00:00",
+   "enlace_es_google": true,
+   "id": "5aa2dd92f782",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Theo Maledon, Jugador de la Jornada 2 de la Liga Endesa 2026-27",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbm5xNkRoMnMxQUNvN1c1T2dyWVNXcTlPV0NSZWpLRHE3ME4ydnloLXdvZWlNLWs5OVN6T3hxSmtySkdqZ1ZMUUkzUlFSam91OXVQYkN0NTdRb29MUDJZX3VuVWZ5OGFyVjVpRjAwQ3lrMGFxcW9MQzRybEhzOE8yOFZ0dHFVZ1JWMFZ4SXkyY29PWjVMU2IzYzZic1BEemlBZER0aw?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T19:58+00:00",
+   "enlace_es_google": true,
+   "id": "4129c8946e22",
+   "etiquetas": [
+    "acb"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Liga Endesa"
+   ]
+  },
+  {
+   "titulo": "Timmy Allen, Máximo Anotador Endesa de la Jornada 2",
+   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeEJkcHBKckhvWlZxbUNwUkJLbWdZX25rRWVUYXY1MVFib0ZUczJiUGRxZ3NzX0ZVQWJEUFJGMlNmbjNEZndaTFRHOVpNVnA0VDRUM2UzNDZGNVYzQmhpQlRmdV9HalIyWEwzNUxMNTBnS2N0OU9hVzNxbkR1Y3dHSlFBSWtNSlpnTFpGMVI0NVlzaGZa?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T19:58+00:00",
+   "enlace_es_google": true,
+   "id": "91122b05aea4",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Liga Endesa"
+   ]
+  },
+  {
+   "titulo": "Bamberg 67-86 UCAM Murcia: Forrest lidera la remontada y el UCAM sigue invicto",
+   "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UaHNxdEFaOW1pUU1TMnhJSWgzbkRSLWRaSEl2ZGFER2hHNU5oMUdXVDBYTTI5MENvdEZoSW1MeEJLU3V1TVBrWG5TQ3dTWUZwVHZNdDJRTndnMUItVGpaVldRd0NfX1htQVHSAW9BVV95cUxNeUZ6M05BYnVQd3FlZXNJRHRGZFJvd3c0VzVCZ2NQU0IxbllUcHdOU20xYXQ2MXZuQ2U4cVp5bVlBMVc3bkpPampXS0szeDRNaGttMUhYZ1ZFS3F0SXdDc2hOUmZ1NThUTldQQWZMajA?oc=5",
+   "medio": "piratasdelbasket",
+   "resumen": "",
+   "publicada": "2026-10-14T19:55+00:00",
+   "enlace_es_google": true,
+   "id": "af0188573178",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Primera FEB"
+   ]
+  },
+  {
+   "titulo": "El UCAM Murcia exhibe su poderío en Alemania ante el Bamberg Basket y suma su segundo triunfo en la BCL",
+   "enlace": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPNGxrRDVxWWRWd2lWRnZFVVFJNFdJeW92WVFDVS0xZkp1a05fMHpXejZTTnRWbXF2M3V0R1pwMmwyM1NxUHVhd1ctbktsd1lidm42VlkybW42TXdoa0dybXRkSHVSbzRaR0otU0s1VHRQSFBoUV9oM19aS1N5ZWFnMmhYUUJBcU1WX1ZaZExrcU9kd2VwQmp3V1QzX2RTR1RoUHpYclpDMmViQ1VMZDhOMGMtUnFyVlFFZmtjN1A5YVZ3dmt5N3h2Z011YTJTZDRJZUItMWR0WDctQi1iVVgwY2dFbEZ6bDQ0b2VraG5SbFB6WUo2TUtoN2lLbU5VVFFJWXg4Q3FScHNNUUFPbURVZEdqM05abWFtM0tpcnBkVkpRcTlZeTVqeTJnNURoU284c3JhRENB0gG7AkFVX3lxTE5FbWZpbGI0aFU0ejhFQzRrb0ZxSzZadU1zLTFOV0RJSm14Q0NwbHB0WW5VTGx4VktuVmlrcHF6SEtDUWZzSkVOY29mcFlMbXVxRTVGeFBGOG1kM2ZxRDNsRTZVb1JHVGpJWndpUlBuMVA5NEgwSGpxX0trdTRqeDVRRk5pdUdwc1lNWEVTUThndE5OSk13RS1rNEMzdGs1Q3N6Y1hNbER3LUtRWlBnemtucjI1ZV9PM3hSUmszTEdrZE1ZRlI5R3JxV2ZvZEEwVlRjaTkxZ0pUaHgwRWJMSWVxVUVsLTRodWlGRzhHOE5zbTFmZGhMV0FnNkZFNk9iMHJHZTI2YU1ubjdtZjFNN29WUF85dGYtaGZyQ0RSeEZBT1NIVkdNTzZjb2ZZQktaVXBlYUl6WjVPQ0NvUQ?oc=5",
+   "medio": "COPE",
+   "resumen": "",
+   "publicada": "2026-10-14T19:54+00:00",
+   "enlace_es_google": true,
+   "id": "bf508ea055e1",
+   "etiquetas": [
+    "bcl",
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · BCL",
+    "Google Noticias · UCAM CB",
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "Victoria en Bamberg y líderes de grupo",
+   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGtSb2lwUlk0azJ2VDE0RldaUnVRemdRaVZzeWFGMkFFZGE2MkhpaUdvZmJ0MG9CU21JY19IQ2d4V2RpelJxOXgwQVdDTHFlaVJPQ2k2X0FyNnNuNlFBWVFlRFFiX1lnWlgwUHkwaDBmdnVab3N6MXp5NXRRNTdjZFdzRjNvR1hDWXBn?oc=5",
+   "medio": "UCAM Deportes",
+   "resumen": "",
+   "publicada": "2026-10-14T19:52+00:00",
+   "enlace_es_google": true,
+   "id": "3f82f385eff7",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "La crónica del Casademont Zaragoza - Basket Landes. La Euroliga no sabe volver despacio",
+   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMEJaLWVkQmhRbF9RQ0xPTUphT0ZGQUJublZ3N0RXM21nX3pXTFMxN21reXlMSU9mRGpWTXppd3NwdXY2dWZOMkJUVXBCSlhDODRjbDJEejhUMm1tTGFsbGhGZXk0OW9YZzNnRmp1QVpsUGstTHhMNFBoeWotYUZNZFlmM2V3UjByc3BWN2NtZlV4Sl9MOTl6SEs5MU85WVVnTWJTeGRMaC1HT2EtVmVrczNyOFcwb0tnS3R5aGM4cDhGSWxZLTFYRnowYVFPeVJKQnhqWlBqUktHWkNlWEZTN3lZVDA?oc=5",
+   "medio": "Sport Aragón",
+   "resumen": "",
+   "publicada": "2026-10-14T19:51+00:00",
+   "enlace_es_google": true,
+   "id": "382b7f165c91",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "El Baskonia fulmina a Galbiati y cierra el regreso de Perasovic hasta 2028",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFlnLXlvMkJtVUFVTFNWMzRxbV9rZURsOWRlNDE5S1NKYy1tenl3YWlsZUFHU3FqSlNHdkF1My1zRFlpTlRGTTZHX3VOUkJtQTNZSXdLeE8wbkhleTRqY0lNRi1QVWNDcjFqS3FNLTdFNHJKQUZWR0tlZFlaVjd2MlRQVFdfc0NMM0FnNGVYTlE5WmJLeFVhNGt2b1Y3aG9OXzZyWF9nMWh3WEwtQl9TMGhnUlljU0ZEUjd4b0xEY9IBxAFBVV95cUxQMHRiRzRxQ1FlYnFyWEVBU29vTndTbGFKYjJwUm02ZmZyOVRLUFp4SEpVTWdXWHluV1Q1TmxvS3l0TTJRdjAxODNlUmhRQUdZelpJTW5fckF1ZndsengySVUyUTU0NnlONXo0SFBkV1hFWk9lUG8tazJybHgtNmswcDZEaE1wZThtdzV2WlUyRW0tUVJlajB4eXN5LXlYbGQ3QlhKZWFjb3NSN2R6LWxzb3RWNHhBekhjcnc2ZFhZYXFETDFl?oc=5",
+   "medio": "El Correo",
+   "resumen": "",
+   "publicada": "2026-10-14T19:49+00:00",
+   "enlace_es_google": true,
+   "id": "bb8d5425e0f8",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "El Olympiacos aparta a Tyler Dorsey",
+   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbHgwQkVXN05JZXZqQmdnbUl1bDBTV1VJemtNTkdaalREVm1qamtYaXpIR1ZPaVVlRG1qclBwZjFremZIczdyam9QZXg4dVJTQVh5Qy15UE1NWVQtOWEzbFR0TVlkd1ZOSC1nd01VTzRPUWdNYXpjTnY3eU9pM0hTeC1MVl9Vb1NC0gGcAUFVX3lxTE1RMEdtUV9LMlhiRGpuN21sa25VdUdRbjcxcko5SVdWckxkT2dKQ2xEU1NPQ184UkF6VzRuUFU5bHdiai1rOG9zaXQxcWY2TGFBaVREck9lZmo0Y2toVG53RE43MUpOaUswMkoyT2VGX3plaU5Ha1JIOHFfTkxjWm93bnFkOE5DUEJscDQ5azB0UDhBeGJ0R0JVUjlXSg?oc=5",
+   "medio": "Diario AS",
+   "resumen": "",
+   "publicada": "2026-10-14T19:48+00:00",
+   "enlace_es_google": true,
+   "id": "8952ae040dce",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · EuroCup",
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Sito Alonso tras la victoria del UCAM Murcia en Alemania: \"Cada acción es una final\"",
+   "enlace": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNN0tKU1pXclQwQWhlaE40eWhQcGZHV3Vkb240Z3hqVHY4ZjdYMEQzYmFzWUhud2pUQnVxalVla21XN29LMEhobzBSeU1aTEVxUDlnV2E4VEdETFY1ZnNaNzZLU1cycFVRUFRyRDFER1Y1Mk0wREsxMDZXc1p0ZUd3ZDJSSjRKd09YRUczRzRRb1pEa25SblJSZ2hiX0pXN0JIZDFpZDk4NFFvUzJ1NjBhT0RUcHBLUGI3TF9tYUZGNmJTWU5TMzJWa2xXMnJyWExCRVFQMnZhZk1HT1cxRWo1QWRubkppNXpIVlhYS01SdktTT2NRdDdQNEpvcWZrN3kySDJQbXBJTmJxZWFHR04zcE1Vb094dGxQSkg2LdIBnAJBVV95cUxNN0tKU1pXclQwQWhlaE40eWhQcGZHV3Vkb240Z3hqVHY4ZjdYMEQzYmFzWUhud2pUQnVxalVla21XN29LMEhobzBSeU1aTEVxUDlnV2E4VEdETFY1ZnNaNzZLU1cycFVRUFRyRDFER1Y1Mk0wREsxMDZXc1p0ZUd3ZDJSSjRKd09YRUczRzRRb1pEa25SblJSZ2hiX0pXN0JIZDFpZDk4NFFvUzJ1NjBhT0RUcHBLUGI3TF9tYUZGNmJTWU5TMzJWa2xXMnJyWExCRVFQMnZhZk1HT1cxRWo1QWRubkppNXpIVlhYS01SdktTT2NRdDdQNEpvcWZrN3kySDJQbXBJTmJxZWFHR04zcE1Vb094dGxQSkg2LQ?oc=5",
+   "medio": "COPE",
+   "resumen": "",
+   "publicada": "2026-10-14T19:45+00:00",
+   "enlace_es_google": true,
+   "id": "655a90332c0d",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB",
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "Hapoel Tel Aviv 100-82 Besiktas: cinco jugadores de 15 puntos y un tercer cuarto demoledor",
+   "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3b0tncU50ZVpjSnk1elZraTBFWEhZT2F4VHIyWkJhcWtReDBjVHQ0N0ZXVW1CaDFmRS1HUi1DWGFYblVLbWpSRUQ0ZE12ZFhEUmVmUnNUdXNKNTdHd2RMYlZONXdRalduNlJBSnRFc18zVmI4Z1NJWEhBa9IBgAFBVV95cUxPdjFMZXFiTVZwdEN2dFJXVGN3QjctYjQ1cGRHd3RRREdBSGJSZkdqNzdoQ2h1ZnI1R3BfREFON3VobGlQQ3loa0JXY0ZKUm5kbUVvdE9jSk1kNGZ0dEJuSDc1SWoxaF9XOUpmQ0VJOTl1ZUV4YUs2cFd6TjYzVm5TZw?oc=5",
+   "medio": "piratasdelbasket",
+   "resumen": "",
+   "publicada": "2026-10-14T19:45+00:00",
+   "enlace_es_google": true,
+   "id": "95eeb3528d91",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Primera FEB"
+   ]
+  },
+  {
+   "titulo": "Michael Forrest lidera otro paso firme del UCAM en Europa",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWFhDZUZSVE5uYkFYM0QtSExLWG0zRDNQSTQ1alZLTEdEbDlBZ1dSel9aSmZWcHNXZkJja3FtNk1Xa0k5RUpyUmxzTFpJanZlRFNNenNOcnowTFR3UTJFUV82MUZHendNZElKSEphRW9aYWtrNml4Y2FVQi1MV2hDS0k3YzVJc1RtQzcwTklBVmttNTEybEF4eDZxUDJKS2dkUGJMZG1yMndhd1p4MVFRMjRlTWJwVVI3S0pqWmxIZjdxd9IBwgFBVV95cUxQWFhDZUZSVE5uYkFYM0QtSExLWG0zRDNQSTQ1alZLTEdEbDlBZ1dSel9aSmZWcHNXZkJja3FtNk1Xa0k5RUpyUmxzTFpJanZlRFNNenNOcnowTFR3UTJFUV82MUZHendNZElKSEphRW9aYWtrNml4Y2FVQi1MV2hDS0k3YzVJc1RtQzcwTklBVmttNTEybEF4eDZxUDJKS2dkUGJMZG1yMndhd1p4MVFRMjRlTWJwVVI3S0pqWmxIZjdxdw?oc=5",
+   "medio": "Diario AS",
+   "resumen": "",
+   "publicada": "2026-10-14T19:44+00:00",
+   "enlace_es_google": true,
+   "id": "6cbdc2d507fd",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "El Casademont Zaragoza tumba al Basket Landes en la prórroga (76-75)",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMURnamRyM2FKajNqT3ZQMU9LSGF4Vi1iSGlzNE43QVpQYktFaG1GWnhKYnpTNXlqNnJlNVlla1FaOVg1cnR4UVNzN1BMMVZHX2Y5MHZIZ0YzbnpSdlhOVEVhRW4wbEs0OGxUa0pEczBXUU1kRnFYaEYybDJiOEVSUEllY2U0dXE1Nkhic21UREZvQXlpa1NyOWplZDBCYWZQekR5cnF30gGmAUFVX3lxTE8xRGdqZHIzYUpqM2pPdlAxT0tIYXhWLWJIaXM0TjdBWlBiS0VobUZaeEpielM1eWo2cmU1WWVrUVo5WDVydHhRU3M3UEwxVkdfZjkwdkhnRjNuelJ2WE5URWFFbjBsSzQ4bFRrSkRzMFdRTWRGcVhoRjJsMmI4RVJQSWVjZTR1cTU2SGJzbVRERm9BeWlrU3I5amVkMEJhZlB6RHlycXc?oc=5",
+   "medio": "MARCA",
+   "resumen": "",
+   "publicada": "2026-10-14T19:44+00:00",
+   "enlace_es_google": true,
+   "id": "1c862f46844c",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "El UCAM Murcia CB conquista Alemania con una gran remontada ante el Bamberg (67-86) y se coloca líder en la Champions",
+   "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMEpJam9lZWFaZmFvVVF4d2NGY2tEQ05aSkJodk5zTmpfb3dDXzV5MHNRLTRVQ0tfQWpVV253VFN3R1ZrcWRVRUFHNDJ0LUctZC02YVpyczJNZG5oRHg2dlRON29RZmRPbnRPb3ZNVzFFOTRyX014Y29iU2RNMHFKeWhtQ0t2aTBiYWUxbV9qUHpMdHQwR29pRi1MQkhLcHZGZlVUQWQ2bHZ4Y215RjlWRXpNUFEtdFN3UFVDWWM2UVZjZnRfcExVMEg1ZTIxV1RrelhTS3RFSVhFTWFyX1BpMS1MVFRkM0dqbkd0WXFDV0l1Zw?oc=5",
+   "medio": "Murcia Actualidad",
+   "resumen": "",
+   "publicada": "2026-10-14T19:41+00:00",
+   "enlace_es_google": true,
+   "id": "eef1d68f68ab",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · BCL",
+    "Google Noticias · UCAM CB",
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "Rasmia, sudor y nervios en la primera victoria del Casademont en la Euroliga",
+   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdkxfak9uT0hvSEFVMFF3STFZOVNkdzZTazdsdGFzYUs1aVFlWkE1eGt5OWdHRk5jY3M4M2FkMVl6Q3Z2M3RkeGZzRnhXMWVSNlYzNjMwUTJKNW9YeEwybXUwcWg0cklaazFFcDd3dzRyRDJWYng2YVBVZ2xfMGtBMk5ha0NLbVNlbkdSQ2N2UGFPSVBSR2RiSElWOGhaYTUxRVdEbmQzbXlSV3N3b2hZc1l1LWxfWmZ4T1Z0WWdJRzB3cjhLVnV5Nm1iY9IB3wFBVV95cUxNV1FRaUlrTlFxX0xGeGNkSV9CYVctOG85ZVc3eXZFUHpUMHM1eXRkRXp6djV3ZFJpb09DbnBzWVE1VTlzbDNrNDI4RlVWXzRYck01X2lxOF9kZU5OWTlMUEZWQ0ltLU91eFVMNFROY244MUNad2NzaDNuME1HTThkR2doVEVJYm5EMy1VbWlsUTlGNk1GZ1NzOXV5SWZzNU5RdjN1TUR0YXQ5bFQzVU9xM2RHV29tVVRtRGs1cmV6Vmlzd3UzSk8xVEw4YjhiOXFvcWFXaVR0UnIzUTBLVjY0?oc=5",
+   "medio": "Cadena SER",
+   "resumen": "",
+   "publicada": "2026-10-14T19:41+00:00",
+   "enlace_es_google": true,
+   "id": "dab8e563a809",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "El Meins Avenida - MBK Ruzomberok de la Eurocup, en imágenes",
+   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMEVSd0pPaE1aWk1paFJPcXo0OEExUHVJSFVRQ0NjQmxvNEliNTRkS1kxeWZZOGkzNTgzWDBKWEFUNlRUeGw0SzVpY0FEOGcwQU9nM2ZXN1l4aU1tZHVUS21KclEtNG82YVpKTHVuby1JTzMtMjR0b2tpbURpdmk3N19wX25QcTdWY3BWdmRPc0ZyaHFqcmN1ZmFJSXZ5Rm14YlNlM3FxVnIzSzhYVjYxa29kdGtzUUlwMFpFOThBRWpRd3dCTkZOMThn?oc=5",
+   "medio": "Salamancahoy",
+   "resumen": "",
+   "publicada": "2026-10-14T19:35+00:00",
+   "enlace_es_google": true,
+   "id": "1a709ca225e6",
+   "etiquetas": [
+    "eurocup"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · EuroCup"
+   ]
+  },
+  {
+   "titulo": "67-86. El UCAM, liderado por Forrest, sigue con paso firme en Europa",
+   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX1NNR01QcFo3b0pEbW4tajl3QTBzTEUtdnEwY2Z6R1Mydk5CUFVVMENRLVBnVVV6UlhaVjRacEEwSVl6U2plTXBJWUY5QS1aVi1HcXk3TWpqRDlHdGdhUU9XSWVkWDdCUVA0LThLR1ZYaldsQXVud3hRT051OTVfZG5SU21wV2Z3NmdHMkZjaGYtYlpnV2JhMFVOWlo5N0JoRmg5TmR6UzdCLThRUmFBUXJPWFdGMEdQRmctV3NqTXdOX1JMdUJpVUdrV1UwUWVhUHlz0gHTAUFVX3lxTE5fU01HTVBwWjdvSkRtbi1qOXdBMHNMRS12cTBjZnpHUzJ2TkJQVVUwQ1EtUGdVVXpSWFpWNFpwQTBJWXpTamVNcElZRjlBLVpWLUdxeTdNampEOUd0Z2FRT1dJZWRYN0JRUDQtOEtHVlhqV2xBdW53eFFPTnU5NV9kblJTbXBXZnc2Z0cyRmNoZi1iWmdXYmEwVU5aWjk3QmhGaDlOZHpTN0ItOFFSYUFRck9YV0YwR1BGZy1Xc2pNd05fUkx1QmlVR2tXVTBRZWFQeXM?oc=5",
+   "medio": "Infobae",
+   "resumen": "",
+   "publicada": "2026-10-14T19:34+00:00",
+   "enlace_es_google": true,
+   "id": "bb3a13cdeace",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "Lío en Olympiacos tras su visita a Valencia Basket: ¡Una de sus estrellas, apartada!",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd1g3S09GdVYxamdFUVpNNzNicEgyaFU2RjBDY3JkOWlKTG9Hd3VYMFFzVDZaUi1td0lVdWpCSzVpTVRNSldyOUhWc1JKRk9ZUHBjZ2NhZDBmcG9RTXlmNnU0eDlOajlhUjRnQXVUOFNlMHRQTndFdW0wTUF1SVZfU1NVQ240clU2SFRxOFhYMkdGT2g4LXA3YlQ0VG1ERnpYaTJLYnRFN3JlVU11cy1wWWRSLV9yakluZE0zU2RMbjZCYTjSAcgBQVVfeXFMUFB1b2hLSzBidVplZ2RQUm96Uk1aSS1TZnZqYkg2b0JDcFRzVkdvWGgxZWxHT3FsNlRubl95d0dKZ2lKZXZxRmFIakROcXRwRkx6Zm0yTF8tbS1Ia2trTjh3cENyUERWaC1sd0tuUmVHTG5yU0NvMHpDOXNZYm5jY1RRZEtieU9sQjlkLW9IWjFFbC1RZWV4WjNvUy0yRW9kM2lFd1BNRUprQmRkMGx2WGNnSmJMLUxHSEx2QVVLb3VYVUxkRHNJMEQ?oc=5",
+   "medio": "Superdeporte",
+   "resumen": "",
+   "publicada": "2026-10-14T19:32+00:00",
+   "enlace_es_google": true,
+   "id": "52d0c1ae3d6f",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Casademont Zaragoza resucita en el último momento para estrenar la Euroliga con una agónica victoria",
+   "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV3F6T3E1eHlsa3Vab1dyeTFzU0hOOExYUjFoOTBSbUE0OWptYTZCak5xOTRSV1BXczhUNmJGbmJ6am9ackdPVHZoOWx0N1FDYVBLVTFnbTh5Z0pMN1dILUFvNWoydXdvMnRYazRwY0t1MHZtUWFqVmJxOVJxVWdhOS04TW9uWjJzNWlraDFteC1uYkpCVmlRTUZIRy10UmdRNHJfLVVGRDRUT1k0UEZxV0ZpODFtNjRnSXkzZE51MmtUbTVSY2o0bndURFd5TE44VzBVengtY05YM2pUSEJPcy0yNVhxNXB3cEk0VjBoVlnSAfYBQVVfeXFMT2paQ2Q4RWluLXd5X2thYnRLNVpJQ2ZMV2dXV2ZwQTRNYzNKV0hRaXRIRkZSSFZTN25YT1diaVFzNmlOdnAzZ3ZycnROUUxBdkV0b05kWmtVTEJta1hvWnNOekJKRTRsR0cwSkcyM3g4VEpuYW1RUUdNYlpmeU1zS2pwNDBnN1JVMk52ZWwxcmlrRWE1RDBNS2hqSC15bThZeUl4ejhXaFZmbngxWGVpRS1fZVNfY2N5R1IySkdvRDgwY2ZycDNscDhzaGpHZDhETzRDMFZ3Zl9ncklzUEhrc1FPZW10MmU4b1lMcmVMYVcwYlRMSktB?oc=5",
+   "medio": "Aragón Digital",
+   "resumen": "",
+   "publicada": "2026-10-14T19:31+00:00",
+   "enlace_es_google": true,
+   "id": "3c56583572e3",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Recital de un UCAM Murcia desatado en Alemania (67-86)",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzZjY2JOaG5uQXZqSVVhUEwtNmg5OW5nNnRfSkFQekNwcTloVDdXT0Q0TkZPc0l2Wk10QnJncUlmRUQ3aTJFY2pSUUx0NGdFWTYyVWl5blZpVzd6bVZ6Tk93NmxRRWxLOVR4MnVRcTRYZ1VlNmU0aHhpQWtzc2t1UGxQYkVjMklhUjB0bGNxWFhIUUdhS1VQdThKTlM4akNtU0lwOGFLV3JaZEtHMlE?oc=5",
+   "medio": "MARCA",
+   "resumen": "",
+   "publicada": "2026-10-14T19:28+00:00",
+   "enlace_es_google": true,
+   "id": "597fa13db406",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB",
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "El UCAM CB, liderado por Forrest, sigue firme en Europa y arrasa al Bamberg en Alemania",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1ZwXzVRVzk2Zmk0N2l1STh5MUlRREgzTFZiNkppNy05eTFyWEk4MVd6czhLNE5tNTVJM1NRYXIwcUdIS19ZSGZ4eGxSeXFiUXRDamc1RGxtVldCdWNKQ04zZ2o4ODNlUGtIeXpNeHZDUTgwRmpUS3ozTE5rdHVONldBcTZwa2d1TmUtcDFKSXc5Vkh6bWJtNGJ5ck5pYy15bzFYVDQyS0dLejFqcGFlNUNFaVJPOEZTcEtGYUFxTnB4MXF1UXIzYVBMNHA4MEJHS0E?oc=5",
+   "medio": "Murcia Plaza",
+   "resumen": "",
+   "publicada": "2026-10-14T19:25+00:00",
+   "enlace_es_google": true,
+   "id": "b8145b9dbe53",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "Agónica victoria del Casademont Zaragoza ante el Landes para empezar la Euroliga",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLUNVU3doRHlPcmVIOE1pV2hiX0ktbjduRFV3eE5rQnJWWTN5dTJEaTNjSlFmWnNmMGc4LVRoZFFibkZFSEhWMVJkcWNHb24yaWVjTUpUVFQ1NEFhLVVBZ1gzSDBNc2V0aXRkVl9RRTQ0UThpR0FHNXRzM09tTEJoUEZVaV9PZjVLTWJpdXlhTTF3eDQ1SXA4TWZ3U2hGZGpRcDNmakd0Ym02b3JqbmgtQ0IwTmo4NWFXa0NmdzRpRENmQ3pQWms0?oc=5",
+   "medio": "heraldo.es",
+   "resumen": "",
+   "publicada": "2026-10-14T19:21+00:00",
+   "enlace_es_google": true,
+   "id": "5e85b4027121",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
   {
    "titulo": "Ajustada victoria para el Casademont Zaragoza en su primer partido en Euroliga (76-75)",
    "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVlR5X0ZUNlYyUXdjSVJFc0t0TjE3V29pZVVSbVdhXzU5QlVZVTFiOV9qM0h6WUxURW94ekpUZUdaS1FPeXBUQUp0Wl9rYXd0cW9YSy1RUEIzemRtelNKNTBiVWhTZEF0UFgzaUJ6Z1poTkVuOUNjOTVka2djYklWZ3ZxWGJvb3ZWU1F6TkljTnVqRXVCbTlVSlFDcndpVTNmVDhOcC1HQl9UV29Pc2N1b0xlVlpVOE9jZzFnUEZjOTE?oc=5",
@@ -68,6 +925,37 @@
    ]
   },
   {
+   "titulo": "Velimir Perasovic sustituye a Paolo Galbiati como entrenador del Kosner Baskonia",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWlUUEM4d0ZCQWN2NlFENDJpeVpXdnBhSnM0SDJ6aUZka2x3TjVMQXVBaXlxRnNhdWdtdDRsd1V5Q3pNM3YyZjRHVm1YXy05cDNDMUVvWUMzS0xOOVF0cmJhWk81TGtDTXlGREFtMm5mYmFXUGdOc09YNUZ5U3ZWamhNdWhIdmdJRy1DR3M1OEEwbTNBV3ozVzh5T3AwbzdTM21tNVplN1NDNFZxM1ExcEUtRGpPaExRZVVUeTJXOXMxRWlE?oc=5",
+   "medio": "bet365 - Apuestas deportivas en la red",
+   "resumen": "",
+   "publicada": "2026-10-14T18:53+00:00",
+   "enlace_es_google": true,
+   "id": "e1e51265c16c",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "El Baskonia, líder de la Liga Endesa, echa a Paolo Galbiati, el técnico con el que volvió a ganar una Copa 17 años después",
+   "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbGFXN1BzWXFHM3h3c2RKUE1nU3VqZzlxSUZPQkh4dUVZdlFCbS1nZ3NTeFh1bktGbmtwQkRNcWJFbFJQc1c1NVFobW9sbmdnUDdFOUJENWNtRW45d2k5QTNNVVhEaGd4VUI0OGkyOEItM0ZGQmloSUJNNmdRcHZUUkVyNTJ1dVVPcFN3MnZsZ0YyZW14LW50S0x3RFpnVUJnWlQ4eUx6blZNcjBaQl9JY3FzRUFyNWNMellydE5YNGVkdFBsUGx5N1pQbEZFQzNnZWNqTFJLdlRpWVp5ZEZDMnFJbTBsLS1WTzNqeU5R?oc=5",
+   "medio": "RTVE.es",
+   "resumen": "",
+   "publicada": "2026-10-14T18:37+00:00",
+   "enlace_es_google": true,
+   "id": "25f478aeac2f",
+   "etiquetas": [
+    "acb"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga",
+    "Google Noticias · Liga Endesa"
+   ]
+  },
+  {
    "titulo": "ASISA Joventut ofrece la Supercopa Endesa a su afición",
    "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQU9SUlpFX0Ntd1N1NHpHSmx1ajgxWklaMmRsMFhVWlJSSkRMQWE0ZFBidEUyb1lPc1RNODJpMWxFSVF2MEtFQ2ZyYktVY0cxR2lxaS0xeWY4UVk5RDFiY0hWWWI4dW10YkFrXzFCMjVVRnI4WEt3N3JlVGctblVSN09LMmhNOXhsOG95MzlMX3hxaVNPXzE4NnZ3?oc=5",
    "medio": "ACB",
@@ -115,6 +1003,22 @@
    ]
   },
   {
+   "titulo": "Basketball | Breogán vs. Girona",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDlOUmxGODRlVkJlazQ3YmZYeWpSaFdaNk9JVmFzSFVpcHlYU2ZudGdybHI2SFU1WGdYWUJfTTB5SFNWUnVacU5sbS1JMExKVTIwajJqWUpkX3dlMFdWUW9LbzQ5VC1qeWlGbzdQTDRCM1FvamRYTkYxeXJGTzIzN3BTSVZmdmgxamdyVXduN2djR0k5NGpaNG9OMjllOWc?oc=5",
+   "medio": "DAZN",
+   "resumen": "",
+   "publicada": "2026-10-14T18:29+00:00",
+   "enlace_es_google": true,
+   "id": "92df8695e9d6",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
    "titulo": "Gabi Deck es operado con éxito",
    "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EV2pWY1JQT0RjcUNsQ1JrQW5jVmtuS2E2M1JleG5xa2w3dFEwb1B3ejhmVWt0aERlZk94eXU0S0NJSkFrNDgtdkkwN3R1NHMyY1ZVRGJRNkNWaXhPb09JNTFzcmZBd3JZUGFsNE9WaHFBcDU2a2FyXzF3?oc=5",
    "medio": "ACB",
@@ -126,6 +1030,38 @@
    "detectada": "2026-10-14T19:16+00:00",
    "vias": [
     "Google Noticias · Liga Endesa"
+   ]
+  },
+  {
+   "titulo": "Horario, canal y dónde ver por TV el Real Madrid Basket - ASVEL Villeurbanne de la Euroliga de baloncesto",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY01NbjNUQWpfd2J2b2hsaVYzLURZNmlIV1YwZENnN0ZtaE9WVnZJUUcwdXRkdm9yRG9VNUV5ODNCQS1ZLW9wek9ZdG1lVE90Q3VOMk1ZWk5xaDFUa1JaMkN5Z1ltaEx2b1N1Z203VGhjSWpUZXhkUXplQnp1VFktQ1l2dFZFOFlSNzR4OGtxal9qdXlISE1OTWFma1RjWWN1Q3VWVUFyWF9aUENIUHp3OXB4eU5TV2NhOGRxc0ZfZGZBY3BYTWUtQjNLZ0xHVWE2dnp2V0hWX1AwYW1jU2hFdlA2ejc2blpC0gHoAUFVX3lxTE9jTU1uM1RBal93YnZvaGxpVjMtRFk2aUhXVjBkQ2c3Rm1oT1ZWdklRRzB1dGR2b3JEb1U1RXk4M0JBLVktb3B6T1l0bWVUT3RDdU4yTVlaTnFoMVRrUloyQ3lnWW1oTHZvU3VnbTdUaGNJalRleGRRemVCenVUWS1DWXZ0VkU4WVI3NHg4a3FqX2p1eUhITU5NYWZrVGNZY3VDdVZVQXJYX1pQQ0hQenc5cHh5TlNXY2E4ZHFzRl9kZkFjcFhNZS1CM0tnTEdVYTZ2enZXSFZfUDBhbWNTaEV2UDZ6NzZuWkI?oc=5",
+   "medio": "Mundo Deportivo",
+   "resumen": "",
+   "publicada": "2026-10-14T18:16+00:00",
+   "enlace_es_google": true,
+   "id": "67265ea3d6a5",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Horario, canal y dónde ver por TV la sexta jornada de la Euroliga",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOFRnWXN2QnhfWFFqNGhLdm54NC1aOHlSamdKUkRuYXFVdUVhX0lQMGZhczI2aXdmMWZLUHp1cktjOWM0Si1KVEpXeTFhZ3k0UzliNmlqa0s2MkRvMEYyZzJCVHQ3VXQ5M2NGdU1EdHpKMWxybVhHTjQxenBWaU1FZDRMVGkwQ2pVOXRGLXk1Wm9LNVdjVGI0bTNwOGVNZUJqTjloYU4tX1ZrcGNVUG5FaGpnQVljc2NDUzhZQVhRdVQwRllVTkdoadIByAFBVV95cUxOOFRnWXN2QnhfWFFqNGhLdm54NC1aOHlSamdKUkRuYXFVdUVhX0lQMGZhczI2aXdmMWZLUHp1cktjOWM0Si1KVEpXeTFhZ3k0UzliNmlqa0s2MkRvMEYyZzJCVHQ3VXQ5M2NGdU1EdHpKMWxybVhHTjQxenBWaU1FZDRMVGkwQ2pVOXRGLXk1Wm9LNVdjVGI0bTNwOGVNZUJqTjloYU4tX1ZrcGNVUG5FaGpnQVljc2NDUzhZQVhRdVQwRllVTkdoaQ?oc=5",
+   "medio": "Mundo Deportivo",
+   "resumen": "",
+   "publicada": "2026-10-14T18:16+00:00",
+   "enlace_es_google": true,
+   "id": "d2b962958102",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
    ]
   },
   {
@@ -202,20 +1138,6 @@
    ]
   },
   {
-   "titulo": "Velimir Perasovic, nuevo entrenador del Kosner Baskonia",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEhoeHRyOW5XTGVBZkJ2N2J6NXM1bnA0cUZEN3pXa1ZTTHRZNE9ISnNGUDcxc0RoZXZxeV9NSEx2TGt1Rm1jT1VoRkxaRnliSTFTNHlxcm1ScUlwTTZ1WDZVUUM4OXctSmhfN2xDSFZmeVJfangyWjRyR3NqREtaSmhOc09JY3VwbkZFNERObWZWT0RrUEhhcS1tMkxKWTJOV0QzcHROQlIzN3FpeUdrV1c1SFJ2NkdG?oc=5",
-   "medio": "EITB Radio Televisión Pública Vasca",
-   "resumen": "",
-   "publicada": "2026-10-14T17:48+00:00",
-   "enlace_es_google": true,
-   "id": "4231bde5207b",
-   "etiquetas": [],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
    "titulo": "El Baskonia destituye a Paolo Galbiati en el inicio de campaña",
    "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTzBtTFVnOGUycXIxVC1DQXVJSEF6WTU2M19LVnhTZTBrc2V5RkVJUFB4Qk9LT21WRDhmcjg5TUxYZ0VTX2RqRWVaUkticlBKeDBZQjNoTDZ2VFBkcHBvQ2tEZ0JraklPVTlmOHMzdVhCbk1EaEVtQnpuX3FYeFozbTFYMnJQMTBtZy1qMTdiWFExaTV2UXFneEF3Wmd1WHVWYkFuRE5zR0FRTnpuTDNXbFJxOEo4YzQt0gHMAUFVX3lxTFBoQTNRbUtRWUNuRHFSV25NY2U2YkxXZVpiZUIyVld0UXFCVV9SY1FQTkFNSTk5dXZELTlObkpCQVlVbEYyNUo1bEZ5MHJvZHZEOF96NzdLUGdGWlB5SHBocTZ0a0U4Q21yYmRRbkVNVmZxYWZZUkZCMS1ZN3pBMGRJdnI2WDlfcEdNSHl4aEZLNEluc2RPVFZjcW5WLTYxWkE5ZHV6cDYyQUU4VVE5X2JQTnNYM0RjZE1Pd2ZtUmVQc0F2RXF1eGFGUTJLSA?oc=5",
    "medio": "EL PAÍS",
@@ -227,6 +1149,21 @@
    "detectada": "2026-10-14T19:16+00:00",
    "vias": [
     "Google Noticias · EuroCup",
+    "Google Noticias · Euroliga",
+    "Google Noticias · Liga Endesa"
+   ]
+  },
+  {
+   "titulo": "Velimir Perasovic, nuevo entrenador del Kosner Baskonia",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEhoeHRyOW5XTGVBZkJ2N2J6NXM1bnA0cUZEN3pXa1ZTTHRZNE9ISnNGUDcxc0RoZXZxeV9NSEx2TGt1Rm1jT1VoRkxaRnliSTFTNHlxcm1ScUlwTTZ1WDZVUUM4OXctSmhfN2xDSFZmeVJfangyWjRyR3NqREtaSmhOc09JY3VwbkZFNERObWZWT0RrUEhhcS1tMkxKWTJOV0QzcHROQlIzN3FpeUdrV1c1SFJ2NkdG?oc=5",
+   "medio": "EITB Radio Televisión Pública Vasca",
+   "resumen": "",
+   "publicada": "2026-10-14T17:48+00:00",
+   "enlace_es_google": true,
+   "id": "4231bde5207b",
+   "etiquetas": [],
+   "detectada": "2026-10-14T19:16+00:00",
+   "vias": [
     "Google Noticias · Euroliga"
    ]
   },
@@ -318,6 +1255,20 @@
    ]
   },
   {
+   "titulo": "El Baskonia despide a Galbiati",
+   "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdmxSV0s5UTlEanN5S2U2dHNZYkFxeFNpb0FLeF9IVFRYYjZNTEZlUWRiU1dIMml5WmR1akJGVlBsTmo3YVlNQ2oxSVc2RVNGeVEtSTIteXd5RHhWX0ZaUlpxM2VINkpxSy1aWHRTR2t5amJXUFRmX1JUa2dIZUJQNFRR0gGWAUFVX3lxTE9SQnR2NVZKS05qVXMxLXpvaFV3VWJ2YU1kRXIydDZMUEZWeUhVVHZlUGtYVVJDTTN0NXl2RHdqOVdvTWJyaTYtTjJLb29BYUhMSGdwLVBZbmdpMkpOaHhqblktN05rNmRYXzZCTmpvRGlMNTN6Q3FCZzhfekRJWXlTLV9wWTNFT1A5V1VZSDdpRjdxWVFvUQ?oc=5",
+   "medio": "Diario AS",
+   "resumen": "",
+   "publicada": "2026-10-14T17:20+00:00",
+   "enlace_es_google": true,
+   "id": "fc87e1fa4d7c",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
    "titulo": "DIRECTO: Partidazo de Euroliga | Valencia Basket-Fenerbahce",
    "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMUpYanpKSFo4THEzYzRxa2QzMTRyQ1RmLUFBRFZaZi1vVGJsaEJwLXIydFFkcTRsYkdiZkhEODRYZi01OS15d3Qzd3pKQmdhTXVZQnBvVlljcUFXbjZUYWxSaW0wOGdia3p0TnZzMURDbG81X1hHek5QUk44RXJhOExWNzRiVUZoNGtfN1hhbjRROWJZcnhPLUhOM1BFeWVLZ2ItdTdVSk1HWWFVTWpONWh3R3FnRWNoQkw3ZF9ISnXSAcYBQVVfeXFMTzhWMHJuZ2lmeDUyQm9MN0hJSWU2ckZtV3ZtMkNTczlpQjhOU2Y2RVlZdUtYVjB1WHpmRW4yVC1HckhWRVZhOXZFX0JOZ2Ixa1J2Qjd3cVpMVERWN0c2cnpuLURjaTJqQmd5X29RUVRxSVJEaUt3ZVJqVkx6MHBUenl5VDJxeHktSTB5OGNrX2xVTmY5b3BRWlB6MnpZbS12cTZGb2VKeWdUbzBTaXpTZmhJYWY5UXpybF9qWGNHdWxvX0VCckdR?oc=5",
    "medio": "Superdeporte",
@@ -330,6 +1281,7 @@
    ],
    "detectada": "2026-10-14T19:16+00:00",
    "vias": [
+    "Google Noticias · EuroCup",
     "Google Noticias · Euroliga"
    ]
   },
@@ -528,6 +1480,22 @@
    ]
   },
   {
+   "titulo": "Paris - Virtus Bologna en directo - Euroliga: Resultados y resúmenes de Baloncesto - 14/10/2026",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREFETzVRU1BxLTNVOXl1ZjhHNzlOUmU3VVl0OVRBcU5iVV85MEo5UllRQWNyUE1FSk1oRE1qRlNyZ2RuLVc3RmJ3eEFjTzBwb05zRW5ZN2w3UGJySXRnaXlHMVhWbU9acmtyU0MtMkQtQy1ia0l0eFlQZGFkeXMtcjBtdEtMM3ptOHp4MkphZlRjN3o4Q3FvTGl3Mmc2MFFCeWxvbjln?oc=5",
+   "medio": "Eurosport",
+   "resumen": "",
+   "publicada": "2026-10-14T16:28+00:00",
+   "enlace_es_google": true,
+   "id": "a88678fa8938",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
    "titulo": "Real Madrid habla de fichajes tras la debacle de Gabriel Deck o buscar soluciones",
    "enlace": "https://www.solobasket.com/euroliga/real-madrid-habla-fichajes-tras-debacle-gabriel-deck-opciones-alternativas-mercado",
    "medio": "Solobasket",
@@ -600,20 +1568,6 @@
    ]
   },
   {
-   "titulo": "Markus Howard sale del Baskonia rumbo al Zenit San Petersburgo",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWJWNkhCaVFtTGNudTVsS2k0QmM3aEpsRWdrRTV5YlRjUlZWSHRJc19NZHFWdHN5YnV4dm1kYUhiV1doTzduWXZQMGpULVQ4cWg4MXhiendpeWI0RDB3ZmszdmJKOHBFSXpjVmZGdDNkTzVaMmt2THVaQUMwR3dGMzh0bHRKSjlxSUVVVmRfd0JkY21nUXJreXlhcjhsVHFpcWVGczlkNG4zb0dn0gGsAUFVX3lxTE53SzhCemhUQ2FZd3JRVUMyMGxOdVh6V25yUmhMcVBZN2FjRzNaQzBjQXVNREhYdGZ0b0d3enJDX1V6TFZVSzl1QUprcFNHRGZUNTFJbzY5WWVnVkQ1WDFUNU9Bd3FfempXMjJIVktvWEF0cTh2VmVaSDVra3o1NHV4ZXBaZVJYb2dKajNrWFkzSDl4YlR2aktDODVRakJqd1g5c09NNzNWcDY5TUQ?oc=5",
-   "medio": "MARCA",
-   "resumen": "",
-   "publicada": "2026-10-14T16:07+00:00",
-   "enlace_es_google": true,
-   "id": "55847fdc6fd7",
-   "etiquetas": [],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
    "titulo": "El nuevo guiño de Jasikevicius al Barça tras aplastar al último verdugo de Sekulic en Europa",
    "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWw0UTQ1U28zU2JTZFpNbmMzaHVUZmV2WG1MOXVJMW8wN2tmXzZuM19oVGo1eDBHS0tTRnFsbFVmeFBPclRLdDJxWGhZOG1DQWthSzFBNGwtR2lDMGFqUGtCQnNRcWowUHZEbEcweEpQMFFjYjY2c21ab1BRN00yZzJYcW44T1RZekQ2RG1qTnJVNjEzZlNodmZpWHZ0R2JzcW5meU5lQjR6c2tMV3FxcUZpOU5ZemFrb0xqQnFLNFpYWVFuektYYlZfRFFLY1NWeU1RU3FvVDR6T2vSAeABQVVfeXFMTUhKMmJrQTVleHlsQnBPQzluVHFMLWVHYlZ6SHg3VGZCOXZvTEtIRzNKYTZBRE1xOTZ6VTNURVJJZzFUa093NWZ6TEYtRllpQWNIYkVvX0ozUEV6eW1vQi1iVlJlQkNrUU9rckw3NzU1MHRKNElNVTZZdml5Q2UwdXQtekdLNGVUWG1DWE1BeVczcVVxQnZib094VjhCREoyQ2hhRW5NYV9iUUZoRElFNXQ2bjVOcUZkOXJJWXdyNDVIQVd0eXVvMkdMLUNYZU5aN0E2dFdIanRYVk9Jc09ieGc?oc=5",
    "medio": "Crónica Global",
@@ -621,6 +1575,20 @@
    "publicada": "2026-10-14T16:07+00:00",
    "enlace_es_google": true,
    "id": "95d2ed3bf859",
+   "etiquetas": [],
+   "detectada": "2026-10-14T19:16+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Markus Howard sale del Baskonia rumbo al Zenit San Petersburgo",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWJWNkhCaVFtTGNudTVsS2k0QmM3aEpsRWdrRTV5YlRjUlZWSHRJc19NZHFWdHN5YnV4dm1kYUhiV1doTzduWXZQMGpULVQ4cWg4MXhiendpeWI0RDB3ZmszdmJKOHBFSXpjVmZGdDNkTzVaMmt2THVaQUMwR3dGMzh0bHRKSjlxSUVVVmRfd0JkY21nUXJreXlhcjhsVHFpcWVGczlkNG4zb0dn0gGsAUFVX3lxTE53SzhCemhUQ2FZd3JRVUMyMGxOdVh6V25yUmhMcVBZN2FjRzNaQzBjQXVNREhYdGZ0b0d3enJDX1V6TFZVSzl1QUprcFNHRGZUNTFJbzY5WWVnVkQ1WDFUNU9Bd3FfempXMjJIVktvWEF0cTh2VmVaSDVra3o1NHV4ZXBaZVJYb2dKajNrWFkzSDl4YlR2aktDODVRakJqd1g5c09NNzNWcDY5TUQ?oc=5",
+   "medio": "MARCA",
+   "resumen": "",
+   "publicada": "2026-10-14T16:07+00:00",
+   "enlace_es_google": true,
+   "id": "55847fdc6fd7",
    "etiquetas": [],
    "detectada": "2026-10-14T19:16+00:00",
    "vias": [
@@ -871,6 +1839,54 @@
    ]
   },
   {
+   "titulo": "Partidos Askia Booker",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSjdCZjdibE9zc3lBMUUtZVRRNGtRMk5idmhIOXhhNTlveUlFc3gwbGZzeEZWOGktMXFFUTRBWkhsQ05VVTBubkN4dEFHMUVSbVAtS3pzaGFiTG1GbFc1UUFhSnl4R19mWnR5cmZ0U2paQ1FpMnU2OTZyOVJlUWplbkxPZmtCQWViV0RGVWZsc3A5LWJSQU5ad1o3VWhnMUU?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T14:29+00:00",
+   "enlace_es_google": true,
+   "id": "bf7af89de612",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "Trayectoria Tornike Shengelia | Jugador acb | acb.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdE9GV3Bud1dqR1YtYWVDOXNpVWZTWnRnZURfOUxDcDJYVEFGemVlUmVyTG9iS3RmZGNBYk1KWHlMcmp0RnNnd1NUQlBNU3YzSllXTHF1azJSZXBXeS1TSVdBbUdUdlRKU3I0djVVRmZFWTMySndGeTRWVnhFelE0eTVZNUpYVTJBcURpOTR0TnlJS091MjczMWxidDhUYXBXR0xBWkptbHllTDl4OUFJTVJZTkdtcXBWQjRV?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T14:29+00:00",
+   "enlace_es_google": true,
+   "id": "ad2cbfd19bf4",
+   "etiquetas": [
+    "acb"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Liga Endesa"
+   ]
+  },
+  {
+   "titulo": "Trayectoria Martynas Pocius | Jugador acb | acb.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDRxWkxuRUFvajhSSXVLejhRa050SWgzdEtkaEdybHl5MDk0MGZSTkJNSHJLdk9UNklNdFJHTzBZc21zQk9nOHFjNmZpMlhaWVc4dFdJa1RESXNma0xmcXVvdFpKSUJRaHRqc19TajcySkpvN2swYlRrbnc0UGhPR0E0YTN6RjZTR21vWTBNU05qRW9Hd2RLeWFxbGdhWkdQN21ySjlXN2ZUemxkXzh4VEdXMFliN3dX?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T14:29+00:00",
+   "enlace_es_google": true,
+   "id": "bb581df9702a",
+   "etiquetas": [
+    "acb"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Liga Endesa"
+   ]
+  },
+  {
    "titulo": "Abdou Thiam se perderá más de seis meses de liga por lesión",
    "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQS1vMGZPZlRuZHYzMU8xT2Q3V1VkS2pjRGlHNnFWMkFycGtZSmx5QVdWX21pcWtLRF9Rc0xmRmRpZVEyUkJNMjVaeXM1OXBFVDBzQ0RzajduekpLUE0tcmd2ajFvVUtDTlpGWXotdUtWbXZSZWgxWHBNRi1VMUJZaG4yWDRtRVFEcmUtdUlmam9mWlV1YVZ0UHBFNmVLSlFkMkRDVGFjeFl6NTJTN2prTms1ZUJwUnQ1OEx3VTlRRV9aRnJZdm9aT3RFZjZMSzNn?oc=5",
    "medio": "DXT Campeón",
@@ -913,6 +1929,36 @@
    ]
   },
   {
+   "titulo": "WKS Slask Wroclaw - Napoli Basketball Partidos relacionados: Actualizaciones en directo de Baloncesto",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdDNNY3lIYjZHTV94MjdTcHdhSHlMZ0JaaEg2eTFvSmJOUE9VT0tmVzZHS292Zy11V09XR0dDVTFPRW8zOUZlUFpWVFlzY28yRWRYT3QwZVJXN2JOZ3Jrd0dRQ3NOdHF4dmR1RVdyTW1IRnRDTGNTdHUxbXhsRWpvVnA0Qll0WWJybDd6MEUwZ01GZnYyZ3hpSDZDX0JYaVl5MVpqX3JzXzUxM2VnVVRWZnVSUnBBWmdFSGdKZDZlbEZDWG9jMUItSQ?oc=5",
+   "medio": "Eurosport",
+   "resumen": "",
+   "publicada": "2026-10-14T14:05+00:00",
+   "enlace_es_google": true,
+   "id": "22451947040e",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · EuroCup"
+   ]
+  },
+  {
+   "titulo": "Temporada Dwayne Davis",
+   "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55b3hqQUxrNW9pY2dQS2l2UHN6QjVldTBSUXZWSlp0S0IxR3E0dW1McFZRaFJMbm1HNjVzYjN2dzd3SDF6WmZfM29rQmhPbDBibi13U1p0SHFlUXFaYWo3ZXNR?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T14:03+00:00",
+   "enlace_es_google": true,
+   "id": "7db6856089bb",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
    "titulo": "Deportes: Programa Estadio 2, en directo | 15/10",
    "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Qa3o3VzI1ZmZ1dkdXTjhaRllEWnZreXJYNlRNbTE2WlRmZ1dtMVVBTk4wMjMwZ2E0SC1qcnFTZFJTLVEyQ0NVQ1MwZGVsNThZZDA1R01wR296UU9tLXdSWkQ4NGlzdDhTS0t5TWhB?oc=5",
    "medio": "RTVE.es",
@@ -920,10 +1966,13 @@
    "publicada": "2026-10-14T13:50+00:00",
    "enlace_es_google": true,
    "id": "d0a9e02572fb",
-   "etiquetas": [],
+   "etiquetas": [
+    "ucam"
+   ],
    "detectada": "2026-10-14T19:16+00:00",
    "vias": [
-    "Google Noticias · BCL"
+    "Google Noticias · BCL",
+    "Google Noticias · UCAM Murcia CB"
    ]
   },
   {
@@ -938,6 +1987,22 @@
    "detectada": "2026-10-14T15:02+00:00",
    "vias": [
     "Eurohoops (español)"
+   ]
+  },
+  {
+   "titulo": "Estad. Avanzada Serhiy Lishchuk",
+   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNUpaM3JqWXNxSmx6aEdGa1hLanduRUJBNDE5eS0xWWZFNXZIQ0xxZHB1MlJmWVJwUldwRVcxM2h2VE5vTU41a3JrVThtbTZzY05vQk1zdWlfeDQ1WEQ1Z0ljb2Vmd0VqRjRJQkEtYm8xNTFqZnlLSTNBMTMxMmpMc2hnNlgyczRQaDNyODVVSnRmZE4xUUpFQXF3TlR0Z1A4d2hXTVk3QWYycXl5c2FnMjZ2X09JOUJqekNkMlJVVVZUTmxVV29heTB4NEVFMlY5TmktVmNtTnp3N1ZTZFh2eA?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T13:49+00:00",
+   "enlace_es_google": true,
+   "id": "7da685f65052",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
    ]
   },
   {
@@ -982,6 +2047,22 @@
     "euroliga"
    ],
    "detectada": "2026-10-14T15:02+00:00",
+   "vias": [
+    "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Barça 90-87 Maccabi | Euroliga (J5)",
+   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdnpBTGpLX3pmdmpJNHZESlFOZE9YM3JvLXJXX0FDTUZQaW5jeXBNTl9SYTMzME5pbkM2RkhXVlJ5WmFqRVdHUUFQekw4dmRkbm4zZVpqTXVEM2JUTkVZMXo3SzQ3M1FTZE5YVm1qSTlTaE9XNW92UkJKWGxRZ1Q5MFRsZlZVb1RlYVpTb2dsUjNIMjQzSDVQUkJEMNIBmwFBVV95cUxQdDM1YWFuLXczWndhZ2dFc1c3a0txUTRzYzQ5REwwMG5CRkpuNU1DczM1bnFLOEphV01kd21hdXloUnBLem0yN1Q1U2l0b05pLUZtZUZLemFadU13QmNzYTFCSWlDcS1oX0NkSk5OeU9fQndUb3V1NWw2Z0c0R0VEbVpadU55QVg2ZVJoX1FNZW1YU2JBSm1LWEM1RQ?oc=5",
+   "medio": "MARCA",
+   "resumen": "",
+   "publicada": "2026-10-14T13:42+00:00",
+   "enlace_es_google": true,
+   "id": "3e28773502e4",
+   "etiquetas": [
+    "euroliga"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
     "Google Noticias · Euroliga"
    ]
@@ -1215,6 +2296,38 @@
    ]
   },
   {
+   "titulo": "Thomas Kelati",
+   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUJTWUxWbTJma1dsTTZnQldMVkNVcDRnWExBcmhPODBUclZHbFdOVmxjcDFjdmxvY3drTXBrem5LTl9UaGZFaFZwbDltemlTVUcxRy1DWXY2LTlBNWlYM29Ec1F5MnJVaHM3WkQ5V2tJalFVY0dkajk3c09CanFLXzJySU42WnptOTY4TGFJWHYzbGtyckhZNEt0ZXlydlN4WTRFcUhZTm1hSXIzd1F0VHBxN2Y4UF94MTM1Q0IzMF9McUdxUzFBeWVycnVkTUNt?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T11:59+00:00",
+   "enlace_es_google": true,
+   "id": "5172d585d01a",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "Trayectoria Sergio Llull | Jugador acb | acb.com",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWndGbjkzckhYWmtMVW9UMVZ0QV8zQ3VZWTJsOFVTMG1OQWh6ZGtQV2hKS0pVVlk2RnJjN0ZiLXJsUzllX1BzS3plTHhDa3Y0eTN5VmQ1c1VyQnc0YkFRYU45T05UVzNEb2RveUJyazBKYzA3aWZCLXhOTXdzRnhTT2lTZlpHNnpBVkxCTU1sOG56VUJ4V3BBdGc1SmZuUjhhdlQ4Z2pjUGdmeFRwNFpPbXB2dkVzQXI4b0NpejNKTXBJdktV?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T11:57+00:00",
+   "enlace_es_google": true,
+   "id": "d04551c09367",
+   "etiquetas": [
+    "acb"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Liga Endesa"
+   ]
+  },
+  {
    "titulo": "Pedro Martínez: \"Hay que prepararse muy bien porque va a ser un partido de mucho ritmo\"",
    "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPaVZVSjJSVHh4RUxwTWFyempGNndaQWQwMHc5bVFDb2UtRjBlMWZhWHZua3ZMaTQ4VnFqNEtWNUREeGxOUXJZSHJfRUItamIyeUNJRkNLNWJaNDhid2NhYTBtaEUybGF4RVRXS2FyLXR5U0htNlZ5cjBIX1VTZ0pidkVGRmtmSWhWMnNkbXQ5QTNHREZ1QWdDMFcxR01ZSWQxT3R2dXB4TnFjU0RVN25LMGFlbHNvRVhSZzdsc003UEREeWxYVGNkTDhZZlFweGxqTGZ6NFd2SnN4ZmRTYkpUYWk3eTlsZmV1ejFmVG1fN2lHMGg3bmRDdVZtUXZoT3lQSWc?oc=5",
    "medio": "Real Madrid CF | Web Oficial",
@@ -1321,6 +2434,37 @@
    ]
   },
   {
+   "titulo": "KP Brno – Nyon Basket marcadores y predicciones",
+   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZmpSX0RKTm1HU3M2cnJ3SGdobGE3b2VNTzlNYXFOVHRoQ1FfOFktaHJJOTljd2hKSGc4VmdyUndiXzA1UXlyeGV5dDVDRmlyeUZzZUVCR3lGZHhfa1oyU0lNaEoxV01CM1R2enlPWWlDSFltVFFqN0dmM3dXZWNzbnFQLW9mRmNWTnc?oc=5",
+   "medio": "Sofascore",
+   "resumen": "",
+   "publicada": "2026-10-14T11:32+00:00",
+   "enlace_es_google": true,
+   "id": "be995bf96419",
+   "etiquetas": [],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · EuroCup"
+   ]
+  },
+  {
+   "titulo": "Trayectoria Edu Durán | Jugador acb | acb.com",
+   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1RTTjJ0QmZhTTM0VmVKUHZiMEtSV3k0R0g3Y2JHMExvRG9MLWZlOW0tWVZhNE5ac3YwWXBoVHljc3N5amdOYk5TR2JDcGxtM29PLWE3NzFvcTgyby1yNzQzeVJoR2d1ZVNEX3JnVkYteWh0N1JWRFpRV2oyR1RRWXFaei1ldU9SWDRXT3QtR3JnTFNadEFZWjVOMWk?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T11:07+00:00",
+   "enlace_es_google": true,
+   "id": "59f272c53e32",
+   "etiquetas": [
+    "acb",
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
    "titulo": "La tremenda resaca en ACB",
    "enlace": "https://www.solobasket.com/liga-endesa/tremenda-resaca-acb",
    "medio": "Solobasket",
@@ -1403,77 +2547,33 @@
    ]
   },
   {
-   "titulo": "Valencia Basket - Maccabi: horario, dónde ver, bajas, estadísticas y pronósticos",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbHRpTG53b0gta0JuUHROT0c4VGkxUUUyNDFXMjM0QjE2dkdDUzd0SHRrNXZTVlhoUnVqUkJEN1FJUGIyT3d3ZVJyWFgtMDhOcW9pS2xSU1hEMmd5VnJXVktzOC1iVTkyQWdIZFRMcFAxaTFNQkQ4MEZFLVRENmw4Q3RlcWRVTTJlQjhiQjJfODNFTUdOTEhZN1hJM1B4SHdHT2RPbmFSRXhDZUVfbi1ROUFzYUdWSkRkZ21RdmpHS3poNDBBaDU5RldBZE04d1lVYlF1elFYUk1iRFVINEd1UNIB4AFBVV95cUxQbHRpTG53b0gta0JuUHROT0c4VGkxUUUyNDFXMjM0QjE2dkdDUzd0SHRrNXZTVlhoUnVqUkJEN1FJUGIyT3d3ZVJyWFgtMDhOcW9pS2xSU1hEMmd5VnJXVktzOC1iVTkyQWdIZFRMcFAxaTFNQkQ4MEZFLVRENmw4Q3RlcWRVTTJlQjhiQjJfODNFTUdOTEhZN1hJM1B4SHdHT2RPbmFSRXhDZUVfbi1ROUFzYUdWSkRkZ21RdmpHS3poNDBBaDU5RldBZE04d1lVYlF1elFYUk1iRFVINEd1UA?oc=5",
-   "medio": "Betfair",
+   "titulo": "Jordi Escobar acelera el paso de Marcos Fernández",
+   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWi1OZGN2U0txRFAxbjl2QmFlN1locnBNd3NYV1ctQ0hKWk5qUE1Xa2pGclhZZFgwRnNUVTdKd3BOT2QzNDNfS0V5VVJYS2x6cXI0NGJvRDBYZkY4SE5aQzZnVnhmWjlwWHFVelBqQ1pJeUdFS05FTE5RVlFNcG1VSnVBZ3lpQUplTjZBU1FJTkdlZHNSa0FXa2FrSDZ2d9IBngFBVV95cUxPWi1OZGN2U0txRFAxbjl2QmFlN1locnBNd3NYV1ctQ0hKWk5qUE1Xa2pGclhZZFgwRnNUVTdKd3BOT2QzNDNfS0V5VVJYS2x6cXI0NGJvRDBYZkY4SE5aQzZnVnhmWjlwWHFVelBqQ1pJeUdFS05FTE5RVlFNcG1VSnVBZ3lpQUplTjZBU1FJTkdlZHNSa0FXa2FrSDZ2dw?oc=5",
+   "medio": "Diario AS",
    "resumen": "",
-   "publicada": "2026-10-14T11:00+00:00",
+   "publicada": "2026-10-14T11:03+00:00",
    "enlace_es_google": true,
-   "id": "171d3b6df357",
+   "id": "a8d74d7f9ebb",
    "etiquetas": [],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "El Roig Arena sigue ante Fenerbahce con su gran semana: el Valencia Basket recibe a las vigentes campeonas de la Euroliga",
-   "enlace": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNdm9ud1hzT1B5SThGSzhDVU8zMDBDVlRWSDVEVHpTSld2eFhCLU9fRGFxYmJMbElyTVRscGFNTUhYMGpwNkFZRElwcEM2NlRBdWNXeHpLWXpFcWRQa192azF1VTdBeXdva2dWM29jNGNwZ1pBNWlfN29iRlZYMl8xSlFURlJoRnotdVZMMXZwNEoyclRCRWd5ZklMVXFzSXd0bHAwYzJUdllUUlRQZ09ENmdPcnZ6ay1HYXpLWkRPTkkyTXNBMWhDbTNsdkRWSVhOcXdEN0g0aWJzcnFhRnJGTTVBR29nUEsxYTg4ME5yOG9SME0tanczOUVtOVlDenZnU2xXaW52VllQUjVSWE9CdVRlaFZxcnJLbnN4TGNzem9YT2lqbTZsek1rcnp1N0x5cnVZaTVFLTFzSHlXWkhfSkhnYnDSAcoCQVVfeXFMTU45QmsyM3dGbGxLQkgwQkZ1NnY0YnVyeHhRd3VKUnlQaGpOVUhUTllQOERiUHZ1RFVqQ1FaNHlheU11VUFUbHFRRVowSndpZVYtYzdmQ2QxWUg4MUpwMDRIVlF5UlM3RU56UEU0LXNZUlJFcHdfZm96OWVlWlNxVEk2UzFiYTBDSmRHbVNIcDNOTXlKd2E1amx0aXR4akJmSDR1eWNka3pyMFl1azNXUDI5cHBpdGVwSHhFN01uMklLQm9UZ0swVGZ5cVNVbTlraWotSjVtQ3BRV0lQRDJIRTdmNS1jOG9QbmREMVR3RWxNbExMZzY0bzM0WUJ6Vmp4WjdCcmd1ZU52QTI1UXd3SGUyX1VxdFJUTjhtdV8xVHYyZ2ZvakpqdDNuS1RkYW1qREMwY2ptR1RHYUR2RTVqQWwtT0FUYmx4cHFn?oc=5",
-   "medio": "COPE",
-   "resumen": "",
-   "publicada": "2026-10-14T10:55+00:00",
-   "enlace_es_google": true,
-   "id": "63ab45cdb4ea",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Íñigo Núñez, sobre Joan Sastre: \"Me siento realmente afortunado de poder tener entre nosotros a Joan\"",
-   "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbGVLVXVDVlBRM05wcU10Q3JRb25tTlV6UFk5djRSQlZJbzgwUURuVUJ1NldSeWNHTWN3c2I1U3lCMlJSRGFvc1ctNjhRMGt2Z2NXLWVId004akJ0X2hHNXRQMzZaWUpCTW85N2lNWHV3dkd0Y2FiYnhRbzBWanBoMU5Ga2FmNE9SbnJlR1RZanpXODNrQjhfaXhuQkh2aHhUejdjYmtlQnBzVzBpamhONkdXZmtfSUI5Q19rUDRLZzBMbVRTVktTTDlRR0VfNEh5bHZhb0thTkpYRzZrWlRqdGIwZU9Ybks1TkVZM3d1MGJLLVhDQm9mNm1aRkxVVlE?oc=5",
-   "medio": "Cadena SER",
-   "resumen": "",
-   "publicada": "2026-10-14T10:55+00:00",
-   "enlace_es_google": true,
-   "id": "f5afb536b5c3",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
     "Google Noticias · Primera FEB"
    ]
   },
   {
-   "titulo": "Estadísticas Bamberg - Murcia: Resultados Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkIxZmN6aVZOMTBzU2RtRVBYZjNRdE94RF9HNFc2c3dfMDBEbmQ3VUFhYTdLaWFPYjkyRGVzQ1RIaWl3aVRvdk5WVTFxdmFvb045RktyWUhJN1dfRFNzd0E2dEN3anRGWDVHYmVMc2tKYW1aeUQ1R00tbzFuSGpFWDlwcTVWUHFleVJOazd5Z2hEUGFtZFdTeFRLZ3Z1dUtSYng0WVgzZE5ZYnd5WFRFZEhyeEs0cWZaVnpodXp5WQ?oc=5",
-   "medio": "Eurosport",
+   "titulo": "Temporada Askia Booker",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWg5RFo4S2VvbTZIRzVkaG96RXlpdENwZHFTV19kdjVwRlpSbGdOYVJoUDZrakV4WjVSN0hkSF9Od2F3WTkzLUhOVmxBRDlONFJLbkE2QlB0bGM3V0tuZm84bHZiZHdNdGxOUmxSUllmMVFOZzRwX0R6R2tWSGRTYzY0TDA1YnpfMUlOQXdhdnNuUkpIdmVPVmdCd2hKWkMz?oc=5",
+   "medio": "ACB",
    "resumen": "",
-   "publicada": "2026-10-14T10:50+00:00",
+   "publicada": "2026-10-14T11:02+00:00",
    "enlace_es_google": true,
-   "id": "e38a861819ac",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · BCL"
-   ]
-  },
-  {
-   "titulo": "Ni pívot ni alero: los tres jugadores que dan vida al Barça de basket en la Euroliga",
-   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZDc2YUYxbDU1YUc3SlRhMzlQcGE2eXJGd1IwMnNJdHZJcS1zcXVOellxdGRSdnEzN1hydE5fYXB3NzRvcWVHckhJMUtWRWVGNW5welRaVDUxNnBYcGM0LV9VcW4wQy15ZFl1Si1MaWdNdTR1TWpWU1puZjd1LXJkTnluUHRYbk8tbl9BUDZuLUJVUko4Q3dxSlZKS0dVRHFPUFNDRjRlb0FRdTdxQkdKTG5ZdzcyUVZ3OGhiREVaTkMxMzdvSUlWMFA1V25RQkHSAdQBQVVfeXFMT09hSnhfZE4xaHlQMDVWV1pPTEN3Y01LakFFWFJFSkEydHVXYWg1OVZDYVZBTVRjN011aVpza0pqeEowY2pNazhhamtzemRVb0k5Ukl4RjZwMDdkd2xxc1ZNMmdsTFVmZkVxYjlIcnI1RHBfZG5OalNoaWJiS0VRc3AyU3VoWUUxRUtDcUZZbG4ySkNjLW9yZmprTWpfVXpvNElpODZ5YU5lWTRZdXBQQTlyYzgtLUhHYkwzSlU1c1ZfQUZZMHd3Sy1WYUVBd1NhaWtsd2c?oc=5",
-   "medio": "Crónica Global",
-   "resumen": "",
-   "publicada": "2026-10-14T10:48+00:00",
-   "enlace_es_google": true,
-   "id": "636894f05c07",
+   "id": "521e10bb7b79",
    "etiquetas": [
-    "euroliga"
+    "ucam"
    ],
-   "detectada": "2026-10-14T15:02+00:00",
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
-    "Google Noticias · Euroliga"
+    "Google Noticias · UCAM CB"
    ]
   },
   {
@@ -1495,36 +2595,6 @@
    ]
   },
   {
-   "titulo": "Ngom y Martínez, en el quinteto ideal de la tercera jornada",
-   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQclAxMkpkbkJkeGwyT0E1OFRLZld1MlVjSHF2Nkg5VVdodm9vUFZCMmhVVno5UEpXSy1TWExwUzdKdTBxN2htdEkxMjcxc2dUdEVSNmY1UWdMZ25vZy05VkEzaXFEdWtITzlQVUVXSkdsY0E4QzhjU2RBVmU0V01lUklhVnJHdGxuQ1J6STFxY0Y5RVhBek9OT0lySmZreURxck9ITWdXTDd5eFQ3TDZNckctZGxva3dPZ1pzek9oSGNROExkb1RsTUFKZWpsN25pczRyM3QwdC0?oc=5",
-   "medio": "Diario Palentino",
-   "resumen": "",
-   "publicada": "2026-10-14T10:40+00:00",
-   "enlace_es_google": true,
-   "id": "4d20f175c1f9",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Primera FEB"
-   ]
-  },
-  {
-   "titulo": "El Valencia Basket busca reacción inmediata en Euroliga ante un Maccabi en apuros",
-   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVJvbGhLRm5VaGhkVGczRTJ1aVdvQVAyRlplRms0TTZJd1ZKTVFhZTI3Ni1RbFlkOElhbnhjcmZ5ek9mSlp3Um5YT2labnNnc2NnVXhXQ0dSTm5nVGZmVVQ3S0t4bFg5NTRFa2ZmMzJvYWJVbUdhdldmZUJoTlNReTRDa21hVmlNOFE?oc=5",
-   "medio": "Actualidad Valencia",
-   "resumen": "",
-   "publicada": "2026-10-14T10:36+00:00",
-   "enlace_es_google": true,
-   "id": "41b179ea9255",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
    "titulo": "Kravic y Gauzin, refuerzos para el Coviran Granada",
    "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaC1iaENLaDdKRkhJZDlGV20zLTYtM1Q1eEc4VFJJem55WmI1aEVwZ0Fyb3NaYk01QTNtTl9SVkJoNzdWa1FoeXdST1BpVU1vWmdDdEJ2bkVDbS1tSVEzbjAyLVd5My0teThLUmRvS3pNZUk4cURZZ2Y3Tk1xSkNWSUxsR1BNcDRmODVockhsVmNxTFhoS3c5dXBR?oc=5",
    "medio": "Granada en Juego",
@@ -1538,22 +2608,6 @@
    "detectada": "2026-10-14T15:02+00:00",
    "vias": [
     "Google Noticias · Primera FEB"
-   ]
-  },
-  {
-   "titulo": "Lo que se está cociendo jurídicamente en la negociación entre NBA y Euroliga",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRUpXaU1CdXVWSVRKNTdPaklSb1JfRGZQMm91N3ZrODEwZGZPRnFjVkIzN19UMUVFRDNieW1nT1lmdjViQmQyYnNnNUhGT3FkYmgtN0NONkNLVFE0bkxUcW5nRzFQdTctLVpZQzl5OHU4Qy0ybFlJcWlmc0EtaThhSHNWMEJURGpGNFpzM050ODdhZm12LUd4dk82OE90R0Utb2F1NkYzZG13bVE?oc=5",
-   "medio": "IUSPORT",
-   "resumen": "",
-   "publicada": "2026-10-14T10:33+00:00",
-   "enlace_es_google": true,
-   "id": "a6eca6b6d674",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
    ]
   },
   {
@@ -1589,34 +2643,6 @@
    ]
   },
   {
-   "titulo": "El agente de Dieng, tajante: “Se quedará en el Valencia”",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHJIeDFHWHUzQmhfVUVjOFpNZjF0d19yemNfeFdJV1cwTE4wVVRBdGRrX3Fnem5TcFBEYXgzbm5reEtUX3NDWFJDRGVRUjVGbDMwcTBPdXJobE0wZnVXTllNNGR4SmRHUUZtV0tnMk9xRXFES2EzM1FrWXNIT0l5c1dzbHRlNVg2TnFIUUNSVUtWT2VCaHdBaG11YlhZMGFVZFNCaDJTai1vTzkt0gGsAUFVX3lxTFBQckh4MUdYdTNCaF9VRWM4Wk1mMXR3X3J6Y194V0lXVzBMTjBVVEF0ZGtfcWd6blNwUERheDNubmt4S1Rfc0NYUkNEZVFSNUZsMzBxME91cmhsTTBmdVdOWU00ZHhKZEdRRm1XS2cyT3FFcURLYTMzUWtZc0hPSXlzV3NsdGU1WDZOcUhRQ1JVS1ZPZUJod0FobXViWFkwYVVkU0JoMlNqLW9POS0?oc=5",
-   "medio": "Diario AS",
-   "resumen": "",
-   "publicada": "2026-10-14T10:29+00:00",
-   "enlace_es_google": true,
-   "id": "ccdb9a818af1",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Primera FEB"
-   ]
-  },
-  {
-   "titulo": "Borrón y cuenta nueva para Meins Avenida en Europa, con el estreno de Kennedy Brown",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcWtscGpwc21hZmJFcXRtbnF4R3I4WmpoTXd4WkJ0VVdRbVFzNEZPZ3R6SXR6MXA5YktJOEg1NWVUdXVCMjloVlZaS243VjFuSzhGV01GRzdCaVp0TXYtcXFhSVFVbC1pNnR1STN4czhtQVFYUkQ1dFk0d2ZCdFF1andibU9tVkRlczZxU25rUnVMT1BqR2h3TThacnQ0R2ZZNnE3amRnZnJpa1FuMjYxTlVCWjhsRlcwNlpwbmF6WEkzVEUzTnNTLW9FVUExZ9IB0wFBVV95cUxQS1lMOU5JWW5mZlI0bHdrTEFoVUM4c01SR3RnNUZqUnJOQUxwc2xpSE9LemlEc2h0RU9adzRFRkhyX0hXRUczUTRKNkNKdEdYX0pOZ3hjZHBIdzlwbnhBV3llYjR5cFAyRjB4MHRxS2lvbG9vQ0ktbGlHbVVoOERvdTMtNndFNFBtb1k5M00tM0xqSWFQNHRXZHBPSTFkeDhMd1RJaHNsUXF5dWFNVWUtMGNrVEp4bi0yZUs2d3VqQlhIZjB2anh5YjI4dFctNzVJSzJz?oc=5",
-   "medio": "Salamancahoy",
-   "resumen": "",
-   "publicada": "2026-10-14T10:25+00:00",
-   "enlace_es_google": true,
-   "id": "9b26c29bb7e5",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · EuroCup"
-   ]
-  },
-  {
    "titulo": "Dejan Kravic, refuerzo para toda la temporada para el Covirán Granada",
    "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHpQZUxhaDdJQmFZQXptMVFWNTVQMVBiSDkySmNhUTlZUGlmUldqRFFrM1NSZ0JmMnlQb21lY1B6TGwzRHRoSFBCT0pfbndDOEhsSFlxMTlDQUZDcm9PVGpEWGlYYTNkZHMza2t1bGJob2s4ZW5hUGo5YnlCSlk1Yw?oc=5",
    "medio": "GranadaDigital",
@@ -1630,20 +2656,6 @@
    "detectada": "2026-10-14T15:02+00:00",
    "vias": [
     "Google Noticias · Covirán Granada"
-   ]
-  },
-  {
-   "titulo": "Estadísticas WKS Slask Wroclaw - Napoli Basketball: Resultados Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMWlSeHRhWm9ybXpDRUd6eGVGMmhITlFuc1pEc2p4Y2d3TDVvbG1sa0lRQjlnU3BpZGZIT2k4VXlEaW1TaVpUaV91eWF5c3ROOFpfNXFQQ3E5SEhyMVI3TTNwMlhxV3ctR1RRYXJzaV9CckJXckRJNGpxVjhibklFM1Y2NFI1eFYtTG1yakd5LXpjZU00NWVTNl9BRk9xOVBESEJpTENPOW9JS2ZaWDFEUTc0OEhHa3BUOHdTVzBJdWdWakFfUkE?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T10:18+00:00",
-   "enlace_es_google": true,
-   "id": "b4536dd59ba0",
-   "etiquetas": [],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · EuroCup"
    ]
   },
   {
@@ -1665,20 +2677,6 @@
    ]
   },
   {
-   "titulo": "El Real Madrid endereza el rumbo y se atisba el proyecto de Pedro Martínez",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjdFWmxmR0VpdkpsUG1iV2I4NjR4MzRieHFUTm5NRktwRzBWa2VoSE5qSEZOME5KVG0waV80ZWpLMnRKU3BVM3hmWS14OXkwaW83bUN4ci0tNURNeHAxWmFwSm1kSERnaTM3NmJTS0VyUDQtVGdPMXBOaFlHbDk4dml6Rm5tc3d4THAyMFZCNTFkWThLdWQ4b0g3bmZNcE5MZl9tRDl5UDV1c3Q3bVZSRjZUclJlVk5N?oc=5",
-   "medio": "El Confidencial",
-   "resumen": "",
-   "publicada": "2026-10-14T10:05+00:00",
-   "enlace_es_google": true,
-   "id": "798d6ec27bde",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
    "titulo": "La puntilla al drama del Covirán: Lluís Costa vuelve a caer lesionado y Thiam se queda sin temporada",
    "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CMVQydEQwX1U5aF9xVEpuMnFUWWVOOWtCWHViYnhEUEloTUF6WkFiNUhYVHpJcXBkemdjQVkyRldwb1o4YXJqcnVYeXg2UE9Qb1NEekU3TkY5RjJUdVZFeXNQbk51SEVhNmxidkgtVXM?oc=5",
    "medio": "GranadaDigital",
@@ -1693,51 +2691,6 @@
    "vias": [
     "Google Noticias · Covirán Granada",
     "Google Noticias · Primera FEB"
-   ]
-  },
-  {
-   "titulo": "Asisa Joventut vs MoraBanc Andorra: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN",
-   "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQks5N2k4NzNQMTNpVmRWSHZjcnpaZHpKRG5XMDBxMlc1blpzUmItUmFsdmdTRF9KM0ZCUDRRc2xiSV92QklsTTBmdF9ncGRwRktYU2JLblI5NkFxeVpSX1pTSTVBaHFJNEc2TWZjaDZTN3RONWdDQ2FyWWF0alFucS1CM1pzQ3hNcjBwSkpkeTdxRkNVdWNmbFlSX1lrTkJBNi1iWjUwRGFEQWxFeEtsS1hwelJqZ2RzX21FbTRKaDE4dFlFUzQ5dXkwQ1pqSXI0aGlSNXRHczcxMEhidmpRSkdoY1ZISHI5dVZuM3dHek40ZGlhelZ4TXlVRXB0UQ?oc=5",
-   "medio": "DAZN",
-   "resumen": "",
-   "publicada": "2026-10-14T10:00+00:00",
-   "enlace_es_google": true,
-   "id": "e5673d5fe7e1",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Valencia vs. Maccabi: plantillas, horario y dónde ver",
-   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVNxb1lxOFlBUndZU1VGbnF6cUNhTG1GeVp0SG5vbjhjUmQ5Y1RlazJDRmVHejBEZmNFa3JsR1QtVkwxUHl1TXR5ME94djNaTXE5ckRpWTlLTEZMenh2V0xsaGl6b3NPeUN4QlZ2Ri1BRWFFRDlPNHowMXU2M0NiVWhNc1pwc2FzWEt4djZYWmE1VGl3Ti1wX1g2U0Z0T1NMcWRvMFo0SHA?oc=5",
-   "medio": "bet365 - Apuestas deportivas en la red",
-   "resumen": "",
-   "publicada": "2026-10-14T09:58+00:00",
-   "enlace_es_google": true,
-   "id": "77dbc7c81fcf",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Hablamos con Jean Montero en su regreso a Valencia: sensaciones, palabras para la afición…",
-   "enlace": "https://www.gigantes.com/euroliga/hablamos-con-jean-montero-en-su-regreso-a-valencia-sensaciones-palabras-para-la-aficion/",
-   "medio": "Gigantes del Basket",
-   "resumen": "El dominicano se enfrenó por primera vez al Valencia Basket tras su fichaje por el Olympiacos en verano y firmó una exhibición La entrada Hablamos con Jean Montero en su regreso a Valencia: sensaciones, palabras para la afición… se publicó primero en Gigantes del Basket .",
-   "publicada": "2026-10-14T09:52+00:00",
-   "enlace_es_google": false,
-   "id": "15cf252439c7",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Gigantes del Basket",
-    "Google Noticias · Euroliga"
    ]
   },
   {
@@ -1757,123 +2710,19 @@
    ]
   },
   {
-   "titulo": "Un regreso a la Euroliga que ilusiona",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1c2ZmU0NERQQ0MzQWRVWlV5VDZ0MUNiWEZ6c3FhY2NtWkppYmtma21rRjBTS19hZld6Vm00VU9Za1R0LV8xVWVCMjBZQXRpd00tLXN6aUtFZnpidkwxNW1xRS0zN3VmVFg5REFoak82dWlEM0NvSno5S1p1WnpVTUE1MDUtb2py?oc=5",
-   "medio": "Aragón Play",
-   "resumen": "",
-   "publicada": "2026-10-14T09:50+00:00",
-   "enlace_es_google": true,
-   "id": "b5e6fb8b3a50",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Valencia Basket-Maccabi Rapyd Tel Aviv: horario y dónde ver por televisión y online",
-   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmlpRUo3VmtpaVZ3TTZaOE1xWnJ4N0ZBX1BJTGNENWpvWWR5akx6dm05ZTVfSjNOczlESXRPZnJ1X3R2MC1xZTUxMHBXYTZ5OVBzVEJPeGxVTjRvWGJMVHREMHBUTFRLTFVoSjlWV293d25DRS1RcUE2aWp1U0xDRFJSNy10aTdHX2t4T1J6NlhINWE3dndtek9sZ0ZQLVZpSDlhSHpBbXJMcm9lTEEtSdIBtgFBVV95cUxNajlGUFNCSkY4aTh5Ukd4QWJVcXAxNVBGbnFTYzBRR0hQN09GZTV6TGFRaDdBWUZIOGdwM0xZdld1RlNFUnFQRXFxMmtvVUZ0VVUxdUNERXZTbkw2LWNDSWVremI5OExOYVRsZDNIZVhxOTJVNnJ3WVdNblRxeGhmblhDZ0JEYk9TWFB3dlRhaXlkSDJpb0I0cUtvd2E5anhXc05lZGtyNVRya0hFZDJkTVowNnRPQQ?oc=5",
-   "medio": "Superdeporte",
-   "resumen": "",
-   "publicada": "2026-10-14T09:44+00:00",
-   "enlace_es_google": true,
-   "id": "28fd3e91bda0",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Joan Sastre | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLVh1QjlGQ3VrMVFZVURybUFTVUJicUJyRHVPNDZwcEFFUmpqYl9pdHBZUHNIUEVhbDYzY01XcHFlNFUwTW1zaHJlWExvREVKWGlsUWlMUnNNWkVubzNkNktQSEdQTVdESFp1Z1hxS2x0QXlXU1V6MGE3VlBIQW90dy1Sbzl5dw?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T09:35+00:00",
-   "enlace_es_google": true,
-   "id": "b368d2f1e888",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Estadísticas Crvena Zvezda - Maccabi Rapyd Tel Aviv: Resultados Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWtwUmJFZXZFcDNsZFNobVVTRWZacjFHSy1ndTBCOVRIdW5vOGJkRkMyY3NrbDM0RUF4X2RURDdXNWszQlNRNUQyMnh2SG9qeVZRWkxzUEM5dWRfWlVFU3hXUmRQci1haGlpRklETXM0Tlk4S3d4c082LVQ4SGlLa0hNdUdGZTljV3dCcFU2VDBJdm02b25JNHFSVXBiZG5RTzZoa1lqYllxWEE1YUlIZlY5SnRQb0xDMmNPVA?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T09:33+00:00",
-   "enlace_es_google": true,
-   "id": "d1371738291a",
-   "etiquetas": [],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Asisa Joventut-MoraBanc Andorra, con récord a tiro",
-   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmJqcjRjUjF0UjlBeUxsNTBxemUxTXowTEJPVmcxQzJxU2hfY1hTOTJJM05HN1E4WU1ReWlacnZzX2czQ003Ui1wVmV3VUZlYnZwaS1QTWVFYlhyM3RFY0JOdFpoNmpHSUo5SE4wQXpaaW9ZNGNhMXpYNW9lQ3ZNb0s4MVFwSHExSnlOZjI2MG92OTQ?oc=5",
+   "titulo": "Partidos Rodrigo San Miguel",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEozQTNIVHRHWXFTT2E5RkVKUTZnV21hbzB1QzdGTXNWc1BWbkN0VkJmQjZKVXpQc0M3ZGV4WGZGaXRTN1paM0szc0tIMXJqZHpydU1IRmZqWnVuLVBJRGlnMXVPWDJQemo0YzR2WDhWSktUTzlRa180bE00ZGVBUFlKam5MaVFqQWRvSVZYX3RvY1BzVmQ0aUl4dXkwOUJDMGQzM0lUWDZONmFpVFdTRkRmbHBaYjl6Qnc?oc=5",
    "medio": "ACB",
    "resumen": "",
    "publicada": "2026-10-14T09:15+00:00",
    "enlace_es_google": true,
-   "id": "3ecf7cbd7b40",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Bostjan Nachbar | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlktQmdNYVRDMENUOTNZN0I1SmVuVWJMYy1jTFU4WU5wRUZoYjBjbU4waEN1eEliR0ZoWkZqaC1uRVNOTG5NWlZsZzBkNlBUU2pPNncxdGZ1OHhNNmlJWnBIMXZqZ2ExMFNNZTNScV9zeU9iTXNJR1M0c1JrelR0a29Wb0xFeUhHMkhNbXpabjdNcVViUUd2bHp1X2UwRjRFeDgwSGI5cHVnMGxHTVlFcWU3c05xLTJJdjFENQ?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T09:12+00:00",
-   "enlace_es_google": true,
-   "id": "d7018b29b8df",
+   "id": "81dafb928e58",
    "etiquetas": [
-    "acb"
+    "ucam"
    ],
-   "detectada": "2026-10-14T19:16+00:00",
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Valencia Basket - Fenerbahçe Tarfin Istanbul Partidos relacionados: Actualizaciones en directo de Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVdpNkxYcDFNcVVIQ0QzaTdzcHZxdnZiWG8zdjRPSlh0MmJQU2l0Q0thaktGLU8wX19GY2pQRHJfam53SnNGWWlGUThwdkdoNlJVa3IwMUl6M1FKLWRRYjlHUGlaSWN4SEwycUdQdE5WR3FHdFZBMFVLbWFpZ2NWWXpYdDVaUlpQRklyYkp5RWpSR1RlWFk2cmdaOXBQcGZJVUlSTWszdTROdEZQVWpTTGJuS3FtNnhNNVNnQm0wSG14ajdZWWtz?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T09:12+00:00",
-   "enlace_es_google": true,
-   "id": "fd7a041cdb1e",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Marcus Eriksson | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRFd5a3I1VzUweWI2bHlDajM0d3B2LVNZVGZwbWFoRndVREJqc2l0NEt5c0k4NFREdjVoUVUxZ2tYZzQ3TnVoMVZ2VnZKUzM0TmNzRkk0RHJxMU53QmJFd1BWcnp5cnJEWmNXMUZfTVB5REt3Z0J2VFQ4bzkwTkd4V2NUM29pTGNPRjhzRHBXMk1QWDItQjhxbF93eXg3NVhRM0JDT2NyS2RwajIybC01aDFtN1puVXVxR0ZUNg?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T09:04+00:00",
-   "enlace_es_google": true,
-   "id": "ed257b91d2eb",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
+    "Google Noticias · UCAM Murcia CB"
    ]
   },
   {
@@ -1891,96 +2740,6 @@
    "detectada": "2026-10-14T15:02+00:00",
    "vias": [
     "Google Noticias · UCAM CB"
-   ]
-  },
-  {
-   "titulo": "Anadolu Efes Istanbul - Panathinaikos Atenas Partidos relacionados: Actualizaciones en directo de Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZXJuZmFPcDMwSUlyTXZ6NGc5ZWUzc3hhd0pReUdsZ0pwSHFfa3dHbnNPSkRFV2RTTVdnMGJYd1BXaHEyc2RxcjJsdk1yRGVzaTVLOGRaMW5wYk5UVkpaeTQ3aTBVckM2a2FvNFRvbF92bFFKWTBGWEFPT19XOWN4Z05abmkxVTFIV0lzR0laRFZVY0lvTFd2clhRSHZvbVh2bUdtVU4yZzhzZTh4ejRyZEVHOUpQVjJ6S1o4bmFPR0xOSjF6VU5r?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T08:48+00:00",
-   "enlace_es_google": true,
-   "id": "9bb57962e5f7",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Crvena Zvezda - Bayern de Múnich en directo - Euroliga: Resultados y resúmenes de Baloncesto - 29/10/2026",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGNPclI1TGFJWFFSWEFPbW1ZNWxkUE5lc3pEeEZWOV92eDVSWFdHZFNIWTFkdEU4LUJITGdaVEVDeTVtQmVRMk5hS25LNjVVQ3FYMHU1V0hMaWY3ZTBEQjBWYzBRTlFyYng1WHBPZC15cE0xSzJHbU5RTlp3Y29QTF85TkozckF4d1ZkNzFBVHQybHNhV0lwb3pCZC12V2hGLVB3RGNiQXFocjNq?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T08:38+00:00",
-   "enlace_es_google": true,
-   "id": "ed7463b8a511",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Andrei Fetissov | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYm9adVhTUkNXVmJYcUhvVTg4WTJjUnNGczZzY2lVN0UzM3EyVEc3Tng3OTlRUjBNOGM5bEVwUWVwdk85MlFfS0FZaWt1SVlvUm1La242ZnY3eWZST3l6VGxpNm55SE90NWcxUHNmcWwyM3NadEs5aFdFVFJzc2xiOC1vbWtBQ3g4SE14bm5zZ0o?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T08:35+00:00",
-   "enlace_es_google": true,
-   "id": "7e4fc840b990",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Estadísticas Maccabi Rapyd Tel Aviv - Real Madrid: Resultados Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbTNPcTBqMUdWb0l6U2lTS3hkUEJNdVFaZTBPTUpwTzctd0FZeVQ2cFYwSEE3WkJDeHFtSE1UVWpvRGpLMzJ4NTdrTHFwS0kwblh5U2JrOXNFR21KSnVGQWppNVNmcnFSYzlDbVpKNFBEXzdYTGJpZjRIWmx1VHVtNjAzMnhIcU11T09ibXlhaFJuaTZhVkNpT0RldzBVQV9qSW8zQndpVkxIWTJwV09YZHc5dEl4WHJra1E?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T08:35+00:00",
-   "enlace_es_google": true,
-   "id": "d00b3be9f54e",
-   "etiquetas": [],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Zalgiris - KK Partizan Partidos relacionados: Actualizaciones en directo de Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWk51WHhuc2xfQU9STW0yZEp3M3pXRG9XRGw2bGJoanVJeGRNd1dTY1FiQnBjb1pOTEhvQWN5c2w5TE42eU15V3hLQnNVNWR5WVdvZFROTHdZRjh4cFNUVW5rNGpRRE1QSndQdjk0QTg4VjdxbF9yb3VuV3RCR1lhcDJsWlY3bjgwNVRRUEJwbnVmcnpyc212cEZWbVZCdFgtdmoxTi1aVGF3dw?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T08:35+00:00",
-   "enlace_es_google": true,
-   "id": "4a26e8e49d1f",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Nacho Solozábal | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWFVoTUtCa0gxcFVIVGU0RFdtcTJNYm5UdWZBNHhyRDVDNUlLYXF0UzA0aUU4NlJzdDRoVXZEMEZ2Q19qUEs0SFBQZWpBMEZ0eEVvYU83TlF5anBac3h1WVh0THRhdl9PcGxnMDl1UEdjV3pNMW9wOE12Q2lrYkxLcnVseVhGV1htME5ibDZvQ1RxOF92Zm5qZ0RXTkJYVzRGY3B0YWdxSGtuOWtEdGk0bnRBYXhycFU4akljVg?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T08:24+00:00",
-   "enlace_es_google": true,
-   "id": "365d7fdbe79c",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
    ]
   },
   {
@@ -2016,113 +2775,6 @@
    ]
   },
   {
-   "titulo": "Markus Howard, rumbo a San Petersburgo",
-   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUWozUDNCVk44QjJ2VGVlLXdDbVNkT203bzVZLVhud0hMSHpvZExZRmMtUU1QR3hkamFFQkU3NU1USjJiTzVidTlNdXEzT2M5N0ZWYkNXUXVPcVhCaTdkRVJ4RjRHd25Kbjl4di16eUFwMkFRYVlJT3oyMnB0Q0ZmaTRaYTNvNkNDbUNXVHhFM0l0ZkHSAZMBQVVfeXFMTlFqM1AzQlZOOEIydlRlZS13Q21TZE9tN281WS1YbndITEh6b2RMWUZjLVFNUEd4ZGphRUJFNzVNVEoyYk81YnU5TXVxM09jOTdGVmJDV1F1T3FYQmk3ZEVSeEY0R3duSm45eHYtenlBcDJBUWFZSU96MjJwdENGZmk0WmEzbzZDQ21DV1R4RTNJdGZB?oc=5",
-   "medio": "Diario AS",
-   "resumen": "",
-   "publicada": "2026-10-14T08:00+00:00",
-   "enlace_es_google": true,
-   "id": "896e65f976cf",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · EuroCup",
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Richard Nguema | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd3VwdkEyMUF5VmZETmg5WGN6R0t0RGo4VURNdXJFbEcyd2hLdnlDVjRTTDE1MUdHS0xfVGQ0d2FfLVdMel9XWnloM3hneENNbG1EOFFGTEx2d1JlUUpVbHJCRkJEdFVvR1E1Q19Cb0JndjVvVlZ3b0hVc2ViTkVFVnhlcjRXdll6RVdjV1ZKSQ?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T07:59+00:00",
-   "enlace_es_google": true,
-   "id": "e9d7e23a7cf9",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Dani García | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGpsZjZNNFZxYjl0RUh0dUhRcGFiUjQ0RXo4dE1KYnpHN21tLVpBT2tNMWs4Vm9SY3J5QWMxeG9XLWxYaUFhWmdPTWVENHdPNWhIOHFlalUxUkFiQ0JNdjJwd2c0dEs2X0xYQmxmVFhWUXMwMHpoOVNkV0E5d0RUZDdTYl9QbnRQdzhXa3ZB?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T07:59+00:00",
-   "enlace_es_google": true,
-   "id": "635b07be3db5",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "La Laguna Tenerife, en alerta: el Maxima Roma llega con ocho americanos y plan NBA",
-   "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfUVJhWHdMQl9tYWNoWTJncW5VV21iUWhwcG8tVGVlc2U5QWhFSXo1NkJtdkNodlZXRzhfVWtJV2R1NjJyWXc0UDhnbXJKbl92MlhoeXVCTEFVVnNVVFYtbnZvdkV2Zmx2UXdEX00xLWlrSEc5Sjdv?oc=5",
-   "medio": "Canarias en Pleno",
-   "resumen": "",
-   "publicada": "2026-10-14T07:58+00:00",
-   "enlace_es_google": true,
-   "id": "46c004f975a7",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · EuroCup"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Nate Reuvers | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVlKRlZsbHE5OHlScjRLb25pTWtKQlgxcjlkUVprMkJTdGFaYldwQlZGdXo5Vk5LR0NvWWtPRmFjc3Q3X0MtTGRuLTlCMG1PWTgyX0p2Vl8zNjRvUXZQenFnY1ZORVY4NEpwSGlCQS1ib3RiSHpHMGxvVG5waUk2cmR4a19jdU5tOUR2NGkxbGZLQ2lPTGdmLURMZklpZEdXZVdPTGFKaEdoMHNTc0ROLUdWUFoxdTZIc0FxdDRMLXBtUQ?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T07:53+00:00",
-   "enlace_es_google": true,
-   "id": "a7f6ec5c68a0",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Mensaje de Jean Montero tras su regreso al Roig Arena: \"Qué bien me he...\"",
-   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDZTekpVMDlZcDhpVTZZczlzYy1fTVdfdFM4YnZFX3pFSk9qcEZON1IxOTI1SHAtU0l1aGt2TE84V1FqN1cyU0hvaHRyMHBvWHJ6QVQ4eTlwRHBJNklfWnROMXFxQks0N0tCVFFlTTdPYU0wZFZUQmhxWk51TTE1S2xOSEhaTVhXNGdacENtVmgtY2oxcjJmMVhJRU1neHMxVFI5N3ZBNzJjbjBHQXfSAbMBQVVfeXFMT29wX3Jua1BwNmd6RS10aHN6WVZ5MVVCVHFQaGhNZnF5M0g5R0dJTW5hVWFTZjBDWHlTUklBdGxfcmRiT1VlbDlNR0pPWms2RWROUS1wUlFJR0ppWXVfV3ZCeDZUeDRoNUMyVXJ1d0tBN2t5eFpobkx3c2Q1LTVyQ2pady1sRkJGMFUwYmZuMGZGb1drRTQyVEg3SHFiYnNhV3RMMFFzTzVWR01ubUZ2U1pDdk0?oc=5",
-   "medio": "Superdeporte",
-   "resumen": "",
-   "publicada": "2026-10-14T07:42+00:00",
-   "enlace_es_google": true,
-   "id": "2647b1d67a8e",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Dubai Basketball - Paris en directo - Euroliga: Resultados y resúmenes de Baloncesto - 27/10/2026",
-   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnJXSkZYS29iSkJxM3VDUVBEVURtUkhoRDItR3I4c1JEcGlnbm5hTjJSb2ktZ1JpUFNEYmY2NmR5Umk1R0VGTFpkaFF4VnItTmpFVGQ3dHpVN21ISE94Mzg5NWh0QUVObzFtU3IzTmluYXZFaHdKM1RhYXRMN1pFRTVETk53TXRBZUFwR1RENjJtM3lFT3duaUxudHY5UHdvYkE?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T07:38+00:00",
-   "enlace_es_google": true,
-   "id": "a0fedfa6778b",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
    "titulo": "Partidos Lucio Angulo",
    "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDJzT2FaOG1ua01qdXNiNzc5UkZxT182QTZQbUt1X09QUjVqd2V4c1BSUmt4STgtbWhBS0c4LU1HQmFYeXJsd3lIT3BKUXN2Y3pRUVE1OTdNU2RYT0VZT2kxdUdfb1FuV2kzOGQyYXhxXzluLWpfekNWWlFqM2NibHhxWExTTF9EeU0ydmlRbFpaSlF6cFJReUpaUndCTGd2bVo5QnlHY19HczJGTUFYOFd3?oc=5",
    "medio": "ACB",
@@ -2139,137 +2791,35 @@
    ]
   },
   {
-   "titulo": "Trayectoria Víctor Alemany | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRVNfQTNGa19vaVFoeWlvZVFXSG9sV084VnY2bm1KelBoUVlNbXlodWJfcUlmRmR1WEtFVEFFdmVLRDRTWUVuamp5WHc1Z0RUemd1ZGlieThkOWRmamZMeVJ0bU1JbFZDU2xZMGRLNE9kb2JiQ2prYkstTmtUSHVnV0tfZ1VNOXY5ZFpWSFRsOE9TTEVrem9ZcVMtYlYtckNrRHh6OV9BTjRvM0lKWVVnTy01R2Z6TURCUHZ0NjBvclF5Zw?oc=5",
+   "titulo": "Ben Romdhane",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0hBWkFoS1ZKRFlQa2lJOW01cWZGLTBWM2hDS1BuSGpkQXZSQXJIQjBTY2pPeHBGa2xJVEhtVjhXb3hZOXNHWjNGV05Ma0VJS3pRdDFfYUo4VHdmdlZkWnkzSGVja1dfZkdZdkxBY0tucHZac2g2YkpfeXdjWFlaS0pDd1Bsd1RPMWpjTkNzazRkOVFLbXQ5NUZSQXlXdFpUX19mcXc2NFhoUFBVTFN5MVhXOGQtM0lsX1A1c2pxc0s?oc=5",
    "medio": "ACB",
    "resumen": "",
-   "publicada": "2026-10-14T07:30+00:00",
+   "publicada": "2026-10-14T07:02+00:00",
    "enlace_es_google": true,
-   "id": "5f1ee7dd2aac",
+   "id": "5343901f26eb",
    "etiquetas": [
-    "acb"
+    "ucam"
    ],
-   "detectada": "2026-10-14T15:02+00:00",
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
-    "Google Noticias · Liga Endesa"
+    "Google Noticias · UCAM CB"
    ]
   },
   {
-   "titulo": "Resumen Valencia-Olympiacos: El campeón obra la mayor remontada de la historia (97-102)",
-   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV3NtT2dSSWhCVzhicjVJWEZKWDd5LUNrTXZPZ3IzWVZvYVZNUXFxS3JiSXpSdDlaZWVBVDU0ekd2N2Y4MTkyY1ZjZkZNd0NtVDlpR2RpakE5TTNTdHNYSlZvZWRvaFgtZFdnVm4wNVhyT2VOVXlOV0xTbmFZcFpYbWFaN1lVRVNxNTRyZVRLbzdSUGdldzJmbWdpQy01Znp4RmRiTkEzUklaZ3dUZnZJMXNEU3NUYTNTei11akdOUy1maDB1NlJOMUs5WU1ZV19rdG4ybVd3YWNLdVU?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T07:26+00:00",
-   "enlace_es_google": true,
-   "id": "5d032a0fbebc",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "El guiño más culé de Jasikevicius tras ganar al Zalgiris: \"Vamos a ver al Barça\"",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaXFrcGtEWjJ1QlI5bUVneG54VmVacVZXRGhzdEhYZHNwa0dBVjFFb2M1LW5Wc3lxYUVkSl9URnhDZFI5SDV3Wm01VkRGc1ZmQlVxR1RLQ3A1QWtTTTh5M0ZxbFhPYl8tVnNReXlaQjB1TTVXRGwxNW0wLXJtMXk1U0lvdE1xNmhGVTEzS0t6UnlPWHhiNEk1djVYU2s3T1RPTUJma09ZWWg0ZW91MDdNcG9CUllqN3lSRkxnRVV3ZnZCQdIBzwFBVV95cUxQRUtpcjNOeXNVbnB0ejNPckh6TGJGa2d0bEVJamlWZ2JKVnVDcjZNWDdVUUtQblM3N2xqNUNXQkFMMGZSUUpEUlRZRElTek51UUxlLWdqY1U0cnhaTHZIdjJCMVRMSlloaXBzeWs1V3A1dEl4eklQRk01UXg0bW5aMG5JZVhtNExnRHNvaWNuZTBYOFV3U1ZPdG9RbHNzWlZMWXEzd2Y3UzV5QU1jS1JuaHlyUkdTeHNuM2ttWTcyYTBnYS0tbHNmNGJIWTc5Ylk?oc=5",
-   "medio": "Mundo Deportivo",
-   "resumen": "",
-   "publicada": "2026-10-14T07:26+00:00",
-   "enlace_es_google": true,
-   "id": "d2ef76780257",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Dani Díez | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclNvM2xmd3NmVDZ5UzFrclZPakotcFVMUlhPeW1aMGg5OEUxMUJSY1hZb3RBRE8tUUtydjljdmMxZmN3U0FKaVRuUml5cXNVYmtZT0tVSmNMUzd5ak9ZdDN0UnAyNjhIcXZ5b1lSUC1VUE0wZXA3WDVmSW94TmY3OVJQU1dGZWg4VXo5elk4aU9WZ0VtUkNuUVRnaVRMMVJ6M05RZWNTQTlGTUZxc2VacjFXaHhfTG8?oc=5",
+   "titulo": "Zonas de tiro Jarell Eddie",
+   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZW5IazRldzFFb2N6d1d3QmpXTEZrNFFBQ1R1QlNpSjJOdC15VC1Ma2pmNlFqaERmQmlkMjNCRjh5b2NpTERmXzNRYlpyekdHaTlQX2d0NkotRmViejNCYVljcE1JUmlXNEp5VHlVaVlGemFxaThuMlpZZ0x1N1c0Qi1IcGZXOXE3R2c?oc=5",
    "medio": "ACB",
    "resumen": "",
-   "publicada": "2026-10-14T07:24+00:00",
+   "publicada": "2026-10-14T07:01+00:00",
    "enlace_es_google": true,
-   "id": "5a6f15bba21b",
+   "id": "8af4f5f9005f",
    "etiquetas": [
-    "acb"
+    "ucam"
    ],
-   "detectada": "2026-10-14T19:16+00:00",
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Todo a punto en La Línea para vivir la gran noche de la VI Promoción",
-   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUGpSSWlONjRUVzVaRHNSU3p5QVotQnFGeHBqQVNkQ3NBanRxbUEzNldkMThJSC1DX3BOVGdmSUdGcGRETzUxOHVoYVk1aUtsR3dVM3NPamdVZnJYUEVweS1LOHE2cG1lZ1hIOHJyUC0ySWFKb0VISFc3U3VkeXpTUDVhU3NQNEFINkE5dG4wSzRobEtpTFFCUDB2aGliYVd6emJj?oc=5",
-   "medio": "Federación Española de Baloncesto",
-   "resumen": "",
-   "publicada": "2026-10-14T07:15+00:00",
-   "enlace_es_google": true,
-   "id": "5340bdbc976d",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Primera FEB"
-   ]
-  },
-  {
-   "titulo": "Espectáculo en la jornada 5 de la Euroliga: remontadas y triples decisivos",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYktPV2VDNWVac01xbFlzU2dHUUdzZndvXzBvMVNKZ3cwc2t6bWZGUFZaNG4wdVBPSVBpbFZ1Q0J1aWZzY3VnQzlJTzR0dHE0b09jNVdpRDNoQzBnTFI4S0VIcUNSbUxnYm5sNWgybTRrQXp2WF9GVXZ4TW10SmhDYXROalNUcUktLXB4cUw4S0tJR0ZFYy1SdDgyWTdFN2RT?oc=5",
-   "medio": "Blog de Basket",
-   "resumen": "",
-   "publicada": "2026-10-14T07:09+00:00",
-   "enlace_es_google": true,
-   "id": "00c6d1350d95",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Resumen Barcelona-Maccabi: Un triplazo de Justin Robinson sella otra victoria culé (90-87)",
-   "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPalFYNEFrRFZGTE0xR3lSdGpHYjZiVHdNZEE3V0RJSEdPdHYwM3RiZzBiX3N2YkgxOXZHMlpaLTd6Z0V1T0VUbDZGSkJybDZybnRrY3AxekdlOGpncmRYc09DMXJPUzMyMEptcUNXcUtlbDIyTXAyQUU1a08yelVEWUdKQk5paWtJX1JZNXJJY1podmZMcWk1OG5VZHVJcTRzTmpaRmxYR3dSZ2F0cHdZcWluVUxHU1UxbEFSbWxsbHhXcTVua2liVUpXMHNVb0dXRnAzRWpfY0JsZW5NU2QxUnFnRmtxamxDVEtSOGd5Qm5wb25La1hvRjJrTWp6Zw?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T07:07+00:00",
-   "enlace_es_google": true,
-   "id": "2d2c6f09c506",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Otro buen partido de Aday Mara con los Thunder: gran asistencia y baile en la pintura",
-   "enlace": "https://www.gigantes.com/nba/otro-buen-partido-de-aday-mara-con-los-thunder-gran-asistencia-y-baile-en-la-pintura/",
-   "medio": "Gigantes del Basket",
-   "resumen": "Con el regreso de las principales estrellas, Aday Mara salió desde el banquillo en su cuarto partido de pretemporada La entrada Otro buen partido de Aday Mara con los Thunder: gran asistencia y baile en la pintura se publicó primero en Gigantes del Basket .",
-   "publicada": "2026-10-14T07:07+00:00",
-   "enlace_es_google": false,
-   "id": "98e74eb90b52",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Gigantes del Basket"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Elmer Bennett | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkEycEZkUW94VlVlZ2NpT1dCb2pPcEtBbU5wZjVza1RrbFNpNlhTb0JiSEkwTjFVQkJhd0RiUzVSSENmcU9kMDdwWHVkNHVITmkxNjEtNDhOU3Z5UUpRek00T0t4SVNWdmZwa0pqMmo4X01vOHd1b25memI1QU1BQlNJQ1pYU2ZpSnhybG1wY1JqRzBOYV91eUFsRmNJNVJPWDVodg?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T07:04+00:00",
-   "enlace_es_google": true,
-   "id": "d198c1e0b70a",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
+    "Google Noticias · UCAM CB"
    ]
   },
   {
@@ -2292,6 +2842,22 @@
    ]
   },
   {
+   "titulo": "El CB Linares acelera su puesta a punto antes del inicio de la competición",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUFCcms1aHFRZmVmazRPY1NzNXMxNnVQVnktZDJzUEhycEFxV1QwT1ktc0dZSUNuNi1FUzFYbXdja3VuUkF4RVN5UW5vMzh2X0VfNnJ2TGVrSXVpWS1aOXBtTGczdDhoSlpJSEQxZERmWmZWYTF3U2t5Zkw1V2V1QkxBcHVzWWlEczZHbXZMRDlBSG9ORWo0X0tUM0ktTnp6QTQtS2JqUjFsZ2FTdU82b0tPUTBxcXRGN1lkTUR6WQ?oc=5",
+   "medio": "Tveo Televisión",
+   "resumen": "",
+   "publicada": "2026-10-14T06:59+00:00",
+   "enlace_es_google": true,
+   "id": "b0b46e04404a",
+   "etiquetas": [
+    "granada"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Covirán Granada"
+   ]
+  },
+  {
    "titulo": "Vitor Benite",
    "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGR0MUc0b19kSTNEN0hqU2MtQ2Z1SmlnNUVpVnVXUjNxR0czYU9EbDdEU0cwRHBYUFZydG1VZUlJanhDSG0wYldyM0U4cGxPV0prTkpJMWdyVEhPUVhDbXZjdjd4SXhVZEJLREVnTHRJS2NNaXJfVl9vYndka29VNHVtR0p6cWdtT1BKR1BZOFFwRDJRTW9ob3ozRVJydm9IUTI2YmR6Q0o5a0J1VHJlYlRB?oc=5",
    "medio": "ACB",
@@ -2308,94 +2874,6 @@
    ]
   },
   {
-   "titulo": "90-87: Un triple salvador de Justin Robinson tumba al Maccabi en el Palau",
-   "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGtnVFV3dWJxcjhwQVZpanhwVzBjMElucTdGYndZRTFVTW8wN3JGREllQXlBdVdzcmJaRkpFd2ZxcDFFX054SlluOHgwVWVEOEh1N3FsZ01kUWMwUFdOTE4yQUVmdzJVNTBnWnZyZ1dPRFcyNjZ6SGs4cXh1dmkxU0FVSEnSAZIBQVVfeXFMTTRVeUVXZGl6ZXZYM2JxTUtYQklqXzdBTnB1YXRZYUhVN1B4b3g5Yk5MRjFyaEFKZDBwVkRCMy1qZGRBMFB3emFuelE4NXZJb1hRVjFiNzRpVkVkOFJGOGtUX0tpNUJORlNZaEZaUWhRWU4wRkxIeVJWZHRfWHVxSDh4dENLZG9RLTlzYW13TC1VVGc?oc=5",
-   "medio": "Mundo Deportivo",
-   "resumen": "",
-   "publicada": "2026-10-14T06:44+00:00",
-   "enlace_es_google": true,
-   "id": "e898e1feb0b7",
-   "etiquetas": [],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Noche NBA: Mara protege el aro y Kawhi Leonard regresa a los Raptors",
-   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeF9YXzRVUW5aZWJKU1IyZVFBQTVtZThwaHhQR1ZMZE8yeG42OG1meFJoQ0hqQTIxVG5kcFBkb1ZMdzI0bjRnckkzVmlfaUtBMGo1QmZFRnFXN2Z2YXJpMTZRRWs2QjE0VXdLTTA1YzluX0ZybWh1M0RGOVJqc0ZLUTJGZVhLcWtLRkFqbHZlaVJoVlZKQ3lTcVJjczY?oc=5",
-   "medio": "piratasdelbasket",
-   "resumen": "",
-   "publicada": "2026-10-14T06:39+00:00",
-   "enlace_es_google": true,
-   "id": "7729e1e5ab85",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Primera FEB"
-   ]
-  },
-  {
-   "titulo": "¿El próximo español en la NBA? Firma un contrato Exhibit-10 con la franquicia más ‘española’ de la liga",
-   "enlace": "https://www.solobasket.com/nba/proximo-espanol-nba-firma-contrato-exhibit-10-franquicia-mas-espanola-jorge-diaz-graham",
-   "medio": "Solobasket",
-   "resumen": "Arranca la pretemporada en la NBA y las treinta franquicias ultiman su puesta a punto antes del inicio de la competición oficial este 20 de octubre, un día después de que se revelen las plantillas definitivas. Será una temporada con un marcado acento español, en la que convivirán hasta cinco jugador",
-   "publicada": "2026-10-14T06:37+00:00",
-   "enlace_es_google": false,
-   "id": "79c6297db757",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Solobasket"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Will McDonald | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzhOUXFsVHU1TWJEQnBCcEhONXU1UGJpdFdLVXdJcTJpTDk4U2J4dHYxZ25oRmZUTFRjYU5IcVJPOXM2dTV5TXRNTmdXZjhLZ19tYkhiMnZkXzEtckNiMUszSWRFWHZHSHNmYmp4MjBNZjRoUzVBekQ0eXhpMnAxcUhaX2NfTDJ3OE5VbWF5QnRLakd6RTZiTDEtcGd5aXItTVlnV29MclltSkU?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T06:36+00:00",
-   "enlace_es_google": true,
-   "id": "c5eab1db8890",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Valencia vs Maccabi Tel Aviv: pronóstico y cuotas | Euroliga",
-   "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOekRNZ0Z5d0FLcHVrdnNOX0ZjU0tiMF9qYi0yOFZ6bTVzTVh6ZXdCZkw5dkc5S0ZaWG13cXc0YkVEQ1NRemsydjVUQkNDb0RlclVmb1NQMUxfalc5UWJ5MUJaeUlKa2FuRHAyaEFKTmxyTk1pNlYtMHl3dUNaWld3OGZsenpZLWg3UXh6eDQxcw?oc=5",
-   "medio": "BetBrothers.es",
-   "resumen": "",
-   "publicada": "2026-10-14T06:33+00:00",
-   "enlace_es_google": true,
-   "id": "7b0839171c1d",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Olympiacos sufre para cortar la gran racha del Valencia Basket (97-102), en la vuelta de Montero al Roig Arena",
-   "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMVRNaWJxUWhZdzFKNXB2MTdmWlMyN2hhLWVNM252ckd0ZnhvM2ZUOXZIci11NEJsNlBpVzF2dE5zVWdjUkFUeW1CY19vNUpvcTYyd3pqMjFaSVJKQWVUUnA4N25MTUlabW1RdGpHS3lRX3pBUzZEQ0M4cG03RkREQUx2LVNXWTFIMDQyXzU4cjdOcFB0Q1NTVVVBbkhGMWdXMjJheHVXYkxuT0hDaHNnTU9SMWFDdGNNVHNYT1ZRRURhMHYzZHFLcWVCR3FkZWF3allzVHRoWGl1N2JvUTJ1VVIzc0dEWUs1S2dv?oc=5",
-   "medio": "Actualidad CEU",
-   "resumen": "",
-   "publicada": "2026-10-14T06:31+00:00",
-   "enlace_es_google": true,
-   "id": "c78c4b7037b4",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
    "titulo": "Vídeos y noticias de José Ángel Antelo",
    "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVGdYdlVYb0g3VkUyZ1NOQU85OUJ4d2hVV1ZoRS1SSE5WZVRzSUFaekx2cDVZcWpKT2drNlMzS1hBd2dockNKOFVMQ1ZETWFhb00tRHZSOUJ0UWxoYmxMTG9xQnpWaHROWDVodGVuT1lyZWk0enRFbTNCTHJKMlFPRTZOcmxhYW5iZWQwMw?oc=5",
    "medio": "ACB",
@@ -2409,6 +2887,22 @@
    "detectada": "2026-10-14T15:02+00:00",
    "vias": [
     "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "Partidos Mike Smith",
+   "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMjJNZUJhVl96aFo1clZkVFVSNHBsa21KUDh4ekhTeVIyQjlabFFYYnE0eW9Rd0F0TU5VRHBaRlktenRBZVBhd3ZfYjU3cWhoSVdwUGsxcWFQSVdXV1NSejBrQlljaUhsMlJiVVhwMHh1aElfb0p1YlhselRsUXZIZGd3?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T06:28+00:00",
+   "enlace_es_google": true,
+   "id": "bf81f3c18e33",
+   "etiquetas": [
+    "granada"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Covirán Granada"
    ]
   },
   {
@@ -2445,39 +2939,6 @@
    ]
   },
   {
-   "titulo": "Qué ver de deporte esta semana en Movistar Plus (12 al 18 de octubre): fútbol, Euroliga, Premier League, tenis, pádel y mucho más por 9,99 €/mes",
-   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWVZsN3BXTUlGVl9HdzkwWWJoQ0ZsUE5OUWxtRmp4cTBVZkljZlNwUzF5R2pmRF9KRjJzSlV0Q3VBcnIzdmNaWjBvYXFBU3RudXBhNEJxY2JDb3FOaUx4REJnc2VoZlM3NjNWY084d01KX2tkMUxRQnVQMkxKdFRBbVdPcw?oc=5",
-   "medio": "Movistar Plus",
-   "resumen": "",
-   "publicada": "2026-10-14T06:00+00:00",
-   "enlace_es_google": true,
-   "id": "360f6cdfdf0d",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Justin Robinson, el nuevo ‘clutch’ del Barça Basket que no le teme a nada",
-   "enlace": "https://www.solobasket.com/euroliga/justin-robinson-nuevo-clutch-del-barca-basket-que-no-le-teme-a-nada",
-   "medio": "Solobasket",
-   "resumen": "",
-   "publicada": "2026-10-14T06:00+00:00",
-   "enlace_es_google": false,
-   "id": "f4323e682bee",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Euroliga",
-    "Solobasket"
-   ]
-  },
-  {
    "titulo": "Partidos Carlos Cazorla",
    "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWnZMMGNBS0czaV80eFhGU0pZVE5nNTJubjNTaDZSaHY0UDJqSEc5ZlkzUlp6V3ZTWkptWWk4ZzdzbDVBNmVldFpHWWdFUVVxTzBxZ05sNXVReUhCYmdaSmNoUWVFa2REd2wyeFJqd21iSDVrTkRnMXFoRkdZMGx3RGtLaVhneEM2R19RSkdwTWVvZUxkZG9BMGdIekxyV3VQZ0E?oc=5",
    "medio": "ACB",
@@ -2494,125 +2955,19 @@
    ]
   },
   {
-   "titulo": "Los Angeles Lakers: Los Warriors arruinan el gran estreno de Walker Kessler",
-   "enlace": "https://www.solobasket.com/nba/los-angeles-lakers-los-warriors-arruinan-el-gran-estreno-de-walker-kessler",
-   "medio": "Solobasket",
-   "resumen": "En el esperanzador debut de Walker Kessler, los Lakers llegaron a tener hasta 20 puntos de ventaja sobre los Warriors antes de hundirse en la segunda mitad. En un T-Mobile Arena lejos de estar lleno, los Lakers controlaron el partido durante mucho tiempo pese a la ausencia de Luka Dončić, al que se ",
-   "publicada": "2026-10-14T05:46+00:00",
-   "enlace_es_google": false,
-   "id": "5e6065c2c88e",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Solobasket"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Matt Janning | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVZWWUhiTEllNl9OZ192cFQybkFlUW5DQkFTdE9qUG5Yc2ktZ3lXRlc5QmRmWDZqWkFMbmhsT290a25qTC03dGt1cF9OM29aODlSQjIyMmpmdXRZOFd3Y2tDblFnTUszODZWYjdsOERpczZ1WXpYTkxUSTNMcEtIUkhNRkRuS21DbG9maGN3N2hpYXk4RnhwTU02RGFiQVBPbGVBYWpOQW8?oc=5",
+   "titulo": "Temporada Marcus Lewis",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0lWaC1oU05FVXItWC1tRE1TdWZDRU9waDFDakNkd3VLVVRJUXZMR0tOY3MtRzV4ZmZRMTdaZlVzaUszT1pTTmZ2aG9iVjFOTF9icl9MNkFZdF9XVmRCXzJXX2w2NEtwWmswazdkZmZsWUtOUzdxeC1FamZRWlVjV1k2ZXBnd0NOOGZDSFdydW9PZ3U1V0F3clBSSTYtblB6MlhkSkZ3TVJkUFZ0QlBWOXNCU2hfRFBJc0UzR2NhWGs?oc=5",
    "medio": "ACB",
    "resumen": "",
-   "publicada": "2026-10-14T05:45+00:00",
+   "publicada": "2026-10-14T05:48+00:00",
    "enlace_es_google": true,
-   "id": "416c3555dc28",
+   "id": "e5e072a0b4c6",
    "etiquetas": [
-    "acb"
+    "ucam"
    ],
-   "detectada": "2026-10-14T15:02+00:00",
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Tryggvi Hlinason | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFVmNmpkRjdTX1lZTDhmRW9lc3FEelQ4YTF2ZTRBZzBFLVU3Y2dVdnZvcWRDelNxeWY5WkhXbENaQTI2eS1NUWgtNlNKRmJzQzVuUDV1bW1lLTdEUHhZVmZhUDRPX1ZHSlBlbnpoRl9rMmtzblVXUTVSR1BzRDFsaW1wRWtwVXFNellTVWNUNGFTbXJGOTViU1I4UU5Ncm9QUTVNWjkwT1N5VjhxaWNXODlPOGNHVjZpY2ZfTkZLNjMzNmFhZk92TktCbEV5T0twdTJxUXpKZFlIZw?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T05:43+00:00",
-   "enlace_es_google": true,
-   "id": "2fa8a48a2049",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Ibou Badji | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaHRrenBHRDZlOUZtX25Bd3ZHUUVBNnRQVzNYdW5kNkhVdk54NkhZN0k2eWFlbmNHZ01SU2UzTWY2YzdmVzlXVTd6bXZIREVMVjZfaFdiTUljdnFQM3FQaUsyS0dhaENTQk12LUZyZGJ5QTZwVnlyOGhONmFXVS1kVHYyZF9fX0pDLWZVdnVCTkpzendYNEpkZVJwaW10TWI2?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T05:43+00:00",
-   "enlace_es_google": true,
-   "id": "9f5536ba61a9",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Andrew Betts | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1E1Y2xSMVRCYVJocXVyMlJabjVmWC1SZDFJVGx1bjNEX3luMktwNHR5S1p5OVFFMUQ2Y3VFUHhEM1BHT2xOZkN4RFBUUy1mX1JUc0U5Q0xWOE41N0YtSTNqbXpmTzNqNVItblBsUUxaSC1nZWlEd2VEUnMzUXowZzVtVENyQW81WHQxQWFGQWMyUkE1NmtqVGZVaDN6Wlc3d0ZmejdJNHhHRWRFLWpHekVwU1FfNllQejlKZDM2MA?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T05:38+00:00",
-   "enlace_es_google": true,
-   "id": "8960eb900d5a",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Los Knicks, humillados en Toronto: regreso triunfal de Kawhi Leonard con los Raptors",
-   "enlace": "https://www.solobasket.com/nba/los-knicks-humillados-en-toronto-regreso-triunfal-de-kawhi-leonard-con-los-raptors",
-   "medio": "Solobasket",
-   "resumen": "Noche de fiesta anoche en el Scotiabank, y con razón, porque Kawhi Leonard hacía su gran regreso con la camiseta de los Raptors. Durante una mitad, “The Klaw” fue ovacionado en cada ocasión y no dejó de corresponder a los aficionados que acudieron a verlo frente al equipo B de los Knicks, en “back-t",
-   "publicada": "2026-10-14T05:32+00:00",
-   "enlace_es_google": false,
-   "id": "b12ab3819182",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Solobasket"
-   ]
-  },
-  {
-   "titulo": "Estreno europeo de Meins Avenida",
-   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnZLRm1nQUJjeUVwTnhMMmdUV1F4R2ZHSHE4VmZvZmFuSjBERjlNdDBORDZ4R2pRWWlaVW5JME9ZNWZCeFZ6TTRIenJrTDRablc1aExyQWNkV1lpSzdFS09jTHdheURHdUotcFpYN3FmcUotcF9KWHJCY2daU29HczE5eVlyWU5QQ3JzXzZKWEZTVDVXYWt1bHAxakloX2ZKbjZ6RWpURU5iMHpGcjdtNzJzXzE0dTROZjdBYW80TnB1cWVXamRIWklZRdIBywFBVV95cUxPQnZLRm1nQUJjeUVwTnhMMmdUV1F4R2ZHSHE4VmZvZmFuSjBERjlNdDBORDZ4R2pRWWlaVW5JME9ZNWZCeFZ6TTRIenJrTDRablc1aExyQWNkV1lpSzdFS09jTHdheURHdUotcFpYN3FmcUotcF9KWHJCY2daU29HczE5eVlyWU5QQ3JzXzZKWEZTVDVXYWt1bHAxakloX2ZKbjZ6RWpURU5iMHpGcjdtNzJzXzE0dTROZjdBYW80TnB1cWVXamRIWklZRQ?oc=5",
-   "medio": "La Gaceta de Salamanca",
-   "resumen": "",
-   "publicada": "2026-10-14T05:32+00:00",
-   "enlace_es_google": true,
-   "id": "7bdd62a168fb",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · EuroCup"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Rafa Martínez | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VDRnB1cnM2YXExajk5QXRpVTExZVJwYjItQ3Mwa1hXVlZkd0d0XzFCSlBwNEd5dE01T2EtYkd4b3pNWW5uWGhrbmhQMjdqd0M1dmc2dUVRaWhJdlVtYVl3MDhEbXBOUWREVG9CTFFPQ0dhVnNiSXY5NHVNNGhnR0JNZFJYWEx1THR3?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T05:31+00:00",
-   "enlace_es_google": true,
-   "id": "f107caeabd4b",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
+    "Google Noticias · UCAM CB"
    ]
   },
   {
@@ -2649,210 +3004,6 @@
    ]
   },
   {
-   "titulo": "Trayectoria Shavon Shields | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ2JQeW9UWTl5czEyOXBEYTB5NTdwdDZXeWZtQnNMaXlBLUxkc0tqSmhCWkJEQk9mVWxHeHpXQnlHRVg1VmJNRG54UkxBRDRjTXc0cm9EVzh3X3hjN1ZLUlNrR2VJbHFIQmNmYmhSSkQtWHBzOFhNMDFTSm1qYzhTODkzNkYxRy1WSmZRdHdBQk80RWJXSm1tMXc5NnVHN3RGVFZfVGF2Z1hKQ3NjVC14bmVUTGZqZXI2TnRhbmRxdWM5T3pNVXNsaU5DYw?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T05:02+00:00",
-   "enlace_es_google": true,
-   "id": "03963804d34c",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Baloncesto en silla de ruedas: Volpi Rosse Menarini impulsa talento joven para nueva temporada",
-   "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZkFKM3FadnN4SmFSUmtXUG9MR0JLbDJqeEtXa2NwVUsxV01HTTFrWlFBWUk5bThvdXRRLU1pREZtaVIyLTRuU2hxMlpJRU52bnd0SDM0b0xxTnJfREd0QnBrMHU1eEJsZGkwNlpRSEtpQ25TNUNveXhHVk1uRm0zZGpkTGhqejVrTjJhcVZmTW0yekxnLWJGenhid25jeGZwZFVYVG1NdHFNQlJBS2J4ZDJ5Um1jY25mb3FidFFyTldrLWExRmpCR2hoYUFBQThOemxMOEh0dV9nb0JZT2QwSHFaTGpkNWdrVXfSAe8BQVVfeXFMTUtvVmJOcTMwdnRkSU9CRWsyUEpZT3pNaFM0dTdYcDdIUElJNmlRZzRnakUzbzgycWJVa3BBWFRXckRWdEk1b1R3emFNMFJBV19sMUJmVEhiZ3ZkenZLV05haWZQbU1ac182QVNoU1Y0MVNHOGJZZTdxUG9yY3JvNlgzRkdQNXFQajluRmYwRS1RdTZvNVZiUmZ5ZVNWOElRdHc4aUdtSmNoVGdEVWprcnNLRHMwWTVJTE91OGZZODhHZlR4YkVvLVcyTzR3Ri1IMjF0Qk1rS1dfdVB0cTEtdktXOFZpQlJFcHZ0VDYzbUU?oc=5",
-   "medio": "Córdoba Buenas Noticias",
-   "resumen": "",
-   "publicada": "2026-10-14T05:02+00:00",
-   "enlace_es_google": true,
-   "id": "9ec1279ba8f7",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · EuroCup"
-   ]
-  },
-  {
-   "titulo": "Un rival con galones en la BCL para el Surne Bilbao",
-   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFNBdlpESzVmdzZHZ3dUdDd2MHJUbHVNMF9LN0x6Rk0xX3kyTGNDMktPRzRtUmU3cjA4TExLb0F2bzZLUjlyTzk2SmNBN2VtTEMyZUhjamFfT1M1dHZfS2hmY05zSHBxQl9QTXJsZkNVRVN1ZFVvN1c4d2NDblpvOTZ2NzFYbE8wRnpWWTFzOC1oRzdm0gGaAUFVX3lxTFBneE90bENtVS1zdDV5TGhVNGZjYmdQTVJUMFpWSlQtMW1OQ0FqUk91UzlicWJiSHdiZFlOY3l3bUVXZkRzTWRXdEdRSFZyY3psM203LTcwYmVwZHRoUzM4WmNJTHRKNk9pR3lYODNnX0ZPX3lkaFY1eGV4UUhfLV9qMllhdWxNZzl6SmVCczFtNVhWZmlnMWtHWlE?oc=5",
-   "medio": "Deia",
-   "resumen": "",
-   "publicada": "2026-10-14T05:00+00:00",
-   "enlace_es_google": true,
-   "id": "473a4980e900",
-   "etiquetas": [
-    "bcl"
-   ],
-   "detectada": "2026-10-14T05:05+00:00",
-   "vias": [
-    "Google Noticias · BCL"
-   ]
-  },
-  {
-   "titulo": "Lectura del juego y puntos en el interior, los debes del Caja Rural CB Zamora según Saulo Hernández",
-   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbDJMd3JMcjdUdmZpcnRkcVFqdUxIQm80ZHFTVGh0ZWFybTl2MThlb3RVQlRLY2pmaU4wRVZZSXBmemhtUzExdDc3cVF2MHZKNVNaLTlCMjR2TzRwV2RDU05pTEV2WGhZT3NpUWJHWVFaTGY1b1FiczNWdURGaXFQTVpaenl1Mk1RYkVMNEFJbHgtRW9HT0dyUkphWFE3MkI5NXQ1YWpR0gGrAUFVX3lxTE9aUkQwc3VOdklrMFdIbUxfS09hMkQyMnNIU29QME5WcG85ZlZKX3dqWTZxN045V3NiRVd5cWxkSjJLOEN0dHoxUE50UVhfUzVuWHVpbUZ5MDhiTGZJYzA4Zmh6RVpxQkdEWTg2VEdMMTFxeG5CTDJIQ0V1d0V4U0NPRFEwU1JQWTFJWjYyRks4VmozaHV2dGdHZURZdS1QS2ZaUU92a3dFbFdTOA?oc=5",
-   "medio": "La Opinión de Zamora",
-   "resumen": "",
-   "publicada": "2026-10-14T05:00+00:00",
-   "enlace_es_google": true,
-   "id": "035b90c09c88",
-   "etiquetas": [
-    "posible_rumor"
-   ],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Primera FEB"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Xavi Rabaseda | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTkJaVlRGXzFlc0F4Wm4tN3YycVUteW5OU0dHblNuVzdub3czaEpOV2s0LWJkQlg4Tmp0RE1YZnVidVBaSUNYZHpkMjZIYWUyQnRBWFhUam5YOFJ4bFlHSkljS3lwTFExdGRrb1BrdGlmNWNtQlMxLV9KaWV3OEd4NDNJaWt2VVVvMG02TXVkTUtwTnF2SEJFSi1MTEEtMXRTWWp5ZFgzeV9GX1BHUDVKSV8yUDl5emNGcWc?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T04:56+00:00",
-   "enlace_es_google": true,
-   "id": "15be81c85d2d",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "El Real Madrid recibe mañana al Asvel en la Euroliga",
-   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMC03RDFrXzJwUW5EeUZGNFV5bVBuSTJzYm9LaEJpQ243b3ZBU1RlWXNqbzhNR0Z6UUIwRGhWNExVUzRqQ3F1N2dCamNrUTFGb2s3ZjJyU0FKZXE1VGF2S1U2TlpPNHdLVzgyUVpuLTFJS3hFNDVWd0dZWmwwS0MycV9qN2tQWm9CbmRIMWlUYjk2ejFnSkZjNkJuMFVEQVAta1E0eC13S2YzeS1SVFRSNHpLXzlKY0F6S1pBREZBamRXUWtPM3dRM3VCbVdIMjFSQ1BxSTdTYmM?oc=5",
-   "medio": "Real Madrid CF | Web Oficial",
-   "resumen": "",
-   "publicada": "2026-10-14T04:44+00:00",
-   "enlace_es_google": true,
-   "id": "722407a63a2e",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T05:05+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Nico Laprovittola | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1ZHX2dkS1dqQmY4UE9OdTFGV1MycnB3Rl9ablB2T1RLNHJFVzFRLVE4Zkd4SzlONk55ZHJSQ1h2aUhHaVpVMVdmbUpTdi1lNVRsX01nMkxCS093RUczOFJKbE5MLWxBV09adjB5b2VRSzRyOUpFSm1kclFBSHA3TGNmOXJNaW1OelFHS1dvS2ZMS2pmUkVBUjBRejVabE5iN0cwUUQ3bW02UUt3UUE?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T04:42+00:00",
-   "enlace_es_google": true,
-   "id": "3a157a8a250e",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Rafa Jofresa | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVlYekFkc05RTmFQLU1ob01DRzJLdy1Ra2dWLTU3WFVBRlRuaURkVFBjb1lHQ3hJWE1uMGNPQ0NKaFFVcFc2NnlWWW1nOFh3MUFTaE43X1h1N0h3WnpaRUJ1c0JQcXNXa2pfQ2RtajJxSml2VFh6T0REMXlGMUdiLV9yYWFhRE5OdGZrZ1JqdllOS3Y4ZDJXb2hxWFRrZnFXbnFDNkItNnNDclR5V2ZCQ29UQXV2ZkhwTlItZGd3?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T04:40+00:00",
-   "enlace_es_google": true,
-   "id": "53c92aa8ea0a",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Jan Vesely | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3pXR25Yd0phYUZlcWI1V0Qxd2Z3SHRHQkJVS2c2QmNmVVpwOEx4T2dBQWdQN2M5UDRMTW00SGhHb2NwMzBOTllUNUw4YnVPeDJoSHpzQkpDOTB1b2ZYOEw1VWt5Vll5X0FBWVNLcldJUWljZkJ0dWMwSnNZNjhwZ2U2VTRVRDVqTGFDX2hvanRmbWdNdVFJSVFuSmV4cHNRcW1uWDFDS24yeVE?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T04:40+00:00",
-   "enlace_es_google": true,
-   "id": "ed8ea2d49639",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Anderson Varejao | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVk0M3VVWTRFc3RCSDdGTXk5ZlU5WTdjUFdPbnFNMzlkY19SNGVpRFV6NFl4RHg2WmNmWEJoczFkNE9VdEZ0MTg4dG10NVB6dFl3bzhDZi1vdTg1cFoxYkFMZ254VzZueWFlSktSM01XZ1gzX1IxQ2JlYUtwWXNuZlItYU1yU3RlYlM0?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T04:33+00:00",
-   "enlace_es_google": true,
-   "id": "0a2d44dc84a3",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Y Montero volvió: el Olympiacos remonta 25 puntos y derrota al Valencia en la prórroga (97-102)",
-   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNclMySTQzR1FZZTgwUGJrR041MFJYcE4yV2ZUZ3ZkOXotNW5Xbzl2dTRCTEVHWjFqMGs1eW5nLWM3dFVVSHNDQkdwUnJaQ252c2ZMZzItbENhS0lFUmc2QmNXMUpLUnZ1SV9FR1JQVEpydThHQU9iWEtxZ2o2YXVZX2xQSmJWQ1FwLWVfNkV2SGt4VnVXamF6RW5OU1ZGRk1rWHBFOVFyR1Itc0ZBUTh3S091Y2ZlSDIyVHh5c2FoOGZUU3I1dk14Zk9CMkJKLVhrX3RLY1UyMVVCQ0llQ3cwS2NTV1PSAeoBQVVfeXFMT1FGWEpMNWlIY0JETGFQcDVxc2VWUlpuRGlxdGgtX09sMHd0aUxaRk90TjBoUDd4cUFFcEN3bmxOeFpKNFJsMC1nNFJWWFhGODVhQThzT040ZDg5OVVFMkM3d0h2dkFIVDNJdzB3TG5fekdJOW9ZbzVWN2V1RjBrbzhiRGxZMUlBMFBUeFIydHNEQmRsX1k1UGFNS2F6cUxCODlHVVZEZUM4Z2pJZ1FnVkxXVENteE0wUXpfRmplYm9BZ28xRHc5MGdzRTRmLWxHY3dCcXJVM3NoNmRlUnBNUUpTVTZqV1hxQ0NR?oc=5",
-   "medio": "ESdiario",
-   "resumen": "",
-   "publicada": "2026-10-14T04:16+00:00",
-   "enlace_es_google": true,
-   "id": "153c571d0ce6",
-   "etiquetas": [],
-   "detectada": "2026-10-14T05:05+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Willy Hernangómez | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNEc0aElXY1J4dDBqYUxmSmZ6MzZfTDZQb2h0b0VmYklTTkdBZHBHczFrc05RaTZxeHlrVm90eTE2T1pZckhGNGg4QlQ3eFlUWVJPVENCc2JlX0U5X0JLWTVjbDlGdmJDaUhjZWFnUkh3Yjh4OHhmb1VJMDBmZFp2NXdXZ1E5SWdqUDJYTEdHLWtkTmVSV0Rfd1ZzalBGRHRnZFNsVVZ4Mm05VVYweUNvYXRjaTdBaVVxOXFaUF9SVE9rSGow?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T04:15+00:00",
-   "enlace_es_google": true,
-   "id": "64dc6294738c",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Carlos Suárez | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXBMZlFYQmsyX0V3SWNiRkRhWjZhaEdEQ0FEWndCc3B2WXlMZUFSR19pTXYxMHF0OUMzb3NFTWI5WW9rejU3WWdjSS1aeG8zb3FvZ2Z6LTJnNWRQaTgzZHhyRTc1ck41TE51RkkwVVN2NEZDUERPYUhVN3hQS0dtdWhvVE0wQXpDcmp3Y0VpTGZvLTBnd1ltcXJLdVZGRUtoMXE5b3hfXy1CVkEyeGhhZXBqWkhDQQ?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T04:10+00:00",
-   "enlace_es_google": true,
-   "id": "54a4a524c2dd",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
    "titulo": "Richard Scott",
    "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQjNzSXFySFRSekt6aGU1ZGtueS1vbEFsZ25nQkYyZWEza1BxLS1vRW9LV1pQcHZrOHFDNGtsSEt4UDlKRmVHR2dnNG1Ib1VJRWVBcWdoY1lkZnR6Yk9yM0pWNUhrdzBOQ2wzUnJNZFFSOTN6UFUtUlJuM2U3dkZsY0gxMHJoT3Q3clZNb0wxQ2pEOXNKLXR4ejFkZ2tRQTZaZmVCYTZ2WTdTYzQ?oc=5",
    "medio": "ACB",
@@ -2866,22 +3017,6 @@
    "detectada": "2026-10-14T15:02+00:00",
    "vias": [
     "Google Noticias · Covirán Granada"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Oriol Junyent | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHZTdWo4OGt2RkxtWjNLSmZvWTJmeExPV19jWjlKX2JKQkFVLVpkQmE3c3FsYmxQdnRYXzA4SDBQQWtRSmhYS3l2cDNXaVZHREE5bUVndUZyU2tnQVYtclpnb0tpbXE1R2VfaERqR3Z1Q09Na0NwRjlfNEhKdlJSX2xzMkFqQmhtcm1paWMzYXlzdXhyVEw5b2tja0JuVEkyaGo1SkRmY0hwaGxSWWIzdUZUbFc?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T04:08+00:00",
-   "enlace_es_google": true,
-   "id": "49222d9d4a96",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
    ]
   },
   {
@@ -2953,22 +3088,6 @@
    ]
   },
   {
-   "titulo": "El Hozono Jairis busca arrancar la Eurocup imponiendo su ley en casa",
-   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNEc2WkNXbUhEc0trMmFBYXVBQTBOUW4wUWdMejAyNVpHOFRYV3dEMmQ5STY2Qnl3SkNXZ2hpR01ERDdRcFBGYUdKamd5SkxTNVBOT0RPSDRKWnFPdm42TjM5aXE0c1A0ak5IOFJlS2MxZ29YWE11VEVQeFdGeU5WUlJxV3QteUt0dTJ3VXk1R3Z6eWlpMGMtUXlnc3VyclgycmtUa2NHQdIBrAFBVV95cUxPN2x2VDVwQ1Zoa1FXcnluV2pURWZ1R1lrWUt2T1BWZDQtYjJlTmtBcV9sMjdBM0pMUFRBcWRaS212Y1VBNVhtbTNIVC05R0hZUTlFQVNSTVZHV1pUOExFV3lITjIwVnJQdVdqVDFwWGFmRHJPSWNXelFuRVU0OXJ3RGstdFRHVHNWemlyREo2Y01QRWtxVTNmam4zZkZxb2l1NGVYdmIxb2dzQ0hX?oc=5",
-   "medio": "La Opinión de Murcia",
-   "resumen": "",
-   "publicada": "2026-10-14T04:01+00:00",
-   "enlace_es_google": true,
-   "id": "152908712b06",
-   "etiquetas": [
-    "eurocup"
-   ],
-   "detectada": "2026-10-14T05:05+00:00",
-   "vias": [
-    "Google Noticias · EuroCup"
-   ]
-  },
-  {
    "titulo": "La falta de efectivos pone en riesgo a los pocos supervivientes rojinegros",
    "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3VBSjRPWTNBNTdMQzJNTHNuWF9yM1AxLVBfbXpITXE1dXU0UVZvZEtGVlR3THBfV2wyX3RUdXU0anI5NEFRemM4cUZ6MTdpMXZDVU15cF9CcnQyYk1iY1RBX0lEWG9DZjk5MVNmMXVwRlNDc2N3Ry12YjlSLUg3cXdfMm5FQQ?oc=5",
    "medio": "GranadaDigital",
@@ -2986,229 +3105,51 @@
    ]
   },
   {
-   "titulo": "Trayectoria Mike Tobey | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnRXanVEUjBWYVBpWk8zSTRQRk1RLVFXZ3RXYkp0c1I4clBSMjJ5ZXFZZWNENlhyUnpieURzTEhYRE1zRUpDTHpSWXV4UER6UTU1VE1FanAzeDF5WmUwckxDeDJGNkRHb0hkanVwdkJIeWhUVWxqckdIVEt1VHo5M0E0VHlUQjAzMldvRUlTVlNHZS1DWHRTX0RrSnBGVGFBNFBncFNJWWVEX3dIWG9va0c4eThkNVUx?oc=5",
+   "titulo": "Estad. Avanzada Jordi Grimau",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3JneGJuelNqODU0WWJTakNWMmNHcjlIV2YxWTItbk9VckZPWEVTSHYxd2tOQjN5QTQ1dHlsWkZwcXo2cHpsWEF4T0ZPVV9DRmVoZEZ0enM3dkRLTnpmYzBYaEdsalpadExfS3duYUFYQmJPeDFBWU1Xa0I0SGVHVGZCdW45ZVlBd1NuRFV2alhkMW00ZEE?oc=5",
    "medio": "ACB",
    "resumen": "",
-   "publicada": "2026-10-14T04:00+00:00",
+   "publicada": "2026-10-14T03:59+00:00",
    "enlace_es_google": true,
-   "id": "5928da178c47",
+   "id": "f6edeb62d561",
    "etiquetas": [
-    "acb"
+    "ucam"
    ],
-   "detectada": "2026-10-14T19:16+00:00",
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
-    "Google Noticias · Liga Endesa"
+    "Google Noticias · UCAM CB"
    ]
   },
   {
-   "titulo": "Movistar renueva su patrocinio oficial de Unicaja Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDd1WHZ6UFZseThXSTZyWTBGNEV2RHNSV1Z2bkoxLVhUcDhURWxFVXEtZVJ3M3ByX1JnV3dwSWEtYWtWZ0dVV2pfZlNGc0JQZ05TbHd4UVdtZjYyVkdLWldHd2dBWVJuUExrNHhSSDlNZVp5X3VjdnJDaU02bmd4ZEc0MDk1ZWZHRVlVOWpuS2tKcmp5czFIaG9nMkZwUXltUkl5akRQQTU4bGJwTVhMdl95d2d0QjZX0gG-AUFVX3lxTE1rTFNERVpNVWRORHJmYXVTX25TSUNwdEdBTloyazN6UVBjZUpsTmtMNnFCNzhmRVluYTBBc1BYZ2hoTTk4SXEyU2EzSEctWlhNMG4xWnVfRGlGSV9FNzRCRUp1bklhT1ZqUWx5Z0ItdGp6b21hUFc2M0l2eXI1ckhSNHEwMXNDV3dYU2p0Mk9NN3pRd3ExTkhZQmY0OEVpQUJoZHBxSU5aR3JZaEduYWJfcFAzdGlwTnVzLXlWNHc?oc=5",
-   "medio": "Huelva Información",
-   "resumen": "",
-   "publicada": "2026-10-14T04:00+00:00",
-   "enlace_es_google": true,
-   "id": "cd556bfdc8cb",
-   "etiquetas": [],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa mercado"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Tiago Splitter | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmNoY3JJTFlzNENwQVFsNzVUcTdWMFpFa0JneGx2NnZ1SEQyMHp4ODU5ZVFGTXg3VDRfUXEzT3hEOU5TbGh1UllON01kYV94dEdCRHlRWVpwUnpVSVE5c0FvMjhnX28wSUxxa29aQXQ0bkYzejdVelR6b3FLUHJWWVRnZ0dnYjdmTkE?oc=5",
+   "titulo": "Estad. Avanzada Ehimen Orukpe",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1RaTFl4R3ltUFdTNkZNbUZqM2xabFYzUzMzbUhIWG43TXJWTjZxM0JPLUZYUHdWMnlwckRCSWtSQmJWSFh5bk40UFpXWDFVUkZhWnVxTS1VVl9Yam5teHRsQ1VERUR0N3M3RGNjT0U1Y2NOMWdVUWVWQUo3Zk1mOHRFeUNWWUoydmZHY25uakdRaDNnR0xF?oc=5",
    "medio": "ACB",
    "resumen": "",
-   "publicada": "2026-10-14T03:54+00:00",
+   "publicada": "2026-10-14T03:58+00:00",
    "enlace_es_google": true,
-   "id": "6e5a0b8dfa14",
+   "id": "84c6c863afc0",
    "etiquetas": [
-    "acb"
+    "ucam"
    ],
-   "detectada": "2026-10-14T15:02+00:00",
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
-    "Google Noticias · Liga Endesa"
+    "Google Noticias · UCAM CB"
    ]
   },
   {
-   "titulo": "Trayectoria Jorge Garbajosa | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDUzSmZwN1B5RlFyU1FHcEFkdHcwVnM3VFpjaXpiNmRMUHAyMVFXZkg4d2RwbVNQLXYzVTlZRFJ2NlZQZWFKaUdrT1VsX1h0V3o5bGxvWlBMcUhMQ0RiUTZ5d2MtNTNjdVI1SUNWRWVWS3VGeTdQUzNxTW5rLWw3eVYxcnh5NEppUnFUQmZnSlpsbklrTGlrN2pUU3BOalp6Q1E?oc=5",
+   "titulo": "Estad. Avanzada Dan Godfread",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2xLM2YzR2ozSmpUdVFuSVFwbTRnMFdZU1lKQzVIZmZOWEYtaFJEVUR5Q0FTazFKazhVNUU1bW1IcE4ya0UxMVJSU1Z5cUhfdXRnNTZqQWF3QkNsem5nRmhxUjlVdXh2NXgzWnpaT3RxWTlZZWRqSEVCT040X1B1QUJwNC05cnZqWktiNC1lbWJyS3pTdm9icks0NmxJMXpaTVB5UzhkMHJDVC1jdE5tMnlub0gwdw?oc=5",
    "medio": "ACB",
    "resumen": "",
    "publicada": "2026-10-14T03:54+00:00",
    "enlace_es_google": true,
-   "id": "189efc00f3ab",
+   "id": "3467901538af",
    "etiquetas": [
-    "acb"
+    "granada"
    ],
-   "detectada": "2026-10-14T19:16+00:00",
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Hapoel IBI Tel Aviv - Anadolu Efes Istanbul en directo - Euroliga: Resultados y resúmenes de Baloncesto - 28/10/2026",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ0xORFJ4YXlEWHpTTExEYjdqZzcyTVpzSXBCMkdPVHk2T1Q3azE3NGpuZVhvajhQRTFiMVpuWG5Vd3pGdVhPckhES3Zpdi0yWlVIc0RnVzNEWHVVMjFJWXZWeUUyZlFWemxxMlN0ZjlhXzVOTURoRmYyLUdUY3VHa2JUZ09lNlk2R1Z1MjhCcVRIbFAyWDRhN3VKME1FNk9UYnB1Z19mZmxlWnhmY3lCUGlmLVdkTGEwVDBj?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T03:36+00:00",
-   "enlace_es_google": true,
-   "id": "a545a56886dd",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Estadísticas Paris - Valencia Basket: Resultados Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTJLMlFEMWtIN2dYRmhUbnRMTjZScDE2SkpORjBUdUlheVhlSVZ3STQxMTFrWEpsdk5TaVVYcG01ZmU0MFRWZVpGei11QXFuc1VaTTdaOS1pM3I2NEFYMEZ6MXJrUnd2UERaQXZuV1Q3VDA0djY2Um1GMzNuQnotUUIyM192eWdHME43ZThPMkhyVzZyUGRId0Uyc1Y4bnVURUpjb0pHWWQ?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T03:36+00:00",
-   "enlace_es_google": true,
-   "id": "ee128bfccf61",
-   "etiquetas": [],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Club Deportivo Baskonia - Real Madrid Partidos relacionados: Actualizaciones en directo de Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmVaeDVJcGh5WDZ3ZFRJU0pZQ29GSGxPR1BZMU5KOWxJNWxyMkFhOGR3QkZCMTlUdnozT2lNZ0hZVHpDRU13Wm5yal9zNTVKRF9VY3FmTno2TkZTY1NPSDdOampkd1JiV1VGb1JGTVFMM0tJNFAySHJQYzhQUXhfMy15S05JekhLbHZjaFJ5TE8waDBjd0ZlZmRJMFc1aWpsZktRTTZQQlZVRDdMRFg1YzVkTWVfY0dtNEFRVC13?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T03:36+00:00",
-   "enlace_es_google": true,
-   "id": "f2e69beb1777",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Panathinaikos Atenas - Armani Olimpia Milano Partidos relacionados: Actualizaciones en directo de Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFFmcjNNeVM3ODdUZm5DbjRsSEE0RDIza1ZXazNhaGs2WndEN0JycWVLRXVlc0lSRHh0ZS1qM2djUkkyWTJtTVM3SWZ3dG9aZDFHczZmajBfU3VzZGNPVVlnR0xpdHQ3RHQydGt6MzM3X29jb09NV3Bnd0dPZkRRV0RHUlNudGJ3WDUyWXhMdVNsMHZOMFplcGVFUC1oalV1SzdPVUR0TXVfMTBpeHBJdjNYQ3c5T2ttbW80Mmhidm9sWG5haFFB?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T03:36+00:00",
-   "enlace_es_google": true,
-   "id": "780feb5066e9",
-   "etiquetas": [],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Real Madrid - Fenerbahçe Tarfin Istanbul en directo - Euroliga: Resultados y resúmenes de Baloncesto - 29/10/2026",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVFnNlp2WlJxUklUSGJMYl85amlKTWxLOHRJQ2wydzFRS1NSbUdNQ191OGpRV3lKaWI0cU8yT3JmVEE2YVlpWGJoejc5dF9pTTRpQllrRVBNN3pXY2x4QWstaEJsLVVBR0dIZHBROXkzYUxYWlZwRlFEY3JCOVBhbnczMVNyNm5ZcGtOZGtzeVB3eHVMRXBCVzkzV2FPSmQ4eldPTjhJVGdndDh2RDduZlUwRHg0MXc?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T03:36+00:00",
-   "enlace_es_google": true,
-   "id": "c59eb1e9214d",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Clasificación Euroliga: Resultados y partidos de Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQi12X2hkQ0plcWoxWHB6WG9rTnpINUx6dGRfakJXMWVZOUFHS3RuZHlHUlBNcWpxVlNaQS1NczhjamxrcUdoeFRUNG5mclBGWUdXWGJkTno2Yk83MDZzODAxVlNRZldHdEVvUDZVYkRoZVJsSHdTdFk3U3RQMlZCNTExWkx5YVdhZXVUd29rRjV4NFJsVVdKeEwzSEp2bHY5TldlRGZqUHRsMmVUT2k0eFNHRFFWNm1vcF81NENQTHdqa2Rw?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T03:35+00:00",
-   "enlace_es_google": true,
-   "id": "ccf4787edb42",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Zalgiris - KK Partizan en directo - Euroliga: Resultados y resúmenes de Baloncesto - 30/10/2026",
-   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3UzTTV1Z2RMWG4zUmlORUlIc2htTDNwV085SmF0V0hqRDJPc0VDNTl4bkhrbWhIemxuaGVRZ1BKd3FTM3VDZ3FaeHR5ODlyV1dWZmZkekRyUHAxRnFtU0NGSnJJcEpqaDVrQXp1LXo5Qm5XcWQ0bVVVa1ktaTdsQnlkcWxKOVdEOVpGYlk0NldXU2NqVnFGZFQzME9Yamc?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T03:35+00:00",
-   "enlace_es_google": true,
-   "id": "b0ad80931fa4",
-   "etiquetas": [
-    "euroliga"
-   ],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Dubai Basketball - Hapoel IBI Tel Aviv Partidos relacionados: Actualizaciones en directo de Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObl9LYTVzOWVTSXlrdnh2TzFSYmlnQUR0M3BPQTUwUVMxRkQwaHZfempfNG9MeXM2dGZQUkU3blU2aFBhWkwxLXZlRGhwSGFxUzNvVFNhc2FJZ0VNTktBMFgtOWUtWkZiNHZuT2ZOVkFJSF81VTBELW9kamluZHlhVzNJV1BTMzBHcUFDY1hmLXNiWEZCbWJSdnJpcW5YZTBuaFp6cWkxSTdqUFA2REI3aHJUWnlHX0p4ZmJRdXB5Yw?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T03:35+00:00",
-   "enlace_es_google": true,
-   "id": "f533fd30f100",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Estadísticas Crvena Zvezda - Bayern de Múnich: Resultados Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2MySUdyT1ROVDctUHhKQUVXWDdoUlZLeGNJTVluVmxNbE42SzU5emUzRUg5cXg3bjNlT21IdXhIbGduR25vdjN4QzN3RUo5bUF0ZlJydVk1NlVQdFVCUjVuXzJOV1o4WVhRMkV6RDZfR0UtZFR0Z0xUdEVDNGxCS3VXWGRGUjVsTzhETm5wLTFja0JOek95Zmw3bG5WeW5fMU9iZjRjejJqaVZ2RE1MdVJfR1Y?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T03:35+00:00",
-   "enlace_es_google": true,
-   "id": "b103e3621182",
-   "etiquetas": [],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "Tofas - Buducnost Voli Podgorica en directo - BKT EuroCup: Resultados y resúmenes de Baloncesto - 14/10/2026",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1p6RGRDWWRGMzduaXJQV3JNMldjSWlrNHZVUGlIMnloeVIyY2Y3WndwQmF4N3cwbDB3QmNjZVQ4cFlJSUE3TWJKd0dVZ0EzTTJyQzNuVnJXQVZrbmc5S08wNHhHTmo5ZEdibUpqdEQ0WlpuSEkySU91Qlk1dDBXeVQtMmo2RzRTdDZFZW0wNjd0eHM5eC1YeTBOQmNlM0VXanNmaDJRd2VLNGNkMWcyeWR3Tll3YXc?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T03:35+00:00",
-   "enlace_es_google": true,
-   "id": "26cdde0573cd",
-   "etiquetas": [
-    "eurocup"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · EuroCup"
-   ]
-  },
-  {
-   "titulo": "Estadísticas Real Madrid - Fenerbahçe Tarfin Istanbul: Resultados Baloncesto",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS09FSUhlalBEaThIcFFvaW1IblNlVkhJWnF5T2Q1bFVTTDgxcVJ6bWVsdTRlazZPaERPUXRtaFZxNWwtR3lCcDlwVkVWWjZad0JwUndoSmlvRU5xYkpxN0tnd2pHYzB5YUF0S2MyaVFISzFLRmxreVRGQkthZzFldHY0RzR0dXQzSVNkQW9hUU9pTkZEa01qQk1TUGFaVVc4UUtXVkdOaGNMNXlZNzVtaTZmQzE3X3NiNU9PYnVuRQ?oc=5",
-   "medio": "Eurosport",
-   "resumen": "",
-   "publicada": "2026-10-14T03:35+00:00",
-   "enlace_es_google": true,
-   "id": "15935ab6601a",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Euroliga"
+    "Google Noticias · Covirán Granada"
    ]
   },
   {
@@ -3225,67 +3166,6 @@
    "detectada": "2026-10-14T05:05+00:00",
    "vias": [
     "Google Noticias · UCAM CB"
-   ]
-  },
-  {
-   "titulo": "Vídeos y noticias de Alberto Díaz",
-   "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa2hjQUc1dU5paG5hUkZUeUwwUWxvemJRR3NtQTc1QUUzX01IUklmdi10NDM1OGxjcUp5dVdEWE03QU9FeTVSdmVLUDgwNVVScDV5Yms1eHdGd2R6VU1EbDI1Q1hZbERKN0Q5ZFYzb3dqeGtCVlpGeFg2Vmg0V1ZSY2RlOXVvUQ?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T03:31+00:00",
-   "enlace_es_google": true,
-   "id": "95408e853925",
-   "etiquetas": [],
-   "detectada": "2026-10-14T10:04+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa",
-    "Google Noticias · Liga Endesa mercado"
-   ]
-  },
-  {
-   "titulo": "Vídeos y noticias de Willy Hernangómez",
-   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNS1kdnVsVWlMNjQ3WTNuOVd1ajdYTmFHay0xZUhHRC1PSC1EZE92eWVfVmFBMFZqU3BzR2hwSVZKREZxNWhTTG9NSm5QdGx1dHRLLW9QeVVMa1hNcDI2d0JQakptTE5ldEFxZ0xJZ0xUZXFVT0JNTUpSblA4bG9Rand6TXExdGpVcFB5di1SR1lRcDBYWng3TW5LTGk4M1VNV1hTeS1RMUxSTGNUOVdFVTA2RWZFTTZDVm9iRlJTQU5vTXFFaW8wbmhZS1NBdllsRnZqbQ?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T03:21+00:00",
-   "enlace_es_google": true,
-   "id": "8fb228dc204f",
-   "etiquetas": [],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Will Thomas | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWl9HMzlLcncxdHZaNWFUbzEwVHdEWGQ2d0JaZ3dtclVnNE5xNDlRUnBvZ0Z5dzdtdHRBMTB2RjdKdVNrSVBvdjBfZUFJQ1BJang3N1NYbGtfUHRRRURibHlPbGZBVUVtbFp1MGVmdnphVHhDQTRENGtCMy1rc0JtXy0ydDM0N2x5QXdCUWFuWjVxYzMzNGpVb0ZjdTN4MEpUWEFkYlhVaXhrRV9GU3ZlSUh0dDFVeVR6?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T03:14+00:00",
-   "enlace_es_google": true,
-   "id": "e28fa09a9834",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T19:16+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Jerome Moiso | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXlGTzlXRlRJWUtYOHZNazhFQU1HUVh2clpoRmlOY29GY2M2NjNISUlLaGlRbzdPZFBwRU5aQUlPN085aHduR0gyMjZ5VkdrZVdVeEEwdXEtT18tWTRsYzNwX000dVBFb0VNQ3Vld05xbVV0YXJGZlVZT0JzOFpRbUk0VVBib2tzTXFSZnVqcWxBYXJpSWkxS0MxVkpXaUlFVEQ1YVd0dzh3ajYwaF92RERZeHZpMUFOdTF6Z3Vn?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-14T03:12+00:00",
-   "enlace_es_google": true,
-   "id": "60de1bef222c",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
    ]
   },
   {
@@ -3365,6 +3245,22 @@
     "ucam"
    ],
    "detectada": "2026-10-14T05:05+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "Temporada Sergio Pérez",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTHZoUENvNDh5OE5qQVhwbEFKMTgzVTdKZEN2WEF1eVI0SmNtTUF5aWYxTDZtMHcwSFpFUGNpTTVqSGJCbmdGTXp2eUZJRFhBcXpiaEt2ZW1SalF0YldDSHRYZWJFVFB3NmlvREVuRzNXZFBiWEJ2VXJzTVI1akVZWnBJNjU3ZXdEckhDZ0dBOGhEV3RlUFU3a2diTy1FaGdf?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T02:34+00:00",
+   "enlace_es_google": true,
+   "id": "91359b0a7130",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
     "Google Noticias · UCAM CB"
    ]
@@ -3466,6 +3362,22 @@
    ]
   },
   {
+   "titulo": "Temporada José Ángel Antelo",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmxWTUozNG1BZUdLT1I2VzhJMWZqX0RpbGMtNHAwcTdrQ3hGRGx3TDFibHJzeEtKTDZEOHJlLXNENDdNa2ZYamlzV3R2ZzdrTzBSVlA4TkJwZkVHQ0FsTVpsYlNMNmdSXzQzemZkNE5IYW1Hc3hobFRtalZISWxMUVFTdEMyRjVIeWNjOEJtRHVzc1JVZlk5TXcxREl6ekFuOUV1OTdQbVVYRExpRmZYNA?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T01:40+00:00",
+   "enlace_es_google": true,
+   "id": "90e99ac55ed6",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
    "titulo": "Estad. Avanzada Thomas Kelati",
    "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2NBako3ZmQyRHpjeTNtZzhYOHA4bUNIRVo5S2RfY1F6enNrZ2ZMUVJCOWUtdnlUR09nMkJ0VnVrMzlQTVA3bG1FSWhxTnJYZk9fR3BEM2FTNS0xMS1uenkzeDNXSmVlZUx3d0NaSUFqOFF0all5V2lGMlpFS2xkMnJDODN0Z3VpSjljXzFlZE9tR1lVQlp5YjNwcm5WWWFwWmRSWlR3?oc=5",
    "medio": "ACB",
@@ -3477,6 +3389,22 @@
     "ucam"
    ],
    "detectada": "2026-10-14T15:02+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "Sánchez",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXy0xV0Myb3lLNmtWbjJoWjlMam41b0R1TzQxaEctNWtVVnJNRFpxelRHMXZnNngxZXBpNG1kN254eU80ZVhmWHdOXy1reHVxT2ltQlhyU1F6cTJoSzl6YzFlRDZTNTVNWW1wNUcxdURZVnVXR2pLMDJ4RFRqM09GWUQ5RXR0ckNIVzdNVWFITHRSX0pPNkJxdkJsdVVFTG5waV80LTJ5dmRBcF9XZTJPSE1mZHUzanEwWUdHemhUTUtDY2xHSDhvNQ?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T01:38+00:00",
+   "enlace_es_google": true,
+   "id": "fca997c4fc69",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T05:05+00:00",
    "vias": [
     "Google Noticias · UCAM CB"
    ]
@@ -3498,17 +3426,17 @@
    ]
   },
   {
-   "titulo": "Sánchez",
-   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXy0xV0Myb3lLNmtWbjJoWjlMam41b0R1TzQxaEctNWtVVnJNRFpxelRHMXZnNngxZXBpNG1kN254eU80ZVhmWHdOXy1reHVxT2ltQlhyU1F6cTJoSzl6YzFlRDZTNTVNWW1wNUcxdURZVnVXR2pLMDJ4RFRqM09GWUQ5RXR0ckNIVzdNVWFITHRSX0pPNkJxdkJsdVVFTG5waV80LTJ5dmRBcF9XZTJPSE1mZHUzanEwWUdHemhUTUtDY2xHSDhvNQ?oc=5",
+   "titulo": "Estad. Avanzada Igor Lutersek",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2F2dndlSUVLMG1uSjA2Um4xdk1RWm9SUl8zZmV4dDRZSkx2MU1WZFhjd0dwNDBITVdqcS01WTVkd19GOGxIQVBzMXVOLVhQYmFoVllFU1hVdEdzT2NnZGEyc3ZKRnF6QmtDUDFhNFJHcnlpSEowbXZrZTVVTHpsUURDN3ZnMFltanp3Ujc1Um9XcUd2aThlOFh1SVNEZ2tkNUkxTW0tLXdlenFsSkJjTTJVdDlfQVdVYlRoVVpIdk1RTy01S0pOcg?oc=5",
    "medio": "ACB",
    "resumen": "",
    "publicada": "2026-10-14T01:38+00:00",
    "enlace_es_google": true,
-   "id": "fca997c4fc69",
+   "id": "0e2c6451c722",
    "etiquetas": [
     "ucam"
    ],
-   "detectada": "2026-10-14T05:05+00:00",
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
     "Google Noticias · UCAM CB"
    ]
@@ -3547,6 +3475,22 @@
    ]
   },
   {
+   "titulo": "Ángel Antelo",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbU83YlZ5MFBmcGxEeEFDSy14MEdMYWxSNE5FSjlLX0JoR0x2U2VsTTcydmwxZzJKTjVPUmFkVEFTZEV5azVMQUJxWW15clhhdnpyU08wVlNiTXlsOGNYY19HN2R4LVRIdTgtUFJuOTFObTdYYnFRbHhjSUpfM3JUdzNSV1UydlRwd2tBVW9MUlZkdVl6alZtTE11TXZBNE5Udjc5MDY3LUpQYU9scVVHb05wY3gxM0xCVTk2aUZRS0xldw?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T01:32+00:00",
+   "enlace_es_google": true,
+   "id": "1b495807c7ac",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
    "titulo": "Estad. Avanzada Sadiel Rojas",
    "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZFhqQ3FLQXFQdlZqQVRJZHlwVkRZbE5Rc3dJVmpxVE9Vdjh4SzFWLUVvY2pNdURvYU1CWkxLQURjVXJMOWlpZTMxN19LY0h0Z21la1RZMzl4d2RWcThrbU0tb2hlZDh0R3VRX2g3MzdPT1RVOS1LMVQ4amlTNk9oWHJ2QVIwbUdPcDVaOVRtV0FXOEZaOGMtdnY5ZUlQdVdtZmhtMDZRUXJJWjZFbnlpcTZvNDNSUUJYcWpSZ25FeFN0Y0xsUTBzbmVn?oc=5",
    "medio": "ACB",
@@ -3580,6 +3524,22 @@
    ]
   },
   {
+   "titulo": "Vídeos y noticias de Ovie Soko",
+   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT0gwZjFFcWRXTG5VMFZTTHZ3TUVsc2xGdXp2T2huSm5pTTVJZEN2bDJBdURZLXZQNkNGbllvMW5DaDJTVDBuRVFTNlJCMHREN29RODNQVWpWTi1jeElqcTFRczBPWklHc0k3Uzk5UUJkR2FKU2ZEZFhfZzZaaXJBVHFnVWdndFF2N1lYWWJfa19Kb3JkbXdydnhxVEswN3Vxb3FqNEhvaldxdVlTY2ZF?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T01:27+00:00",
+   "enlace_es_google": true,
+   "id": "06ff8aafe118",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
    "titulo": "Partidos Sergio Sánchez",
    "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYVpBWERSR2NqNVIzM19yTFBmX0tSWWFNVlVyTHpKcXh3X0I3VDdPUHNBRnhqMlJENFU5aks5a3ZLTmtoYlZYS0gzUVpkVk9YWTd3clVOeFluVXBxYVdYU2lPeVl5OXItZ1lCdkdkRkZzZURTMk1GWkhBMjRFMnZfd0dXTHRQRDRWZzZYRHA2WVJkeUFFdy1UUS0yT3E5S003SHc?oc=5",
    "medio": "ACB",
@@ -3592,7 +3552,8 @@
    ],
    "detectada": "2026-10-14T10:04+00:00",
    "vias": [
-    "Google Noticias · UCAM CB"
+    "Google Noticias · UCAM CB",
+    "Google Noticias · UCAM Murcia CB"
    ]
   },
   {
@@ -3626,6 +3587,22 @@
    "detectada": "2026-10-14T15:02+00:00",
    "vias": [
     "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "Partidos Juan Alberto Espil",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalZ6TlBwX2N1X0RvVmI3SkZ0ZDQ5TUpmUXJ3dnZYTjZya05TME5tOERxYTlMY2F0R3Z0NWlreEp5b0dpWkFjOFBEMC02cEh1VEhYWGUtQ3N2cldFYkxPNDRPT016TUNndGQ5Z2N5MGNqUE5VVXIxc0p0eVI1Mm85OTFLZ2llRFZOY0RmZEhRSnh4RkNYX3g4?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T00:40+00:00",
+   "enlace_es_google": true,
+   "id": "ad84a6c32098",
+   "etiquetas": [
+    "granada"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · Covirán Granada"
    ]
   },
   {
@@ -3673,6 +3650,22 @@
     "granada"
    ],
    "detectada": "2026-10-14T15:02+00:00",
+   "vias": [
+    "Google Noticias · Covirán Granada"
+   ]
+  },
+  {
+   "titulo": "Partidos Nacho Yáñez",
+   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlc1QmsxZzZTRHNDMlpXM0RqdDNMc0RRR1pPU0lkX2llM2NOd0RIU3pfcXc1NlhTU1dQLWd0VGhPMm1rY1QtRWFKa1NTbndvcTNHUHhtZl92SWxyTFllV211cENIOUhOVnE2bGVlM2QzeVlVbjVQMks2OXZJd3lmcHI5VXZCNEplN2FIOHVZRWRXODdrMnNoQ2pLU2hKX3hkdkVzOVpDX3JueVpUV18xdG53?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-14T00:28+00:00",
+   "enlace_es_google": true,
+   "id": "939da3fc011d",
+   "etiquetas": [
+    "granada"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
     "Google Noticias · Covirán Granada"
    ]
@@ -3904,6 +3897,22 @@
    ]
   },
   {
+   "titulo": "Miguel Servera",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdkhabjJ1N0kzSlJ6WnBsYjRSRnVsZDFBUTZZRTJXQmZTb1hWN0FzSksyZ2h5WFlvZnMwOE1MY045aWgwN01DeUs5bzNTMmZWQm1hNkluaGx0SFBNXzJFUEo5OFpGMDMzZzVzM205RXUxcnVrZHpyVHdPVUVnNE80YUxwWmhBWmlVMUI2WTFKbDBTQlVsZGFIQWRwMUR2TFlLeFpsOXRB?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-13T23:01+00:00",
+   "enlace_es_google": true,
+   "id": "f242ec829b48",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
    "titulo": "Temporada Sergio Sánchez",
    "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUU9aMVVKR01GNzRuSGN3R1lIUDI1eFhKYk44UU5BRVhhdU9CalZ2NkxJRlpGdHVIZHNCWVNJajBlU3hsYlJJdGJKUUdZOFdZVktzaXBiTzRPVG1JMkdzcHQ1UU1oRUY4d1VvYW1YZTBNUHE0RlRLbkVTZVhwQ0RZOHhDcE9abllsamFwdlhCVVlZX1hEVDg1TFAtX0dLd2ZEQ1NHTDFTQjdablVyb1E?oc=5",
    "medio": "ACB",
@@ -3915,6 +3924,22 @@
     "ucam"
    ],
    "detectada": "2026-10-14T15:02+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "Temporada Damjan Rudez",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzEzaHNVTnR6bm1mVFRDNHY0RGpxYWFhM3FOQUtJdVJmdDVFRDlnZ1dvakt2SjA2Z2xUV3VuUG5fYzBua2lQeldfQ2tIMkFmQ2pPcFRqUTNmTXdqUjBkWkYyS2lTQlBhYVRxMUtXUXFkR1VnR0syVUl3SE5xSjdJV2FLa1hlR1NPd1Z5QjktbDhoNVNXR3hWbU1CeFB4bUND?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-13T22:42+00:00",
+   "enlace_es_google": true,
+   "id": "40828b066186",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
     "Google Noticias · UCAM CB"
    ]
@@ -4184,6 +4209,22 @@
    ]
   },
   {
+   "titulo": "Estad. Avanzada Marcos Molina",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVThkbDRwbk92eE1wUklOTjY0SUQtTzVwaVhuWEd2RmlwU2RGb2ZudVpTbVdORTBiSHQ0TUVTUmUwbTJ0bUdwRmdHQU1RUndtbUlfRG9oWk9janFvSDdLZTRyT01VVG8xRC1yRGQ3R3YzekhoajFhWk83bW1UOE9sUXRvcTRkU2pKbXdabmlZSFpOWkJYejVkOE92MVdrNEVhWlh1eGttU1JXelRkanIzc1BnMkZVOGs?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-13T21:28+00:00",
+   "enlace_es_google": true,
+   "id": "e111c011e6d2",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
    "titulo": "Partidos Román Montañez",
    "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTWFINkZpdVpoSm5ZWDlIMGZRM1lPRktpOGxKVG9xMnFSeW9VT1otamRfT28zdUZNMGU1SVlnRTAxY1pXcVR2WVdWbHF1TXdIMUVRZEI4RldTVlhOemV4YkliNkdDTjFuV09BSFBNVVNHaFh1NHhIblNhWElsOWdxVnA2XzgyTlVPMkNj?oc=5",
    "medio": "ACB",
@@ -4264,6 +4305,22 @@
    ]
   },
   {
+   "titulo": "Temporada Ovie Soko",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlRCUi1hVU11Nl80elhyYjVodWdUeDRJcHMta0Q3LTJ3MFVlV0doT19WWnNXX2xiUmZkMkNoc3FYX21xbF9XamtWWS1mTU5SM2VnajlfQzNpVDVhT3JWVFEyVDhjQ1IwLXdCLTVqM0JPdE9OTzF2UEQwSFU1eFRyQlhCeXJvVjd0Q1piRl9QWTR6QW1NbW1ZdUREQkJoWjg2MTMxNXdLUG95bnVR?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-13T21:01+00:00",
+   "enlace_es_google": true,
+   "id": "44d057e08116",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
    "titulo": "Baloncesto: Murcia - Obradoiro, en directo | 16/10/26",
    "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU3NaMHpCQU84OWVqUHBVbjlLUW9CSkxDTzduQkpYaVN3UXlTb0wwMnI1MXBhNkJZT2ZTcm44V1otdHd5ZWRZVk1fNmIxaW1lb0MxRFpHSGgxcXpRTkRlTENpVF9XZjJCUDJoTkpveXF2QXVDSUZ4VmR4LTY4dEdsV2UyQ2Z6YWc?oc=5",
    "medio": "RTVE.es",
@@ -4278,6 +4335,22 @@
    "vias": [
     "Google Noticias · BCL",
     "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "Vídeos y noticias de Pablo José Sánchez",
+   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeENxdGUwbkxCS0VzanpLYW04YkpGczBrRWFTSDREVzdteWJLTWNkc0NrX09oNUlTeF9iYnRwZTVVVVYxUWRvUUxiUm1SZjA1VzNuZ1VwN1QwaDNsY0VySjhxbG00TnFaZzNraFlBWG9uTkcwZDdSVW93NFJDWnRjNk10Qlh0TEphWmI2dmVzR01DSHRZT3F0YVZmaDQ2QQ?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-13T20:59+00:00",
+   "enlace_es_google": true,
+   "id": "d785c07add86",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
    ]
   },
   {
@@ -4329,6 +4402,22 @@
    ]
   },
   {
+   "titulo": "Zonas de tiro Jordan Davis",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1dBdlF1UHlSZ2d1Y0ZjbVg0ckxtd2VHWE02U2owc29EdFUwZ01MWmU3Vm1IOVM5SEp3TTJ1WVpBZ21MZnFxalNGLXhGMjJ6MWE2TXl5VjhRb19JRExKeTR3RXJzalVyNXZRaUxMQkNUREhHaDJiUkhLTlpWV2phU0lUNnhxOS1OUElUU25LS3RuN29wR1FwbFVBUjkyWjRBNUtTc0NqVjFOd3VVVzlxLURaVGlVQ3dYTERV?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-13T20:40+00:00",
+   "enlace_es_google": true,
+   "id": "c3a0899f961b",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
    "titulo": "Trayectoria Luis Guil | Entrenador acb | acb.com",
    "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUNNMmVsczZoRC1yQV9pV0wyX2M5T3BNNVduSHh0blN2ZE5EZVlJSFZxODgxX2JkMFBLMUlodGVDQ2pEV2hMekt3S1R5VldxVWVlYlpPd25MRDBVMEFDeHNqdGtCY3NjcHpJd2Jxbm93SlRQZHZEMjV6RUtlODRMT1RtbFJrSVh1ZWREWXR0OHhnNkpGbEtISW1RT1J3QUFRUDJUeEtKZw?oc=5",
    "medio": "ACB",
@@ -4357,6 +4446,23 @@
     "ucam"
    ],
    "detectada": "2026-10-14T05:05+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "Trayectoria Oscar Quintana | Entrenador acb | acb.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVZRR2xqbU1XZ29ON2xiMU5KZU5mTnVFdEZRQWxJeW51YkN4aFJiY3FfbXlGQVg1WmZ3TlRtQ2hsZDZBOE9adXdsRnh5d1A4el9CeXRpR1NPRFl2SnlwdFdPdXdQRnN3dkpfQWk5NV85RUh1bWtBdnJRN0JOXzYyYXdJZUh1NG13emktOXV0c1VtcDdTZzR4dTM5SHB3R0JfUEVfYkJmcW9vd01PTUtPMXhoTTRuczRjYlE?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-13T19:42+00:00",
+   "enlace_es_google": true,
+   "id": "5e0856711f7a",
+   "etiquetas": [
+    "acb",
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
     "Google Noticias · UCAM CB"
    ]
@@ -4493,22 +4599,6 @@
    ]
   },
   {
-   "titulo": "Nicola",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnh6cmdpdzFMSnE5Yy1DaVd5bHluT1lvOE0yZlRMcU1tMkY0SEplOW95eWxRa0xBRUdTR3NZSldJdFhoUVdmWTl4X2l2T0hjLXloOTNrYlhsWXBDV1B0b3JuVGFrOG8yTTAxWEtFQmE3VkNfOGhGME5fSTFhZ1hFOG9WaW92VFJsN2tiaTRnNUFvbWdCWEM1MVNNbVR0OXI4SjFoTVlkMGtTRTBBaW5jaU4zZExvaFVSWkpJ?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-13T18:52+00:00",
-   "enlace_es_google": true,
-   "id": "b7a80975b6de",
-   "etiquetas": [
-    "ucam"
-   ],
-   "detectada": "2026-10-13T21:09+00:00",
-   "vias": [
-    "Google Noticias · UCAM CB"
-   ]
-  },
-  {
    "titulo": "Teledeporte - Deportes hoy en directo | Ver TDP en RTVE Play",
    "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Tb3VpVjV5WE13cmh3SVIxdmZJSko4S29UbzBKTDFtX3N3MmZUUFlEby1TbnVJQ216OW5FM2VTNjB1Y1lIQmQ5eUI1Qy1JQQ?oc=5",
    "medio": "RTVE.es",
@@ -4523,6 +4613,22 @@
    "vias": [
     "Google Noticias · BCL",
     "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
+   "titulo": "Nicola",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnh6cmdpdzFMSnE5Yy1DaVd5bHluT1lvOE0yZlRMcU1tMkY0SEplOW95eWxRa0xBRUdTR3NZSldJdFhoUVdmWTl4X2l2T0hjLXloOTNrYlhsWXBDV1B0b3JuVGFrOG8yTTAxWEtFQmE3VkNfOGhGME5fSTFhZ1hFOG9WaW92VFJsN2tiaTRnNUFvbWdCWEM1MVNNbVR0OXI4SjFoTVlkMGtTRTBBaW5jaU4zZExvaFVSWkpJ?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-13T18:52+00:00",
+   "enlace_es_google": true,
+   "id": "b7a80975b6de",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-13T21:09+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
    ]
   },
   {
@@ -4553,6 +4659,22 @@
     "ucam"
    ],
    "detectada": "2026-10-14T19:16+00:00",
+   "vias": [
+    "Google Noticias · UCAM CB"
+   ]
+  },
+  {
+   "titulo": "Temporada Matt Gatens",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbElRZTZkaHpqSFNwaURIM1RiSHUwdUNtOEgxdFNxM1cza0RHUllRU0lJdUlFUzB1R05ldWdWamRKT3JTYTFIcURzZXg5V0Frc2ZDaG9yTDFaZjFJdS1wcTlnal9Od3NrbmdFeG1McEFiRUdTMF9oaWVDRmk2U2t5UG1PQ1NaZDUtMVhmMEcwb0t0RE1ka3pXQU9KWUFQUk5NTUxVQlBIbndNOGFUVXo2cXc5eUJaYzNKSmpBbnN1Zw?oc=5",
+   "medio": "ACB",
+   "resumen": "",
+   "publicada": "2026-10-13T18:19+00:00",
+   "enlace_es_google": true,
+   "id": "44188d88dac9",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
    "vias": [
     "Google Noticias · UCAM CB"
    ]
@@ -5279,6 +5401,23 @@
    ]
   },
   {
+   "titulo": "Motocross: Campeonato de España, en directo | 18/10",
+   "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQm9vRVdqSmRIbUhxRVJCSFRCR2dCUkdqTkdjRkZ0RnhseUg5WTJKcGJPbmU4bGF3ODE3c3hfc2ZXSTZzbktQVDVQRmdvMFJiMjVxRV9iSlM2eEhHVHBwNzJLd3FuVkR3RFIzTUhRX1J2QmM0Nkp5dEt2ZGE2NXM3dHU3Y2xEZw?oc=5",
+   "medio": "RTVE.es",
+   "resumen": "",
+   "publicada": "2026-10-13T07:28+00:00",
+   "enlace_es_google": true,
+   "id": "4df9d3b5efb5",
+   "etiquetas": [
+    "ucam"
+   ],
+   "detectada": "2026-10-14T22:24+00:00",
+   "vias": [
+    "Google Noticias · BCL",
+    "Google Noticias · UCAM Murcia CB"
+   ]
+  },
+  {
    "titulo": "Jimena Ayllón, plata en el Master Nacional de Oviedo",
    "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdUdSeVg5LTdCU2c4SE9uWTI2UGJNZFBVeGRUMVZUZkljdFh3N3IyUWM2ZFZWZ2I2VVlBdVV0WWR4UXJNYVl3RDZFTVdLZlFTTF9UR0xUSW00dzNycTNjdm5nTkxYc0tfZ3hGWEtvZFZ3LTRiVUxTaDNPX1l5c2ctdFhTcm9WVkc0NnpteHZn0gGTAUFVX3lxTE9fdklCQ1loQkFNbmk4Mm4xa1ZSdDQxRE5TR3dRb05DZ2g1SEhXUTJuRFJjNjdvZVNJMzlEUy1ISmdjdnBYeksyS3hwUXkwbHBsQmU0SDRSSjRaQUJ3YkN3emZFb3o0WDAybjRhWnV3XzRtMXZIbkdiOGhiSVZDRVpNNk9lUXEyT0w5a3Z6djYwb09aMA?oc=5",
    "medio": "Tu voz en Pinares",
@@ -5507,7 +5646,8 @@
    ],
    "detectada": "2026-10-13T15:51+00:00",
    "vias": [
-    "Google Noticias · UCAM CB"
+    "Google Noticias · UCAM CB",
+    "Google Noticias · UCAM Murcia CB"
    ]
   },
   {
@@ -6236,88 +6376,6 @@
    "detectada": "2026-10-12T09:02+00:00",
    "vias": [
     "Google Noticias · Liga Endesa",
-    "Google Noticias · UCAM CB"
-   ]
-  },
-  {
-   "titulo": "Trayectoria Nikola Radicevic | Jugador acb | acb.com",
-   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcmctNXR2N2xCTjhiVlZRYlRZUEd0TE94QTB0ZDh2REc4LXNxSlFCS3RXVTF6Qng5QzBHakZTN19PUE5rd1hyUklLUzBlN1FtckZaaFJ2MERwNmFlSnhOd0d6VDdka3g5MjEwUWQwZno2YkN4cmt0bXFwbjVUVjM4QnZLcHBxZFpwWFJqdlBrZVd2N1hQbFRnX1NVQm1PZXdDWE1lVXVLN3JxTGZnYTVxS3ZERE52NnZvMDJsanBuYklVaUE0aV8ycktYbjJ0aFVHcm9JZG1lbWE?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-11T21:49+00:00",
-   "enlace_es_google": true,
-   "id": "4aa8b1477f58",
-   "etiquetas": [
-    "acb",
-    "ucam"
-   ],
-   "detectada": "2026-10-12T01:47+00:00",
-   "vias": [
-    "Google Noticias · UCAM CB"
-   ]
-  },
-  {
-   "titulo": "El Covirán Granada se aboca a las remontadas en casa ante sus arranques negativos",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOTdZVllud3NCWjRHcnZQeWgyR2MzTHh4MnlNNGdldzV3ZFlBT0lRZmZlR3l6TnMxbm85UkczSThDZ29pQ1NpQmZZbFFhWno3czJXZk52Z2RTcVI1MEY5NGh5OTBfVnFCSE0zZWp3RFljc2hZbEV3RDVEVXZDbEdJMEthb25kbDRTb3lJbmlwZ0hxRi1IR1BRRWRCbU9HYjF2NEkyaERQMHFPV3lFWjRzSFR6LXdBUEdlbHBRMl9wVkFsUdIBxwFBVV95cUxPR0daOWZfV2JuM3IxblhvaTktakdzTkthQ2hZcm1vNU91aEctNGlkUnFHMDRGS1lrYmNJQURkZ3dJUXpvaDlfeS1zNExYX3NxZEhQNkVDeDEyLUtZVTNxQWYxYTEyWmsxNGpLZEw2dmNMb0RjZ2UyclJqYm5tX1JkbWl0MTREQjk5aEY5Um1DZEFRWlBHanFLQkRERmJadXVaQXpYNHRvMDBRWUV0LXRuNmg4UGIyTkdvcEZOOXI4OHBNa0JGY05J?oc=5",
-   "medio": "Ideal",
-   "resumen": "",
-   "publicada": "2026-10-11T21:36+00:00",
-   "enlace_es_google": true,
-   "id": "2a663529dae9",
-   "etiquetas": [
-    "granada"
-   ],
-   "detectada": "2026-10-11T22:30+00:00",
-   "vias": [
-    "Google Noticias · Covirán Granada",
-    "Google Noticias · Primera FEB"
-   ]
-  },
-  {
-   "titulo": "Arenas y Churriana golean a Málaga Juniors y Cantoria",
-   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbzY3bEk1aXZ3ZzJNTUV4TTlRTlJVdUxRTGN2eWJMUU9lbUROclBTSTk1Mkp5YzMta0VjLXBhQ3JYNVBaaWxKZjlSQkU1bWQyT2hvcEE5NXZSV05nWFBnTC12MG1tb1BQUmtTVzEwbzhmdUgtMjR2cEVKcHdiRGN4OGJMRVVIWXViR1lvY0RwaGtWU0tGY21SNGhxTW5EYkplNm1Nb1FZTElfVXY0SWJ3Q293R284V1o4cl9jblJ4QXJNX2ZZbHl2S0NXYUJBTXlBM09md9IB1AFBVV95cUxQbzY3bEk1aXZ3ZzJNTUV4TTlRTlJVdUxRTGN2eWJMUU9lbUROclBTSTk1Mkp5YzMta0VjLXBhQ3JYNVBaaWxKZjlSQkU1bWQyT2hvcEE5NXZSV05nWFBnTC12MG1tb1BQUmtTVzEwbzhmdUgtMjR2cEVKcHdiRGN4OGJMRVVIWXViR1lvY0RwaGtWU0tGY21SNGhxTW5EYkplNm1Nb1FZTElfVXY0SWJ3Q293R284V1o4cl9jblJ4QXJNX2ZZbHl2S0NXYUJBTXlBM09mdw?oc=5",
-   "medio": "Ideal",
-   "resumen": "",
-   "publicada": "2026-10-11T20:30+00:00",
-   "enlace_es_google": true,
-   "id": "e39ba3f2d83e",
-   "etiquetas": [
-    "granada"
-   ],
-   "detectada": "2026-10-12T01:47+00:00",
-   "vias": [
-    "Google Noticias · Covirán Granada"
-   ]
-  },
-  {
-   "titulo": "Marcelinho también asombra en Murcia",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWJZdzU3S2dpb1lNM1JuYm0wNGFMRmFuOTVETnBTSTYtZmRRbjRqV25Rcmd4dGxNREFtR2FVVWE0TkhJWmJGYVVsUmVXQ1NmUm5CdlRhU3Z3NTZ5T2tBaHQ5RVRmSk8tLUc4TWF3YWthVEx1RkFubXdIWUdWMF9tSUIzdTAxZnRvWWtEXzhFSlVhNGpmSHIzdnhzVWR1WlQ20gGmAUFVX3lxTE5pU2FDN05BT0tCd25sUmZQRWN4b2ZqN1RJRmMxNkl6ZTZlVEJlRjJxTXVZcEp0WVROOW52NE1mT0Y5WHNBME0tMGVXOTNyczdoMDZ3NjBiNDJjeDhtOGNZQ29UN1FFN0FRTVRMam1tZWZFcmtGaVoyTXBLY1g5Qnp2VFZObjBSNUR1TjJfV003WHBKellVemt4aFBFd2JmNjh6UEFqV2c?oc=5",
-   "medio": "elDiario.es",
-   "resumen": "",
-   "publicada": "2026-10-11T19:28+00:00",
-   "enlace_es_google": true,
-   "id": "404cbc048392",
-   "etiquetas": [
-    "ucam"
-   ],
-   "detectada": "2026-10-14T15:02+00:00",
-   "vias": [
-    "Google Noticias · UCAM Murcia CB"
-   ]
-  },
-  {
-   "titulo": "Zonas de tiro Sadiel Rojas",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHpVMjFRWDZ5eG9oRDdITTlMT2hmSDhzSVJKcncyd09mMXpfLWxWQkJhb1ViSlczWm5BTHJNazloYWhESXRoalctVWZwNXFibjNVUnJmb3hFem1QWk1RclhoOWdaMXFDdlZiOE5LQkxLTzRVTFF6NndJeG9kTS1YS2Vkd2NNejF5enVhV1p3d2E2OW4yQ2VHbEpuUXFSb1VaeXRZVkhPazIzUQ?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-11T11:09+00:00",
-   "enlace_es_google": true,
-   "id": "6f8c8893ccf3",
-   "etiquetas": [
-    "ucam"
-   ],
-   "detectada": "2026-10-12T09:02+00:00",
-   "vias": [
     "Google Noticias · UCAM CB"
    ]
   }

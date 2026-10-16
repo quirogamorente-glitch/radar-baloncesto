@@ -1,10 +1,11 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-16T18:11+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-16T21:24+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
 ## UCAM Murcia CB (150)
 
+- 2026-10-16 18:23 UTC · **El equipo sub 22 del UCAM CB sigue con su pleno de triunfos al vencer por 84-76 al Obradoiro gallego** — Murcia Plaza
 - 2026-10-16 16:55 UTC · **La lesión de Marcos redefine la rotación de bases en el UCAM Murcia** — La Verdad
 - 2026-10-16 16:54 UTC · **El Obradoiro 'aprende' a perder en la Liga U** — El Correo Gallego
 - 2026-10-16 13:19 UTC · **Valencia Basket vs. Murcia: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
@@ -23,6 +24,7 @@ Actualizado: 2026-10-16T18:11+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-16 09:00 UTC · **Juani Marcos, del UCAM Murcia, sufre una microrrotura en el sóleo** — La Opinión de Murcia
 - 2026-10-16 08:37 UTC · **UCAM Murcia afronta tres partidos clave en noviembre** — El Periódico de Yecla
 - 2026-10-16 07:11 UTC · **UCAM Murcia Juver hoy en TV: horario y canal** — La Vanguardia
+- 2026-10-16 06:25 UTC · **Partidos Nemanja Radovic** — ACB
 - 2026-10-16 04:37 UTC · **Ver Jornada 4: Bàsquet Girona - Barcelona (2026)** — Movistar Plus
 - 2026-10-16 04:00 UTC · **La lesión de Juani Marcos, una incógnita que se alarga en el UCAM Murcia** — La Opinión de Murcia
 - 2026-10-16 04:00 UTC · **López de la Torre y Gates, la cara y la cruz europea del UCAM Murcia** — La Opinión de Murcia
@@ -94,7 +96,9 @@ Actualizado: 2026-10-16T18:11+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-14 06:30 UTC · **Vídeos y noticias de José Ángel Antelo** — ACB
 - 2026-10-14 06:12 UTC · **Zonas de tiro Rinalds Malmanis** — ACB
 - 2026-10-14 05:48 UTC · **Temporada Marcus Lewis** — ACB
+- 2026-10-14 05:29 UTC · **Trayectoria José Ángel Antelo | Jugador acb | acb.com** — ACB
 - 2026-10-14 05:07 UTC · **Estudio Estadio Champions, en direct** — RTVE.es
+- 2026-10-14 05:03 UTC · **Damjan Rudez** — ACB
 - 2026-10-14 04:10 UTC · **Serhiy Lishchuk** — ACB
 - 2026-10-14 04:07 UTC · **Trayectoria Ehimen Orukpe | Jugador acb | acb.com** — ACB
 - 2026-10-14 04:05 UTC · **Grimau** — ACB
@@ -111,6 +115,7 @@ Actualizado: 2026-10-16T18:11+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-14 02:34 UTC · **Vídeos y noticias de Brad Oleson** — ACB
 - 2026-10-14 02:05 UTC · **Temporada Vitor Benite** — ACB
 - 2026-10-14 02:00 UTC · **Partidos Rinalds Malmanis** — ACB
+- 2026-10-14 01:56 UTC · **Trayectoria Nikola Radicevic | Jugador acb | acb.com** — ACB
 - 2026-10-14 01:55 UTC · **Estad. Avanzada Ovie Soko** — ACB
 - 2026-10-14 01:51 UTC · **Partidos Josep Franch** — ACB
 - 2026-10-14 01:42 UTC · **Temporada Serhiy Lishchuk** — ACB
@@ -150,11 +155,6 @@ Actualizado: 2026-10-16T18:11+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-13 22:30 UTC · **Trayectoria Scott Bamforth | Jugador acb | acb.com** — ACB
 - 2026-10-13 22:10 UTC · **Estad. Avanzada José Ángel Antelo** — ACB
 - 2026-10-13 22:00 UTC · **Partidos Damjan Rudez** — ACB
-- 2026-10-13 21:58 UTC · **Temporada Sito Alonso | Entrenador acb** — ACB
-- 2026-10-13 21:45 UTC · **Kevin Tumba** — ACB
-- 2026-10-13 21:44 UTC · **Trayectoria Víctor Arteaga | Jugador acb | acb.com** — ACB
-- 2026-10-13 21:42 UTC · **Temporada Jordan Davis** — ACB
-- 2026-10-13 21:40 UTC · **Trayectoria Marcos Molina | Jugador acb | acb.com** — ACB
 
 ## Covirán Granada (64)
 
@@ -236,17 +236,57 @@ Actualizado: 2026-10-16T18:11+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-15 07:17 UTC · **El Hozono Global Jairis pasa el rodillo en su debut europeo** — MurciaEconomía.com
 - 2026-10-14 20:12 UTC · **El UCAM Murcia CB reacciona a tiempo en Bamberg y firma un triunfo con sello de líder (67-86)** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (125)
+## Resto (últimas 12 h) (123)
 
+- 2026-10-16 21:14 UTC · **Las palabras de Velimir Perasovic tras la derrota del Kosner Baskonia ante la Virtus** — Gigantes del Basket · https://www.gigantes.com/euroliga/palabras-perasovic-derrota-baskonia-virtus/
+- 2026-10-16 21:11 UTC · **100-105: El Barça lleva al límite al campeón y cae en la prórroga** — Mundo Deportivo
+- 2026-10-16 21:11 UTC · **El COB incomodó a un Alicante que decantó la balanza con su rotación (79-83)** — La Voz de Galicia
+- 2026-10-16 21:09 UTC · **El 1x1 del Barça ante el Olympiacos** — Mundo Deportivo
+- 2026-10-16 21:08 UTC · **Las desconexiones acaban con el Baskonia** — La Tribuna de Albacete
+- 2026-10-16 21:08 UTC · **J.3: La primera del Domusa Teknik ISB llega desde su superioridad en el rebote** — Federación Española de Baloncesto
+- 2026-10-16 21:05 UTC · **El Barcelona cae en la prórroga ante el Olympiacos** — EL PAÍS
+- 2026-10-16 21:02 UTC · **86-78: El Baskonia tropieza en el estreno de Perasovic en Bolonia** — Mundo Deportivo
+- 2026-10-16 21:01 UTC · **Euroliga. El Barcelona encaja su tercera derrota en seis jornadas** — El Imparcial - Diario liberal e independiente
+- 2026-10-16 21:00 UTC · **El Barça roza la hazaña ante el campeón antes de caer en la prórroga** — MARCA
+- 2026-10-16 20:55 UTC · **Así queda la clasificación de la Euroliga tras la derrota en la prórroga del Barça ante el campeón de Europa** — Mundo Deportivo
+- 2026-10-16 20:53 UTC · **Sekulic y Punter se pegan un tiro en el pie** — Diario AS
+- 2026-10-16 20:53 UTC · **El Barça cae en la prórroga ante el Olympiacos de un sobresaliente Vezenkov** — La Vanguardia
+- 2026-10-16 20:51 UTC · **La era Perasovic arranca con derrota** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2021767/la-era-perasovic-arranca-con-derrota/
+- 2026-10-16 20:50 UTC · **Zarpazo del Palmer Basket en la pista del Gipuzkoa** — Diario de Mallorca
+- 2026-10-16 20:45 UTC · **Un Barça luchador cayó con todos los honores ante el campeón** — SPORT
+- 2026-10-16 20:44 UTC · **El Barça encuentra tarde los plomos del Palau** — Diari ARA
+- 2026-10-16 20:44 UTC · **Baskonia paga caro su mal inicio ante la Virtus en la vuelta de Perasovic** — Gasteiz Hoy
+- 2026-10-16 20:41 UTC · **El Barça planta cara pero cede ante Olympiacos en la prórroga** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2021808/el-barca-planta-cara-pero-cede-ante-olympiacos-en-la-prorroga/
+- 2026-10-16 20:39 UTC · **El Palmer impone su ley en la pista del Gipuzkoa** — Ultima Hora
+- 2026-10-16 20:37 UTC · **El gigante Dabone espera al Madrid** — Diario AS
+- 2026-10-16 20:37 UTC · **En vídeo: Guardiola le roba el protagonismo a las estrellas del Barcelona en la noche del baloncesto europeo** — Goal.com
+- 2026-10-16 20:01 UTC · **Duelo de dinámicas opuestas para un Breo que quiere seguir ganando** — La Voz de Galicia
+- 2026-10-16 20:00 UTC · **Qué ha pasado en la Euroliga: Barça y Kosner Baskonia caen ante Olympiacos y Virtus Bologna** — Gigantes del Basket · https://www.gigantes.com/euroliga/que-ha-pasado-hoy-euroliga-jornada6/
+- 2026-10-16 19:34 UTC · **Ovación de gala a Pep Guardiola en su regreso al Palau Blaugrana para disfrutar del Barça - Olympiacos de Euroliga** — 20Minutos
+- 2026-10-16 19:30 UTC · **Resumen de la Euroliga: Panathinaikos pierde el invicto, semana perfecta de Olympiacos en España** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2021824/resumen-de-la-euroliga-strazel-brilla-en-la-victoria-del-efes-el-besiktas-vence-al-bayern/
+- 2026-10-16 19:17 UTC · **J.4: El quinto periodo, al habla los entrenadores** — Federación Española de Baloncesto
+- 2026-10-16 19:14 UTC · **Vidorreta explica el no fichaje de Sima: "No me dieron la opción de llamarle para convencerle"** — MARCA
+- 2026-10-16 19:13 UTC · **Surne Bilbao Basket eleva la apuesta** — Radio Popular de Bilbao
+- 2026-10-16 19:01 UTC · **Barça vs Olympiacos: estadísticas y datos en directo | Euroliga 2026/2027** — Diario AS
+- 2026-10-16 18:07 UTC · **Canal y horario del Barça Basket - Olympiacos: dónde ver por TV el partido de la Euroliga de baloncesto** — Mundo Deportivo
+- 2026-10-16 18:07 UTC · **A qué hora es el Virtus - Baskonia: horario y dónde ver hoy en directo el partido de Euroliga** — MARCA
 - 2026-10-16 17:59 UTC · **Un derbi con cuentas pendientes para reactivar al Cajasol Coto Córdoba CB** — elDiario.es
 - 2026-10-16 17:57 UTC · **Barça - Olympiacos en directo: Euroliga en vivo hoy** — SPORT
 - 2026-10-16 17:52 UTC · **Virtus Bologna - Kosner Baskonia en directo | Última hora de Euroliga en vivo hoy** — MARCA
+- 2026-10-16 17:48 UTC · **Partizan de Fuenlabrada: parte médico de Javi López y Prince Ali** — Federación Española de Baloncesto
+- 2026-10-16 17:22 UTC · **A qué hora es el Barcelona - Olympiacos: horario y dónde ver hoy en TV el partido de Euroliga** — MARCA
+- 2026-10-16 17:15 UTC · **Yankuba Sima ya tiene nuevo equipo en Europa** — Superdeporte
+- 2026-10-16 17:11 UTC · **Barcelona - Olympiacos, en directo: Euroliga 2025-26 en vivo hoy** — Diario AS
+- 2026-10-16 17:08 UTC · **Barcelona - Olympiacos en directo | Última hora de Euroliga en vivo hoy** — MARCA
+- 2026-10-16 17:00 UTC · **El Bàsquet Menorca busca su primera victoria en el derbi balear ante el Fibwi Mallorca** — Menorca al Dia
 - 2026-10-16 16:54 UTC · **Gonzalo Corbalán: "Estoy preparado para aprovechar mis oportunidades"** — Superdeporte
 - 2026-10-16 15:48 UTC · **Dorsey se disculpa antes del partido ante el Barça** — Mundo Deportivo
 - 2026-10-16 15:44 UTC · **Grupo Alega Cantabria regresa al Trueba invicto para enfrentarse a Partizán de Fuenlabrada** — eldiariocantabria.es
+- 2026-10-16 15:36 UTC · **El Crvena Zvezda, cerca de cerrar a Christian Koloko** — piratasdelbasket
 - 2026-10-16 15:34 UTC · **2ª FEB: Toledo - CB Algeciras: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
 - 2026-10-16 15:33 UTC · **700 veces Sergio Llull** — ACB
 - 2026-10-16 15:11 UTC · **Sekulic, sobre Tyrese Martin y Darío Brizuela: "Están poniendo su corazón, pero en ataque pueden hacer mucho más"** — Mundo Deportivo
+- 2026-10-16 15:11 UTC · **Grupo Alega Cantabria - Flexicar Fuenlabrada autres matches : direct Basketball mises à jour** — Eurosport
 - 2026-10-16 15:02 UTC · **El Melilla Ciudad del Deporte busca su tercera victoria consecutiva en la cancha de la Cultural y Deportiva Leonesa** — Club Melilla Baloncesto
 - 2026-10-16 15:02 UTC · **Tyler Dorsey dio una explicación a la directiva del Olympiacos tras sus comentarios en redes sociales.** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2021684/tyler-dorsey-da-una-explicacion-a-la-directiva-del-olympiacos-tras-sus-comentarios-en-redes-sociales/
 - 2026-10-16 14:50 UTC · **Movistar Plus prepara un fin de semana de fútbol y baloncesto con LaLiga, Premier League y Euroliga** — Mundoplus.tv
@@ -257,6 +297,7 @@ Actualizado: 2026-10-16T18:11+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-16 14:27 UTC · **Previa de la Jornada 4 de Liga Endesa 2026-27** — ACB
 - 2026-10-16 14:27 UTC · **La Euroliga anuncia su plan de negocio para los próximos 10 años: cómo afectará al Valencia Basket** — Superdeporte
 - 2026-10-16 14:24 UTC · **¿Qué equipos ganarán esta Jornada 4 según los aficionados? Descúbrelo y elige los tuyos** — ACB [posible rumor]
+- 2026-10-16 14:21 UTC · **Liga Endesa Classifica 2016/2017 Regular season / Leghe** — BasketNews.com
 - 2026-10-16 14:16 UTC · **Duelo en casa ante un Monbus Obradoiro en buena dinámica** — San Pablo Burgos
 - 2026-10-16 14:11 UTC · **Marcador palentino: horarios y resultados de la jornada del 17 y 18 de octubre** — Tribuna de Palencia.
 - 2026-10-16 13:55 UTC · **El Kids&Us Manresa, con la necesidad de mejorar sus parámetros defensivos ante el Unicaja** — SPORT
@@ -266,6 +307,7 @@ Actualizado: 2026-10-16T18:11+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-16 13:24 UTC · **El Cajasiete Gran Canaria regresa al Arena con una prueba de carácter ante Bueno Arenas Albacete Basket** — cbgrancanaria.net
 - 2026-10-16 13:24 UTC · **El comunicado de Casademont Zaragoza sobre la situación de Aday Mara** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/comunicado-casademont-zaragoza-situacion-aday-mara/
 - 2026-10-16 13:04 UTC · **Joventut Badalona vs Barcelona: ¿quién impondrá su ley en el derbi catalán?** — William Hill
+- 2026-10-16 13:01 UTC · **Buducnost vs Neptunas » Mejores Cuotas y Estadísticas** — Odds Scanner
 - 2026-10-16 12:54 UTC · **Nico Brussino, jugador del Casademont Zaragoza: "Queremos jugar la Copa"** — heraldo.es
 - 2026-10-16 12:34 UTC · **Novedades y parte médico de la Jornada 4 de la Liga Endesa 2026-27** — ACB
 - 2026-10-16 12:29 UTC · **Vidorreta, del caso Sima al cese de Galbiati: “No ha sorprendido en absoluto”** — Diario AS
@@ -278,6 +320,7 @@ Actualizado: 2026-10-16T18:11+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-16 11:54 UTC · **Javier Zamora: «Estar serios atrás y el rebote, serán clave, y, sobre todo, jugar valientes»** — Bàsquet Menorca
 - 2026-10-16 11:53 UTC · **La Euroliga repartirá 3.400 millones entre los clubes durante los próximos diez años** — Palco23
 - 2026-10-16 11:47 UTC · **Kenny Lofton: de 'gordito' en la NBA a MVP de la 3ª jornada frente al Burgos en la Eurocup** — Mundo Deportivo
+- 2026-10-16 11:45 UTC · **Trayectoria Lucio Angulo | Jugador acb | acb.com** — ACB
 - 2026-10-16 11:44 UTC · **La Euroliga revela su plan y previsiones económicas para los próximos 10 años** — Gigantes del Basket · https://www.gigantes.com/euroliga/plan-previsiones-economicas-10-anos/
 - 2026-10-16 11:44 UTC · **¿Son los Dallas Mavericks los tapados de la Conferencia Oeste?** — Gigantes del Basket · https://www.gigantes.com/nba/son-los-dallas-mavericks-los-tapados-de-la-conferencia-oeste/
 - 2026-10-16 11:36 UTC · **El pívot 'bestseller' de Estudiantes que venció al 'síndrome de Superman' y sobrevivió a sus demonios** — MARCA
@@ -300,6 +343,7 @@ Actualizado: 2026-10-16T18:11+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-16 10:27 UTC · **El Cajasiete Gran Canaria, a sobrevivir con otras tres salidas seguidas: «¿Quién hace el calendario de Primera FEB?** — Canarias7
 - 2026-10-16 10:24 UTC · **Valencia 88-91 Maccabi | Euroliga (J6)** — MARCA
 - 2026-10-16 10:24 UTC · **Real Madrid 111-92 ASVEL | Euroliga (J6)** — MARCA
+- 2026-10-16 10:24 UTC · **Baloncesto: Joventut - Bonn, en directo | Champions League** — RTVE.es
 - 2026-10-16 10:23 UTC · **Perímetro Feliz: “Ahora entiendo por qué nos ha metido ocho”** — Diario AS
 - 2026-10-16 10:22 UTC · **MoraBanc Andorra y Río Breogán miden sus rachas opuestas** — Mundo Deportivo
 - 2026-10-16 10:18 UTC · **Sin la gran joya de la cantera: el Barça no puede inscribir a Dabone en la Liga Endesa ni en la Euroliga por motivos burocráticas** — Crónica Global
@@ -317,49 +361,3 @@ Actualizado: 2026-10-16T18:11+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-16 09:40 UTC · **PREVIA J.3 | La tercera estación de un gran inicio para los equipos revelación** — Federación Española de Baloncesto
 - 2026-10-16 09:28 UTC · **Jabari Parker, un problema sin solución en un Partizan en caída libre** — SPORT
 - 2026-10-16 09:25 UTC · **Los jugadores cortados en la NBA antes del inicio de la temporada 2026-27** — Gigantes del Basket · https://www.gigantes.com/nba/jugadores-cortados-antes-inicio-temporada-2026-27/
-- 2026-10-16 09:15 UTC · **Carles Marco – Previa J4 – FIATC Girona – Leyma Coruña** — Basquet Coruña
-- 2026-10-16 09:14 UTC · **Real Madrid vs Bilbao: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
-- 2026-10-16 09:04 UTC · **La anécdota mitológica por la que Andrés Feliz metió 8 triples con el Madrid y condenó a Tony Parker** — MARCA
-- 2026-10-16 09:04 UTC · **Dani Hierrezuelo ingresa en el Salón de la Fama del baloncesto español** — Diario Sur
-- 2026-10-16 08:59 UTC · **Un Real Madrid que se gusta en la Euroliga: ni el Asvel Tony Parker pudo con ellos** — El Confidencial
-- 2026-10-16 08:58 UTC · **Yankuba Sima deja el Valencia Basket y pone rumbo a Alemania** — Gigantes del Basket · https://www.gigantes.com/euroliga/yankuba-sima-deja-el-valencia-basket-y-pone-rumbo-a-alemania/
-- 2026-10-16 08:54 UTC · **De fichaje ilusionante a desaparecer de la rotación: Podría perder su sitio en el Barça Basket** — Solobasket [posible rumor] · https://www.solobasket.com/euroliga/fichaje-ilusionante-desaparecer-rotacion-podria-perder-sitio-barca-basket
-- 2026-10-16 08:52 UTC · **El legendario Tony Parker revela lo que le respondió Andrés Feliz cuando le pidió que fallase algún triple** — OkDiario
-- 2026-10-16 08:48 UTC · **Fotogalería del Valencia Basket 88-91 Maccabi Tel Aviv | Jornada 6 de la Euroliga** — Nostresport
-- 2026-10-16 08:48 UTC · **Yankuba Sima termina su etapa en Valencia Basket** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2021541/yankuba-sima-termina-su-etapa-en-valencia-basket/
-- 2026-10-16 08:43 UTC · **Yankuba Sima se desvincula de Valencia Basket** — Diario AS
-- 2026-10-16 08:38 UTC · **Queremos medirnos de tú a tú": Sergi Guilló analiza el esperado choque ante el Real Zaragoza** — MurciaEconomía.com
-- 2026-10-16 08:34 UTC · **Yankuba Sima no jugará en el Unicaja y ya tiene nuevo destino** — La Opinión de Málaga
-- 2026-10-16 08:33 UTC · **Valencia Basket cae ante Maccabi Tel Aviv (88-91) en el Roig Arena tras un final de infarto** — Official Press
-- 2026-10-16 08:30 UTC · **Yankuba Sima no regresará al Unicaja y ficha por el Alba Berlín** — Málaga Hoy
-- 2026-10-16 08:28 UTC · **Los Lakers buscan una puerta de salida para un alero de primera ronda: negocian con los Bucks** — Solobasket [posible rumor] · https://www.solobasket.com/nba/los-lakers-buscan-una-puerta-de-salida-para-un-alero-de-primera-ronda-negocian-con-los-bucks
-- 2026-10-16 08:25 UTC · **Yankuba Sima deja de pertenecer a Valencia Basket** — Cadena SER
-- 2026-10-16 08:25 UTC · **Tony Parker y los ocho triples de Andrés Feliz: «Estaba jugando contra su ídolo»** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2021536/tony-parker-y-los-ocho-triples-de-andres-feliz-estaba-jugando-contra-su-idolo/
-- 2026-10-16 08:17 UTC · **Los Mavs completan un cambio único: de Jorge Díaz-Graham a su hermano Guillermo en pocas horas** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2021530/los-mavs-completan-un-cambio-unico-de-jorge-diaz-graham-a-su-hermano-guillermo-en-pocas-horas/
-- 2026-10-16 08:11 UTC · **Yankuba Sima ya tiene nuevo destino: deja la Liga Endesa pero no jugará la Euroliga** — Mundo Deportivo
-- 2026-10-16 08:06 UTC · **Walker llega al Besiktas, pero DeJulius sigue cedido en Murcia** — Blog de Basket
-- 2026-10-16 08:01 UTC · **Estudiantes vs. Palencia: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
-- 2026-10-16 07:59 UTC · **Virtus Bologna vs Baskonia: pronóstico y cuotas | Euroliga 2026-27** — BetBrothers.es
-- 2026-10-16 07:57 UTC · **La obra de un mito: el diccionario de Andrés Montes con todos sus motes y expresiones** — Gigantes del Basket · https://www.gigantes.com/mas-basket/andres-montes-diccionario/
-- 2026-10-16 07:57 UTC · **La obra de un mito: el diccionario de Andrés Montes** — Gigantes del Basket · https://www.gigantes.com/mas-basket/andres-montes-diccionario/
-- 2026-10-16 07:55 UTC · **¡Un equipo Euroliga jugando la Eurocup! La última bomba de mercado rompe el tablero** — Solobasket · https://www.solobasket.com/euroliga/equipo-euroliga-jugando-eurocup-ultima-bomba-mercado-rompe-tablero
-- 2026-10-16 07:54 UTC · **El Getafe se ‘burla’ en redes de Barça y Atleti aprovechando el fichaje de Carvajal** — Diario AS
-- 2026-10-16 07:46 UTC · **Andorra vs Río Breogán: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
-- 2026-10-16 07:38 UTC · **Los Mavericks fichan a los hermanos Díaz-Graham y cortan a uno de ellos: así funciona el Exhibit 10 de la NBA** — Gigantes del Basket · https://www.gigantes.com/nba/hermanos-diaz-graham-dallas-mavericks-exhibit-10-g-league/
-- 2026-10-16 07:37 UTC · **Mariona Ortiz, nominada a MVP de la primera jornada de la Euroliga tras su exhibición ante Basket Landes** — Aragón Digital
-- 2026-10-16 07:32 UTC · **CajaSiete Gran Canaria vs Albacete Basket: hora y previa de la jornada 4 de Primera FEB** — Radio Televisión Canaria
-- 2026-10-16 07:28 UTC · **El otro mapa del baloncesto español: 90 becas para que nada frene sus ganas de jugar** — Gigantes del Basket · https://www.gigantes.com/mas-basket/el-otro-mapa-del-baloncesto-espanol-90-becas-para-que-nada-frene-sus-ganas-de-jugar/
-- 2026-10-16 07:27 UTC · **Sergio Esteban, renovación estancada por el Atlético** — Diario AS
-- 2026-10-16 07:27 UTC · **Aliados debuta en Superliga ante Econy Gran Canaria** — Diario de Valladolid
-- 2026-10-16 07:24 UTC · **La gran estrella del Real Madrid Baloncesto pierde brillo mientras los rumores crecen** — Solobasket · https://www.solobasket.com/euroliga/estrella-real-madrid-baloncesto-pierde-brillo-rumores-crecen
-- 2026-10-16 07:24 UTC · **Bartzokas y Vezenkov vuelven al Palau como campeones de Europa** — COPE
-- 2026-10-16 07:18 UTC · **Virtus - Baskonia: horario y dónde ver hoy en directo el partido de Euroliga** — MARCA
-- 2026-10-16 07:13 UTC · **PREVIA J.3: La ilusión coruñesa reta a la obligación badalonesa en el gran duelo del Olimpic** — Federación Española de Baloncesto
-- 2026-10-16 07:09 UTC · **Euroliga: Maccabi Tel Aviv vence al Valencia Basket en un final de infarto** — Blog de Basket
-- 2026-10-16 07:07 UTC · **Barcelona - Olympiacos: horario y dónde ver hoy en TV el partido de Euroliga** — MARCA
-- 2026-10-16 06:57 UTC · **Dónde ver el Barça - Olympiacos: día y hora del partido de Euroliga en el Palau Blaugrana** — La Vanguardia
-- 2026-10-16 06:37 UTC · **FC Barcelona hoy: LaLiga EA Sports, Liga ASOBAL de balonmano, Liga F, Liga Endesa y Segunda RFEF** — Mundo Deportivo
-- 2026-10-16 06:33 UTC · **Valencia Basket vuelve a perder en la Euroliga ante el Maccabi Tel Aviv (88-91)** — Actualidad CEU
-- 2026-10-16 06:27 UTC · **Duelo de invictos entre el Iberolea Palencia y el Movistar Estudiantes** — Tribuna de Palencia.
-- 2026-10-16 06:19 UTC · **Resumen Real Madrid-ASVEL: Estado de felicidad blanca (11-92)** — Eurosport
-- 2026-10-16 06:18 UTC · **Baskonia busca una reacción en Bolonia en medio de la tormenta** — Gasteiz Hoy

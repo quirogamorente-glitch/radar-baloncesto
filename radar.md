@@ -1,9 +1,9 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-18T22:36+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-19T00:30+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (114)
+## UCAM Murcia CB (115)
 
 - 2026-10-18 19:53 UTC · **El Valencia Basket rompe su mala racha con una exhibición ante el UCAM Murcia (116-93)** — Noticias Ciudadanas
 - 2026-10-18 19:34 UTC · **La valoración de Sito Alonso tras la derrota del UCAM Murcia ante Valencia Basket** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/valoracion-sito-alonso-derrota-del-ucam-murcia-valencia-basket/
@@ -61,6 +61,7 @@ Actualizado: 2026-10-18T22:36+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-17 17:27 UTC · **Partidos Stevan Jelovac** — ACB
 - 2026-10-17 17:05 UTC · **José Mourinho: "Si yo fuese Vinícius, habría forzado una salida este verano"** — La Verdad
 - 2026-10-17 16:34 UTC · **Basketball | UCAM Murcia vs. Coruña** — DAZN
+- 2026-10-17 16:15 UTC · **Sigue la jornada 4 de la liga acb en directo** — Flashscore.es
 - 2026-10-17 15:41 UTC · **El Valencia Basket, pendiente de la alerta para sus dos partidos** — Las Provincias
 - 2026-10-17 15:08 UTC · **Valencia vs UCAM Murcia: pronóstico y cuotas | Liga ACB 2026-27** — BetBrothers.es
 - 2026-10-17 14:59 UTC · **Partidos Álex Mumbrú** — ACB
@@ -184,12 +185,17 @@ Actualizado: 2026-10-18T22:36+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-16 08:38 UTC · **Queremos medirnos de tú a tú": Sergi Guilló analiza el esperado choque ante el Real Zaragoza** — MurciaEconomía.com
 - 2026-10-16 08:06 UTC · **Walker llega al Besiktas, pero DeJulius sigue cedido en Murcia** — Blog de Basket
 
-## Resto (últimas 12 h) (109)
+## Resto (últimas 12 h) (101)
 
+- 2026-10-18 23:12 UTC · **Trayectoria Darío Brizuela | Jugador acb | acb.com** — ACB
+- 2026-10-18 22:16 UTC · **Eric Garcia, baja ante PSG y Madrid y Koundé tampoco irá a París** — Mundo Deportivo
 - 2026-10-18 22:03 UTC · **Frankfurt vs Tenerife » Mejores Cuotas y Estadísticas** — Odds Scanner
 - 2026-10-18 21:57 UTC · **J.3 | Grandes anotaciones y un buen número de invictos** — Federación Española de Baloncesto
 - 2026-10-18 21:33 UTC · **Deportes: Estudio Estadio. El debate, en directo | 19/10** — RTVE.es
 - 2026-10-18 21:24 UTC · **La Penya ha ganado tres derbis seguidos al Barça y eso no pasaba desde hace 20 años** — Mundo Deportivo
+- 2026-10-18 20:46 UTC · **ACBxUCU: Lluvia de récords en la Jornada 4** — Uno Contra Uno
+- 2026-10-18 20:43 UTC · **Asisa Joventut bate su récord de anotación en derbis contra el Barça** — ACB
+- 2026-10-18 20:39 UTC · **Trayectoria César Sanmartín | Jugador acb | acb.com** — ACB
 - 2026-10-18 20:30 UTC · **El ASISA Joventut se impone al Barça y suma su segunda victoria en la Liga Endesa** — Penya
 - 2026-10-18 20:28 UTC · **Así queda la clasificación de la Liga Endesa tras la derrota del Barça ante el Asisa Joventut** — Mundo Deportivo
 - 2026-10-18 20:13 UTC · **El Real Madrid tira de récord de triples y el Barça cae** — Diario de Burgos
@@ -199,11 +205,12 @@ Actualizado: 2026-10-18T22:36+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-18 19:54 UTC · **82-77: Trabajada victoria de La Laguna sobre el Baskonia** — Mundo Deportivo
 - 2026-10-18 19:54 UTC · **La pareja ‘Ricky-Laprovittola’, de nuevo un mal sueño para el Barça en el Olímpic** — SPORT
 - 2026-10-18 19:46 UTC · **Jean Montero se hace sentir en la Euroliga con el Olympiacos** — El Nacional — La voz de todos
+- 2026-10-18 19:41 UTC · **Ya se conoce el tiempo de baja del 'Cuti' y no hay buenas noticias** — Mundo Deportivo
 - 2026-10-18 19:39 UTC · **Los dos viejos rockeros del Palau que humillan al Barça de basket en Badalona: solo se salva un fichaje y Sekulic ya está amenazado** — Crónica Global
 - 2026-10-18 19:36 UTC · **Sekulic: “El desgaste físico no debe ser una excusa”** — Diario AS
-- 2026-10-18 19:34 UTC · **Trayectoria Pablo Laso | Entrenador acb | acb.com** — ACB
 - 2026-10-18 19:34 UTC · **Las palabras de Alekansar Sekulic tras la derrota del Barça ante el Asisa Joventut** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/palabras-aleksander-sekulic-joventut-derrota-acb/
 - 2026-10-18 19:34 UTC · **La Penya destroza al Barça al ritmo de Ricky Rubio** — Diario Córdoba
+- 2026-10-18 19:34 UTC · **Trayectoria Pablo Laso | Entrenador acb | acb.com** — ACB
 - 2026-10-18 19:30 UTC · **El histórico ritmo anotador no cesa en la Jornada 4** — ACB
 - 2026-10-18 19:30 UTC · **Primera FEB J4: Movistar Estudiantes se lleva el encuentro tras una gran remontada (86-77)** — Movistar Estudiantes
 - 2026-10-18 19:27 UTC · **Ricky y Laprovittola desarman de nuevo al Barcelona** — MARCA
@@ -215,12 +222,13 @@ Actualizado: 2026-10-18T22:36+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-18 19:08 UTC · **113-89: Una Penya sublime pasa por encima del Barça** — Mundo Deportivo
 - 2026-10-18 19:03 UTC · **Así está la clasificación de la Liga Endesa 26/27 tras la jornada 4: el Barça abandona los playoffs y el Madrid es líder en solitario** — SPORT
 - 2026-10-18 19:03 UTC · **La Penya le saca los colores al Barça** — Eurohoops (español) · https://www.eurohoops.net/es/acb-es/2022716/la-penya-le-saca-los-colores-al-barca/
-- 2026-10-18 19:02 UTC · **La defensa del Baskonia se diluye en Tenerife durante el momento clave** — Cadena SER
 - 2026-10-18 19:02 UTC · **Movistar Estudiantes remonta al Iberolea Palencia, 86-77** — El Diario de Madrid
+- 2026-10-18 19:02 UTC · **La defensa del Baskonia se diluye en Tenerife durante el momento clave** — Cadena SER
 - 2026-10-18 19:01 UTC · **La Penya vuelve a arrollar a un Barça sin alma en Badalona** — La Vanguardia
 - 2026-10-18 18:54 UTC · **El Alega resiste en el Trueba y sigue invicto** — El Diario Montañés
 - 2026-10-18 18:49 UTC · **La Laguna da la bienvenida a Perasovic con su primera derrota en la Liga Endesa** — MARCA
 - 2026-10-18 18:48 UTC · **Silverio es inevitable** — Diario AS
+- 2026-10-18 18:34 UTC · **Marcador palentino: horarios y resultados de la jornada del 17 y 18 de octubre** — Tribuna de Palencia.
 - 2026-10-18 18:29 UTC · **El Iberolea Palencia sufre su primera derrota en Primera FEB ante el Estudiantes** — Tribuna de Palencia.
 - 2026-10-18 18:22 UTC · **El Celta Femxa Zorka sigue sin estrenarse en la Liga Endesa tras caer ante el Jairis (77-57)** — Diario de Vigo
 - 2026-10-18 18:22 UTC · **Las palabras de Velimir Perasovic tras la derrota de Kosner Baskonia ante La Laguna Tenerife** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/palabras-perasovic-derrota-laguna-tenerife/
@@ -231,10 +239,13 @@ Actualizado: 2026-10-18T22:36+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-18 17:47 UTC · **J.3: Chanaya Pinto propulsa, a golpe de MVP, a un intratable Joventut de Badalona** — Federación Española de Baloncesto
 - 2026-10-18 17:36 UTC · **Un viaje por la Jornada 4: lluvia de triples, récord y primeras alegrías** — ACB
 - 2026-10-18 17:29 UTC · **Valencia Basket iguala su 6ª máxima anotación histórica** — ACB
+- 2026-10-18 17:23 UTC · **Zonas de tiro Volodymyr Gerun** — ACB
+- 2026-10-18 17:17 UTC · **La Euroliga repartirá 3.400 millones entre sus clubes durante la próxima década** — Diario Gol
 - 2026-10-18 17:00 UTC · **Qué ha pasado en la Jornada 4 de la Liga Endesa: El Asisa Joventut supera al Barça para cerrar la jornada** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/que-ha-pasado-hoy-jornada4-acb/
 - 2026-10-18 16:49 UTC · **Asisa Joventut - Barcelona en directo | Última hora de Liga Endesa en vivo hoy** — MARCA
 - 2026-10-18 16:45 UTC · **Joventut - Barcelona, baloncesto hoy en directo: resultado, valoraciones y estadísticas en vivo de la Liga Endesa** — El Español
 - 2026-10-18 16:30 UTC · **La Laguna Tenerife vs Kosner Baskonia 18 oct 2026** — ACB
+- 2026-10-18 16:30 UTC · **La Laguna Tenerife vs Kosner Baskonia 18 oct 2026 | ACB Live Estadísticas del Partido | ACB.com** — ACB
 - 2026-10-18 16:19 UTC · **Brizuela amplía la enfermería del Barça** — Mundo Deportivo
 - 2026-10-18 16:18 UTC · **Exhibición histórica de Llull: alcanza los 700 partidos y supera los 7.000 puntos de blanco** — Libertad Digital
 - 2026-10-18 16:06 UTC · **Joventut - Barça: horario y dónde ver hoy el partido de la Liga Endesa por TV y en directo** — SPORT
@@ -242,6 +253,7 @@ Actualizado: 2026-10-18T22:36+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-18 15:16 UTC · **Sergio Llull sigue haciendo historia en el Real Madrid: 700 partidos y el primero que anota 7.000 puntos en la ACB** — Cadena SER
 - 2026-10-18 15:12 UTC · **La Euroliga confirma el cambio de formato y ya hay cuatro candidatos a la ampliación** — Mundo Deportivo
 - 2026-10-18 15:10 UTC · **El Partizán de Fuenlabrada busca reaccionar tras perder ante el Grupo Alega Cantabria** — El Diario de Madrid
+- 2026-10-18 15:07 UTC · **Trayectoria Nacho Martín | Jugador acb | acb.com** — ACB
 - 2026-10-18 14:49 UTC · **Jassel Pérez (40 puntos) firma una de las mayores anotaciones del siglo con el FIATC GIrona** — SPORT
 - 2026-10-18 14:43 UTC · **Rogkavopoulos, duda para enfrentarse al Baskonia** — Diario de Noticias de Álava
 - 2026-10-18 14:30 UTC · **La defensa, la materia pendiente en el regreso naranja a la élite** — La Voz de Galicia
@@ -267,6 +279,7 @@ Actualizado: 2026-10-18T22:36+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-18 12:59 UTC · **Jassel Pérez se viste de leyenda en la Liga Endesa: el 'Rey del Pop' hace historia en el FIATC Girona** — DAZN
 - 2026-10-18 12:57 UTC · **Resumen del Real Madrid Basket vs. Bilbao Basket, jornada 4 de la Liga Endesa** — Diario AS
 - 2026-10-18 12:55 UTC · **Real Madrid vs Surne Bilbao Oct 18, 2026** — ACB
+- 2026-10-18 12:49 UTC · **Trayectoria Carlos Jiménez | Jugador acb | acb.com** — ACB
 - 2026-10-18 12:49 UTC · **El Leyma Coruña se hunde en el último cuarto y cae ante el Girona tras encajar 110 puntos** — El Español
 - 2026-10-18 12:44 UTC · **110-90: Jassel Pérez desata la locura con 40 puntos y el FIATC Girona tumba al Leyma Coruña** — Mundo Deportivo
 - 2026-10-18 12:43 UTC · **El Casademont Zaragoza se estrena en casa a lo grande** — MARCA
@@ -275,23 +288,3 @@ Actualizado: 2026-10-18T22:36+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-18 12:36 UTC · **ACB | Real Madrid 119 – 84 Bilbao Basket: una máquina bien engrasada** — 24segundosenblanco
 - 2026-10-18 12:33 UTC · **Jassel Pérez explota con 40 puntos y lidera el segundo triunfo del FIATC Girona** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/jassel-perez-exhibicion-40puntos-9triples/
 - 2026-10-18 12:32 UTC · **Llull supera los 7.000 puntos como madridista en su partido 700 en la Liga Endesa** — Real Madrid CF | Web Oficial
-- 2026-10-18 12:29 UTC · **Real Madrid - Bilbao Basket, Liga Endesa: resumen, valoraciones y estadísticas con la victoria del conjunto blanco** — El Español
-- 2026-10-18 12:29 UTC · **Un Madrid desatado atropella al Bilbao y prolonga su pleno de victorias en la Liga ACB** — ABC
-- 2026-10-18 12:27 UTC · **Así queda la clasificación de la Liga Endesa tras las victorias del Real Madrid, FIATC Girona y Casademont Zaragoza** — Mundo Deportivo
-- 2026-10-18 12:25 UTC · **Liga Endesa. El Madrid aplasta al Bilbao con otro festival ofensivo** — El Imparcial - Diario liberal e independiente
-- 2026-10-18 12:25 UTC · **El Madrid aplasta al Bilbao con otro festival ofensivo** — El Imparcial - Diario liberal e independiente
-- 2026-10-18 12:24 UTC · **Sergio Llull sigue haciendo historia: 700 partidos en la Liga Endesa** — MARCA
-- 2026-10-18 12:23 UTC · **El Real Madrid no tiene piedad del Bilbao Basket en el diluvio de triples y mantiene el pleno de victorias en la Liga Endesa** — El Español
-- 2026-10-18 12:20 UTC · **Un Real Madrid arrollador pasa por encima del Surne Bilbao Basket** — El Debate
-- 2026-10-18 12:17 UTC · **Llull se da un homenaje contra el Bilbao en su partido 700 y el Real Madrid bate su récord de triples en ACB** — OkDiario
-- 2026-10-18 12:14 UTC · **Paseo dominical del Real Madrid ante Surne Bilbao** — Eurohoops (español) · https://www.eurohoops.net/es/acb-es/2022534/paseo-dominical-del-real-madrid-ante-surne-bilbao/
-- 2026-10-18 12:14 UTC · **El Madrid se da un festín ante el Surne Bilbao** — La Razón
-- 2026-10-18 12:00 UTC · **109-98: Birutis hace volar al Casademont Zaragoza ante el iLERNA Lleida** — Mundo Deportivo
-- 2026-10-18 11:56 UTC · **FIATC Girona vs Leyma Coruña 18 oct 2026** — ACB
-- 2026-10-18 11:56 UTC · **Sannadi entra en escena** — Diario AS
-- 2026-10-18 11:39 UTC · **El PSG paga cara la remontada antes de recibir al Barça** — SocBlaugrana
-- 2026-10-18 11:18 UTC · **Real Madrid vs Surne Bilbao 18 oct 2026 | ACB Live Estadísticas del Partido | ACB.com** — ACB
-- 2026-10-18 11:06 UTC · **Sexta victoria seguida y récord de triples en Liga** — Real Madrid CF | Web Oficial
-- 2026-10-18 10:59 UTC · **Bertomeu, ante la propuesta de la NBA a la Euroliga: “Es difícil encontrar algo positivo para el baloncesto europeo”** — SPORT
-- 2026-10-18 10:54 UTC · **Trayectoria Bojan Bogdanovic | Jugador acb | acb.com** — ACB
-- 2026-10-18 10:43 UTC · **Trayectoria Tornike Shengelia | Jugador acb | acb.com** — ACB

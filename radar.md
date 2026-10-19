@@ -1,10 +1,16 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-19T05:20+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-19T10:57+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (110)
+## UCAM Murcia CB (104)
 
+- 2026-10-19 10:36 UTC · **El UCAM Murcia rastrea el mercado para reforzar el puesto de ala pívot** — La Opinión de Murcia
+- 2026-10-19 10:18 UTC · **La Copa Campeones de la Fundación acb arranca en Badalona su segunda edición** — Diario Siglo XXI
+- 2026-10-19 09:31 UTC · **Badalona ya espera a la Copa Campeones** — ACB
+- 2026-10-19 09:05 UTC · **El UCAM Murcia CB buscará reencontrarse a sí mismo en un exigente carrusel de partidos en el Palacio** — MurciaEconomía.com
+- 2026-10-19 07:47 UTC · **La FEDE News (19/10/2026)** — Federación de Baloncesto de la Región de Murcia
+- 2026-10-19 07:28 UTC · **Sito Alonso señala la fragilidad del UCAM Murcia: "Estamos bastante lejos de ellos"** — COPE
 - 2026-10-19 04:09 UTC · **El temporal da una tregua y el Penya Deportiva - UCAM Murcia CF se jugará este lunes a las 16:00 horas** — murciaeconomia.com
 - 2026-10-18 19:53 UTC · **El Valencia Basket rompe su mala racha con una exhibición ante el UCAM Murcia (116-93)** — Noticias Ciudadanas
 - 2026-10-18 19:34 UTC · **La valoración de Sito Alonso tras la derrota del UCAM Murcia ante Valencia Basket** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/valoracion-sito-alonso-derrota-del-ucam-murcia-valencia-basket/
@@ -16,6 +22,7 @@ Actualizado: 2026-10-19T05:20+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-18 18:13 UTC · **El Valencia Basket arrolla al UCAM Murcia (116-93) y castiga su mal inicio en el Roig Arena** — Murcia Actualidad
 - 2026-10-18 18:13 UTC · **Las imágenes de la derrota del UCAM CB Murcia en la pista del Valencia Basket** — La Verdad
 - 2026-10-18 18:09 UTC · **Valencia Basket domina al Murcia y recupera confianza** — Blog de Basket
+- 2026-10-18 18:02 UTC · **Valencia Basket vs UCAM Murcia Oct 18, 2026** — ACB
 - 2026-10-18 18:00 UTC · **Jassel Pérez, 40 puntos en la victoria del Girona; el Valencia Basket no dio opción al UCAM Murcia** — Encestando
 - 2026-10-18 17:59 UTC · **Paseo de Valencia Basket ante UCAM Murcia (116-93)** — VAVEL.com
 - 2026-10-18 17:59 UTC · **La segunda en Liga Endesa llega con exhibición ofensiva ante UCAM Murcia (116-93)** — Valencia Basket Club
@@ -25,6 +32,7 @@ Actualizado: 2026-10-19T05:20+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-18 17:45 UTC · **Nicola** — ACB
 - 2026-10-18 17:40 UTC · **El Valencia cura sus heridas apalizando al UCAM Murcia** — MARCA
 - 2026-10-18 17:37 UTC · **Valencia Basket arrolla al UCAM Murcia y se engancha al grupo de cabeza en la ACB** — Actualidad Valencia
+- 2026-10-18 17:36 UTC · **El Valencia Basket arrolla al UCAM Murcia en el Roig Arena y recupera sensaciones en la Liga Endesa** — Official Press
 - 2026-10-18 17:33 UTC · **El UCAM CB vuelve a naufragar en el Roig Arena y encaja su tercera derrota en cuatro jornadas** — Murcia Plaza
 - 2026-10-18 17:31 UTC · **El Valencia Basket bate al UCAM Murcia con superioridad (116-93)** — UCAM Deportes
 - 2026-10-18 17:26 UTC · **116-93: El Valencia se desquita con el UCAM Murcia y recupera sensaciones** — Mundo Deportivo
@@ -101,23 +109,14 @@ Actualizado: 2026-10-19T05:20+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-16 11:08 UTC · **Valencia Basket-UCAM Murcia: horario y dónde ver por TV y online el partido de la Liga Endesa** — Superdeporte
 - 2026-10-16 11:02 UTC · **Juani Marcos, base argentino del UCAM CB, apunta a varias semanas de baja por una microrrotura** — Murcia Plaza
 - 2026-10-16 11:00 UTC · **Partidos Bojan Dubljevic** — ACB
-- 2026-10-16 10:54 UTC · **Partidos Dejan Musli** — ACB
-- 2026-10-16 10:52 UTC · **“Valencia Basket está haciendo un baloncesto muy dinámico”** — UCAM Deportes
-- 2026-10-16 10:32 UTC · **Sito Alonso exige más dureza al UCAM Murcia antes de visitar al Valencia Basket** — La Opinión de Murcia
-- 2026-10-16 09:38 UTC · **Sito Alonso no quiere excusas con la baja de Juani Marcos y pide más carácter: "Contra Tenerife fuimos unos blandos"** — Cadena SER
-- 2026-10-16 09:26 UTC · **Sito Alonso analiza la previa del Valencia Basket - UCAM Murcia: claves, la baja de Juan Marcos y la exigencia del calendario** — Murcia Actualidad
-- 2026-10-16 09:23 UTC · **"Para ir ganando de 30 a Olympiacos tienes que hacer las cosas de una forma increíble": Sito Alonso avisa del potencial de Valencia Basket** — MurciaEconomía.com
-- 2026-10-16 09:00 UTC · **Juani Marcos, del UCAM Murcia, sufre una microrrotura en el sóleo** — La Opinión de Murcia
-- 2026-10-16 08:37 UTC · **UCAM Murcia afronta tres partidos clave en noviembre** — El Periódico de Yecla
-- 2026-10-16 08:33 UTC · **Quintana** — ACB
-- 2026-10-16 08:06 UTC · **Walker llega al Besiktas, pero DeJulius sigue cedido en Murcia** — Blog de Basket
-- 2026-10-16 07:50 UTC · **El BSR Puertollano debuta en la pista del Getafe** — La Tribuna de Ciudad Real
-- 2026-10-16 07:11 UTC · **UCAM Murcia Juver hoy en TV: horario y canal** — La Vanguardia
-- 2026-10-16 07:00 UTC · **Suspensión de partidos por Alerta Meteorológica (17 y 18 de Octubre)** — Federación de Baloncesto de la Región de Murcia
-- 2026-10-16 06:25 UTC · **Partidos Nemanja Radovic** — ACB
 
-## Covirán Granada (51)
+## Covirán Granada (52)
 
+- 2026-10-19 10:52 UTC · **Covirán Granada - Movistar Estudiantes , en directo** — GranadaDigital
+- 2026-10-19 10:46 UTC · **Movistar Estudiantes, el peor rival en el peor momento posible** — GranadaDigital
+- 2026-10-19 10:39 UTC · **El dominicano Jassel Pérez estremeció el baloncesto de España al anotar 40 puntos y fue electo "Mejor Jugador de la Jornada"** — proceso.com.do
+- 2026-10-19 08:59 UTC · **Covirán Granada busca reaccionar en Copa tras las malas sensaciones en Zamora** — La Gaceta de Granada
+- 2026-10-19 08:11 UTC · **Informativo Granada - 19/10/2026** — RTVE.es
 - 2026-10-18 20:39 UTC · **VIDEO | Jassel Pérez anota 40 con el Girona, y es el jugador más destacado de la jornada en la ACB** — Diario Libre
 - 2026-10-18 19:56 UTC · **El dominicano Jassel Pérez, Mejor Jugador de la cuarta jornada en la liga española** — Infobae
 - 2026-10-18 19:56 UTC · **La exhibición de Jassel Pérez le otorga el reconocimiento de Mejor Jugador de la Jornada 4** — Infobae
@@ -165,24 +164,51 @@ Actualizado: 2026-10-19T05:20+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-16 11:42 UTC · **XI Encuentro Formativo «Corre y Aprende» con Andrea Arnáiz** — Tu voz en Pinares
 - 2026-10-16 11:32 UTC · **El Caja Rural CB Zamora recibe mañana al Covirán Granada con el esperado regreso de Ty Roberts** — ZA3.0
 - 2026-10-16 11:07 UTC · **Saulo Hernández basa en la defensa el poder ganar al Covirán** — Ideal
-- 2026-10-16 10:22 UTC · **CB Zamora - Covirán Granada, en directo** — GranadaDigital
-- 2026-10-16 08:06 UTC · **Regresa PlayMakers a Castilla y León** — Tu voz en Pinares
-- 2026-10-16 08:01 UTC · **El Coviran afronta en Zamora la primera de sus dos salidas seguidas** — Fundación CB Granada (web oficial) · https://fundacioncbgranada.es/el-coviran-afronta-en-zamora-la-primera-de-sus-dos-salidas-seguidas/
-- 2026-10-16 07:47 UTC · **El CB Zamora se encomienda a la ilusión por el regreso de Ty Roberts** — GranadaDigital
 
-## Periodistas preferentes (8)
+## Periodistas preferentes (6)
 
+- 2026-10-19 09:05 UTC · **El UCAM Murcia CB buscará reencontrarse a sí mismo en un exigente carrusel de partidos en el Palacio** — MurciaEconomía.com
 - 2026-10-19 04:09 UTC · **El temporal da una tregua y el Penya Deportiva - UCAM Murcia CF se jugará este lunes a las 16:00 horas** — murciaeconomia.com
 - 2026-10-19 04:08 UTC · **CB Cartagena y Molina Basket, la cara y la cruz en el arranque de la Segunda FEB** — MurciaEconomía.com
 - 2026-10-18 17:09 UTC · **Un UCAM Murcia desdibujado encaja una abultada derrota ante Valencia Basket (116-93)** — MurciaEconomía.com
 - 2026-10-17 10:08 UTC · **El Valencia Basket - UCAM Murcia sigue en pie a la espera de la evolución meteorológica** — MurciaEconomía.com
 - 2026-10-17 09:21 UTC · **Baskonia firma el segundo peor arranque de su historia en la Euroliga** — Mundo Deportivo
-- 2026-10-16 09:23 UTC · **"Para ir ganando de 30 a Olympiacos tienes que hacer las cosas de una forma increíble": Sito Alonso avisa del potencial de Valencia Basket** — MurciaEconomía.com
-- 2026-10-16 08:38 UTC · **Queremos medirnos de tú a tú": Sergi Guilló analiza el esperado choque ante el Real Zaragoza** — MurciaEconomía.com
-- 2026-10-16 08:06 UTC · **Walker llega al Besiktas, pero DeJulius sigue cedido en Murcia** — Blog de Basket
 
-## Resto (últimas 12 h) (69)
+## Resto (últimas 12 h) (47)
 
+- 2026-10-19 10:53 UTC · **Jordi Fernández, técnico badalonés de los Brooklyn Nets: “Me gustaría entrenar algún día en Europa”** — SPORT
+- 2026-10-19 10:50 UTC · **El 'estilo Martínez' se asienta en el Real Madrid** — Infobae
+- 2026-10-19 10:19 UTC · **Seis partidos en 17 días antes del parón, la prueba de fuego para Meins Avenida y su plantilla de 10 jugadoras** — Cadena SER
+- 2026-10-19 10:10 UTC · **Agenda deportiva de la semana: qué ver en televisión y los equipos de la Región** — La Opinión de Murcia
+- 2026-10-19 10:09 UTC · **Oleada de 'despidos' en la NBA: Estos son todos los jugadores disponibles en el mercado para los equipos de Euroliga** — Superdeporte
+- 2026-10-19 10:06 UTC · **Sergio Llull alcanza los 700 partidos en Liga Endesa y amenaza otros récords en ACB y Euroliga** — Gigantes del Basket
+- 2026-10-19 10:05 UTC · **El descaro de Joksimovic irrumpe en el Top5 GWM** — ACB
+- 2026-10-19 10:04 UTC · **Así está la clasificación de Primera FEB tras la jornada 4: el Cajasol Coto Córdoba vuelve al 'play off'** — elDiario.es
+- 2026-10-19 10:02 UTC · **Valencia Basket-Flammes Carolo Basket: horario y dónde ver por TV y online el partido de la Euroliga femenina** — Superdeporte
+- 2026-10-19 09:56 UTC · **Sergio Llull alcanza los 700 partidos en Liga Endesa: Qué hitos tiene a su alcance, cuáles ha logrado y qué puede conseguir** — Gigantes del Basket · https://www.gigantes.com/euroliga/llull-hitos-liga-endesa-euroliga/
+- 2026-10-19 09:45 UTC · **Las palabras de Markus Howard en su despedida de la afición del Kosner Baskonia** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/markus-howard-evento-despedida-baskonia/
+- 2026-10-19 09:42 UTC · **El FIATC Girona, a hacerse fuerte en Fontajau para seguir líder en Europa** — Mundo Deportivo
+- 2026-10-19 09:25 UTC · **La pizarra de Josema** — Granada en Juego
+- 2026-10-19 09:11 UTC · **La Euroliga ya tiene preparada la llegada de cuatro nuevas franquicias** — SPORT
+- 2026-10-19 09:10 UTC · **El fallo de los Amables del Turismo en Tenerife** — Canariasdiario.com
+- 2026-10-19 09:09 UTC · **Neal Sako da pasos al frente en su gran asignatura pendiente** — Superdeporte
+- 2026-10-19 08:59 UTC · **82-77 | Trabajada victoria de La Laguna Tenerife sobre Kosner Baskonia** — Radio Televisión Canaria
+- 2026-10-19 08:52 UTC · **Eurocup – Manresa vs. BC Roma: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-10-19 08:44 UTC · **Ben Simmons se rompe el tendón de Aquiles antes de empezar la temporada** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2022866/ben-simmons-se-rompe-el-tendon-de-aquiles-antes-de-empezar-la-temporada/
+- 2026-10-19 08:37 UTC · **Segunda FEB: Victoria histórica ante Morón, la primera y en casa (68-67)** — Movistar Estudiantes
+- 2026-10-19 08:32 UTC · **La historia de Jassel Pérez antes de llegar a España** — Gigantes del Basket
+- 2026-10-19 08:06 UTC · **El Joventut se come al Barça en el clásico catalán** — Blog de Basket
+- 2026-10-19 07:54 UTC · **Ben Simmons sufre una rotura del tendón de Aquiles y se frustra su regreso a la NBA** — Gigantes del Basket · https://www.gigantes.com/nba/ben-simmons-sufre-una-rotura-del-tendon-de-aquiles-y-se-frustra-su-regreso-a-la-nba/
+- 2026-10-19 07:38 UTC · **Las palabras de Aleksander Sekulic tras la derrota del Barça ante el Asisa Joventut** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/palabras-aleksander-sekulic-joventut-derrota-acb/
+- 2026-10-19 07:04 UTC · **Río Breogán – Unicaja: ficha y horario | Liga Endesa 2026-27** — Gigantes del Basket
+- 2026-10-19 07:04 UTC · **Barça – Casademont Zaragoza: ficha y horario | Liga Endesa 2026-27** — Gigantes del Basket
+- 2026-10-19 07:00 UTC · **Deportes hoy: programación gratis en Teledeporte y RTVE Play la semana del 19 al 23 de octubre** — RTVE.es
+- 2026-10-19 06:43 UTC · **Sin la mejor versión de Punter, el Barça cae en picado** — SPORT
+- 2026-10-19 06:13 UTC · **Los tres invictos de la Primera FEB tras las cuatro primeras jornadas de la 26/27** — Gigantes del Basket · https://www.gigantes.com/primera-feb/invictos-primera-feb-arranque-temporada/
+- 2026-10-19 06:08 UTC · **Ben Simmons se rompe el tendón de Aquiles y su gran regreso** — Diario AS
+- 2026-10-19 06:07 UTC · **El Thunder apuesta 139 millones de dólares por Cason Wallace** — Solobasket
+- 2026-10-19 05:46 UTC · **Jaume Ponsarnau tras el Real Madrid: «No estamos nada orgullosos»** — BilbaoHiria
+- 2026-10-19 05:21 UTC · **La nueva camada de ‘La Familia’ se asienta en la NBA: los cinco españoles que este año jugarán en la mejor lig** — Diario AS
 - 2026-10-19 05:18 UTC · **Bodiroga confirma la expansión de la Euroliga para la 27/28 y las dos conferencias: Así lo explica** — Gigantes del Basket · https://www.gigantes.com/euroliga/palabras-dejan-bodiroga-ampliacion-euroliga-conferencias/
 - 2026-10-19 04:59 UTC · **Mike Nuga se asoma al podio de máximos anotadores de la Primera FEB** — El Día de Córdoba
 - 2026-10-19 04:15 UTC · **Basket Napoli vs Tofas » Mejores Cuotas y Estadísticas** — Odds Scanner
@@ -192,63 +218,8 @@ Actualizado: 2026-10-19T05:20+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-19 03:30 UTC · **El Casademont Zaragoza afronta un duelo de líderes en la Euroliga** — El Periódico de Aragón
 - 2026-10-19 03:00 UTC · **El mejor Francis Alonso de siempre en ACB** — La Voz de Galicia
 - 2026-10-19 02:00 UTC · **El Alimerka Oviedo Baloncesto, de Jordan Swing a PJay Smith: las mejores actuaciones en la historia del club en Primera FEB** — La Nueva España
+- 2026-10-19 02:00 UTC · **De jugar al fútbol a brillar en el baloncesto: la historia de Jassel Pérez antes de llegar a España** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/jassel-perez-debut-grupo-alega-cantabria/
+- 2026-10-19 01:21 UTC · **J.4: PJay Smith Jr. y el MVP del jugón que llegó al Alimerka Oviedo para anotar** — Federación Española de Baloncesto
+- 2026-10-19 00:33 UTC · **Van Rossom** — ACB
 - 2026-10-18 23:12 UTC · **Trayectoria Darío Brizuela | Jugador acb | acb.com** — ACB
 - 2026-10-18 23:10 UTC · **Trayectoria Makan Dioumassi | Jugador acb | acb.com** — ACB
-- 2026-10-18 22:16 UTC · **Eric Garcia, baja ante PSG y Madrid y Koundé tampoco irá a París** — Mundo Deportivo
-- 2026-10-18 22:03 UTC · **Frankfurt vs Tenerife » Mejores Cuotas y Estadísticas** — Odds Scanner
-- 2026-10-18 21:57 UTC · **J.3: Grandes anotaciones y un buen número de invictos** — Federación Española de Baloncesto
-- 2026-10-18 21:57 UTC · **J.3 | Grandes anotaciones y un buen número de invictos** — Federación Española de Baloncesto
-- 2026-10-18 21:34 UTC · **Andrés Feliz aporta 14 puntos en la contundente victoria del Real Madrid sobre el Bilbao** — Diario Libre
-- 2026-10-18 21:33 UTC · **Deportes: Estudio Estadio. El debate, en directo | 19/10** — RTVE.es
-- 2026-10-18 21:29 UTC · **La primera gran noche de Diomande** — Diario AS
-- 2026-10-18 21:24 UTC · **La Penya ha ganado tres derbis seguidos al Barça y eso no pasaba desde hace 20 años** — Mundo Deportivo
-- 2026-10-18 21:02 UTC · **J.3: El Lucentum Alicante y el Xerez CD exhiben noveles ilusiones** — Federación Española de Baloncesto
-- 2026-10-18 20:46 UTC · **ACBxUCU: Lluvia de récords en la Jornada 4** — Uno Contra Uno
-- 2026-10-18 20:43 UTC · **Asisa Joventut bate su récord de anotación en derbis contra el Barça** — ACB
-- 2026-10-18 20:39 UTC · **Trayectoria César Sanmartín | Jugador acb | acb.com** — ACB
-- 2026-10-18 20:30 UTC · **El ASISA Joventut se impone al Barça y suma su segunda victoria en la Liga Endesa** — Penya
-- 2026-10-18 20:28 UTC · **Así queda la clasificación de la Liga Endesa tras la derrota del Barça ante el Asisa Joventut** — Mundo Deportivo
-- 2026-10-18 20:13 UTC · **El Real Madrid tira de récord de triples y el Barça cae** — Diario de Burgos
-- 2026-10-18 20:04 UTC · **Miret: "Tiene más mérito porque ellos estaban avisados"** — Mundo Deportivo
-- 2026-10-18 20:03 UTC · **El CB Gran Canaria, a rebufo de los tres invictos tras las cuatro primeras jornadas** — La Provincia
-- 2026-10-18 20:00 UTC · **Sekulic: "No podemos perder así la compostura"** — Mundo Deportivo
-- 2026-10-18 19:54 UTC · **La pareja ‘Ricky-Laprovittola’, de nuevo un mal sueño para el Barça en el Olímpic** — SPORT
-- 2026-10-18 19:54 UTC · **82-77: Trabajada victoria de La Laguna sobre el Baskonia** — Mundo Deportivo
-- 2026-10-18 19:46 UTC · **Jean Montero se hace sentir en la Euroliga con el Olympiacos** — El Nacional — La voz de todos
-- 2026-10-18 19:41 UTC · **Ya se conoce el tiempo de baja del 'Cuti' y no hay buenas noticias** — Mundo Deportivo
-- 2026-10-18 19:39 UTC · **Los dos viejos rockeros del Palau que humillan al Barça de basket en Badalona: solo se salva un fichaje y Sekulic ya está amenazado** — Crónica Global
-- 2026-10-18 19:36 UTC · **Sekulic: “El desgaste físico no debe ser una excusa”** — Diario AS
-- 2026-10-18 19:34 UTC · **Trayectoria Pablo Laso | Entrenador acb | acb.com** — ACB
-- 2026-10-18 19:34 UTC · **Las palabras de Alekansar Sekulic tras la derrota del Barça ante el Asisa Joventut** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/palabras-aleksander-sekulic-joventut-derrota-acb/
-- 2026-10-18 19:34 UTC · **La Penya destroza al Barça al ritmo de Ricky Rubio** — Diario Córdoba
-- 2026-10-18 19:30 UTC · **El histórico ritmo anotador no cesa en la Jornada 4** — ACB
-- 2026-10-18 19:30 UTC · **Primera FEB J4: Movistar Estudiantes se lleva el encuentro tras una gran remontada (86-77)** — Movistar Estudiantes
-- 2026-10-18 19:27 UTC · **Ricky y Laprovittola desarman de nuevo al Barcelona** — MARCA
-- 2026-10-18 19:21 UTC · **Así queda el Unicaja en la clasificación de la Liga Endesa tras la jornada 4** — La Opinión de Málaga
-- 2026-10-18 19:18 UTC · **Resumen del Joventut vs Barcelona, jornada 4 de la Liga Endesa** — Diario AS
-- 2026-10-18 19:17 UTC · **El Real Madrid visita el jueves al Maccabi en la Euroliga** — Real Madrid CF | Web Oficial
-- 2026-10-18 19:12 UTC · **Ricky y Lapro humillan al Barça** — Diario AS
-- 2026-10-18 19:11 UTC · **Jassel Pérez, Jugador de la Jornada 4** — ACB
-- 2026-10-18 19:10 UTC · **Sucumbiendo sin rumbo en Badalona (116-86)** — SocBlaugrana
-- 2026-10-18 19:08 UTC · **113-89: Una Penya sublime pasa por encima del Barça** — Mundo Deportivo
-- 2026-10-18 19:03 UTC · **Así está la clasificación de la Liga Endesa 26/27 tras la jornada 4: el Barça abandona los playoffs y el Madrid es líder en solitario** — SPORT
-- 2026-10-18 19:03 UTC · **La Penya le saca los colores al Barça** — Eurohoops (español) · https://www.eurohoops.net/es/acb-es/2022716/la-penya-le-saca-los-colores-al-barca/
-- 2026-10-18 19:02 UTC · **Movistar Estudiantes remonta al Iberolea Palencia, 86-77** — El Diario de Madrid
-- 2026-10-18 19:02 UTC · **La defensa del Baskonia se diluye en Tenerife durante el momento clave** — Cadena SER
-- 2026-10-18 19:01 UTC · **La Penya vuelve a arrollar a un Barça sin alma en Badalona** — La Vanguardia
-- 2026-10-18 18:54 UTC · **El Alega resiste en el Trueba y sigue invicto** — El Diario Montañés
-- 2026-10-18 18:49 UTC · **La Laguna da la bienvenida a Perasovic con su primera derrota en la Liga Endesa** — MARCA
-- 2026-10-18 18:48 UTC · **Silverio es inevitable** — Diario AS
-- 2026-10-18 18:45 UTC · **Trayectoria Jordi Trias | Jugador acb | acb.com** — ACB
-- 2026-10-18 18:34 UTC · **Marcador palentino: horarios y resultados de la jornada del 17 y 18 de octubre** — Tribuna de Palencia.
-- 2026-10-18 18:29 UTC · **El Iberolea Palencia sufre su primera derrota en Primera FEB ante el Estudiantes** — Tribuna de Palencia.
-- 2026-10-18 18:22 UTC · **Las palabras de Velimir Perasovic tras la derrota de Kosner Baskonia ante La Laguna Tenerife** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/palabras-perasovic-derrota-laguna-tenerife/
-- 2026-10-18 18:22 UTC · **El Celta Femxa Zorka sigue sin estrenarse en la Liga Endesa tras caer ante el Jairis (77-57)** — Diario de Vigo
-- 2026-10-18 18:15 UTC · **Vídeos y noticias de Xavi Sánchez Bernat** — ACB
-- 2026-10-18 18:00 UTC · **Kyle Guy guía la remontada de La Laguna Tenerife ante el Baskonia (82-77)** — piratasdelbasket
-- 2026-10-18 17:52 UTC · **Asisa Joventut vs Barça 18 oct 2026** — ACB
-- 2026-10-18 17:52 UTC · **Asisa Joventut vs Barça 18 oct 2026 | ACB Live Estadísticas del Partido | ACB.com** — ACB
-- 2026-10-18 17:47 UTC · **J.3: Chanaya Pinto propulsa, a golpe de MVP, a un intratable Joventut de Badalona** — Federación Española de Baloncesto
-- 2026-10-18 17:36 UTC · **Un viaje por la Jornada 4: lluvia de triples, récord y primeras alegrías** — ACB
-- 2026-10-18 17:29 UTC · **Valencia Basket iguala su 6ª máxima anotación histórica** — ACB
-- 2026-10-18 17:23 UTC · **Zonas de tiro Volodymyr Gerun** — ACB

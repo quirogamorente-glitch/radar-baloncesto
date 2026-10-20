@@ -1,9 +1,9 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-19T21:38+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-20T00:40+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (92)
+## UCAM Murcia CB (90)
 
 - 2026-10-19 18:59 UTC · **Ejercicio de supervivencia del UCAM CF en Ibiza para ser aún más líder** — MurciaEconomía.com
 - 2026-10-19 15:55 UTC · **De la Fuente: "La ciudad será una sede maravillosa para venir a jugar"** — La Verdad
@@ -95,11 +95,12 @@ Actualizado: 2026-10-19T21:38+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-17 06:32 UTC · **Pronóstico Valencia Basket - UCAM Murcia - Liga ACB** — SportyTrader
 - 2026-10-17 06:22 UTC · **Horario, canal y dónde ver hoy por TV la cuarta jornada de Liga Endesa de baloncesto** — Mundo Deportivo
 - 2026-10-17 03:39 UTC · **Trayectoria Nikola Radicevic | Jugador acb | acb.com** — ACB
-- 2026-10-16 23:05 UTC · **Partidos Javi Beirán** — ACB
-- 2026-10-16 22:13 UTC · **Valencia Basket vs UCAM Murcia 18 oct 2026** — ACB
 
-## Covirán Granada (53)
+## Covirán Granada (56)
 
+- 2026-10-19 22:11 UTC · **Mi madre** — Ideal
+- 2026-10-19 22:06 UTC · **El Covirán debuta en la Copa España** — Granada en Juego
+- 2026-10-19 22:01 UTC · **Al Covirán Granada le llega el 'coco' en Copa** — Ideal
 - 2026-10-19 17:44 UTC · **Arturo Ruiz: “Queremos dar nuestra mejor versión ante Estudiantes”** — Granada Hoy
 - 2026-10-19 17:40 UTC · **Un Estudiantes con perfil nazarí y corto de bases desafía la urgencia del Covirán Granada** — Ideal
 - 2026-10-19 16:11 UTC · **Promoción entradas contra Movistar Estudiantes** — Fundación CB Granada (web oficial) · https://fundacioncbgranada.es/promocion-entradas-contra-movistar-estudiantes/
@@ -164,9 +165,13 @@ Actualizado: 2026-10-19T21:38+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-17 10:08 UTC · **El Valencia Basket - UCAM Murcia sigue en pie a la espera de la evolución meteorológica** — MurciaEconomía.com
 - 2026-10-17 09:21 UTC · **Baskonia firma el segundo peor arranque de su historia en la Euroliga** — Mundo Deportivo
 
-## Resto (últimas 12 h) (115)
+## Resto (últimas 12 h) (87)
 
+- 2026-10-19 22:18 UTC · **Vídeos y noticias de Tryggvi Hlinason** — ACB
 - 2026-10-19 21:32 UTC · **La Euroliga contará con 24 equipos y dos conferencias la temporada 2027-28** — kirolakeitb.eus
+- 2026-10-19 20:49 UTC · **La porra de Hugo González, Mara, Baba Miller y De Larrea sobre sus equipos en la NBA** — MARCA
+- 2026-10-19 20:45 UTC · **Jiri Welsch: «Jamás imaginé que vería un partido entre el Unicaja y el Pardubice»** — Diario Sur
+- 2026-10-19 20:22 UTC · **Falco-Vulcano Szombathely - Salon Vilpas Partidos relacionados: Actualizaciones en directo de Baloncesto** — Eurosport
 - 2026-10-19 19:43 UTC · **La próxima Euroliga se jugará con el formato de dos conferencias** — Superdeporte
 - 2026-10-19 19:40 UTC · **Cambio de sede para el primer Clásico de la Liga U de la temporada: se jugará en Madrid en vez de Barcelona** — SPORT
 - 2026-10-19 19:28 UTC · **“Aquí no quiero segundones, te lo habrá dicho Saporta”** — Diario AS
@@ -223,8 +228,8 @@ Actualizado: 2026-10-19T21:38+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-19 15:29 UTC · **David González renueva con el Burgos CF hasta 2031** — Burgosnoticias
 - 2026-10-19 15:24 UTC · **Carlos Cantero: "Estoy muy orgulloso del equipo que tengo"** — Aragón Play
 - 2026-10-19 15:18 UTC · **Jassel Pérez, Máximo Anotador Endesa de la Jornada 4** — ACB
-- 2026-10-19 15:02 UTC · **Dwight Howard se retira del baloncesto a los 40 años: Georgia, el escenario de su último partido** — Gigantes del Basket · https://www.gigantes.com/nba/dwight-howard-retirada-40-anos-georgia/
 - 2026-10-19 15:02 UTC · **El Bàsquet Menorca busca reaccionar en la Copa España ante un invicto HLA Alicante** — Menorca - Es diari
+- 2026-10-19 15:02 UTC · **Dwight Howard se retira del baloncesto a los 40 años: Georgia, el escenario de su último partido** — Gigantes del Basket · https://www.gigantes.com/nba/dwight-howard-retirada-40-anos-georgia/
 - 2026-10-19 15:00 UTC · **El Real Madrid abandera un inicio de Liga Endesa sin precedentes** — ACB
 - 2026-10-19 15:00 UTC · **De la Copa del Rey a la Copa de España, la nueva realidad del CB Gran Canaria** — La Provincia
 - 2026-10-19 14:52 UTC · **SuperManager 26-27: claves de la Jornada 4** — ACB
@@ -232,11 +237,13 @@ Actualizado: 2026-10-19T21:38+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-19 14:33 UTC · **Baloncesto | Reggiana - Juventus** — DAZN
 - 2026-10-19 14:25 UTC · **La Euroliga destaca la cumbre del lago Como en un vídeo resumen** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2023091/la-euroliga-destaca-la-cumbre-del-lago-como-en-un-video-resumen/
 - 2026-10-19 14:21 UTC · **Las cinco mejores jugadas de la 4ª jornada de la Liga Endesa** — kirolakeitb.eus
+- 2026-10-19 14:17 UTC · **Baloncesto | Galatasaray - Strasbourg** — DAZN
 - 2026-10-19 14:14 UTC · **La marca española Siroko se convierte en socio oficial internacional de los Chicago Bulls** — Gigantes del Basket · https://www.gigantes.com/nba/la-marca-espanola-siroko-se-convierte-en-socio-oficial-internacional-de-los-chicago-bulls/
 - 2026-10-19 13:57 UTC · **Saba Merebashvili, primer canterano en debutar con el Granca esta temporada en Primera FEB** — Canarias7
 - 2026-10-19 13:42 UTC · **Tres estrellas de Paris Basketball, en seria duda para recibir a Valencia Basket en Euroliga** — Superdeporte
 - 2026-10-19 13:09 UTC · **Jassel Pérez firma actuación histórica en Liga Endesa** — Blog de Basket
 - 2026-10-19 13:06 UTC · **WBA – Golden State Valkyries vs Atlanta Dream: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-10-19 13:05 UTC · **El base del Barça Juan Núñez, el gran damnificado de Sekulic** — SPORT
 - 2026-10-19 13:05 UTC · **El base del Barça, Juan Núñez, el gran damnificado de Sekulic** — SPORT
 - 2026-10-19 13:04 UTC · **Los dos días que reforzaron el futuro de la Euroliga y del baloncesto europeo** — MARCA
 - 2026-10-19 13:02 UTC · **El Real Madrid termina con las dudas con seis victorias seguidas entre Liga Endesa y Euroliga** — Bernabéu Digital
@@ -247,37 +254,3 @@ Actualizado: 2026-10-19T21:38+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-19 12:50 UTC · **El Unicaja, a refrendar en la República Checa su buen arranque en un duelo inédito** — Infobae
 - 2026-10-19 12:44 UTC · **Olivier Sarr batalla por minutos** — Diario AS
 - 2026-10-19 12:44 UTC · **La NBA regresa a DAZN con una nueva temporada y todas las finales en directo** — Gigantes del Basket · https://www.gigantes.com/nba/nba-dazn-2026-temporada/
-- 2026-10-19 12:23 UTC · **Markus Howard se despidió de la afición en una cafetería** — Diario AS
-- 2026-10-19 12:17 UTC · **El día que Jean Montero apadrinó a Jassel Pérez, el jugador de moda en la ACB** — Superdeporte
-- 2026-10-19 12:15 UTC · **David Barrio avisa antes de la Copa España: "No vamos a tirar ningún partido esta temporada"** — Tribuna de Valladolid.
-- 2026-10-19 12:09 UTC · **Tres equipos de la Comunitat buscan el pase a la siguiente ronda de la Copa de España** — Plaza Deportiva
-- 2026-10-19 12:06 UTC · **El Unicaja ante el Pardubice del ex Jiri Welsch en la BCL** — Cadena SER
-- 2026-10-19 12:06 UTC · **Lo mejor y lo peor de la Jornada 4 en la Liga Endesa: Nuevo episodio de Zona de Gigantes** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/zona-de-gigantes-mejor-peor-jornada-4-acb/
-- 2026-10-19 12:05 UTC · **Spar Girona refuerza su juego interior con la llegada de Michelle Onyiah** — Gigantes del Basket · https://www.gigantes.com/liga-femenina/michelle-onyiah-fichaje-spar-girona/
-- 2026-10-19 12:04 UTC · **“Semenyo estará ocho semanas de baja”** — Diario AS
-- 2026-10-19 12:04 UTC · **J.3: Álex Riera, el MVP de la explosión de la perla del CB Vic** — Federación Española de Baloncesto
-- 2026-10-19 11:57 UTC · **Juego del KO: 1.568 participantes siguen vivos** — ACB
-- 2026-10-19 11:44 UTC · **Champions League - Joventut vs Bonn: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
-- 2026-10-19 11:36 UTC · **Monaco vs Bahcesehir Kol. » Mejores Cuotas y Estadísticas** — Odds Scanner
-- 2026-10-19 11:29 UTC · **Bacanal de puntos del Real Madrid: el mejor inicio anotador en la historia de la ACB** — MARCA
-- 2026-10-19 11:23 UTC · **Aday, la apuesta salió bien** — Diario AS
-- 2026-10-19 11:21 UTC · **Ben Simmons, ex número uno de la NBA, se vuelve a lesionar de gravedad: “Todavía no es el final de mi historia”** — SPORT
-- 2026-10-19 11:18 UTC · **J.3: Aitor Anabitarte, el MVP del pívot que ha progresado en Alabama** — Federación Española de Baloncesto
-- 2026-10-19 11:18 UTC · **J.3: Aitor Anabitarte, el MVP del pívot que ha crecido en Alabama** — Federación Española de Baloncesto
-- 2026-10-19 11:16 UTC · **Carvajal lidera la lista de Bordalás ante el Rayo** — Diario AS
-- 2026-10-19 11:16 UTC · **El curioso caso de Benjamin Vives en el Casademont Zaragoza** — El Periódico de Aragón
-- 2026-10-19 11:10 UTC · **Casademont Zaragoza: un inicio para soñar** — heraldo.es
-- 2026-10-19 11:01 UTC · **Sergio de Larrea ofrece clases de español a sus compañeros de equipo: “Podemos ayudar”** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2022981/sergio-de-larrea-ofrece-clases-de-espanol-a-sus-companeros-de-equipo-podemos-ayudar/
-- 2026-10-19 10:53 UTC · **Jordi Fernández, el técnico badalonés de los Brooklyn Nets: “Me gustaría entrenar algún día en Europa”** — SPORT
-- 2026-10-19 10:53 UTC · **Jordi Fernández, técnico badalonés de los Brooklyn Nets: “Me gustaría entrenar algún día en Europa”** — SPORT
-- 2026-10-19 10:50 UTC · **El 'estilo Martínez' se asienta en el Real Madrid** — Infobae
-- 2026-10-19 10:27 UTC · **París Basketball vs Valencia Basket: estadísticas previas y datos en directo | Euroliga 2026/2027** — Diario AS
-- 2026-10-19 10:19 UTC · **Seis partidos en 17 días antes del parón, la prueba de fuego para Meins Avenida y su plantilla de 10 jugadoras** — Cadena SER
-- 2026-10-19 10:09 UTC · **Oleada de 'despidos' en la NBA: Estos son todos los jugadores disponibles en el mercado para los equipos de Euroliga** — Superdeporte
-- 2026-10-19 10:06 UTC · **Sergio Llull alcanza los 700 partidos en Liga Endesa y amenaza otros récords en ACB y Euroliga** — Gigantes del Basket
-- 2026-10-19 10:05 UTC · **El descaro de Joksimovic irrumpe en el Top5 GWM** — ACB
-- 2026-10-19 10:04 UTC · **Así está la clasificación de Primera FEB tras la jornada 4: el Cajasol Coto Córdoba vuelve al 'play off'** — elDiario.es
-- 2026-10-19 10:02 UTC · **Valencia Basket-Flammes Carolo Basket: horario y dónde ver por TV y online el partido de la Euroliga femenina** — Superdeporte
-- 2026-10-19 09:56 UTC · **Sergio Llull alcanza los 700 partidos en Liga Endesa: Qué hitos tiene a su alcance, cuáles ha logrado y qué puede conseguir** — Gigantes del Basket · https://www.gigantes.com/euroliga/llull-hitos-liga-endesa-euroliga/
-- 2026-10-19 09:45 UTC · **Las palabras de Markus Howard en su despedida de la afición del Kosner Baskonia** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/markus-howard-evento-despedida-baskonia/
-- 2026-10-19 09:42 UTC · **El FIATC Girona, a hacerse fuerte en Fontajau para seguir líder en Europa** — Mundo Deportivo

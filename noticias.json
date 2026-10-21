@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20T22:26+00:00",
+ "actualizado": "2026-10-21T00:43+00:00",
  "ventana_horas": 72,
  "total": 400,
  "nota": "Avisos de noticias detectadas. NO están verificadas: comprobar siempre en la fuente original. Los enlaces de Google Noticias (enlace_es_google=true) no se abren directamente: buscar el titular.",
@@ -334,7 +334,8 @@
    "etiquetas": [],
    "detectada": "2026-10-20T22:26+00:00",
    "vias": [
-    "Google Noticias · EuroCup"
+    "Google Noticias · EuroCup",
+    "Google Noticias · Euroliga"
    ]
   },
   {
@@ -823,19 +824,18 @@
    ]
   },
   {
-   "titulo": "BK Kvis Pardubice 63 - Unicaja 79 1ª Fase Liga Regular Basketball Champions League 2026/27",
+   "titulo": "BK Kvis Pardubice 63 - Unicaja 79 1ª Fase Liga Regular Basketball Champions League 2026/27 / Web Oficial del Unicaja Baloncesto",
    "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CZlpoRkF3QVoxQmJjQjgxRFcwOXhrWjN0QmlwV1cxY3FxT0dnNmZITEpFMlZGOWdUanNZdEd3YXVNZzV6ZnFaTm9Yb21jbUFZUkhBbm96ZEJrcC0wSzNzSUM4bm1UamdTb1E?oc=5",
    "medio": "Unicaja Baloncesto",
    "resumen": "",
    "publicada": "2026-10-20T17:58+00:00",
    "enlace_es_google": true,
-   "id": "bce7ece0f338",
+   "id": "9c2243a05c09",
    "etiquetas": [
     "bcl"
    ],
-   "detectada": "2026-10-20T19:23+00:00",
+   "detectada": "2026-10-21T00:43+00:00",
    "vias": [
-    "Google Noticias · BCL",
     "Google Noticias · Liga Endesa"
    ]
   },
@@ -853,6 +853,23 @@
    "detectada": "2026-10-20T19:23+00:00",
    "vias": [
     "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "BK Kvis Pardubice 63 - Unicaja 79 1ª Fase Liga Regular Basketball Champions League 2026/27",
+   "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CZlpoRkF3QVoxQmJjQjgxRFcwOXhrWjN0QmlwV1cxY3FxT0dnNmZITEpFMlZGOWdUanNZdEd3YXVNZzV6ZnFaTm9Yb21jbUFZUkhBbm96ZEJrcC0wSzNzSUM4bm1UamdTb1E?oc=5",
+   "medio": "Unicaja Baloncesto",
+   "resumen": "",
+   "publicada": "2026-10-20T17:58+00:00",
+   "enlace_es_google": true,
+   "id": "bce7ece0f338",
+   "etiquetas": [
+    "bcl"
+   ],
+   "detectada": "2026-10-20T19:23+00:00",
+   "vias": [
+    "Google Noticias · BCL",
+    "Google Noticias · Liga Endesa"
    ]
   },
   {
@@ -1346,20 +1363,6 @@
    ]
   },
   {
-   "titulo": "Llull marca un hito: 700 partidos y nuevas metas",
-   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWhZR19tSlNUVW9JRGZkaTZzN1ZIV010MjA3YzRyMnpaQklqOEYwVVNuR2dHeTlVZFNCcnk4MmlJcWlPeVpRNm9JRG1sQWhBNDhuWkhoX09sWDJzODBKelFOY1RlM1VmcU1NMUFlcDNOakVPdDg4OHFUSGRHZ3pFQTlOenhCdnZjQXc?oc=5",
-   "medio": "Blog de Basket",
-   "resumen": "",
-   "publicada": "2026-10-20T15:30+00:00",
-   "enlace_es_google": true,
-   "id": "d090d6db1c8d",
-   "etiquetas": [],
-   "detectada": "2026-10-20T19:23+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
    "titulo": "Euroliga mantiene puertas abiertas a negociar con NBA",
    "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSU0xMXRRSENmWUVTcnA3TDdLelJrUS1WQ0d5NFVwSzhXVGV3eUlsa0pqUXR1MHVRdDgwbnV4bFVfaEUwQ1lTamZaOWlRYzg1cmNuWWQ2SDMzd2hSSTlMTHJ6X0ZDNnJjTFJSX25sXzBMNmRJS3JqaU8waTBKVEREVWxfRVdnZlFvYi1KV204YkQ?oc=5",
    "medio": "Blog de Basket",
@@ -1373,6 +1376,20 @@
    "detectada": "2026-10-20T19:23+00:00",
    "vias": [
     "Google Noticias · Euroliga"
+   ]
+  },
+  {
+   "titulo": "Llull marca un hito: 700 partidos y nuevas metas",
+   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWhZR19tSlNUVW9JRGZkaTZzN1ZIV010MjA3YzRyMnpaQklqOEYwVVNuR2dHeTlVZFNCcnk4MmlJcWlPeVpRNm9JRG1sQWhBNDhuWkhoX09sWDJzODBKelFOY1RlM1VmcU1NMUFlcDNOakVPdDg4OHFUSGRHZ3pFQTlOenhCdnZjQXc?oc=5",
+   "medio": "Blog de Basket",
+   "resumen": "",
+   "publicada": "2026-10-20T15:30+00:00",
+   "enlace_es_google": true,
+   "id": "d090d6db1c8d",
+   "etiquetas": [],
+   "detectada": "2026-10-20T19:23+00:00",
+   "vias": [
+    "Google Noticias · Liga Endesa"
    ]
   },
   {
@@ -1450,6 +1467,20 @@
    ]
   },
   {
+   "titulo": "El Cáceres busca desquitarse en la Copa ante el LogroBasket",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUVSOS1NZWRtUDB3S3Z3YTJaY2ZCZ2hobDhHYXhMZVd2aDh3VExLRFJwc1RPX0xlRDdrbHd3aFdYR2FlbVc0MndEY2FFWmNKUExMQkNMVF9lbXhEYmRCZlJEbWhPRG5zazdTTE1MUkVYaWhwbi11c1VKMmdOUG55WnRXOHEyY1VaYWRtaVU2R0xlOVhkWlBaLWdhQ0lOSVRHZE5aXzRvSk9QU3RiTXE2X1ZvQ0VOVmPSAbwBQVVfeXFMTVdsVzJBeUl1LWd2SlhKYjdtdlpEQUhZUnFmUExzbUJENmZyX1dSRXYxcWtrbmNoSEVva1Z5OHpsMXlxbnZrR2R3UWFjNkltVnRqWjVreXRQaVBybnRaWms5SXZrd213T1lMNGtETkphRElpb3V0Vkw3eTZLalEwQ19wN0E0VlVPVGhjZ3c2X2c5T1RnZ3dVUEQ0anc5azlHM0pNc1E0SjkzMURnRF9Ed3ZlNUhrY3NvVWU4WmQ?oc=5",
+   "medio": "El Periódico Extremadura",
+   "resumen": "",
+   "publicada": "2026-10-20T15:09+00:00",
+   "enlace_es_google": true,
+   "id": "310e25b7181e",
+   "etiquetas": [],
+   "detectada": "2026-10-20T15:12+00:00",
+   "vias": [
+    "Google Noticias · Primera FEB"
+   ]
+  },
+  {
    "titulo": "Ennis confía en recuperar ritmo ante Coruña",
    "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZWEwb2d4QkwxTHQ4UnB3RUpQcnVTbWl4aG13bFkxRE95clpCbW9FMVlSbngtdmpxSFJmc0pVYmdQbGxGTU0zMmp0VjV5RTRPakZQUzdVQ3pKTkg3WkRsWVJ4MkphU0tuVEZiTXRQcDlBXzJtQTFMSlV6WlBpbVhBQw?oc=5",
    "medio": "Blog de Basket",
@@ -1463,20 +1494,6 @@
     "Google Noticias · Euroliga",
     "Google Noticias · Liga Endesa",
     "Google Noticias · Liga Endesa mercado"
-   ]
-  },
-  {
-   "titulo": "El Cáceres busca desquitarse en la Copa ante el LogroBasket",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUVSOS1NZWRtUDB3S3Z3YTJaY2ZCZ2hobDhHYXhMZVd2aDh3VExLRFJwc1RPX0xlRDdrbHd3aFdYR2FlbVc0MndEY2FFWmNKUExMQkNMVF9lbXhEYmRCZlJEbWhPRG5zazdTTE1MUkVYaWhwbi11c1VKMmdOUG55WnRXOHEyY1VaYWRtaVU2R0xlOVhkWlBaLWdhQ0lOSVRHZE5aXzRvSk9QU3RiTXE2X1ZvQ0VOVmPSAbwBQVVfeXFMTVdsVzJBeUl1LWd2SlhKYjdtdlpEQUhZUnFmUExzbUJENmZyX1dSRXYxcWtrbmNoSEVva1Z5OHpsMXlxbnZrR2R3UWFjNkltVnRqWjVreXRQaVBybnRaWms5SXZrd213T1lMNGtETkphRElpb3V0Vkw3eTZLalEwQ19wN0E0VlVPVGhjZ3c2X2c5T1RnZ3dVUEQ0anc5azlHM0pNc1E0SjkzMURnRF9Ed3ZlNUhrY3NvVWU4WmQ?oc=5",
-   "medio": "El Periódico Extremadura",
-   "resumen": "",
-   "publicada": "2026-10-20T15:09+00:00",
-   "enlace_es_google": true,
-   "id": "310e25b7181e",
-   "etiquetas": [],
-   "detectada": "2026-10-20T15:12+00:00",
-   "vias": [
-    "Google Noticias · Primera FEB"
    ]
   },
   {
@@ -1925,20 +1942,6 @@
    ]
   },
   {
-   "titulo": "Bucsa se clasifica para las Finals y Swiatek se queda fuera seis años después",
-   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMGptUUtRcndMeVJ2RjJ6LUVuMUdyTDd1QzZxNDVLWVZTX1R4YWlrNW9UWUxxZnoxbDRUVDJlU2ZuUW1SNEVfanVwRnM5U3k1MjRSbDVQY0x0R0hIRWstNHNBb09wMGJyY0VCb3VwUzNkNVZRTVdYV2xGM1hxUlJrdWtGaGlYdEVtdnFKZW5Yb2xKQXY4dnNLZGc3YmQwQ2E2NE92Sm5Kc3d5ek50c053U1FfcVg3WFY2ZXUtazdfTTVpVTI2c3FoREdIM3BnRXB00gHQAUFVX3lxTE0wam1RS1Fyd0x5UnZGMnotRW4xR3JMN3VDNnE0NUtZVlNfVHhhaWs1b1RZTHFmejFsNFRUMmVTZm5RbVI0RV9qdXBGczlTeTUyNFJsNVBjTHRHSEhFay00c0FvT3AwYnJjRUJvdXBTM2Q1VlFNV1hXbEYzWHFSUmt1a0ZoaVh0RW12cUplblhvbEpBdjh2c0tkZzdiZDBDYTY0T3ZKbkpzd3l6TnRzTndTUV9xWDdYVjZldS1rN19NNWlVMjZzcWhER0gzcGdFcHQ?oc=5",
-   "medio": "Diario AS",
-   "resumen": "",
-   "publicada": "2026-10-20T12:12+00:00",
-   "enlace_es_google": true,
-   "id": "1082b583faca",
-   "etiquetas": [],
-   "detectada": "2026-10-20T15:12+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa mercado"
-   ]
-  },
-  {
    "titulo": "David Varela se sincera antes del Albacete Basket-Gran Canaria: «No te lo voy a negar»",
    "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDZJS1p0STFIclhmX0ZnY3pFMG5lbGFBNU9uVURxOGRSelRRVk5wandZZkk4bzFBR0lENkViT0VnZkYtS2dTVDhkZWNSNGlHeUN6U2Z6LVg5ZTgyNEN5VHB3TmpsZVFCUGdWc2hTOFlUa2hZTmNZdzNURHpVa3RuT2Y2aEZKU043Y0RsMmRreGxsSWxiMDdOd0dJRUlwaTNWRk9GUWJWcjFCdkpBSXc5UWJrRGRWSFBIbXpEZGl1TVNNbXV1TU1mWlpPcw?oc=5",
    "medio": "El Digital de Albacete",
@@ -1950,6 +1953,20 @@
    "detectada": "2026-10-20T15:12+00:00",
    "vias": [
     "Google Noticias · Primera FEB"
+   ]
+  },
+  {
+   "titulo": "Bucsa se clasifica para las Finals y Swiatek se queda fuera seis años después",
+   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMGptUUtRcndMeVJ2RjJ6LUVuMUdyTDd1QzZxNDVLWVZTX1R4YWlrNW9UWUxxZnoxbDRUVDJlU2ZuUW1SNEVfanVwRnM5U3k1MjRSbDVQY0x0R0hIRWstNHNBb09wMGJyY0VCb3VwUzNkNVZRTVdYV2xGM1hxUlJrdWtGaGlYdEVtdnFKZW5Yb2xKQXY4dnNLZGc3YmQwQ2E2NE92Sm5Kc3d5ek50c053U1FfcVg3WFY2ZXUtazdfTTVpVTI2c3FoREdIM3BnRXB00gHQAUFVX3lxTE0wam1RS1Fyd0x5UnZGMnotRW4xR3JMN3VDNnE0NUtZVlNfVHhhaWs1b1RZTHFmejFsNFRUMmVTZm5RbVI0RV9qdXBGczlTeTUyNFJsNVBjTHRHSEhFay00c0FvT3AwYnJjRUJvdXBTM2Q1VlFNV1hXbEYzWHFSUmt1a0ZoaVh0RW12cUplblhvbEpBdjh2c0tkZzdiZDBDYTY0T3ZKbkpzd3l6TnRzTndTUV9xWDdYVjZldS1rN19NNWlVMjZzcWhER0gzcGdFcHQ?oc=5",
+   "medio": "Diario AS",
+   "resumen": "",
+   "publicada": "2026-10-20T12:12+00:00",
+   "enlace_es_google": true,
+   "id": "1082b583faca",
+   "etiquetas": [],
+   "detectada": "2026-10-20T15:12+00:00",
+   "vias": [
+    "Google Noticias · Liga Endesa mercado"
    ]
   },
   {
@@ -6139,22 +6156,6 @@
    "vias": [
     "Google Noticias · UCAM CB",
     "Google Noticias · UCAM Murcia CB"
-   ]
-  },
-  {
-   "titulo": "Partidos Fede Van Lacke",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaC1YVmVPVEtXOHNMc0hNbHZkaTR1eHd3SUpza3FOMEExSmxaVUlMQ1R0WVV0TVliRG5TRmhOV0VURU5QbHh6UzBzQWxEeWZJMkVZMTVTOU9Vay1ZM2VtaXp2QmlJbWRMOXZRSFEwanUwaVdfWEMwc2pOMkh6MTFVb3ZERGhMSmdqX2ZwZGlMNklHOC1uNWlDTE83QlpFcjFwRi00RXZQNm0yUWpqQUxLT3FySThiSDZU?oc=5",
-   "medio": "ACB",
-   "resumen": "",
-   "publicada": "2026-10-18T00:03+00:00",
-   "enlace_es_google": true,
-   "id": "089fe4fde498",
-   "etiquetas": [
-    "ucam"
-   ],
-   "detectada": "2026-10-18T11:43+00:00",
-   "vias": [
-    "Google Noticias · UCAM CB"
    ]
   },
   {

@@ -1,9 +1,9 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-20T22:26+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-21T00:43+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (85)
+## UCAM Murcia CB (84)
 
 - 2026-10-20 14:21 UTC · **Ennis, del UCAM Murcia: "Es importante volver a recuperar nuestra intensidad"** — La Opinión de Murcia
 - 2026-10-20 13:25 UTC · **Pellegrini: "El árbitro tiene que tener siempre la autoridad y no el VAR, esto debe mejorar"** — La Verdad
@@ -89,7 +89,6 @@ Actualizado: 2026-10-20T22:26+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-18 06:06 UTC · **Partidos Víctor Sada** — ACB
 - 2026-10-18 05:41 UTC · **Rodrigo San Miguel** — ACB
 - 2026-10-18 04:01 UTC · **El UCAM Murcia busca su versión más dura en el Roig Arena** — La Opinión de Murcia
-- 2026-10-18 00:03 UTC · **Partidos Fede Van Lacke** — ACB
 
 ## Covirán Granada (57)
 
@@ -161,7 +160,7 @@ Actualizado: 2026-10-20T22:26+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-19 04:08 UTC · **CB Cartagena y Molina Basket, la cara y la cruz en el arranque de la Segunda FEB** — MurciaEconomía.com
 - 2026-10-18 17:09 UTC · **Un UCAM Murcia desdibujado encaja una abultada derrota ante Valencia Basket (116-93)** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (137)
+## Resto (últimas 12 h) (104)
 
 - 2026-10-20 21:30 UTC · **Unicaja Málaga continúa intratable en la BCL** — VAVEL.com
 - 2026-10-20 21:30 UTC · **El Bàsquet Menorca se despide de la Copa España (91-83)** — Menorca - Es diari
@@ -202,8 +201,9 @@ Actualizado: 2026-10-20T22:26+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-20 18:09 UTC · **Marinkovic regresa a los entrenamientos del Partizan** — Blog de Basket
 - 2026-10-20 18:09 UTC · **Pérez brilla con 40 puntos en la paliza del Girona** — Blog de Basket
 - 2026-10-20 17:59 UTC · **Paseo militar en el segundo envite continental** — 101TV
-- 2026-10-20 17:58 UTC · **BK Kvis Pardubice 63 - Unicaja 79 1ª Fase Liga Regular Basketball Champions League 2026/27** — Unicaja Baloncesto
+- 2026-10-20 17:58 UTC · **BK Kvis Pardubice 63 - Unicaja 79 1ª Fase Liga Regular Basketball Champions League 2026/27 / Web Oficial del Unicaja Baloncesto** — Unicaja Baloncesto
 - 2026-10-20 17:58 UTC · **El Valencia Basket anuncia un fichaje a vísperas de su enfrentamiento mañana en la Euroliga Femenina** — Las Provincias
+- 2026-10-20 17:58 UTC · **BK Kvis Pardubice 63 - Unicaja 79 1ª Fase Liga Regular Basketball Champions League 2026/27** — Unicaja Baloncesto
 - 2026-10-20 17:56 UTC · **63-79: Triunfo cómodo del Unicaja en República Checa** — Mundo Deportivo
 - 2026-10-20 17:41 UTC · **El Grupo Ureta Tizona afronta en Córdoba un nuevo reto en la Copa de España** — CB Tizona
 - 2026-10-20 17:38 UTC · **La NBA dice que la nueva liga será la mayor inversión en el básquet europeo** — Los Angeles Times
@@ -236,13 +236,13 @@ Actualizado: 2026-10-20T22:26+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-20 15:44 UTC · **La NBA desafía a la Euroliga con un ambicioso proyecto que promete triplicar sus ingresos** — Mundo Deportivo
 - 2026-10-20 15:40 UTC · **Darius McGhee y Tevin Brown: dos jugones especialistas en jugadas imposibles** — ACB
 - 2026-10-20 15:39 UTC · **La NBA defiende su modelo económico más rentable** — Diario de Noticias de Álava
-- 2026-10-20 15:30 UTC · **Llull marca un hito: 700 partidos y nuevas metas** — Blog de Basket
 - 2026-10-20 15:30 UTC · **Euroliga mantiene puertas abiertas a negociar con NBA** — Blog de Basket
+- 2026-10-20 15:30 UTC · **Llull marca un hito: 700 partidos y nuevas metas** — Blog de Basket
 - 2026-10-20 15:22 UTC · **Así juega… Lucía Fleta, la ‘metralleta’ anotadora del Xerez Club Deportivo** — Federación Española de Baloncesto
 - 2026-10-20 15:21 UTC · **España también pide la Eurocopa de fútbol sala de 2030** — OkDiario
 - 2026-10-20 15:18 UTC · **El Ensino trae el baloncesto europeo al Pazo recibiendo al Gorzow polaco** — La Voz de Galicia
-- 2026-10-20 15:09 UTC · **Ennis confía en recuperar ritmo ante Coruña** — Blog de Basket
 - 2026-10-20 15:09 UTC · **El Cáceres busca desquitarse en la Copa ante el LogroBasket** — El Periódico Extremadura
+- 2026-10-20 15:09 UTC · **Ennis confía en recuperar ritmo ante Coruña** — Blog de Basket
 - 2026-10-20 15:07 UTC · **"NBA Europa empezará en 2027, haya o no acuerdo con la Euroliga"** — MARCA
 - 2026-10-20 15:06 UTC · **Eurocup - Skyliners Frankfurt vs La Laguna Tenerife: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
 - 2026-10-20 14:59 UTC · **El Asisa Joventut busca consolidar liderato ante el Bonn** — Mundo Deportivo
@@ -266,37 +266,3 @@ Actualizado: 2026-10-20T22:26+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-20 13:01 UTC · **Unicaja Málaga y Asisa Joventut: Hora y dónde ver en TV la segunda jornada de la Champions League de baloncesto** — RTVE.es
 - 2026-10-20 12:57 UTC · **¿Cuándo debuta Sergio de Larrea en la NBA? Horario y dónde ver por TV el partido de Dallas Mavericks contra Houston Rockets** — Superdeporte
 - 2026-10-20 12:50 UTC · **Deportes hoy: programación gratis en Teledeporte y RTVE Play la semana del 19 al 23 de octubre** — RTVE.es
-- 2026-10-20 12:31 UTC · **Sako mejora sus tiros libres un 30% respecto al final de la 25-26 y un 12% en su media** — Plaza Deportiva
-- 2026-10-20 12:31 UTC · **Jaka Lakovic y el día de la marmota ante un rival sin freno: «El Frankfurt Skyliners siempre quiere jugar rápido»** — Eldía
-- 2026-10-20 12:13 UTC · **El Alimerka OCB debuta en Copa ante la Cultural y Deportiva Leonesa** — Oviedo Baloncesto
-- 2026-10-20 12:12 UTC · **Bucsa se clasifica para las Finals y Swiatek se queda fuera seis años después** — Diario AS
-- 2026-10-20 12:12 UTC · **David Varela se sincera antes del Albacete Basket-Gran Canaria: «No te lo voy a negar»** — El Digital de Albacete
-- 2026-10-20 12:06 UTC · **El Sonido del Banquillo: "Que cada euro de la entrada valga la pena"** — ACB
-- 2026-10-20 12:03 UTC · **Darryn Peterson: perfil, trayectoria, estilo de juego y estadísticas** — bet365 - Apuestas deportivas en la red
-- 2026-10-20 12:03 UTC · **Fútbol sala: España - Finlandia, en directo | Mundial** — RTVE.es
-- 2026-10-20 11:58 UTC · **Bodiroga confirma el cambio: la Euroliga tendrá 24 equipos y dos conferencias en 2027-28** — Relevo Deportes
-- 2026-10-20 11:58 UTC · **La advertencia de la Euroliga a la NBA y a los posibles clubes disidentes: "Será un desastre"** — Superdeporte
-- 2026-10-20 11:58 UTC · **La Euroliga pasará a 24 equipos y dos conferencias en 2027-28** — Relevo Deportes
-- 2026-10-20 11:48 UTC · **Valencia Basket busca ante el Carolo francés su primer triunfo en Euroliga** — Plaza Deportiva
-- 2026-10-20 11:47 UTC · **Cultural - Oviedo: 'A dar la sorpresa copera'** — La Nueva Crónica
-- 2026-10-20 11:46 UTC · **Javi Torralba: “Más que presión, tenemos responsabilidad”** — Plaza Deportiva
-- 2026-10-20 11:46 UTC · **El circuito 3×3 CaixaBank 2026 bate récord de asistencia en su temporada más inclusiva y abierta a la ciudadanía** — Gigantes del Basket · https://www.gigantes.com/3x3/el-circuito-3x3-caixabank-2026-bate-record-de-asistencia-en-su-temporada-mas-inclusiva-y-abierta-a-la-ciudadania/
-- 2026-10-20 11:45 UTC · **WNBA – Atlanta Dream vs Golden State Valkyries: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
-- 2026-10-20 11:44 UTC · **Al fin una buena noticia para el Depor, Noé no está lesionado** — Diario AS
-- 2026-10-20 11:39 UTC · **El Iberolea Palencia se estrena en la Copa España ante el Cantabria** — Tribuna de Palencia.
-- 2026-10-20 11:35 UTC · **Laurynas Birutis, jugador del Casademont Zaragoza: "Hay que jugar bien los 40 minutos, no solamente 30"** — heraldo.es
-- 2026-10-20 11:31 UTC · **Javi Torralba: "La palabra no es presión, pero sí tenemos la responsabilidad de lograr la primera victoria"** — Superdeporte
-- 2026-10-20 11:16 UTC · **La Laguna Tenerife encara un nuevo compromiso europeo en un gran momento de los de Lakovic** — Mundo Deportivo
-- 2026-10-20 11:11 UTC · **Alberto Antuña, sobre el Hozono Global Jairis: "Es uno de los referentes de la competición y la gran alternativa a los tres Euroligas"** — MurciaEconomía.com
-- 2026-10-20 11:11 UTC · **¿DAZN o Movistar? Horarios, TV y dónde ver los partidos de la NBA 2026-2027 en España** — Diario AS
-- 2026-10-20 11:08 UTC · **Alocén subraya que el Granca conoce ahora mejora al Albacete para iniciar la Copa** — Tinta Amarilla
-- 2026-10-20 11:04 UTC · **Chus Bueno, CEO de la Euroliga, advierte a la NBA: “Si entran solos en Europa será un desastre”** — SPORT
-- 2026-10-20 10:58 UTC · **El Iberolea Palencia y Álex Jordá separan sus caminos** — El Norte de Castilla
-- 2026-10-20 10:54 UTC · **Programación de Movistar Deportes del Jueves 22 de Octubre del 2026** — ABC
-- 2026-10-20 10:51 UTC · **El base Boogie Ellis sufre una lesión en el aductor de la pierna derecha** — Mundo Deportivo
-- 2026-10-20 10:41 UTC · **El escolta del Asisa Joventut Boogie Ellis sufre una lesión en el aductor de la pierna derecha** — Europa Press
-- 2026-10-20 10:41 UTC · **“No creo que los equipos de la Euroliga se vayan a marchar a la NBA”** — Diario AS
-- 2026-10-20 10:39 UTC · **El Casademont, en racha, visita a un Athiniakos “herido”** — Mundo Deportivo
-- 2026-10-20 10:35 UTC · **Eurocup - Tortona vs San Pablo Burgos: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
-- 2026-10-20 10:34 UTC · **Boogie Ellis, lesionado** — ACB
-- 2026-10-20 10:31 UTC · **Regalamos la Guía NBA con la Suscripción Papel** — Gigantes del Basket · https://www.gigantes.com/nba/guia-nba-26-27-analisis-completo-30-franquicias/

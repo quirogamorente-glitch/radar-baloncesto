@@ -1,28 +1,29 @@
 {
- "actualizado": "2026-10-22T11:38+00:00",
+ "actualizado": "2026-10-22T16:01+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
    "ok": true,
-   "leidas": 30,
-   "guardadas": 30
+   "leidas": 36,
+   "guardadas": 36
   },
   {
    "fuente": "Google Noticias · UCAM CB",
    "ok": true,
-   "leidas": 24,
-   "guardadas": 24
+   "leidas": 28,
+   "guardadas": 28
   },
   {
    "fuente": "Fundación CB Granada (web oficial)",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='fundacioncbgranada.es', port=443): Read timed out. (read timeout=20)"
+   "ok": true,
+   "leidas": 10,
+   "guardadas": 3
   },
   {
    "fuente": "Google Noticias · Covirán Granada",
    "ok": true,
-   "leidas": 50,
-   "guardadas": 50
+   "leidas": 53,
+   "guardadas": 53
   },
   {
    "fuente": "Google Noticias · Olga Lorente",
@@ -33,8 +34,8 @@
   {
    "fuente": "Google Noticias · Jaime Nadal",
    "ok": true,
-   "leidas": 4,
-   "guardadas": 4
+   "leidas": 6,
+   "guardadas": 6
   },
   {
    "fuente": "Google Noticias · Noelia Gómez Mira",
@@ -51,8 +52,8 @@
   {
    "fuente": "Google Noticias · Liga Endesa mercado",
    "ok": true,
-   "leidas": 28,
-   "guardadas": 28
+   "leidas": 47,
+   "guardadas": 47
   },
   {
    "fuente": "Google Noticias · Euroliga",
@@ -63,14 +64,14 @@
   {
    "fuente": "Google Noticias · EuroCup",
    "ok": true,
-   "leidas": 75,
-   "guardadas": 75
+   "leidas": 70,
+   "guardadas": 70
   },
   {
    "fuente": "Google Noticias · BCL",
    "ok": true,
-   "leidas": 13,
-   "guardadas": 13
+   "leidas": 31,
+   "guardadas": 31
   },
   {
    "fuente": "Google Noticias · Primera FEB",

@@ -1,12 +1,15 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-22T00:54+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-22T05:58+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
 ## UCAM Murcia CB (55)
 
+- 2026-10-22 04:06 UTC · **El UCAM CB defiende su estatus en la ACB tras acumular 519 partidos seguidos en la élite nacional** — Murcia Plaza
+- 2026-10-22 04:01 UTC · **Álex Hernández: "El UCAM Murcia ha logrado resultados casi impensables y es un espejo en el que mirarse"** — La Opinión de Murcia
 - 2026-10-21 22:43 UTC · **Partidos Salah Mejri** — ACB
 - 2026-10-21 20:06 UTC · **Basketball | Coruña vs. Força Lleida** — DAZN
+- 2026-10-21 12:59 UTC · **Sánchez** — ACB
 - 2026-10-21 12:30 UTC · **La Liga U sigue creciendo y refuerza sus retransmisiones con la incorporación de DAZN** — ACB
 - 2026-10-21 07:55 UTC · **Aday Mara deslumbra en su debut en la NBA con un monstruoso tapón a Victor Wembanyama** — El Desmarque
 - 2026-10-21 04:00 UTC · **El UCAM Murcia, cansado de remar a contracorriente: solo ha ganado un primer cuarto en seis partidos** — La Opinión de Murcia
@@ -57,9 +60,6 @@ Actualizado: 2026-10-22T00:54+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-19 07:46 UTC · **La fatiga social: cuándo relacionarte también te agota** — Superdeporte
 - 2026-10-19 07:31 UTC · **Partidos Javier Salgado** — ACB
 - 2026-10-19 07:28 UTC · **Sito Alonso señala la fragilidad del UCAM Murcia: "Estamos bastante lejos de ellos"** — COPE
-- 2026-10-19 04:09 UTC · **El temporal da una tregua y el Penya Deportiva - UCAM Murcia CF se jugará este lunes a las 16:00 horas** — murciaeconomia.com
-- 2026-10-19 04:08 UTC · **CB Cartagena y Molina Basket, la cara y la cruz en el arranque de la Segunda FEB** — MurciaEconomía.com
-- 2026-10-19 01:00 UTC · **Las 10 máximas anotaciones en un partido de Liga Endesa, equipo a equipo** — ACB
 
 ## Covirán Granada (58)
 
@@ -122,17 +122,34 @@ Actualizado: 2026-10-22T00:54+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-19 08:32 UTC · **La historia de Jassel Pérez antes de llegar a España** — Gigantes del Basket
 - 2026-10-19 08:11 UTC · **Informativo Granada - 19/10/2026** — RTVE.es
 
-## Periodistas preferentes (6)
+## Periodistas preferentes (4)
 
 - 2026-10-20 11:11 UTC · **Alberto Antuña, sobre el Hozono Global Jairis: "Es uno de los referentes de la competición y la gran alternativa a los tres Euroligas"** — MurciaEconomía.com
 - 2026-10-20 08:55 UTC · **Dylan Ennis pide calma: "Pocos partidos no son suficientes para encasillarnos; la Copa sigue en el plan"** — MurciaEconomía.com
 - 2026-10-19 18:59 UTC · **Ejercicio de supervivencia del UCAM CF en Ibiza para ser aún más líder** — MurciaEconomía.com
 - 2026-10-19 09:05 UTC · **El UCAM Murcia CB buscará reencontrarse a sí mismo en un exigente carrusel de partidos en el Palacio** — MurciaEconomía.com
-- 2026-10-19 04:09 UTC · **El temporal da una tregua y el Penya Deportiva - UCAM Murcia CF se jugará este lunes a las 16:00 horas** — murciaeconomia.com
-- 2026-10-19 04:08 UTC · **CB Cartagena y Molina Basket, la cara y la cruz en el arranque de la Segunda FEB** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (113)
+## Resto (últimas 12 h) (84)
 
+- 2026-10-22 05:25 UTC · **Vasiliki Tsaroucha, árbitra del Valencia Basket-Maccabi, investigada por presuntos sobornos** — Nostresport
+- 2026-10-22 05:15 UTC · **Baloncesto masculino: U BT Cluj pierde contra London Lions en la BKT EuroCup** — Informat.ro
+- 2026-10-22 05:00 UTC · **Francis Alonso, la amenaza del Breogán con ADN Los Guindos que examinará el domingo al Unicaja** — La Opinión de Málaga
+- 2026-10-22 05:00 UTC · **El Barça, a pasar página en Milán tras su mala imagen en Badalona** — Mundo Deportivo
+- 2026-10-22 05:00 UTC · **El Baskonia, ante un reto gigante en Atenas** — Diario de Noticias de Álava
+- 2026-10-22 05:00 UTC · **Smith el arma letal del próximo rival del CBZ** — La Opinión de Zamora
+- 2026-10-22 04:53 UTC · **Valencia Basket cae ante Flammes Carolo y sigue sin ganar en la EuroLeague Women (63-77)** — Nostresport
+- 2026-10-22 04:33 UTC · **El Hozono Global Jairis arrolla al Panathlitikos con una exhibición de triples en la EuroCup** — COPE
+- 2026-10-22 04:31 UTC · **El Barça, a recuperar la senda de la victoria ante su fichaje estrella fallido** — SPORT
+- 2026-10-22 04:31 UTC · **Pau Gasol desvela cómo llegó al Barça y la condición que le puso su madre: "Hasta que no firmes seguirás estudiando"** — SPORT
+- 2026-10-22 04:05 UTC · **Grupo Alega Cantabria pasa a octavos de la Copa España tras imponerse a Iberola Palencia** — Filtración.es
+- 2026-10-22 03:22 UTC · **Planes deportivos en Madrid: Baloncesto Euroliga y NFL en el Bernabéu este otoño** — Madrid Actual
+- 2026-10-22 02:30 UTC · **¿Reacción real o espejismo? La prueba de fuego para confirmar el «buen camino» del Real Madrid de baloncesto** — El Debate
+- 2026-10-22 02:12 UTC · **Real Madrid: los bases al poder** — Diario AS
+- 2026-10-22 02:11 UTC · **La fina línea de Kevin Punter** — Diario AS
+- 2026-10-22 01:54 UTC · **Vídeos y noticias de Tryggvi Hlinason** — ACB
+- 2026-10-22 01:16 UTC · **Maccabi - Real Madrid: horario, TV y dónde ver la Euroliga 2026-27** — Diario AS
+- 2026-10-22 01:15 UTC · **Milán - Barcelona: horario, TV y dónde ver la Euroliga 2026-27** — Diario AS
+- 2026-10-22 01:10 UTC · **Vídeos y noticias de TJ Shorts** — ACB
 - 2026-10-22 00:06 UTC · **Gayà ‘cazará’ a Albelda con su renovación pendiente** — Diario AS
 - 2026-10-21 23:25 UTC · **Maxima Roma-Umana Reyer Venice | Round 4 Highlights | 2026-27 BKT EuroCup** — Euroleague Basketball
 - 2026-10-21 22:51 UTC · **Victorias del Laguna Tenerife, Joventut, Unicaja y Manresa** — Encestando
@@ -142,23 +159,29 @@ Actualizado: 2026-10-22T00:54+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-21 22:05 UTC · **El Club Melilla Baloncesto pasa sin problemas a octavos de final** — Melilla Hoy
 - 2026-10-21 21:41 UTC · **Resumen mejores imágenes Valencia Basket - Flammes Carolo Basket Euroliga** — Superdeporte
 - 2026-10-21 21:34 UTC · **San Pablo pierde ante el Tortona en una mala segunda mitad (89-79)** — Cadena SER
+- 2026-10-21 21:17 UTC · **El Valencia Basket tropieza por segunda vez en Euroliga ante Flammes Carolo en el Roig Arena (63-77)** — Hortanoticias.com
 - 2026-10-21 21:14 UTC · **Jornada 4 de la EuroCup: dos victorias españolas y Napoli gana el duelo de invictos** — piratasdelbasket
 - 2026-10-21 21:09 UTC · **Raquel Carrera habla de la derrota en Euroliga en el Roig Arena** — Superdeporte
 - 2026-10-21 21:09 UTC · **76-74: El Asisa Joventut sufre para ganar al Bonn y se pone líder en solitario** — Mundo Deportivo
+- 2026-10-21 21:01 UTC · **Bayern de Múnich - Dubai Basketball en directo - Euroliga: Resultados y resúmenes de Baloncesto - 22/10/2026** — Eurosport
+- 2026-10-21 21:01 UTC · **Panathinaikos Atenas - Club Deportivo Baskonia Partidos relacionados: Actualizaciones en directo de Baloncesto** — Eurosport
 - 2026-10-21 21:00 UTC · **#Baloncesto | Hozono Jairis arrolló al Panathlitikos, pero Meins Avenida y Baxi Ferrol perdieron en la Eurocopa** — Visibilitas
+- 2026-10-21 20:59 UTC · **Trayectoria Mike Tobey | Jugador acb | acb.com** — ACB
 - 2026-10-21 20:59 UTC · **Francis Alonso, el mejor anotador nacional en 19 años** — Diario Sur
 - 2026-10-21 20:58 UTC · **Natxo Lezkano analiza el encuentro de la Copa España entre Cantabria y Palencia** — Tribuna de Palencia.
 - 2026-10-21 20:55 UTC · **Euroliga: Panathinaikos – Baskonia / Olympiacos – Fenerbahce** — Pensador de Apuestas
 - 2026-10-21 20:54 UTC · **El Alimerka Oviedo Baloncesto se despide de la Copa España en León con un último cuarto para olvidar (69-67)** — La Nueva España
 - 2026-10-21 20:53 UTC · **Jordi Fernández afronta su 3ª temporada en la NBA: ¿Será la de la confirmación?** — Blog de Basket
+- 2026-10-21 20:51 UTC · **Resumen del Bnei Ofek Dist Herzliya - FC Porto** — Eurosport
 - 2026-10-21 20:49 UTC · **82-105 | El Cajasiete Gran Canaria arrolla al Albacete y avanza a octavos de la Copa España** — Radio Televisión Canaria
+- 2026-10-21 20:46 UTC · **Maccabi vs Real Madrid: estadísticas previas y datos en directo | Euroliga 2026/2027** — Diario AS
 - 2026-10-21 20:46 UTC · **Javi Torralba: "No hemos estado a la altura de lo que requiere un partido de Euroliga"** — Superdeporte
 - 2026-10-21 20:43 UTC · **Frankfurt Skyliners vs La Laguna Tenerife en EuroCup** — Radio Televisión Canaria
 - 2026-10-21 20:42 UTC · **El Joventut, líder en solitario** — Diario AS
 - 2026-10-21 20:39 UTC · **Unicaja y Joventut completan el pleno español en la BCL** — piratasdelbasket
 - 2026-10-21 20:38 UTC · **El Cajasol Coto Córdoba se estrella ante el Tizona y dice adiós a la Copa de España** — Diario Córdoba
-- 2026-10-21 20:36 UTC · **Segunda jornada de la EuroLeague Women: Casademont Zaragoza y Valencia Basket, las dos caras de la moneda** — Gigantes del Basket · https://www.gigantes.com/euroleague-women/que-ha-pasado-j2-euroleague-women-zaragoza-valencia/
 - 2026-10-21 20:36 UTC · **Así queda el Casademont Zaragoza en la clasificación de la Euroliga** — heraldo.es
+- 2026-10-21 20:36 UTC · **Segunda jornada de la EuroLeague Women: Casademont Zaragoza y Valencia Basket, las dos caras de la moneda** — Gigantes del Basket · https://www.gigantes.com/euroleague-women/que-ha-pasado-j2-euroleague-women-zaragoza-valencia/
 - 2026-10-21 20:26 UTC · **El Albacete Basket nada pudo hacer frente al poderío canario** — La Tribuna de Albacete
 - 2026-10-21 20:26 UTC · **El Cajasol Coto Córdoba cae ante el Tizona Burgos y dice adiós a la Copa de España** — El Día de Córdoba
 - 2026-10-21 20:19 UTC · **La Laguna Tenerife firma una segunda parte de récord para ganar en Frankfurt (94-104)** — Diario de Avisos
@@ -180,8 +203,10 @@ Actualizado: 2026-10-22T00:54+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-21 19:38 UTC · **Casademont Zaragoza sobrevive en Grecia para mantenerse invicto en la Euroliga** — Aragón Digital
 - 2026-10-21 19:37 UTC · **El Casademont tiene que ganar dos veces al Athinaikos para conquistar Atenas (78 - 89)** — Cadena SER
 - 2026-10-21 19:33 UTC · **Un sensacional tercer cuarto lleva al CB Canarias a la victoria en Alemania (94-104)** — Cadena SER
+- 2026-10-21 19:31 UTC · **Apagón del San Pablo Burgos en Italia (89-79)** — Revista Forofos
 - 2026-10-21 19:11 UTC · **El Casademont Zaragoza avanza con paso firme en la Euroliga (78-89)** — Aragón Play
 - 2026-10-21 19:04 UTC · **Armani Olimpia Milano - Barcelona en directo - Euroliga: Resultados y resúmenes de Baloncesto - 22/10/2026** — Eurosport
+- 2026-10-21 19:03 UTC · **Clasificación Euroliga: Resultados y partidos de Baloncesto** — Eurosport
 - 2026-10-21 19:00 UTC · **83-105. El Ensino sucumbe ante el Enea Gorzow polaco en la Eurocup femenina** — El Progreso de Lugo
 - 2026-10-21 18:53 UTC · **Baba Miller, el 'tapado' de los españoles que podría terminar en un All-Rookie Team** — Blog de Basket [posible rumor]
 - 2026-10-21 18:46 UTC · **La Liga Endesa juega la jornada 5 y la TDT te deja ver partidos gratis del Barça o ASISA Joventut** — ADSLZone
@@ -190,59 +215,3 @@ Actualizado: 2026-10-22T00:54+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-21 18:14 UTC · **Hapoel Tel Aviv remonta a la Virtus y vuelve a ganar** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2023968/hapoel-tel-aviv-remonta-a-la-virtus-y-vuelve-a-ganar/
 - 2026-10-21 18:05 UTC · **Maccabi Tel Aviv vs Real Madrid: Pronóstico, Cuotas y Apuestas - Euroliga** — Casasdeapuestas.com
 - 2026-10-21 18:01 UTC · **El Meins Avenida saquea Francia y tumba al Chartres en Eurocup** — SALAMANCArtv AL DÍA
-- 2026-10-21 17:58 UTC · **Ignas Brazdeikis: el triple como asignatura pendiente** — Radio Marca Málaga
-- 2026-10-21 17:56 UTC · **TJ Shorts, a punto de romper un récord histórico de la Liga Endesa de hace casi 30 años** — Superdeporte
-- 2026-10-21 17:54 UTC · **Oficial: Tere Abelleira firma hasta final de temporada con el Atlético** — Diario AS
-- 2026-10-21 17:44 UTC · **Directo | Valencia Basket - Flammes Carolo Basket: la Euroliga, en vivo online** — Superdeporte
-- 2026-10-21 17:38 UTC · **Patrick Beverley y la detención de la árbitra griega: “Ella arbitró mi partido contra el Panathinaikos; yo lo sabía”** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2023938/patrick-beverley-y-la-detencion-de-la-arbitra-griega-ella-arbitro-mi-partido-contra-el-panathinaikos-yo-lo-sabia/
-- 2026-10-21 17:26 UTC · **Fotos del partido Athinaikos-Casademont Zaragoza de la Euroliga** — heraldo.es
-- 2026-10-21 17:18 UTC · **El Panathinaikos anuncia en un duro comunicado que tomará acciones legales tras el escándalo del baloncesto griego** — Gigantes del Basket · https://www.gigantes.com/mas-basket/panathinaikos-comunicado-acciones-legales-escandalo-grecia/
-- 2026-10-21 17:18 UTC · **El Casademont Zaragoza se podrá ver gratis en DAZN: la plataforma emitirá toda la Liga U** — Sport Aragón
-- 2026-10-21 17:04 UTC · **El Athinaikos-Casademont Zaragoza de Euroliga, en directo: así va el partido en Atenas** — El Periódico de Aragón
-- 2026-10-21 16:58 UTC · **Zonas de tiro Arturas Butajevas** — ACB
-- 2026-10-21 16:57 UTC · **Mariana Valenzuela busca brillar con Benfica ante el Nis en su segundo duelo de EuroCup** — El Sol de México
-- 2026-10-21 16:52 UTC · **A qué hora es el Maccabi Tel Aviv - Real Madrid: horario y dónde ver hoy en TV el partido de la Euroliga** — MARCA
-- 2026-10-21 16:41 UTC · **Andrés Jiménez ilustra los 100 años del Barça de baloncesto** — Mundo Deportivo
-- 2026-10-21 16:40 UTC · **El presidente de la Federación griega de baloncesto, detenido en una investigación por amaños** — naiz:
-- 2026-10-21 16:34 UTC · **El Spar Girona, a por una nueva victoria en Europa con solo siete jugadoras** — Mundo Deportivo
-- 2026-10-21 16:30 UTC · **Jornada 7 de la Euroliga: horarios, resultados de los partidos y resumen** — EL PAÍS
-- 2026-10-21 16:21 UTC · **El centenario del Barça de baloncesto ya tiene su ilustración oficial** — SPORT
-- 2026-10-21 16:07 UTC · **Escándalo arbitral en el baloncesto: Arrestada la árbitra del Valencia Basket-Maccabi y otros implicados por presunto amaño de partidos** — Superdeporte
-- 2026-10-21 16:06 UTC · **El Barça descubre la ilustración del Centenario de la sección de baloncesto** — Mundo Deportivo
-- 2026-10-21 16:05 UTC · **Pedro Martínez: "No es fácil adaptarse a jugar y producir menos a cambio de que el equipo sea mejor"** — MARCA
-- 2026-10-21 16:00 UTC · **Francis Alonso se sincera sobre su futuro y el Unicaja: "Soy un hombre leal"** — COPE
-- 2026-10-21 15:49 UTC · **Sekulić busca reacción del Barça ante Milán** — Blog de Basket
-- 2026-10-21 15:49 UTC · **Olympiacos y Fenerbahçe se miden en El Pireo** — Blog de Basket
-- 2026-10-21 15:46 UTC · **Zonas de tiro Jordan Walker** — ACB
-- 2026-10-21 15:45 UTC · **Félix Fernández confirma que Galbiati quiso firmar con el Barcelona y a Sedekerskis fuera del equipo** — kirolakeitb.eus
-- 2026-10-21 15:28 UTC · **La Liga U refuerza su difusión con más de 150 partidos gratis en DAZN** — Europa Press
-- 2026-10-21 15:19 UTC · **El Barça busca afianzarse en la Euroliga y borrar la imagen del derbi liguero en Milán** — Infobae
-- 2026-10-21 15:19 UTC · **Pedro Martínez: "El nivel de la NBA es más alto que el de la Euroliga"** — Infobae
-- 2026-10-21 15:12 UTC · **DAZN emitirá toda la Liga U22 gratis** — Diario Sur
-- 2026-10-21 15:09 UTC · **DAZN retransmite 150 partidos gratis de Liga U** — Blog de Basket
-- 2026-10-21 15:01 UTC · **TJ Shorts, anota, asiste y cuida el balón** — ACB
-- 2026-10-21 14:49 UTC · **Cinco descartes NBA que podrían acabar en la Euroliga** — AG Deportes
-- 2026-10-21 14:47 UTC · **Chloe Bibby pasa la revisión médica y ya es jugadora de Valencia Basket** — Superdeporte
-- 2026-10-21 14:47 UTC · **El UEMC CBCV, a por otra campanada copera** — Diario de Valladolid
-- 2026-10-21 14:45 UTC · **El Real Madrid quiere otro paso más en el clásico europeo** — Europa Press
-- 2026-10-21 14:37 UTC · **Pedro Martínez: "Mi responsabilidad como entrenador es que todos se sientan importantes"** — Eurohoops · https://www.eurohoops.net/es/euroleague-es/2023852/pedro-martinez-mi-responsabilidad-como-entrenador-es-que-todos-se-sientan-importantes/
-- 2026-10-21 14:22 UTC · **El Huesca confirma las lesiones de Sielva, Guillem Molina y Tresaco** — Diario AS
-- 2026-10-21 14:21 UTC · **La B.LEAGUE bate récords: supera los 100.000 millones de yenes en ingresos** — SPORT
-- 2026-10-21 14:16 UTC · **Pedro Martínez: «Jugar menos minutos es un proceso difícil que a algunos les cuesta más que a otros»** — OkDiario
-- 2026-10-21 14:04 UTC · **Liga U: el futuro del baloncesto español se podrá ver gratis en DAZN** — MARCA
-- 2026-10-21 14:02 UTC · **Vídeos y noticias de Daniel Santiago** — ACB
-- 2026-10-21 13:59 UTC · **La piedra en el zapato que hace cojear al Barça** — Diari ARA
-- 2026-10-21 13:57 UTC · **El CB Morón gana a un Primera FEB y se clasifica para los octavos de final de la Copa de España** — Morón Información
-- 2026-10-21 13:51 UTC · **El Iberolea Palencia busca resetearse en la Copa España** — El Norte de Castilla
-- 2026-10-21 13:45 UTC · **“Si se nos lesiona un jugador, preferimos confiar en Shulga”** — Diario AS
-- 2026-10-21 13:32 UTC · **Vídeos y noticias de Tosan Evbuomwan** — ACB
-- 2026-10-21 13:29 UTC · **El Baskonia carga contra Galbiati: "Quería irse al Barça y prescindir de tres jugadores emblemáticos"** — MARCA
-- 2026-10-21 13:22 UTC · **Milano vs Barcelona: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
-- 2026-10-21 13:15 UTC · **La Cultural sueña con cargarse a un rival de Primera RFEF en la Copa España** — Digital de León [posible rumor]
-- 2026-10-21 13:11 UTC · **DAZN emitirá gratis toda la Liga U de baloncesto** — Mundoplus.tv
-- 2026-10-21 13:08 UTC · **Vídeos y noticias de Obi Emegano** — ACB
-- 2026-10-21 13:05 UTC · **Estad. Avanzada Alberto Miguel** — ACB
-- 2026-10-21 13:02 UTC · **Trayectoria Jaume Morales | Jugador acb | acb.com** — ACB
-- 2026-10-21 13:02 UTC · **El presidente de la federación griega, detenido en una investigación sobre sobornos** — Eurohoops (español) · https://www.eurohoops.net/es/heba-es/2023835/el-presidente-de-la-federacion-griega-detenido-en-una-investigacion-sobre-sobornos/
-- 2026-10-21 12:59 UTC · **El FIATC Girona confirma su nuevo refuerzo con un contrato temporal** — Flashscore.pe
-- 2026-10-21 12:56 UTC · **Perasovic, nuevo entrenador del Baskonia: “Estamos en una situación en la que no hay más remedio que trabajar”** — kirolakeitb.eus

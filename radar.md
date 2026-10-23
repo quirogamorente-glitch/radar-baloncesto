@@ -1,6 +1,6 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-22T23:12+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-23T01:39+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
 ## UCAM Murcia CB (58)
@@ -125,21 +125,25 @@ Actualizado: 2026-10-22T23:12+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-20 11:11 UTC · **Alberto Antuña, sobre el Hozono Global Jairis: "Es uno de los referentes de la competición y la gran alternativa a los tres Euroligas"** — MurciaEconomía.com
 - 2026-10-20 08:55 UTC · **Dylan Ennis pide calma: "Pocos partidos no son suficientes para encasillarnos; la Copa sigue en el plan"** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (126)
+## Resto (últimas 12 h) (111)
 
 - 2026-10-22 22:29 UTC · **PREVIA J.4 | Derbis de rivalidad para la cuarta parada de la temporada** — Federación Española de Baloncesto
+- 2026-10-22 21:56 UTC · **Resumen del Panathinaikos vs. Baskonia de Euroliga** — Diario AS
 - 2026-10-22 21:50 UTC · **El Madrid convierte Belgrado en una lluvia de triples y tumba al Maccabi (99-113)** — ALERTA El Diario de Cantabria
 - 2026-10-22 21:46 UTC · **Panathinaikos vs Baskonia: estadísticas previas y datos en directo | Euroliga 2026/2027** — Diario AS
 - 2026-10-22 21:35 UTC · **Resumen del Milan vs. Barcelona de Euroliga** — Diario AS
+- 2026-10-22 21:25 UTC · **El 80% de los 1.545 abonados que tiene La Salud Cartagena CB son renovaciones del año pasado** — La Verdad
 - 2026-10-22 21:24 UTC · **Pedro Martínez: “El momento clave fue cuando Luwawu-Cabarrot empezó a anotar”** — Diario AS
 - 2026-10-22 21:24 UTC · **Sekulic: “La clave es defender bien, como hemos hecho hoy”** — Diario AS
 - 2026-10-22 21:24 UTC · **Sekulic: “Cuando tienes a un jugador como Punter, todo es más sencillo”** — SPORT
 - 2026-10-22 21:23 UTC · **Sekulic: "Punter es muy importante en estas situaciones"** — Mundo Deportivo
+- 2026-10-22 21:22 UTC · **Panathinaikos conserva punta en Euroliga de baloncesto** — Prensa Latina
 - 2026-10-22 21:20 UTC · **Así queda la clasificación de la Euroliga tras los triunfos de Barça y Madrid y la derrota de Baskonia** — Mundo Deportivo
 - 2026-10-22 21:14 UTC · **Euroliga. El Barça logra una trabajada victoria en Milán y se coloca en positivo** — El Imparcial - Diario liberal e independiente
 - 2026-10-22 21:12 UTC · **Pedro Martínez: "En la segunda parte mejoramos la defensa y eso fue clave"** — Mundo Deportivo
 - 2026-10-22 21:11 UTC · **El Panathinaikos reacciona a tiempo para superar a un serio Baskonia** — SPORT
 - 2026-10-22 21:09 UTC · **El Real Madrid gana en la pista del Maccabi (99-113) y encadena cuatro victorias en la Euroliga** — Espacio Diario
+- 2026-10-22 21:07 UTC · **Euroliga. El Barcelona logra una trabaja victoria en Milán y se coloca en positivo** — El Imparcial - Diario liberal e independiente
 - 2026-10-22 21:05 UTC · **El Baskonia cae en el último minuto contra Panathinaikos** — La Tribuna de Ciudad Real
 - 2026-10-22 21:04 UTC · **Resumen del Maccabi Tel Aviv vs. Real Madrid de Euroliga** — Diario AS
 - 2026-10-22 21:04 UTC · **El Barça se despereza en Milán** — La Tribuna de Ciudad Real
@@ -151,6 +155,7 @@ Actualizado: 2026-10-22T23:12+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-22 20:54 UTC · **El Real Madrid doblega al Maccabi con record de triples** — SPORT
 - 2026-10-22 20:54 UTC · **El 1x1 del Barça en Milán** — Mundo Deportivo
 - 2026-10-22 20:52 UTC · **El Kosner Baskonia da la cara en el OAKA, pero cae ante el Panathinaikos, en la Euroliga (85-79)** — kirolakeitb.eus
+- 2026-10-22 20:52 UTC · **Panathinaikos - Baskonia, Euroliga: marcador, valoraciones y estadísticas con la derrota de los vitorianos** — El Español
 - 2026-10-22 20:51 UTC · **El Barça recupera el pulso con un solvente triunfo en Milán** — El Periódico
 - 2026-10-22 20:49 UTC · **El Madrid bate en cuatro días sus récords de triples en Liga y Euroliga** — Real Madrid CF | Web Oficial
 - 2026-10-22 20:43 UTC · **El Barça sale del atolladero** — Diario AS
@@ -185,6 +190,7 @@ Actualizado: 2026-10-22T23:12+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-22 18:52 UTC · **El Proyecto Suma del CB Gran Canaria pone rumbo a la segunda Copa Campeones de la ACB** — La Provincia
 - 2026-10-22 18:45 UTC · **¿Quiénes serán los árbitros del Breogán-Unicaja de la jornada 5 de la Liga Endesa?** — La Opinión de Málaga
 - 2026-10-22 18:19 UTC · **La FEB da el ok al cobro de su plataforma y el CB Gran Canaria dejará de verse gratis** — La Provincia
+- 2026-10-22 18:15 UTC · **Maccabi vs Real Madrid: Puntos, rebotes y asistencias por jugador | Euroliga 2026/2027** — Diario AS
 - 2026-10-22 18:09 UTC · **Konchar llega al Olympiacos; Dorsey fuera un mes** — Blog de Basket
 - 2026-10-22 18:03 UTC · **Programación de Movistar Deportes hoy** — ABC
 - 2026-10-22 18:01 UTC · **Canal y horario del Maccabi Tel Aviv - Real Madrid Basket: dónde ver por TV el partido de la Euroliga** — Mundo Deportivo
@@ -198,6 +204,7 @@ Actualizado: 2026-10-22T23:12+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-22 17:40 UTC · **Liga U, en directo I Real Madrid - Barça Atlètic** — MARCA
 - 2026-10-22 17:35 UTC · **Maccabi Rapyd Tel Aviv - Real Madrid, en directo: partido de la Euroliga, hoy en vivo** — SPORT
 - 2026-10-22 17:33 UTC · **Resultados Euroliga, jornada 7: horarios, TV, partidos y clasificación** — Diario AS
+- 2026-10-22 17:25 UTC · **A qué hora es el Maccabi Tel Aviv - Real Madrid: horario y dónde ver hoy en TV el partido de la Euroliga** — MARCA
 - 2026-10-22 17:19 UTC · **A qué hora es el Olimpia Milan - Barça: horario y dónde ver hoy en TV el partido de Euroliga** — MARCA
 - 2026-10-22 17:13 UTC · **Valencia Basket viaja a París al completo, con Hifi y Warren pendientes de regresar** — Mundo Deportivo
 - 2026-10-22 17:12 UTC · **BalONcesto TV activa su plan de suscripciones a partir del próximo día 30** — Ideal
@@ -231,25 +238,3 @@ Actualizado: 2026-10-22T23:12+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-22 13:56 UTC · **La nueva sensación de la BCL: Leland Walker iguala una marca histórica de TJ Shorts** — Gigantes del Basket · https://www.gigantes.com/bcl/nueva-sensacion-leland-walker-iguala-marca-historica-tj-shorts/
 - 2026-10-22 13:43 UTC · **El fichaje fantasma del Barça de basket que deja 800.000 euros en las arcas del club: cobra 2 millones de euros netos de salario** — Crónica Global
 - 2026-10-22 13:43 UTC · **El fichaje fantasma que deja 800.000 euros de beneficio en el Barça de basket: le ofrecían 2 millones netos de salario** — Crónica Global
-- 2026-10-22 13:28 UTC · **El Canarias firma un récord histórico en la EuroCup con 43 puntos en un cuarto** — Radio Marca Tenerife
-- 2026-10-22 13:09 UTC · **Debutantes de impacto en la Liga Endesa** — Blog de Basket
-- 2026-10-22 13:06 UTC · **El Askatuak Gipuzkoa se centra en la liga** — Onda Vasca
-- 2026-10-22 12:31 UTC · **Kyle Guy y Nick Ongenda, mejores jugadores de la cuarta jornada de la Eurocup** — Mundo Deportivo
-- 2026-10-22 12:15 UTC · **El Unicaja-Barça del 1 de noviembre camina hacia el lleno total en el Carpena** — La Opinión de Málaga
-- 2026-10-22 12:03 UTC · **Euroliga en directo: Sigue la jornada 7 del mejor torneo europeo** — Flashscore.com.ar
-- 2026-10-22 12:00 UTC · **SORTEO 2 ENTRADAS DOBLES LIGA U22 30 OCTUBRE** — El Periódico de Aragón
-- 2026-10-22 11:55 UTC · **José Miguel Campos: "Estamos compitiendo bien y tenemos que seguir esta línea para consolidar al club en la categoría"** — murciaeconomia.com
-- 2026-10-22 11:54 UTC · **El derbi más caliente de Europa tiene acento español** — SPORT
-- 2026-10-22 11:46 UTC · **Jaime Fernández: "El objetivo no es ir a Barcelona a competir, es ir a ganar"** — Aragón Play
-- 2026-10-22 11:45 UTC · **Saulo Hernández: "Tenemos que ser muy intensos los 40 minutos, ellos castigan mucho el error del rival"** — Zamora24horas
-- 2026-10-22 11:44 UTC · **Valencia Basket busca volver a la senda del triunfo en Europa en la pista de un París herido** — El Desmarque
-- 2026-10-22 11:41 UTC · **El escándalo de sobornos en Grecia llega a los tribunales de Atenas** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2024325/el-escandalo-de-sobornos-en-grecia-llega-a-los-tribunales-de-atenas/
-- 2026-10-22 11:39 UTC · **Kyle Guy y Nick Ongenda comparten el MVP de la cuarta jornada de la Eurocup** — Eurohoops · https://www.eurohoops.net/es/eurocup-es/2024322/kyle-guy-y-nick-ongenda-comparten-el-mvp-de-la-cuarta-jornada-de-la-eurocup/
-- 2026-10-22 11:30 UTC · **El Valencia Basket busca relanzar su Euroliga ante un París en crisis** — Actualidad Valencia
-- 2026-10-22 11:29 UTC · **Checa: "Nos queda mucho por aprender y mejorar, pero hay ganas y compromiso"** — MurciaEconomía.com
-- 2026-10-22 11:28 UTC · **Valencia Basket vuelve a viajar para visitar por segunda vez la pista del Paris Basketball** — Valencia Basket Club
-- 2026-10-22 11:26 UTC · **Student Niš – Benfica marcadores y predicciones** — Sofascore
-- 2026-10-22 11:20 UTC · **Euroliga jornada 7: Real Madrid, Baskonia y Barça a domicilio** — Relevo Deportes
-- 2026-10-22 11:18 UTC · **Xavi Albert analiza el París Basketball - Valencia Basket de Euroliga** — Superdeporte
-- 2026-10-22 11:18 UTC · **El Estu incorpora a Savané y Pepu Hernández a su consejo tras ampliar capital en 6 millones** — 2Playbook
-- 2026-10-22 11:15 UTC · **El Hapoel remonta 13 puntos y vence al Virtus en Sofía** — Blog de Basket

@@ -1,14 +1,19 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-24T07:09+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-24T12:05+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (58)
+## UCAM Murcia CB (61)
 
+- 2026-10-24 09:45 UTC · **UCAM Murcia vs Leyma Coruña: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN
+- 2026-10-24 09:45 UTC · **Las leyendas del UCAM Murcia CB que reescriben la historia del club en activo** — COPE
+- 2026-10-24 09:45 UTC · **Mourinho: "A Fermín le cansa nuestro discurso y a nosotros nos cansan otras cosas"** — La Verdad
+- 2026-10-24 09:02 UTC · **UCAM Murcia - Leyma Coruña: el tercer peor ataque contra la peor defensa** — Cadena SER
 - 2026-10-24 04:01 UTC · **El UCAM Murcia busca dar el primer paso hacia su despertar ante el Leyma Coruña** — La Opinión de Murcia
 - 2026-10-23 22:48 UTC · **Zonas de tiro Dusan Sakota** — ACB
 - 2026-10-23 21:24 UTC · **Valencia Basket asalta París de la mano de TJ Shorts (93-104)** — El Desmarque
 - 2026-10-23 20:39 UTC · **El UCAM CB sub 22 sigue líder en el grupo B con su cuarto triunfo seguido al ganar por 84-108 en Málaga** — Murcia Plaza
+- 2026-10-23 19:04 UTC · **Baloncesto: Ferrol - Gernika, en directo | 24/10 (f)** — RTVE.es
 - 2026-10-23 19:04 UTC · **Balonmano: España - Japón (f), en directo | 24/10** — RTVE.es
 - 2026-10-23 16:12 UTC · **UCAM Murcia-Leyma Coruña: Una reválida para afinar la defensa** — La Opinión A Coruña
 - 2026-10-23 15:20 UTC · **Especial Derbis en MurciaEconomía Radio: UCAM-Cieza e Imperial-Lorca en directo este domingo** — MurciaEconomía.com
@@ -61,10 +66,8 @@ Actualizado: 2026-10-24T07:09+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-21 20:06 UTC · **Basketball | Coruña vs. Força Lleida** — DAZN
 - 2026-10-21 12:59 UTC · **Sánchez** — ACB
 - 2026-10-21 12:30 UTC · **La Liga U sigue creciendo y refuerza sus retransmisiones con la incorporación de DAZN** — ACB
-- 2026-10-21 10:12 UTC · **22 preguntas a Lucas Marí** — ACB
-- 2026-10-21 07:55 UTC · **Aday Mara deslumbra en su debut en la NBA con un monstruoso tapón a Victor Wembanyama** — El Desmarque
 
-## Covirán Granada (30)
+## Covirán Granada (22)
 
 - 2026-10-23 21:38 UTC · **La bravura de Rafa García le permite gozar de minutos** — Ideal
 - 2026-10-23 17:49 UTC · **Las dudas del Covirán Granada, un arma de doble filo para el Caja 87** — Diario de Sevilla
@@ -88,14 +91,6 @@ Actualizado: 2026-10-24T07:09+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-21 17:33 UTC · **Aumentar los porcentajes, uno de los aspectos a mejorar por el Covirán Granada** — Granada Hoy
 - 2026-10-21 15:42 UTC · **El jugón que el Covirán dejó escapar** — Ideal
 - 2026-10-21 14:24 UTC · **Onda Deportiva Granada, miércoles 21/10/2026** — Onda Cero
-- 2026-10-21 11:57 UTC · **Cádiar pondrá el broche al Circuito provincial de BTT de media maratón** — Ideal
-- 2026-10-21 11:34 UTC · **Mal resultado, peor juego** — Ideal
-- 2026-10-21 11:06 UTC · **El Covirán Granada cae eliminado de la Copa España tras un fatídico primer cuarto ante Movistar Estudiantes (76-86)** — Muchodeporte
-- 2026-10-21 10:16 UTC · **Vídeo | Vídeo resumen del partido entre el Covirán Granada y el Estudiantes** — Granada Hoy
-- 2026-10-21 10:09 UTC · **El CB Zamora ficha por sorpresa a Álex Jordá para reforzar su plantilla** — Zamora News
-- 2026-10-21 08:28 UTC · **Acciona – Energía y desarrollo productivo: así es el proyecto que mejora la vida de comunidades rurales en Brasil** — Ideal
-- 2026-10-21 08:17 UTC · **Informativo Granada - 21/10/2026** — RTVE.es
-- 2026-10-21 08:17 UTC · **Andalucía Informativos: Informativo Granada - 21/10/2026 | RNE Audio** — RTVE.es
 
 ## Periodistas preferentes (6)
 
@@ -106,56 +101,62 @@ Actualizado: 2026-10-24T07:09+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-22 11:29 UTC · **Checa: "Nos queda mucho por aprender y mejorar, pero hay ganas y compromiso"** — MurciaEconomía.com
 - 2026-10-22 08:58 UTC · **Jonah Radebaugh, capitán de UCAM Murcia: "Para ganar, tenemos que recuperar nuestra intensidad defensiva"** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (51)
+## Resto (últimas 12 h) (57)
 
+- 2026-10-24 11:38 UTC · **El Valencia Basket viaja a Lugo a curarse las heridas europeas** — Plaza Deportiva
+- 2026-10-24 11:36 UTC · **El ASISA Joventut busca la tercera victoria consecutiva en la ACB** — Penya
+- 2026-10-24 11:36 UTC · **El Valencia Basket trata de despegar en la ACB en la visita del Baskonia al Roig Arena** — Plaza Deportiva
+- 2026-10-24 11:35 UTC · **Un R. Madrid de récord, con Feliz y Campazzo en racha, funciona bajo el estilo de Martínez** — HolaNews
+- 2026-10-24 11:31 UTC · **TJ Shorts conquista el MVP de la Euroliga tras su exhibición contra París Basketball** — Superdeporte
+- 2026-10-24 11:20 UTC · **¿Por qué duran más ahora los partidos? El complejo equilibrio entre la justicia deportiva y el consumo del gran público** — Gigantes del Basket · https://www.gigantes.com/revista/instant-replay-partidos-duracion/
+- 2026-10-24 11:20 UTC · **5 nombres propios entre los grandes destacados del inicio de la Euroliga** — Gigantes del Basket · https://www.gigantes.com/euroliga/revelaciones-euroleague-2026-27-siete-jornadas/
+- 2026-10-24 11:05 UTC · **Cajasol Coto Córdoba-Cajasiete Gran Canaria: horario y dónde ver el partido de la Primera FEB** — Diario Córdoba
+- 2026-10-24 11:00 UTC · **Barça Basket vs Casademont Zaragoza: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN
+- 2026-10-24 11:00 UTC · **La NCAA da luz verde a Izan Almansa y Gonzaga oficializa su fichaje** — Solobasket · https://www.solobasket.com/internacional/izan-almansa-gonzaga-ncaa-luz-verde
+- 2026-10-24 10:48 UTC · **Javier Zamora:«La clave va ser llevar el trabajo diario y la competencia sana a la excelencia** — Bàsquet Menorca
+- 2026-10-24 10:43 UTC · **TJ Shorts y Zach LeDay comparten el MVP de la 7ª jornada en la Euroliga** — Mundo Deportivo
+- 2026-10-24 10:37 UTC · **Incendio en el Real Madrid: "En la directiva están hartos de Pedro Martínez"** — SPORT
+- 2026-10-24 10:11 UTC · **Doncic admite un partido “horrible” e insiste en que los Lakers tienen “mucho margen de mejora”** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2025395/doncic-admite-un-partido-horrible-e-insiste-en-que-los-lakers-tienen-mucho-margen-de-mejora/
+- 2026-10-24 10:10 UTC · **Ludde Hakanson, base del Asisa Joventut, baja indefinida por una lesión en el tobillo** — Mundo Deportivo
+- 2026-10-24 10:00 UTC · **Alarma Cooper Flagg: una dura falta, una caída aparatosa y una lesión que preocupa a Dallas** — Blog de Basket
+- 2026-10-24 09:48 UTC · **Valencia Basket gana al París Basketball (93-104) con una exhibición de TJ Shorts en Euroliga** — Official Press
+- 2026-10-24 09:44 UTC · **LIGA U, Valencia Basket - Casademont Zaragoza | J5** — SPORT
+- 2026-10-24 09:39 UTC · **Juan Núñez, tras año y medio de lesiones: “Sigo siendo el mismo que era”** — Solobasket · https://www.solobasket.com/liga-endesa/juan-nunez-sigo-siendo-mismo-lesiones-barca
+- 2026-10-24 09:30 UTC · **Ponsarnau antes del MoraBanc Andorra: «Tocaba aprender la tabla de multiplicar»** — BilbaoHiria
+- 2026-10-24 09:29 UTC · **El Barça, a reafirmarse ante un mermado Casademont Zaragoza** — Mundo Deportivo
+- 2026-10-24 09:25 UTC · **El Cajasol Coto Córdoba recibe a un Gran Canaria que llega como un transatlántico a Vista Alegre** — Diario Córdoba
+- 2026-10-24 09:19 UTC · **Stassin y Guridi, refuerzos contra Osasuna** — Diario AS
+- 2026-10-24 09:16 UTC · **Jabari Parker, de capa caída: de estrella en el Barça a quedarse sin equipo** — Mundo Deportivo
+- 2026-10-24 09:00 UTC · **El Barça busca reconquistar al Palau: "Ha dejado de ser un fortín, es una lástima"** — SPORT
+- 2026-10-24 09:00 UTC · **El Cajasiete Gran Canaria busca romper la imbatibilidad liguera como local del Cajasol Coto Córdoba** — cbgrancanaria.net
+- 2026-10-24 08:29 UTC · **Vía libre para el ‘nuevo Courtois’** — Diario AS
+- 2026-10-24 08:23 UTC · **Cajasol Coto Córdoba – Cajasiete Gran Canaria | J5 | Primera FEB 2026/27** — Radio Televisión Canaria
+- 2026-10-24 08:19 UTC · **La Copa Campeones ya se disfruta en Badalona** — ACB
+- 2026-10-24 08:17 UTC · **Resumen de la NBA: los Lakers vuelven a ganar, triple-doble de Sabonis…** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2025360/resumen-de-la-nba-los-lakers-vuelven-a-ganar-triple-doble-de-sabonis/
+- 2026-10-24 08:10 UTC · **Jabari Parker deja de ser jugador de Partizan** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2025353/jabari-parker-deja-de-ser-jugador-de-partizan/
+- 2026-10-24 08:02 UTC · **Leon Radosevic, un veterano de mil batallas para el Andorra** — Deia
+- 2026-10-24 08:02 UTC · **7 conclusiones del inicio de la temporada 2026-27 de la NBA: Lakers, Aday Mara, 76ers…** — Gigantes del Basket · https://www.gigantes.com/nba/nba-conclusiones-temporada-2026-27-lakers-mara-76ers/
+- 2026-10-24 07:43 UTC · **Valencia Basket gana 93-104 en París con 25 puntos de TJ Shorts ante su exequipo** — Solobasket · https://www.solobasket.com/euroliga/valencia-basket-gana-paris-tj-shorts-euroliga
+- 2026-10-24 07:24 UTC · **Valencia Basket vs Baskonia: pronóstico y cuotas | Liga Endesa** — BetBrothers.es
+- 2026-10-24 07:24 UTC · **Lleida vs Real Madrid: pronóstico y cuotas | Liga Endesa** — BetBrothers.es
+- 2026-10-24 07:05 UTC · **Horario, canal y dónde ver por TV la quinta jornada de Liga Endesa de baloncesto** — Mundo Deportivo
+- 2026-10-24 06:54 UTC · **Tiago Splitter, entrenador de los Chicago Bulls: “Ojalá la Euroliga y la NBA lleguen a un acuerdo, se puede hacer algo bien hecho”** — Mundo Deportivo
 - 2026-10-24 06:13 UTC · **Resultados de Baloncesto del 30 de octubre de 2026: partidos, horarios y TV | Deportes en EL PAÍS** — EL PAÍS
-- 2026-10-24 06:00 UTC · **Pierre Oriola demuestra a Chus Mateo por qué debe ser un fijo en las 'ventanas'** — SPORT
+- 2026-10-24 06:12 UTC · **Saka, mala pinta** — Diario AS
 - 2026-10-24 06:00 UTC · **Los Lakers de Doncic ganan el derbi a los Clippers y Baba Miller se queda sin jugar** — Solobasket · https://www.solobasket.com/nba/lakers-doncic-clippers-baba-miller-de-larrea
+- 2026-10-24 06:00 UTC · **Pierre Oriola demuestra a Chus Mateo por qué debe ser un fijo en las 'ventanas'** — SPORT
 - 2026-10-24 05:52 UTC · **Valencia Basket conquista París con un TJ Shorts estelar y un Brooks decisivo** — SempreValencia.com
+- 2026-10-24 05:15 UTC · **Valencia Basket 'asalta' París para volver a la senda de la victoria en Euroliga (93-104)** — ESdiario
 - 2026-10-24 05:00 UTC · **El Caja Rural CB Zamora viaja a Oviedo con Jordá y ganas de sumar el primer triunfo a domicilio** — La Opinión de Zamora
 - 2026-10-24 04:59 UTC · **Cajasol Coto Córdoba-Cajasiete Gran Canaria: horario y dónde ver por televisión el partido de Primera FEB** — El Día de Córdoba
 - 2026-10-24 04:30 UTC · **La ambición del COB viste bata blanca** — La Región
 - 2026-10-24 04:11 UTC · **El CB Zamora visita al Oviedo con Álex Jordá como refuerzo y el reto de competir ante un rival modelo** — Zamora24horas
+- 2026-10-24 04:06 UTC · **Zonas de tiro Anthony Randolph** — ACB
 - 2026-10-24 03:50 UTC · **Barcelona - Zaragoza: horario, TV y dónde ver la ACB 2026-27** — Diario AS
+- 2026-10-24 03:49 UTC · **Pensando en Aday Mara** — Diario AS
 - 2026-10-24 03:48 UTC · **Juan Núñez: “Sigo siendo el mismo que era”** — Diario AS
 - 2026-10-24 03:46 UTC · **Shaquille O'Neal elogia el baloncesto europeo tras ver la Euroliga en Kaunas** — La Revista Peninsular
-- 2026-10-24 03:30 UTC · **¿Misión imposible?: La previa del Barça-Casademont Zaragoza** — El Periódico de Aragón
 - 2026-10-24 03:30 UTC · **La liga de los 100 puntos y el debate sobre el juego en la Euroliga y la NBA** — EL PAÍS
+- 2026-10-24 03:30 UTC · **¿Misión imposible?: La previa del Barça-Casademont Zaragoza** — El Periódico de Aragón
 - 2026-10-24 02:00 UTC · **El Alimerka Oviedo Baloncesto quiere la tercera en un Palacio a rebosar: "Me gustaría ser más consistentes"** — La Nueva España
 - 2026-10-24 00:51 UTC · **El Joventut Badalona cambia de propietario y Ricky Rubio entra en el accionariado** — Diario de Santiago
-- 2026-10-23 23:49 UTC · **Gran remontada del Fenerbahçe ante Olympiacos en Grecia para adueñarse de la cima de la EuroLiga** — DSports
-- 2026-10-23 23:26 UTC · **Paris Basketball - Valencia Basket: pronóstico y cuotas | Euroliga** — BetBrothers.es
-- 2026-10-23 22:19 UTC · **Resumen de las mejores imágenes del París Basketball - Valencia Basket de Euroliga** — Superdeporte
-- 2026-10-23 22:10 UTC · **¡Ya tenemos 5! Victoria en París (92-104)** — Valencia Basket Club
-- 2026-10-23 22:06 UTC · **Xavi Albert: "Tenemos la suerte de tener a TJ Shorts, es un gran líder"** — Superdeporte
-- 2026-10-23 21:50 UTC · **Un TJ Shorts imparable lidera al Valencia Basket para ganar en París** — Las Provincias
-- 2026-10-23 21:30 UTC · **Xavi Albert, rendido a su estrella: "Es un líder. Tenemos una gran suerte de tenerlo con nosotros, lee lo que necesita el equipo en cada momento"** — Mundo Deportivo
-- 2026-10-23 21:25 UTC · **Así queda la clasificación de la Liga U tras la victoria del Barça en el Clásico ante el Real Madrid** — Mundo Deportivo
-- 2026-10-23 21:16 UTC · **Qué ha pasado hoy en la Euroliga: TJ Shorts deslumbra en París y Valencia Basket se mantiene arriba en la clasificación** — Gigantes del Basket · https://www.gigantes.com/euroliga/que-ha-pasado-hoy-jornada-7/
-- 2026-10-23 21:15 UTC · **El Valencia Basket recupera su mejor versión en París (93-104)** — Encestando
-- 2026-10-23 21:14 UTC · **El Valencia Basket logra un contundente triunfo en París** — EL PAÍS
-- 2026-10-23 21:13 UTC · **Valencia Basket se pone tercero tras ganar en París** — Cadena SER
-- 2026-10-23 21:13 UTC · **TJ Shorts y Armoni Brooks hacen volar a un gran Valencia Basket en París** — Superdeporte
-- 2026-10-23 21:12 UTC · **Así queda la clasificación de la Euroliga tras la victoria del Valencia Basket en París** — Mundo Deportivo
-- 2026-10-23 21:11 UTC · **93-104: El Valencia vence en París y recupera el aliento en la Euroliga** — Mundo Deportivo
-- 2026-10-23 21:09 UTC · **TJ Shorts destroza a su exequipo** — Diario AS
-- 2026-10-23 21:06 UTC · **TJ Shorts se venga de sus ex y aúpa al Valencia en París** — MARCA
-- 2026-10-23 21:04 UTC · **El Valencia Basket conquista París a base de triples y exhibe su poderío ofensivo** — Nostresport
-- 2026-10-23 21:02 UTC · **Con la fuerza de Miribilla** — Radio Popular de Bilbao
-- 2026-10-23 21:00 UTC · **Buen aporte de Corbalán en la victoria del Valencia en la EuroLiga** — DeporTV
-- 2026-10-23 20:58 UTC · **El Valencia Basket levanta la cabeza en Euroliga** — La Tribuna de Albacete
-- 2026-10-23 20:56 UTC · **Paris Basketball - Valencia Basket, Euroliga: marcador, valoraciones y estadísticas con la victoria del conjunto taronja** — El Español
-- 2026-10-23 20:50 UTC · **Valencia Basket 'asalta' París al ritmo de TJ Shorts** — Plaza Deportiva
-- 2026-10-23 20:50 UTC · **Valencia vuelve a la senda del triunfo** — Eurohoops · https://www.eurohoops.net/es/euroleague-es/2025001/valencia-vuelve-a-la-senda-del-triunfo/
-- 2026-10-23 20:49 UTC · **TJ Shorts lidera la victoria del Valencia Basket en París** — La Razón
-- 2026-10-23 20:47 UTC · **Resumen de la Euroliga: Zalgiris arrasa, Fenerbahçe puede con Olympiacos** — Eurohoops · https://www.eurohoops.net/es/euroleague-es/2025116/resumen-de-la-euroliga-zalgiris-arrasa-fenerbahce-puede-con-olympiacos/
-- 2026-10-23 20:43 UTC · **Izan Almansa confirma su marcha a la NCAA y jugará en la universidad de Gonzaga** — Gigantes del Basket · https://www.gigantes.com/ncaa/izan-almansa-oficial-gonzaga-ncaa/
-- 2026-10-23 20:28 UTC · **EL PALAU, UNA PRUEBA DE NIVEL PARA SEGUIR CRECIENDO** — Basket Zaragoza |
-- 2026-10-23 20:26 UTC · **Badalona se viste de Copa Campeones** — ACB
-- 2026-10-23 20:11 UTC · **El Zambú Pinatar se mantiene invicto a costa del filial charcutero** — murciaeconomia.com
-- 2026-10-23 20:06 UTC · **Zalgiris Kaunas-LDLC ASVEL Villeurbanne | Round 7 Highlights | 2026-27 EuroLeague** — Euroleague Basketball
-- 2026-10-23 19:48 UTC · **París Basketball vs Valencia Basket: estadísticas y datos en directo | Euroliga 2026/2027** — Diario AS
-- 2026-10-23 19:45 UTC · **El Cáceres se aferra al Multiusos** — Hoy
-- 2026-10-23 19:36 UTC · **Urge en el Recoletas Salud San Pablo la necesidad de volver a ganar** — Revista Forofos
-- 2026-10-23 19:32 UTC · **El Real Madrid suma 7 victorias consecutivas y consigue dos récords históricos** — Bernabéu Digital
-- 2026-10-23 19:16 UTC · **París Basketball vs Valencia Basket: Puntos, rebotes y asistencias por jugador | Euroliga 2026/2027** — Diario AS

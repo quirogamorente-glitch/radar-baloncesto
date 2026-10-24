@@ -1,6 +1,6 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-23T23:30+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-24T01:59+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
 ## UCAM Murcia CB (56)
@@ -104,18 +104,25 @@ Actualizado: 2026-10-23T23:30+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-22 11:29 UTC · **Checa: "Nos queda mucho por aprender y mejorar, pero hay ganas y compromiso"** — MurciaEconomía.com
 - 2026-10-22 08:58 UTC · **Jonah Radebaugh, capitán de UCAM Murcia: "Para ganar, tenemos que recuperar nuestra intensidad defensiva"** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (104)
+## Resto (últimas 12 h) (98)
 
+- 2026-10-24 00:51 UTC · **El Joventut Badalona cambia de propietario y Ricky Rubio entra en el accionariado** — Diario de Santiago
+- 2026-10-23 23:49 UTC · **Gran remontada del Fenerbahçe ante Olympiacos en Grecia para adueñarse de la cima de la EuroLiga** — DSports
+- 2026-10-23 23:26 UTC · **Paris Basketball - Valencia Basket: pronóstico y cuotas | Euroliga** — BetBrothers.es
 - 2026-10-23 22:19 UTC · **Resumen de las mejores imágenes del París Basketball - Valencia Basket de Euroliga** — Superdeporte
 - 2026-10-23 22:10 UTC · **¡Ya tenemos 5! Victoria en París (92-104)** — Valencia Basket Club
 - 2026-10-23 22:06 UTC · **Xavi Albert: "Tenemos la suerte de tener a TJ Shorts, es un gran líder"** — Superdeporte
 - 2026-10-23 21:50 UTC · **Un TJ Shorts imparable lidera al Valencia Basket para ganar en París** — Las Provincias
+- 2026-10-23 21:30 UTC · **Xavi Albert, rendido a su estrella: "Es un líder. Tenemos una gran suerte de tenerlo con nosotros, lee lo que necesita el equipo en cada momento"** — Mundo Deportivo
+- 2026-10-23 21:25 UTC · **Así queda la clasificación de la Liga U tras la victoria del Barça en el Clásico ante el Real Madrid** — Mundo Deportivo
 - 2026-10-23 21:16 UTC · **Qué ha pasado hoy en la Euroliga: TJ Shorts deslumbra en París y Valencia Basket se mantiene arriba en la clasificación** — Gigantes del Basket · https://www.gigantes.com/euroliga/que-ha-pasado-hoy-jornada-7/
 - 2026-10-23 21:15 UTC · **El Valencia Basket recupera su mejor versión en París (93-104)** — Encestando
 - 2026-10-23 21:14 UTC · **El Valencia Basket logra un contundente triunfo en París** — EL PAÍS
 - 2026-10-23 21:13 UTC · **Valencia Basket se pone tercero tras ganar en París** — Cadena SER
 - 2026-10-23 21:13 UTC · **TJ Shorts y Armoni Brooks hacen volar a un gran Valencia Basket en París** — Superdeporte
 - 2026-10-23 21:12 UTC · **Así queda la clasificación de la Euroliga tras la victoria del Valencia Basket en París** — Mundo Deportivo
+- 2026-10-23 21:11 UTC · **93-104: El Valencia vence en París y recupera el aliento en la Euroliga** — Mundo Deportivo
+- 2026-10-23 21:09 UTC · **TJ Shorts destroza a su exequipo** — Diario AS
 - 2026-10-23 21:06 UTC · **TJ Shorts se venga de sus ex y aúpa al Valencia en París** — MARCA
 - 2026-10-23 21:04 UTC · **El Valencia Basket conquista París a base de triples y exhibe su poderío ofensivo** — Nostresport
 - 2026-10-23 21:02 UTC · **Con la fuerza de Miribilla** — Radio Popular de Bilbao
@@ -124,21 +131,27 @@ Actualizado: 2026-10-23T23:30+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-23 20:56 UTC · **Paris Basketball - Valencia Basket, Euroliga: marcador, valoraciones y estadísticas con la victoria del conjunto taronja** — El Español
 - 2026-10-23 20:50 UTC · **Valencia Basket 'asalta' París al ritmo de TJ Shorts** — Plaza Deportiva
 - 2026-10-23 20:50 UTC · **Valencia vuelve a la senda del triunfo** — Eurohoops · https://www.eurohoops.net/es/euroleague-es/2025001/valencia-vuelve-a-la-senda-del-triunfo/
+- 2026-10-23 20:49 UTC · **TJ Shorts lidera la victoria del Valencia Basket en París** — La Razón
 - 2026-10-23 20:47 UTC · **Resumen de la Euroliga: Zalgiris arrasa, Fenerbahçe puede con Olympiacos** — Eurohoops · https://www.eurohoops.net/es/euroleague-es/2025116/resumen-de-la-euroliga-zalgiris-arrasa-fenerbahce-puede-con-olympiacos/
 - 2026-10-23 20:43 UTC · **Izan Almansa confirma su marcha a la NCAA y jugará en la universidad de Gonzaga** — Gigantes del Basket · https://www.gigantes.com/ncaa/izan-almansa-oficial-gonzaga-ncaa/
+- 2026-10-23 20:28 UTC · **EL PALAU, UNA PRUEBA DE NIVEL PARA SEGUIR CRECIENDO** — Basket Zaragoza |
 - 2026-10-23 20:26 UTC · **Badalona se viste de Copa Campeones** — ACB
 - 2026-10-23 20:11 UTC · **El Zambú Pinatar se mantiene invicto a costa del filial charcutero** — murciaeconomia.com
 - 2026-10-23 20:06 UTC · **Zalgiris Kaunas-LDLC ASVEL Villeurbanne | Round 7 Highlights | 2026-27 EuroLeague** — Euroleague Basketball
 - 2026-10-23 19:48 UTC · **París Basketball vs Valencia Basket: estadísticas y datos en directo | Euroliga 2026/2027** — Diario AS
 - 2026-10-23 19:45 UTC · **El Cáceres se aferra al Multiusos** — Hoy
 - 2026-10-23 19:36 UTC · **Urge en el Recoletas Salud San Pablo la necesidad de volver a ganar** — Revista Forofos
+- 2026-10-23 19:32 UTC · **El Real Madrid suma 7 victorias consecutivas y consigue dos récords históricos** — Bernabéu Digital
 - 2026-10-23 19:16 UTC · **París Basketball vs Valencia Basket: Puntos, rebotes y asistencias por jugador | Euroliga 2026/2027** — Diario AS
+- 2026-10-23 19:02 UTC · **Baba Miller, maravillado con la NBA: "Es una locura"** — Blog de Basket
 - 2026-10-23 19:00 UTC · **Barça - Casademont Zaragoza: a qué hora y dónde ver el partido de la Liga Endesa por TV, online y en directo** — SPORT
 - 2026-10-23 18:47 UTC · **Alimerka Oviedo Baloncesto - Caja Rural CB Zamora Altre partite: Live Basket Aggiornamenti** — eurosport.it
 - 2026-10-23 18:42 UTC · **Peñarroya vence a Navarro en el derbi de Belgrado** — Blog de Basket
 - 2026-10-23 18:42 UTC · **Evans regresa al Zalgiris tras paso por Londres** — Blog de Basket
+- 2026-10-23 18:41 UTC · **DIRECTO | Paris Basketball - Valencia Basket de Euroliga** — Superdeporte
 - 2026-10-23 18:41 UTC · **DIRECTO | Valencia Basket empieza fuerte en un partido frenético en Paris (26-32)** — Superdeporte
 - 2026-10-23 18:34 UTC · **Mariana Valenzuela brilla con Benfica y suma su segunda victoria en la Eurocup Femenil** — El Sol de México
+- 2026-10-23 18:30 UTC · **El Cajasiete Gran Canaria, el gran reto de un Cajasol Coto Córdoba que busca dar la campanada** — El Día de Córdoba
 - 2026-10-23 18:26 UTC · **Cremo pone en alerta al Cajasiete Gran Canaria: «Sabemos que aquí nadie te regala nada»** — Canarias7
 - 2026-10-23 18:23 UTC · **Baloncesto: Valkyries - Atlanta Dream, en directo | WNBA** — RTVE.es
 - 2026-10-23 18:20 UTC · **Sigue el Amara Lleida - Kids&Us Manresa, en streaming** — Mundo Deportivo
@@ -151,9 +164,11 @@ Actualizado: 2026-10-23T23:30+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-23 18:03 UTC · **Iberolea Palencia - Ourense Baloncesto en directo - Primera FEB: Resultados y resúmenes de Baloncesto - 24/10/2026** — Eurosport
 - 2026-10-23 17:50 UTC · **Los descartes de Xavi Albert en el Paris Basketball - Valencia Basket de Euroliga** — Superdeporte
 - 2026-10-23 17:42 UTC · **Joe Cremo y la asignatura pendiente del CB Gran Canaria: "Estamos trabajando para mejorar en defensa"** — La Provincia
+- 2026-10-23 17:40 UTC · **El Real Madrid despega a base de triples** — AG Deportes
 - 2026-10-23 17:37 UTC · **El club de la Euroliga que compra el Joventut de Badalona para darle un impulso: Ricky Rubio, entre los nuevos accionistas** — Crónica Global
 - 2026-10-23 17:33 UTC · **París Basketball - Valencia Basket en directo | Última hora de Euroliga en vivo hoy** — MARCA
 - 2026-10-23 17:28 UTC · **Que el cobijo de La Caldera de Castilla actúe como aspirina** — Diario Palentino
+- 2026-10-23 17:27 UTC · **El Barça del niño gigante Dabone tumba al Real Madrid del prodigioso Kutluay** — MARCA
 - 2026-10-23 17:25 UTC · **El Barça se lleva el Clásico con un gran Dabone y mantiene su invicto en la Liga U22** — Gigantes del Basket · https://www.gigantes.com/liga-u/barca-u22-clasico-dabone-kutluay/
 - 2026-10-23 17:24 UTC · **Dalton Knecht firma un contrato dual con los Knicks** — Eurohoops (español) [posible rumor] · https://www.eurohoops.net/es/nba-news-es/2025032/dalton-knecht-firma-un-contrato-dual-con-los-knicks/
 - 2026-10-23 17:21 UTC · **Cáceres-Valladolid, pelea de gallos en el grupo A** — El Periódico Extremadura
@@ -161,6 +176,7 @@ Actualizado: 2026-10-23T23:30+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-23 17:15 UTC · **Dabone pone Madrid a sus pies** — Diario AS
 - 2026-10-23 17:09 UTC · **Jornada 5 de la Primera FEB: horarios y dónde ver los partidos, con tres invictos en juego** — Solobasket · https://www.solobasket.com/primera-feb/jornada-5-primera-feb-horarios-donde-ver
 - 2026-10-23 17:07 UTC · **El Gran Canaria ya prepara en Vista Alegre la cita ante el Cajasol Coto Córdoba** — Diario Córdoba
+- 2026-10-23 16:56 UTC · **Resumen del Euskaltax Bilbao Basket vs. Joventut Badalona de Liga U** — Diario AS
 - 2026-10-23 16:56 UTC · **En directo, Euskaltax Bilbao Baskek vs. Joventut Badalona de Liga U** — Diario AS
 - 2026-10-23 16:51 UTC · **Agenda del Baloncesto Andaluz | Fin de Semana 23-25 Octubre** — Federación Andaluza De Baloncesto
 - 2026-10-23 16:44 UTC · **El San Pablo Burgos necesita aprender a cerrar los partidos** — El Correo de Burgos
@@ -170,6 +186,7 @@ Actualizado: 2026-10-23T23:30+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-23 15:53 UTC · **Plan Fútbol, Plan Motor, Plan Baloncesto, Plan Made in USA y Plan Premium: así son los planes de DAZN España** — DAZN
 - 2026-10-23 15:50 UTC · **Badajoz - Ponferrada: 'En busca de la regularidad y la primera a domicilio'** — La Nueva Crónica
 - 2026-10-23 15:50 UTC · **Getafe - Cultural: 'Que continúe la euforia copera'** — La Nueva Crónica
+- 2026-10-23 15:45 UTC · **Michael Ruzic se desvincula del Asisa Joventut y pone rumbo a la NCAA** — Mundo Deportivo
 - 2026-10-23 15:37 UTC · **"Es el momento de tocar interruptores": Ponsarnau, entrenador de Surne Bilbao** — Cadena SER
 - 2026-10-23 15:31 UTC · **Alex Formento: "Este domingo tenemos un gran reto por delante"** — Fibwi Diario
 - 2026-10-23 15:26 UTC · **El Palmer Basket recibe al Tizona Burgos en Son Moix** — Fibwi Diario
@@ -187,26 +204,3 @@ Actualizado: 2026-10-23T23:30+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-23 14:03 UTC · **Seguir progresando para buscar el triunfo en Manresa** — San Pablo Burgos
 - 2026-10-23 14:00 UTC · **Txus Vidorreta analiza al Río Breogán: "Son el segundo mejor equipo en anotación de la Liga Endesa"** — La Opinión de Málaga
 - 2026-10-23 14:00 UTC · **Sigue el Real Madrid - Barça Atlètic, en streaming** — Mundo Deportivo
-- 2026-10-23 13:53 UTC · **Diego Maseda para reforzar el juego interior** — La Nueva Crónica
-- 2026-10-23 13:50 UTC · **El Joventut de Badalona cambia de propiedad y Ricky Rubio entra en el accionariado** — El Periódico
-- 2026-10-23 13:39 UTC · **Real Madrid y Barça se miden en el primer Clásico de la temporada en la Liga U22** — Gigantes del Basket · https://www.gigantes.com/liga-u/madrid-barca-donde-ver-clasico-u22/
-- 2026-10-23 13:35 UTC · **Previa de la Jornada 5 de Liga Endesa 2026-27** — ACB
-- 2026-10-23 13:34 UTC · **Ricky Rubio entra en el accionariado de la Penya** — Eurohoops (español) · https://www.eurohoops.net/es/fiba-champions-league-es/2024933/ricky-rubio-entra-en-el-accionariado-de-la-penya/
-- 2026-10-23 13:33 UTC · **Breogán-Unicaja y un duelo de 3-1 en La Laguna, en la jornada 5** — piratasdelbasket
-- 2026-10-23 13:11 UTC · **El Joventut pasa a manos de una empresa lituana y Ricky Rubio entra en el accionariado** — La Vanguardia
-- 2026-10-23 13:11 UTC · **Ricky Rubio entra en el accionariado del Joventut de Badalona de la mano del Zalgiris** — La Vanguardia
-- 2026-10-23 13:10 UTC · **Ricky Rubio entra en el nuevo accionariado del Joventut** — Diario AS
-- 2026-10-23 12:52 UTC · **El Joventut cambia de propietario y Ricky Rubio entra en el accionariado** — Mundo Deportivo
-- 2026-10-23 12:51 UTC · **Paulius Motiejūnas, propietario del Zalgiris Kaunas, alcanza un acuerdo para comprar el Asisa Joventut** — SPORT
-- 2026-10-23 12:38 UTC · **Ricky Rubio entra en el accionariado de la Penya con el cambio de propiedad** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/ricky-rubio-entra-en-el-accionariado-de-la-penya-con-el-cambio-de-propiedad/
-- 2026-10-23 12:32 UTC · **Michael Ruzic se desvincula de la Penya** — Eurohoops (español) · https://www.eurohoops.net/es/ncaa-es/2024919/michael-ruzic-se-desvincula-de-la-penya/
-- 2026-10-23 12:29 UTC · **El Asisa Joventut vuelve a cambiar de manos: pasa a ser propiedad de un grupo lituano** — Eurohoops (español) · https://www.eurohoops.net/es/fiba-champions-league-es/2024917/el-asisa-joventut-vuelve-a-cambiar-de-manos-pasa-a-ser-propiedad-de-un-grupo-lituano/
-- 2026-10-23 12:24 UTC · **TV: El fin de semana de las 24 horas de vértigo, en directo vía streaming** — Federación Española de Baloncesto
-- 2026-10-23 12:23 UTC · **Novedades y parte médico de la Jornada 5 de la Liga Endesa 2026-27** — ACB
-- 2026-10-23 12:22 UTC · **Keenan Evans se reincorpora al Zalgiris tras su cesión a los London Lions** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2024915/keenan-evans-se-reincorpora-al-zalgiris-tras-su-cesion-a-los-london-lions/
-- 2026-10-23 12:15 UTC · **Txus Vidorreta: Vosotros valoráis la victoria de una manera, yo la valoro de otra** — SportDirect Radio
-- 2026-10-23 12:08 UTC · **El CB Canarias blinda su cantera: Disfoten 7 Islas renueva por sexta temporada** — Canarias en Pleno
-- 2026-10-23 12:00 UTC · **Consigue entradas gratis para el partido del Bàsquet Menorca contra el Insolac Caja 87** — Menorca - Es diari
-- 2026-10-23 11:58 UTC · **¿Quién frena al Madrid de récord en triples?** — Diario AS
-- 2026-10-23 11:58 UTC · **Rivero frena la euforia del HLA Alicante: "El que piense que ya hemos hecho algo se está confundiendo"** — Información
-- 2026-10-23 11:37 UTC · **Michael Ruzic deja la Penya rumbo a la NCAA** — SPORT

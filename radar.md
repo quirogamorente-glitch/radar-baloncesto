@@ -1,6 +1,6 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-25T23:33+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-26T01:43+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
 ## UCAM Murcia CB (91)
@@ -160,8 +160,12 @@ Actualizado: 2026-10-25T23:33+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-23 15:20 UTC · **Especial Derbis en MurciaEconomía Radio: UCAM-Cieza e Imperial-Lorca en directo este domingo** — MurciaEconomía.com
 - 2026-10-23 09:27 UTC · **Sito Alonso, sobre el arranque del UCAM Murcia: “Me da tristeza ver esa atmósfera de preocupación, hay que estar tranquilos”** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (141)
+## Resto (últimas 12 h) (137)
 
+- 2026-10-26 01:30 UTC · **Baloncesto en silla de ruedas: Getafe - Leganés, en directo** — RTVE.es
+- 2026-10-26 00:30 UTC · **El Grupo Ureta Tizona estrena su casillero de victorias en la Primera FEB (94-95)** — Revista Forofos
+- 2026-10-26 00:04 UTC · **El Real Madrid visita mañana al Baskonia en la Euroliga** — Real Madrid CF | Web Oficial
+- 2026-10-26 00:04 UTC · **J.5: Mateo Díaz y PJay Smith comparten el MVP de los jugones de la liga** — Federación Española de Baloncesto
 - 2026-10-25 23:20 UTC · **El Real Madrid bate el récord de triples en un partido de la ACB: 24** — EL PAÍS
 - 2026-10-25 22:48 UTC · **El Bueno Arenas Albacete Basket tumba al líder invicto en un final de infarto (82-81)** — Radio Marca Albacete
 - 2026-10-25 22:24 UTC · **Clasificación Liga ACB: el Unicaja escala posiciones** — Diario Sur
@@ -175,7 +179,9 @@ Actualizado: 2026-10-25T23:33+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-25 21:15 UTC · **La inspiración de TJ Shorts derriba la resistencia del Kosner Baskonia (84-75)** — kirolakeitb.eus
 - 2026-10-25 21:05 UTC · **Llull, el jugador con más partidos de Liga disputados con un mismo club** — Real Madrid CF | Web Oficial
 - 2026-10-25 21:05 UTC · **El Real Madrid bate otro récord de triples y el Valencia Basket bate al Baskonia** — Europa Press
+- 2026-10-25 21:04 UTC · **ACBxUCU: La Jornada 5 sigue marcando la historia** — Uno Contra Uno
 - 2026-10-25 21:03 UTC · **Programación de Movistar Deportes del Viernes 30 de Octubre del 2026** — ABC
+- 2026-10-25 20:57 UTC · **El Real Madrid completa otro recital en Lleida con el récord de triples en la ACB (86-122)** — heraldo.es
 - 2026-10-25 20:43 UTC · **Quinta derrota en Fuenlabrada de un Bàsquet Menorca colista** — Menorca - Es diari
 - 2026-10-25 20:43 UTC · **El Bàsquet Menorca no levanta cabeza** — Menorca - Es diari
 - 2026-10-25 20:37 UTC · **24 triples anotados para hacer historia en la ACB** — Real Madrid CF | Web Oficial
@@ -184,6 +190,8 @@ Actualizado: 2026-10-25T23:33+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-25 20:35 UTC · **El Unicaja aplica la ley del 100 en Lugo** — MARCA
 - 2026-10-25 20:34 UTC · **Pedro Martínez: “Es positivo que todos se sientan importantes”** — Diario AS
 - 2026-10-25 20:31 UTC · **Un viaje por la Jornada 5: el triple reescribe la historia y nueve equipos caminan empatados** — ACB
+- 2026-10-25 20:28 UTC · **Grupo Alega Cantabria pierde en Albacete por 82-81 su primer partido** — Ifomo Noticias 24h
+- 2026-10-25 20:27 UTC · **Izan Almansa** — ACB
 - 2026-10-25 20:23 UTC · **Timothé Luwawu-Cabarrot, Jugador de la Jornada 5 de la Liga Endesa 2026-27** — ACB
 - 2026-10-25 20:22 UTC · **Lleida vs Real Madrid: pronóstico y cuotas | Liga Endesa** — BetBrothers.es
 - 2026-10-25 20:20 UTC · **El Real Madrid encandila en Lleida rompiendo el récord de triples (86-122)** — ACB
@@ -210,6 +218,7 @@ Actualizado: 2026-10-25T23:33+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-25 19:31 UTC · **El Alega pierde su imbatibilidad en el último suspiro** — El Diario Montañés
 - 2026-10-25 19:24 UTC · **Perry y Noua enseñan en Lugo el potencial de Unicaja (90-103)** — ACB
 - 2026-10-25 19:24 UTC · **Un Unicaja de muchos quilates en Lugo** — Diario AS
+- 2026-10-25 19:21 UTC · **El Fibwi Mallorca muerde el polvo ante Estudiantes** — Mallorcadiario.com
 - 2026-10-25 19:20 UTC · **Exhibición ofensiva del Unicaja para ganar en Lugo (90-103)** — Cadena SER
 - 2026-10-25 19:12 UTC · **Estas son las estadísticas del Río Breogán 90-103 Unicaja de la Jornada 5 de la Liga Endesa** — Radio Marca Málaga
 - 2026-10-25 19:09 UTC · **Victoria, buen juego y... ¡otro récord para el CB Canarias!** — Cadena SER
@@ -218,6 +227,7 @@ Actualizado: 2026-10-25T23:33+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-25 19:05 UTC · **Primera FEB J5: nos vamos de Son Moix con una victoria (78-94)** — Movistar Estudiantes
 - 2026-10-25 18:59 UTC · **Kaspar Finn Martenson** — ACB
 - 2026-10-25 18:59 UTC · **El Unicaja pone el turbo en Lugo: 90-103** — La Opinión de Málaga
+- 2026-10-25 18:56 UTC · **El Bàsquet Menorca se hunde en el tercer cuarto y sigue sin ganar** — Menorca al Dia
 - 2026-10-25 18:52 UTC · **Stefan Joksimovic, más de 32 minutos de juego antes de los 18 años** — ACB
 - 2026-10-25 18:52 UTC · **Río Breogán 90 - Unicaja 103 Jornada 5 Liga Endesa 2026/27** — Unicaja Baloncesto
 - 2026-10-25 18:34 UTC · **Perasovic, tras otra derrota del Baskonia: "Nos falta más de un quinteto"** — Mundo Deportivo
@@ -253,6 +263,7 @@ Actualizado: 2026-10-25T23:33+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-25 17:08 UTC · **El menorquín Jaume Seguí se estrena en la Liga ACB** — Menorca - Es diari
 - 2026-10-25 16:58 UTC · **Deportes: Estadio 2, en directo | 26/10** — RTVE.es
 - 2026-10-25 16:49 UTC · **Jabari Parker rompe su silencio** — Mundo Deportivo
+- 2026-10-25 16:44 UTC · **El Tizona gana en Palma después de pelear hasta el último segundo** — El Correo de Burgos
 - 2026-10-25 16:33 UTC · **Kelly Olynyk ya lidera al Roma Basketball** — Mundo Deportivo
 - 2026-10-25 16:19 UTC · **iLERNA Lleida - Real Madrid en directo | Última hora de Liga Endesa en vivo hoy** — MARCA
 - 2026-10-25 16:14 UTC · **Río Breogán vs Unicaja 25 oct 2026** — ACB
@@ -285,21 +296,6 @@ Actualizado: 2026-10-25T23:33+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-25 14:00 UTC · **Mazazo para Orlando Magic: Paolo Banchero cae lesionado por varias semanas** — Blog de Basket
 - 2026-10-25 13:54 UTC · **Cajasol Coto Córdoba-Cajasiete Gran Canaria: horario y dónde ver por televisión el partido de Primera FEB** — El Día de Córdoba
 - 2026-10-25 13:48 UTC · **El Bilbao Basket se redime** — Diario AS
-- 2026-10-25 13:47 UTC · **El Cajasiete Gran Canaria no tiene piedad del Cajasol Coto Córdoba (65-99)** — Canarias7
 - 2026-10-25 13:47 UTC · **Más fuertes que el virus, los árbitros y el rival** — El Correo
+- 2026-10-25 13:47 UTC · **El Cajasiete Gran Canaria no tiene piedad del Cajasol Coto Córdoba (65-99)** — Canarias7
 - 2026-10-25 13:44 UTC · **Juan Núñez se 'apunta' al Barça de Sekulic: "No me conformo, tenemos mucha ambición"** — SPORT
-- 2026-10-25 13:42 UTC · **El Cajasiete Gran Canaria cierra su gira peninsular con una contundente victoria en Córdoba (65-99)** — Cadena SER
-- 2026-10-25 13:36 UTC · **Contundente triunfo del Cajasiete Gran Canaria en Córdoba (65-99)** — cbgrancanaria.net
-- 2026-10-25 13:35 UTC · **McClung y Pluta multiplican por tres al FIATC Girona (101-87)** — ACB
-- 2026-10-25 13:30 UTC · **Surne Bilbao saca músculo en Miribilla (88-76)** — ACB
-- 2026-10-25 13:30 UTC · **Qué ha pasado hoy en la Jornada 5 de la Liga Endesa: Pleno de victorias locales en la matinal del domingo** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/que-ha-pasado-hoy-jornada-5-26-27/
-- 2026-10-25 13:27 UTC · **65-99: El Granca conquista Córdoba sin titubeos** — Tinta Amarilla
-- 2026-10-25 13:24 UTC · **101-87: Mac McClung convierte Fontajau en un fortín** — Mundo Deportivo
-- 2026-10-25 13:17 UTC · **El Surne Bilbao también sabe ganar sufriendo** — Radio Nervión
-- 2026-10-25 13:16 UTC · **El Mac McClung más triplista lidera el triunfo en el derbi ante la Penya** — ACB
-- 2026-10-25 13:10 UTC · **Raquel Romo: «Hemos intentado competir hasta el final»** — La Gaceta de Salamanca
-- 2026-10-25 13:06 UTC · **La Laguna Tenerife vs Monbus Obradoiro 25 oct 2026** — ACB
-- 2026-10-25 12:52 UTC · **San Pablo se impone en Manresa y logra su segunda victoria (81-99)** — Cadena SER
-- 2026-10-25 12:24 UTC · **EN DIRECTO | La Laguna Tenerife-Obradoiro** — Diario de Avisos
-- 2026-10-25 12:13 UTC · **El Alimerka Oviedo Baloncesto sigue sonriendo en la Primera FEB** — Radiotelevisión del Principado de Asturias
-- 2026-10-25 12:05 UTC · **Lamine-Cucurella, el pique viene de Chattanooga** — Diario AS

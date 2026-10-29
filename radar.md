@@ -1,14 +1,16 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-29T00:46+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-29T06:31+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
 ## UCAM Murcia CB (65)
 
+- 2026-10-29 05:00 UTC · **El ataque del UCAM Murcia, demasiado dependiente de unos pocos** — La Opinión de Murcia
 - 2026-10-28 23:00 UTC · **Victorias del Manresa y La Laguna Tenerife y derrotas en la Champions para el Bilbao Basket y el UCAM Murcia** — Encestando
 - 2026-10-28 21:29 UTC · **Qué ha pasado en la BCL: Surne Bilbao y UCAM Murcia suman sus primeras derrotas** — Gigantes del Basket · https://www.gigantes.com/bcl/que-ha-pasado-bcl-hoy-ucam-murcia-surne-bilbao-jornada3/
 - 2026-10-28 21:18 UTC · **DeJulius firma su mejor partido con el Besiktas en la Euroliga ante el Olympiakos** — La Opinión de Murcia
 - 2026-10-28 17:11 UTC · **El UCAM Murcia reúne el próximo lunes a 7.500 escolares de la Región en 'El Partido del Recreo'** — La Opinión de Murcia
+- 2026-10-28 16:52 UTC · **Resultados de Barcelona vs UCAM Murcia, historial de enfrentamientos (H2H) | Baloncesto** — Flashscore.es
 - 2026-10-28 16:09 UTC · **UCAM Murcia abre sus puertas a 7.500 escolares** — Blog de Basket
 - 2026-10-28 13:21 UTC · **La quinta edición del Partido del Recreo llenará el Palacio de los Deportes de escolares el lunes** — Murcia Plaza
 - 2026-10-28 12:55 UTC · **La RFEF suspende los 24 partidos de Copa del Rey de este miércoles por el accidente ferroviario** — La Verdad
@@ -28,6 +30,7 @@ Actualizado: 2026-10-29T00:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-27 22:31 UTC · **El UCAM Murcia cae ante el Peristeri (72-80) en un final marcado por las expulsiones de Sito Alonso y Radebaugh** — Murcia Actualidad
 - 2026-10-27 22:28 UTC · **Un final sin RESPETO** — UCAM Deportes
 - 2026-10-27 22:22 UTC · **Un polémico arbitraje condena al UCAM Murcia a su primera derrota en la Champions League** — COPE
+- 2026-10-27 22:19 UTC · **72-80. El UCAM cae frente a un rival superior y cede el liderato de su grupo** — Infobae
 - 2026-10-27 22:13 UTC · **El UCAM CB, atascado y con Sito expulsado, cae frente un rival que es superior en Europa** — Murcia Plaza
 - 2026-10-27 22:11 UTC · **El UCAM Murcia pierde el invicto ante el Peristeri (72-80)** — piratasdelbasket
 - 2026-10-27 22:00 UTC · **Las imágenes del UCAM CB - Peristeri (72-80)** — La Verdad
@@ -67,9 +70,6 @@ Actualizado: 2026-10-29T00:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-26 10:24 UTC · **El UCAM Murcia CB defiende el liderato del grupo D en el Palacio contra el Peristeri griego** — Murcia Plaza
 - 2026-10-26 09:06 UTC · **UCAM Murcia CF - RCD Mallorca "B": información sobre la venta de entradas** — UCAM Deportes
 - 2026-10-26 07:23 UTC · **Valencia Basket** — ACB
-- 2026-10-26 05:03 UTC · **Agenda deportiva de la semana: qué ver en televisión y los equipos de la Región** — La Opinión de Murcia
-- 2026-10-26 05:02 UTC · **Duelo de invictos en BCL: el UCAM Murcia busca cerrar la primera vuelta líder ante un amenazante Peristeri** — MurciaEconomía.com
-- 2026-10-26 05:01 UTC · **Recuperar a Sant-Roos, la prioridad del UCAM Murcia** — La Opinión de Murcia
 
 ## Covirán Granada (24)
 
@@ -98,7 +98,7 @@ Actualizado: 2026-10-29T00:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-26 13:17 UTC · **Almuñécar suma 48 medallas en el Campeonato de Andalucía absoluto de Kenpo 2026** — Ideal
 - 2026-10-26 08:21 UTC · **Informativo Granada - 26/10/2026** — RTVE.es
 
-## Periodistas preferentes (9)
+## Periodistas preferentes (7)
 
 - 2026-10-28 11:15 UTC · **Más de 7.000 escolares disfrutarán de la quinta edición de “El Partido del Recreo” en Murcia** — murciaeconomia.com
 - 2026-10-28 10:55 UTC · **Más de 7.000 escolares disfrutarán de la cuarta edición de “El Partido del Recreo” en Murcia** — MurciaEconomía.com
@@ -107,17 +107,33 @@ Actualizado: 2026-10-29T00:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-27 13:01 UTC · **Novedades en la convocatoria del UCAM Murcia para recibir a Peristeri: vuelve Juani Marcos, Sant-Roos sigue de baja** — MurciaEconomía.com
 - 2026-10-27 09:56 UTC · **Granada: María Pérez y David Valero triunfan en la Gala del Deporte, que también reconoce a la doble medallista olímpica Ana Alonso** — Motril Digital
 - 2026-10-27 01:09 UTC · **La AGPD premia a los mejores deportistas de Granada** — Granada en Juego
-- 2026-10-26 05:03 UTC · **La Copa espera al mejor Cieza y a una Minera en racha tras un fin de semana redondo** — murciaeconomia.com
-- 2026-10-26 05:02 UTC · **Duelo de invictos en BCL: el UCAM Murcia busca cerrar la primera vuelta líder ante un amenazante Peristeri** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (81)
+## Resto (últimas 12 h) (68)
 
+- 2026-10-29 06:24 UTC · **Barcelona - Valencia Basket: pronóstico y cuotas | Euroliga** — BetBrothers.es
+- 2026-10-29 06:24 UTC · **ASVEL Lyon - Baskonia: pronóstico y cuotas | Euroliga** — BetBrothers.es
+- 2026-10-29 06:02 UTC · **Vincent Poirier habla sobre su proceso de recuperación y los rumores de un posible regreso al Real Madrid** — Gigantes del Basket · https://www.gigantes.com/euroliga/palabras-poirier-rehabilitacion-aquiles-madrid/
+- 2026-10-29 06:00 UTC · **Jasikevicius, piedra en el camino para el Real Madrid** — Mundo Deportivo
+- 2026-10-29 06:00 UTC · **Jornada 9 de la Euroliga: horarios, resultados de los partidos y resumen** — EL PAÍS
+- 2026-10-29 06:00 UTC · **Una Euroliga casi calcada a la anterior** — Diario de Noticias de Álava
+- 2026-10-29 06:00 UTC · **El resumen de la noche NBA: Highlights, resultados y estadísticas. Curry y Brunson brillante y los Heat se estrenan esta temporada** — Gigantes del Basket · https://www.gigantes.com/nba/resumen-nba-hoy-highlights-resultados-estadisticas/
+- 2026-10-29 05:34 UTC · **La batalla de los estilos sin Nick Smith** — Diario AS
+- 2026-10-29 05:30 UTC · **El objetivo de Saras ante el Real Madrid** — SPORT
+- 2026-10-29 05:00 UTC · **Marcelinho Huertas, el ídolo de Caio Pacheco que amenaza al Leyma Coruña con La Laguna Tenerife en la Liga Endesa: "Es como el vino, pasan los años y está cada vez mejor"** — La Opinión A Coruña
+- 2026-10-29 05:00 UTC · **El arranque del Barça de Sekulic: lucas, sombras y mucho margen de mejora** — El Periódico
+- 2026-10-29 05:00 UTC · **Víctor Pérez: «Cuando mire a la grada veré a alguien conocido»** — El Correo Gallego
+- 2026-10-29 04:00 UTC · **El Casademont Zaragoza no se fía de la gran sorpresa de la Euroliga** — heraldo.es
+- 2026-10-29 01:56 UTC · **Pedro Martínez: "Tavares es una persona muy importante en el vestuario. Tiene un liderazgo muy grande y su mentalidad es sensacional. Lo quiero mucho"** — La Razón
+- 2026-10-29 01:24 UTC · **Derrota del San Pablo en la EuroCup (71-79)** — Cadena SER
+- 2026-10-29 00:50 UTC · **Veronika Voráčková finalizará en diciembre su etapa en Casademont Zaragoza** — Federación Española de Baloncesto
+- 2026-10-29 00:07 UTC · **Una Copa de esperanza para Cabanes** — Diario AS
 - 2026-10-28 23:03 UTC · **Amarga derrota del San Pablo Burgos en el Coliseum** — El Correo de Burgos
 - 2026-10-28 22:55 UTC · **Le Mans Sarthe Basket-Hapoel Midtown Jerusalem | Round 5 Highlights | 2026-27 BKT EuroCup** — Euroleague Basketball
 - 2026-10-28 22:50 UTC · **Namur-Meins Avenida: horario y cómo ver en directo y por TV el partido de Eurocup** — La Gaceta de Salamanca
 - 2026-10-28 22:41 UTC · **El Tenerife tumba al Reyer Venecia desde el tiro libre** — Diario AS
 - 2026-10-28 22:30 UTC · **La Laguna Tenerife firma otro partido de alto voltaje ante Reyer Venezia (82-80)** — Diario de Avisos
 - 2026-10-28 22:25 UTC · **71-79. El ritmo de Rigas Zelli decanta el duelo en el Coliseum** — San Pablo Burgos
+- 2026-10-28 22:24 UTC · **Jornada 5 de la EuroCup: Tenerife y Manresa ganan, Burgos se hunde** — piratasdelbasket
 - 2026-10-28 22:22 UTC · **El Surne Bilbao cae en Berlín tras rozar la remontada (103-100)** — kirolakeitb.eus
 - 2026-10-28 22:17 UTC · **EuroCup: La Laguna Tenerife - Reyer Venezia** — Eldía
 - 2026-10-28 22:14 UTC · **Resumen de la BCL: Trabajo sin premio del Surne Bilbao** — Eurohoops (español) · https://www.eurohoops.net/es/fiba-champions-league-es/2027758/resumen-de-la-bcl-trabajo-sin-premio-del-surne-bilbao/
@@ -138,6 +154,7 @@ Actualizado: 2026-10-29T00:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-28 21:25 UTC · **El Bilbao cede una derrota asumible** — Diario AS
 - 2026-10-28 21:23 UTC · **El Valencia Basket se estrena aplastando al débil Rapid Bucaresti** — MARCA
 - 2026-10-28 21:19 UTC · **Un triple de Bean tumba al Surne Bilbao en Berlín (103-100)** — piratasdelbasket
+- 2026-10-28 21:18 UTC · **Amine Noua: «Lo que me motiva es intentar ganar títulos»** — Diario Sur
 - 2026-10-28 21:11 UTC · **Valencia Basket hace historia: 20 triples de récord y una paliza al Rapid de Bucarest en la Euroliga Femenina** — Mundo Deportivo
 - 2026-10-28 21:05 UTC · **89-48: El Hozono Jairis aplasta al DVTK y confirma su liderato** — Mundo Deportivo
 - 2026-10-28 21:03 UTC · **El Valencia Basket coge impulso con récord de triples y puntos en el Roig Arena** — Superdeporte
@@ -161,35 +178,3 @@ Actualizado: 2026-10-29T00:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-28 18:53 UTC · **DIRECTO | Valencia Basket-Rapid Bucaresti** — Superdeporte
 - 2026-10-28 18:51 UTC · **Carlos Cantero, entrenador del Casademont Zaragoza: "Hacerse fuerte en casa es importante, haremos valer ese punto de experiencia extra"** — El Periódico de Aragón
 - 2026-10-28 18:34 UTC · **Fran Guerra: "La derrota que sufrimos en Alicante fue un aprendizaje para nosotros"** — La Provincia
-- 2026-10-28 18:31 UTC · **Laporta y su postura del Barça en la Euroliga** — SPORT
-- 2026-10-28 18:20 UTC · **Carlos Cantero, entrenador del Casademont Zaragoza: "En la Euroliga, el factor cancha es fundamental"** — heraldo.es
-- 2026-10-28 18:02 UTC · **Laporta deja clara la postura del Barça sobre el futuro de la Euroliga: "El mejor camino es hacer más fuerte nuestra competición"** — SPORT
-- 2026-10-28 18:02 UTC · **Baloncesto | Vilnius Rytas - Trabzonspor Basketbol** — DAZN
-- 2026-10-28 17:54 UTC · **Los fichajes del Barça piden paso** — Mundo Deportivo
-- 2026-10-28 17:54 UTC · **Joan Laporta: "El Barça tiene un fuerte compromiso con el baloncesto. Creo que va a ser una temporada muy buena"** — Mundo Deportivo
-- 2026-10-28 17:30 UTC · **Rafa Lisboa, jugador del HLA Alicante: "Estamos en el punto de confianza ideal"** — Información
-- 2026-10-28 17:26 UTC · **Estad. Avanzada Devin Robinson** — ACB
-- 2026-10-28 17:24 UTC · **Cooper Flagg desafía todas las expectativas: ¿y si estamos ante el próximo GOAT de la NBA?** — Blog de Basket
-- 2026-10-28 17:18 UTC · **Marcelinho seguirá escribiendo historia de la Liga Endesa contra el Básquet Coruña** — DXT Campeón
-- 2026-10-28 17:11 UTC · **Laporta apuesta por la unidad de la Euroliga y defiende mantener la propiedad de los clubes** — Eurohoops · https://www.eurohoops.net/es/euroleague-es/2027453/laporta-apuesta-por-la-unidad-de-la-euroliga-y-defiende-mantener-la-propiedad-de-los-clubes/
-- 2026-10-28 17:07 UTC · **El Barça, pendiente de las lesiones de Umoja Gibson y Juan Núñez, que dejarían su dirección de juego bajo mínimos** — Mundo Deportivo
-- 2026-10-28 17:06 UTC · **El Barça echa el ojo a Dwight Powell** — Diario AS
-- 2026-10-28 16:47 UTC · **Se apaga la alarma con Valverde: no hay lesión** — Diario AS
-- 2026-10-28 16:36 UTC · **Amine Noua: líder en rebotes en la Liga Endesa tras las primeras 5 jornadas** — Radio Marca Málaga
-- 2026-10-28 16:18 UTC · **Eurocup Women - Namur Capitale vs Meins Avenida: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
-- 2026-10-28 16:02 UTC · **Previa del Real Madrid - Fenerbahce** — Teleprensa
-- 2026-10-28 16:00 UTC · **Cuándo juega el Real Madrid de baloncesto hoy: Día, hora y TV vs Fenerbahçe** — Gigantes del Basket · https://www.gigantes.com/euroliga/cuando-juega-real-madrid/
-- 2026-10-28 15:58 UTC · **Eurocup Women - Rutronik vs Girona: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
-- 2026-10-28 15:45 UTC · **La Final Six de la Euroliga continuará en el Príncipe Felipe de Zaragoza hasta 2030** — heraldo.es
-- 2026-10-28 15:30 UTC · **Jaka Lakovic, sobre TJ Bamba: “Noto que ha perdido lo que sí tenía en pretemporada”** — Solobasket · https://www.solobasket.com/liga-endesa/lakovic-tj-bamba-ritmo-papeleo-tenerife
-- 2026-10-28 14:44 UTC · **Valencia Basket supera al Fenerbahçe y Mirotic se somete a pruebas** — Blog de Basket
-- 2026-10-28 14:43 UTC · **La Laguna Tenerife rompe el hielo con 100 puntos consecutivos** — Blog de Basket
-- 2026-10-28 14:43 UTC · **Mathieu, ex jugador del Barcelona, confiesa la depresión que sufrió durante su carrera: “Me quedé en casa las** — Diario AS
-- 2026-10-28 14:40 UTC · **El Alicante retirará la camiseta del base mallorquín Pedro Llompart en el partido ante el Palmer** — Ultima Hora
-- 2026-10-28 14:32 UTC · **La acb muestra su pesar por el trágico accidente ferroviario en Urda (Toledo)** — ACB
-- 2026-10-28 14:08 UTC · **Resumen de la NBA: Los Blazers se mantienen invictos, ya que la magistral actuación de 41 puntos de Doncic resulta insuficiente** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2027401/resumen-de-la-nba-los-blazers-se-mantienen-invictos-ya-que-la-magistral-actuacion-de-41-puntos-de-doncic-resulta-insuficiente/
-- 2026-10-28 13:39 UTC · **Zaragoza y el Príncipe Felipe serán la sede de la Final Six de la Euroliga femenina hasta... ¡2030!** — El Periódico de Aragón
-- 2026-10-28 13:33 UTC · **El Barça, pendiente de la enfermería antes de visitar al Unicaja** — Málaga Hoy
-- 2026-10-28 13:26 UTC · **Fenerbahçe Spor Kulübü – Flammes Carolo Basket Ardennes: ficha y horario | EuroLeague Women 2026-27** — Gigantes del Basket
-- 2026-10-28 13:22 UTC · **Athinaikos Qualco – Basket Landes: ficha y horario | EuroLeague Women 2026-27** — Gigantes del Basket
-- 2026-10-28 13:00 UTC · **Razgatlioglu, operado: volverá en 2027** — Diario AS

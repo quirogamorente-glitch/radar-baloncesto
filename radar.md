@@ -1,11 +1,25 @@
 # Radar de baloncesto
 
-Actualizado: 2026-10-30T09:00+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-10-30T15:48+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (58)
+## UCAM Murcia CB (66)
 
+- 2026-10-30 14:25 UTC · **Sito Alonso, sobre su expulsión: "Tengo que aprender a gestionar las emociones ante injusticias bestiales"** — COPE
+- 2026-10-30 12:38 UTC · **Sito Alonso: "Llegará el día que tengamos la fortuna de meter dieciséis triples"** — La Opinión de Murcia
+- 2026-10-30 12:27 UTC · **Sito Alonso quiere mantener la tensión competitiva de UCAM Murcia: "Me parece urgente la transmisión de energía conjunta"** — Cadena SER
+- 2026-10-30 12:22 UTC · **El equipo de TFT se jugará sus opciones de playoffs en la última jornada** — UCAM Deportes
+- 2026-10-30 12:01 UTC · **El UCAM Murcia CB estrena un nuevo sistema para liberar y ceder los asientos de sus abonados** — COPE
+- 2026-10-30 11:57 UTC · **El CEIP Narciso Yepes visita el entrenamiento del UCAM Murcia CF** — UCAM Deportes
+- 2026-10-30 11:57 UTC · **Checa: "Esta plantilla quiere más y tiene ganas de seguir mejorando"** — UCAM Deportes
+- 2026-10-30 11:47 UTC · **Sito Alonso no negocia el carácter: autocrítica, pulso arbitral y la rebelión de un UCAM Murcia «loco» e inconformista** — Murcia Actualidad [posible rumor]
+- 2026-10-30 11:37 UTC · **“El partido ante iLERNA Lleida será de suma dificultad”** — UCAM Deportes
+- 2026-10-30 11:22 UTC · **El UCAM Murcia CB pone en marcha un nuevo sistema para liberar y ceder asientos** — UCAM Deportes
+- 2026-10-30 11:02 UTC · **Sito Alonso: “Todavía no disfruto como voy a disfrutar, pero esto es un proceso”** — MurciaEconomía.com
+- 2026-10-30 09:43 UTC · **Real Madrid - UCAM Murcia** — Flashscore.es
+- 2026-10-30 09:40 UTC · **Trayectoria Igor Lutersek | Jugador acb | acb.com** — ACB
 - 2026-10-30 05:01 UTC · **El UCAM Murcia, ante una amenaza bajo el aro: el Lleida convierte la pintura en su gran arma** — La Opinión de Murcia
+- 2026-10-30 02:03 UTC · **Vídeos y noticias de Askia Booker** — ACB
 - 2026-10-29 17:55 UTC · **Vísteme despacio, que tengo prisa, en el UCAM Murcia** — La Verdad
 - 2026-10-29 17:32 UTC · **El Palacio recibe al iLERNA Lleida** — UCAM Deportes
 - 2026-10-29 17:01 UTC · **UCAM Murcia CF y bp se alían para ofrecer descuentos en carburante a los aficionados del Club** — UCAM Deportes
@@ -57,15 +71,13 @@ Actualizado: 2026-10-30T09:00+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-27 19:15 UTC · **Basketball Champions League: UCAM Murcia - Peristeri, en directo** — La Opinión de Murcia
 - 2026-10-27 17:49 UTC · **Álex Hernández: "El UCAM es un espejo en el que mirarse el Leyma Coruña"** — Onda Regional de Murcia | ORM
 - 2026-10-27 17:49 UTC · **Radebaugh: "Algunos no entienden todavía lo que Sito quiere"** — Onda Regional de Murcia | ORM
-- 2026-10-27 14:45 UTC · **Louzán (RFEF) pide valorar la disculpa de Mbappé y espera que las cosas vuelvan a la normalidad** — La Verdad
-- 2026-10-27 13:01 UTC · **Novedades en la convocatoria del UCAM Murcia para recibir a Peristeri: vuelve Juani Marcos, Sant-Roos sigue de baja** — MurciaEconomía.com
-- 2026-10-27 12:45 UTC · **Ver Joventut Badalona - UCAM Murcia Car Online en Directo | DAZN ES** — DAZN
-- 2026-10-27 12:35 UTC · **UCAM Murcia y Surne Bilbao se juegan el liderato de su grupo en la BCL: horarios** — Solobasket · https://www.solobasket.com/internacional/ucam-murcia-surne-bilbao-liderato-bcl-horarios
-- 2026-10-27 12:02 UTC · **El nuevo equipo de Valorant debutará en los playoffs del VCT EMEA Kickoff Europe** — UCAM Deportes
-- 2026-10-27 09:06 UTC · **Baloncesto | UCAM Murcia - Peristeri** — DAZN
 
-## Covirán Granada (23)
+## Covirán Granada (19)
 
+- 2026-10-30 12:42 UTC · **Covirán Granada - Partizán de Fuenlabrada, en directo** — GranadaDigital
+- 2026-10-30 11:58 UTC · **Ruiz sobre el duelo ante Fuenlabrada: "Nos puede dar esa ambición para afrontar lo que nos viene por delante"** — GranadaDigital
+- 2026-10-30 11:56 UTC · **El Coviran Granada recibe en el Palacio al Partizan de Fuenlabrada** — Fundación CB Granada (web oficial) · https://fundacioncbgranada.es/el-coviran-granada-recibe-en-el-palacio-al-partizan-de-fuenlabrada/
+- 2026-10-30 11:17 UTC · **Arturo Ruiz: «Estaremos al completo»** — Ideal
 - 2026-10-30 02:59 UTC · **No puede hacerse de rogar más** — Menorca - Es diari
 - 2026-10-29 23:15 UTC · **Pere Tomàs: «Vuelvo a disfrutar como jugador»** — Ideal
 - 2026-10-29 17:32 UTC · **El Partizan de Fuenlabrada, un rival que no ha arrancado bien** — Granada Hoy
@@ -81,27 +93,89 @@ Actualizado: 2026-10-30T09:00+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-28 08:40 UTC · **El Covirán, ante una jornada clave para engancharse a la cabeza de la tabla** — GranadaDigital
 - 2026-10-28 05:03 UTC · **Fiesta grande en La Arboleja: El CD Cieza desafía la jerarquía del Granada CF en la Copa del Rey** — murciaeconomia.com
 - 2026-10-27 23:06 UTC · **Un campeón granadino en 'hyrox', el deporte que combina cardio con fuerza y reina en toda España** — Ideal
-- 2026-10-27 15:16 UTC · **Ya llueve menos para el Covirán Granada** — Granada Hoy
-- 2026-10-27 11:57 UTC · **Carlos Jiménez, nuevo coordinador de formación de selecciones masculinas de la FEB** — Mundo Deportivo
-- 2026-10-27 11:49 UTC · **Mus Barro lidera un juego interior escaso de aportaciones** — GranadaDigital
-- 2026-10-27 11:41 UTC · **Juan José Pérez y Diana Carolina Paniagua se imponen en la Subida Puerto de Cáñar** — Ideal
-- 2026-10-27 11:26 UTC · **Doble triunfo del club Escoriones en su visita a tierras malagueña** — Ideal
-- 2026-10-27 10:56 UTC · **El Club Villa de Otura logra su billete para el Campeonato de España** — Ideal
-- 2026-10-27 10:24 UTC · **Campaña: “Seguimos en el camino de lograr ser un equipo más competitivo” - El Faro de Melilla** — El Faro de Melilla
-- 2026-10-27 09:56 UTC · **Granada: María Pérez y David Valero triunfan en la Gala del Deporte, que también reconoce a la doble medallista olímpica Ana Alonso** — Motril Digital
 
-## Periodistas preferentes (7)
+## Periodistas preferentes (6)
 
+- 2026-10-30 11:02 UTC · **Sito Alonso: “Todavía no disfruto como voy a disfrutar, pero esto es un proceso”** — MurciaEconomía.com
 - 2026-10-28 11:15 UTC · **Más de 7.000 escolares disfrutarán de la quinta edición de “El Partido del Recreo” en Murcia** — murciaeconomia.com
 - 2026-10-28 10:55 UTC · **Más de 7.000 escolares disfrutarán de la cuarta edición de “El Partido del Recreo” en Murcia** — MurciaEconomía.com
 - 2026-10-28 05:03 UTC · **Fiesta grande en La Arboleja: El CD Cieza desafía la jerarquía del Granada CF en la Copa del Rey** — murciaeconomia.com
 - 2026-10-27 20:37 UTC · **La AGPD premia a los mejores deportistas** — Asociación Española de la Prensa Deportiva
 - 2026-10-27 16:41 UTC · **SuperManager: Juega con los gurús y ¡¡puedes ganar balones oficiales!!** — ACB
-- 2026-10-27 13:01 UTC · **Novedades en la convocatoria del UCAM Murcia para recibir a Peristeri: vuelve Juani Marcos, Sant-Roos sigue de baja** — MurciaEconomía.com
-- 2026-10-27 09:56 UTC · **Granada: María Pérez y David Valero triunfan en la Gala del Deporte, que también reconoce a la doble medallista olímpica Ana Alonso** — Motril Digital
 
-## Resto (últimas 12 h) (69)
+## Resto (últimas 12 h) (105)
 
+- 2026-10-30 15:34 UTC · **Barça vs Valencia Basket: horario y dónde ver el partido de la Euroliga en TV** — Solobasket
+- 2026-10-30 15:10 UTC · **Radicevic, fichaje temporal para el Asisa Joventut** — MARCA
+- 2026-10-30 15:04 UTC · **Las lesiones obligan al Real Madrid a mirar al mercado** — MARCA
+- 2026-10-30 15:00 UTC · **Marcador palentino: horarios y resultados de la jornada del 31 de octubre** — Tribuna de Palencia.
+- 2026-10-30 14:34 UTC · **Nikola Radicevic vuelve a Liga Endesa de la mano del Asisa Joventut** — ACB
+- 2026-10-30 14:14 UTC · **Justin Minaya: «Tenemos un buen grupo y estamos listos para afrontar al Valencia Basket»** — Eurohoops · https://www.eurohoops.net/es/euroleague-es/2028398/justin-minaya-tenemos-un-buen-grupo-y-estamos-listos-para-afrontar-al-valencia-basket/
+- 2026-10-30 14:09 UTC · **Matija Lukic, canterano del Casademont Zaragoza, viaja a Estados Unidos con vistas a su futuro ingreso en la NCAA** — heraldo.es
+- 2026-10-30 14:02 UTC · **Estudiantes vs Gran Canaria: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-10-30 14:01 UTC · **Mara, Hugo González, De Larrea y Baba Miller: balance de un octubre NBA** — piratasdelbasket
+- 2026-10-30 13:59 UTC · **Por qué está arrasando el Real Madrid: las claves de su gran racha, analizadas con datos** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/real-madrid-pedro-martinez-claves-10-victorias-estadisticas/
+- 2026-10-30 13:29 UTC · **El Baskonia busca dos fichajes: Jabari Parker interesa y el Maccabi rechazó una oferta por Roman Sorkin** — Solobasket [posible rumor] · https://www.solobasket.com/liga-endesa/baskonia-fichajes-jabari-parker-roman-sorkin
+- 2026-10-30 13:19 UTC · **Novedades y parte médico de la Jornada 6 de la Liga Endesa 2026-27** — ACB
+- 2026-10-30 13:14 UTC · **Modificación del horario del Hapoel-Barça de la 10ª jornada de la Euroliga** — Mundo Deportivo
+- 2026-10-30 13:12 UTC · **Josean Querejeta, dolido tras la pañolada, se plantea dejar la presidencia del Baskonia** — IUSPORT
+- 2026-10-30 12:55 UTC · **El trío fantástico domina en la Euroliga: TJ Shorts, Taylor y Brooks tienen a Valencia Basket siempre en positivo** — COPE
+- 2026-10-30 12:53 UTC · **Pelos agradece a los aficionados la ayuda para superar su año difícil** — Tinta Amarilla
+- 2026-10-30 12:50 UTC · **Doble contratiempo para el Real Madrid en su mejor momento: Jantunen y Maledon, lesionados** — Cadena SER
+- 2026-10-30 12:47 UTC · **Tomas Dimsa, baja ante Tenerife por una lesión muscular en el gemelo izquierdo** — Infobae
+- 2026-10-30 12:46 UTC · **Théo Maledon sufre un esguince en la rodilla derecha** — Mundo Deportivo
+- 2026-10-30 12:36 UTC · **Gonzalo García de Vitoria, entrenador del Casademont Zaragoza: "Es el momento de demostrar el carácter"** — heraldo.es
+- 2026-10-30 12:28 UTC · **Dos golpes a la vez en el Real Madrid: Jantunen y Maledon, lesionados** — Diario AS
+- 2026-10-30 12:21 UTC · **Theo Maledon sufre un esguince de rodilla y Jantunen se rompe por completo la fascia plantar** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2028353/theo-maledon-sufre-un-esguince-de-rodilla-y-jantunen-se-rompe-por-completo-la-fascia-plantar/
+- 2026-10-30 12:20 UTC · **Vidorreta analiza al Barça: “Un equipo físico y atlético”** — Diario AS
+- 2026-10-30 12:13 UTC · **Jantunen tiene rota la fascia plantar y su lesión obliga al Real Madrid a mirar el mercado** — MARCA
+- 2026-10-30 12:13 UTC · **Doble palo al Real Madrid en su mejor momento: lesiones de Jantunen y Maledon** — MARCA
+- 2026-10-30 12:11 UTC · **Ver Día 2 | Dobles femenino élite Online en Directo | DAZN ES** — DAZN
+- 2026-10-30 12:09 UTC · **La multipropiedad llega al baloncesto en Europa con el Juventut como protagonista** — Betfair
+- 2026-10-30 12:07 UTC · **Ver Braga - Sporting Online en Directo | DAZN ES** — DAZN
+- 2026-10-30 12:02 UTC · **EL DÍA sortea entradas dobles para ver al La Laguna Tenerife ante Cluj-Napoca y Joventut en la primera semana de noviembre** — Eldía
+- 2026-10-30 12:00 UTC · **El Real Madrid hace historia en la Euroliga con unas cifras anotadoras nunca vistas** — Mundo Deportivo
+- 2026-10-30 11:58 UTC · **Pelos, sobre su inicio de temporada: Estoy bien físicamente, el problema está en mi cabeza** — Cadena SER
+- 2026-10-30 11:51 UTC · **El Caja Rural CB Zamora busca su segunda victoria ante un peligroso Bueno Arenas Albacete Basket** — ZA3.0
+- 2026-10-30 11:40 UTC · **Josean Querejeta se plantea dejar la presidencia del Baskonia** — MARCA
+- 2026-10-30 11:37 UTC · **El Surne busca ser «incómodo» ante el Joventut** — El Correo
+- 2026-10-30 11:24 UTC · **Watch Race 4 | Mugello Live Stream Online | DAZN ES** — DAZN
+- 2026-10-30 11:21 UTC · **Méndez da la primera lista tras el Mundial: se estrenará Marta Suárez** — Diario AS
+- 2026-10-30 11:20 UTC · **Carles Marco, en la previa del Leyma Coruña-Tenerife: «Queremos mejorar nuestra imagen en el Coliseum y resarcirnos ante nuestra afición, podemos hacerlo mucho mejor»** — La Opinión A Coruña
+- 2026-10-30 11:20 UTC · **El Caja Rural CB Zamora busca su segunda victoria ante el Bueno Arenas Albacete este sábado** — Zamora News
+- 2026-10-30 11:09 UTC · **El Real Madrid domina al Fenerbahçe en Euroliga con un gran Maledon** — Blog de Basket
+- 2026-10-30 11:06 UTC · **Los Consejos de Luisheel para la Jornada 6** — ACB
+- 2026-10-30 11:06 UTC · **Las palabras de Miguel Méndez sobre la convocatoria de España para la Ventana FIBA** — Gigantes del Basket · https://www.gigantes.com/selecciones/miguel-mendez-palabras-seleccione-espanola-lista/
+- 2026-10-30 11:06 UTC · **Euroliga: décima victoria blanca y duelo español en Barcelona** — Relevo Deportes
+- 2026-10-30 11:00 UTC · **Nikola Mirotic, baja en Valencia Basket por una lesión muscular en el aductor** — SempreValencia.com
+- 2026-10-30 10:59 UTC · **Carles Marco: “Hay que intentar que a Tenerife le cueste cada canasta que haga”** — Cadena SER
+- 2026-10-30 10:53 UTC · **El Movistar Estudiantes se suma a la solidaridad tras el accidente ferroviario** — Diario AS
+- 2026-10-30 10:43 UTC · **Un ex del Barça firma su renovación y seguirá en la Euroliga hasta 2029** — Mundo Deportivo
+- 2026-10-30 10:31 UTC · **Los 13 clubes dueños de Euroliga están abiertos a entrar en la NBA europea si mantienen el control** — 2Playbook
+- 2026-10-30 10:25 UTC · **La lista de España para la Ventana FIBA de noviembre: Marta Suárez, gran novedad** — Gigantes del Basket · https://www.gigantes.com/selecciones/espana-ventana-fiba-noviembre-lista/
+- 2026-10-30 10:20 UTC · **El Fenerbahçe se lleva la puja por Dwight Powell** — Diario AS
+- 2026-10-30 10:16 UTC · **Houston Comets presenta su nuevo logo por el regreso a la WNBA tras 18 temporadas** — Gigantes del Basket · https://www.gigantes.com/wnba/houston-comets-nuevo-logo-regreso-wnba-2027/
+- 2026-10-30 10:14 UTC · **Fenerbahçe incorporará a Dwight Powell a su plantilla** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2028317/fenerbahce-incorporara-a-dwight-powell-a-su-plantilla/
+- 2026-10-30 10:12 UTC · **Álvaro Cárdenas, jugador de Valencia Basket, antes de enfrentarse al Barça en Euroliga: "¿Ánimos de revancha? Mentiría si te digo que no"** — SPORT
+- 2026-10-30 10:08 UTC · **Juan Núñez, baja unos diez días por un esguince de tobillo: no jugará ante el Valencia Basket** — Solobasket · https://www.solobasket.com/liga-endesa/juan-nunez-baja-esguince-tobillo-barca
+- 2026-10-30 10:00 UTC · **Carles Marco – Previa J6 – Leyma Coruña vs La Laguna Tenerife** — Basquet Coruña
+- 2026-10-30 09:56 UTC · **HALLOWEEN SE JUEGA EN EL FELIPE** — Basket Zaragoza |
+- 2026-10-30 09:55 UTC · **La tormenta perfecta desde el 6,75** — ACB
+- 2026-10-30 09:52 UTC · **Pedro Martínez convence y Maledon ejecuta: el Fenerbahçe es la última víctima de la racha del Real Madrid** — El Confidencial
+- 2026-10-30 09:46 UTC · **Nikola Radičević, refuerzo para el ASISA Joventut** — Penya
+- 2026-10-30 09:43 UTC · **Jasikevicius vuelve a pescar en la NBA** — Mundo Deportivo
+- 2026-10-30 09:40 UTC · **Zonas de tiro Joel Soriano** — ACB
+- 2026-10-30 09:34 UTC · **El Molina Basket busca su primera victoria ante el Llíria** — Infomolina
+- 2026-10-30 09:33 UTC · **Unicaja-Barça, jornada 6 de la Liga Endesa: fecha, hora y dónde se puede ver por televisión** — La Opinión de Málaga
+- 2026-10-30 09:32 UTC · **14 jugadoras convocadas para la primera Ventana de clasificación para el Eurobasket 2027** — Federación Española de Baloncesto
+- 2026-10-30 09:20 UTC · **Avenida, colíder en su grupo de Eurocup Women** — Salamanca24horas
+- 2026-10-30 09:19 UTC · **Egor Demin estará fuera de las pistas al menos una semana** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2028293/egor-demin-estara-fuera-de-las-pistas-al-menos-una-semana/
+- 2026-10-30 09:17 UTC · **Resumen de la NBA: Iisalo y los Grizzlies se mantienen invictos; Sabonis supera a Divac** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2028294/resumen-de-la-nba-iisalo-y-los-grizzlies-se-mantienen-invictos-sabonis-supera-a-divac/
+- 2026-10-30 09:14 UTC · **Barça - Valencia Basket: horario y dónde ver hoy el partido de la Euroliga por TV y en directo** — SPORT
+- 2026-10-30 09:10 UTC · **Golpe para Casademont: Homesley, tres semanas fuera y Bell-Haynes en el aire ante el Girona** — Sport Aragón
+- 2026-10-30 09:01 UTC · **¡Equípate con el Green November del Unicaja!** — Unicaja Baloncesto
+- 2026-10-30 09:00 UTC · **Quién es Cameron Boozer: el hijo de Carlos Boozer que ya hace historia en la NBA** — Gigantes del Basket · https://www.gigantes.com/nba/quien-es-cameron-boozer/
+- 2026-10-30 08:48 UTC · **Dónde ver el Barça - Valencia Basket: día y hora del partido de Euroliga en el Palau Blaugrana** — La Vanguardia
 - 2026-10-30 08:47 UTC · **A qué hora es el Barcelona - Valencia Basket: horario, canal y dónde ver hoy en TV el partido de Euroliga** — MARCA
 - 2026-10-30 08:42 UTC · **El Real Madrid tumba al Fenerbahçe (95-76) y Pedro Martínez avisa sobre Jantunen: “No tiene muy buena pinta”** — Solobasket · https://www.solobasket.com/euroliga/real-madrid-fenerbahce-95-76-jantunen-lesion
 - 2026-10-30 08:41 UTC · **A qué hora es el ASVEL - Baskonia: horario, canal y dónde ver hoy en TV el partido de Euroliga** — MARCA
@@ -109,6 +183,7 @@ Actualizado: 2026-10-30T09:00+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-30 08:17 UTC · **Ja Morant, KO ante su pasado: lesión contra los Grizzlies y alarmas en los Blazers** — Blog de Basket
 - 2026-10-30 08:13 UTC · **El Meins Avenida acaba la primera vuelta de la fase de grupos en Eurocup como líder** — SALAMANCArtv AL DÍA
 - 2026-10-30 08:09 UTC · **Jantunen se lesiona en la fascia plantar** — Blog de Basket
+- 2026-10-30 08:06 UTC · **Meins Avenida consigue una brillante victoria ante el Basket Namur (55-87)** — Federación de Baloncesto de Castilla y León
 - 2026-10-30 07:59 UTC · **Las Competiciones FEB guardarán este fin de semana un minuto de silencio** — Federación Española de Baloncesto
 - 2026-10-30 07:58 UTC · **La 'rajada' de Jasikevicius tras la derrota del Fenerbahçe ante el Real Madrid** — Mundo Deportivo
 - 2026-10-30 07:49 UTC · **El Iberolea Palencia regresa al Vicente Trueba para visitar al Cantabria** — Tribuna de Palencia.
@@ -118,56 +193,20 @@ Actualizado: 2026-10-30T09:00+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-30 07:03 UTC · **El Barça pone a prueba al Valencia Basket en el Palau: dónde ver el partidazo de Euroliga** — Mundo Deportivo
 - 2026-10-30 07:00 UTC · **Aday Mara, Hugo González, De Larrea y Baba Miller: así van los españoles en la NBA tras octubre** — Solobasket · https://www.solobasket.com/nba/espanoles-nba-octubre-mara-hugo-gonzalez-de-larrea-baba-miller
 - 2026-10-30 06:45 UTC · **«Llevaba desde mi etapa en Castellón queriendo venir a Palencia»** — El Norte de Castilla
+- 2026-10-30 06:21 UTC · **Chus Bueno, CEO de la Euroliga: "Con Juan Roig tenemos tranquilidad financiera con el Valencia Basket"** — 20Minutos
 - 2026-10-30 06:07 UTC · **Jasikevicius: “No tenemos una identidad como equipo”** — Diario AS
 - 2026-10-30 06:05 UTC · **Pulso de élite entre Barça y Valencia en el Palau** — Mundo Deportivo
 - 2026-10-30 06:00 UTC · **El Baskonia, en busca de una victoria sanadora en Lyon** — Diario de Noticias de Álava
 - 2026-10-30 06:00 UTC · **El resumen de la noche NBA: Highlights, resultados y estadísticas. Boozer hace historia con un triple-doble y Acuff se luce con 34 puntos** — Gigantes del Basket · https://www.gigantes.com/nba/resumen-nba-hoy-highlights-resultados-estadisticas/
-- 2026-10-30 05:30 UTC · **Juan Roig (77 años): “El baloncesto es mi forma de disfrutar, de sufrir y de devolverle a la sociedad valenciana lo mucho que me da”** — SPORT
 - 2026-10-30 05:30 UTC · **Theo Maledon, el gran líder del Real Madrid** — SPORT
+- 2026-10-30 05:30 UTC · **Juan Roig (77 años): “El baloncesto es mi forma de disfrutar, de sufrir y de devolverle a la sociedad valenciana lo mucho que me da”** — SPORT
+- 2026-10-30 05:00 UTC · **Valencia Basket busca un nuevo golpe sobre la mesa en su visita al Palau** — Plaza Deportiva
 - 2026-10-30 05:00 UTC · **Ver Campo 6A | Día 6: Sesión matutina Online en Directo | DAZN ES** — DAZN
 - 2026-10-30 05:00 UTC · **Watch Pitch 6A | Day 6 Live Stream Online | DAZN ES** — DAZN
-- 2026-10-30 05:00 UTC · **Valencia Basket busca un nuevo golpe sobre la mesa en su visita al Palau** — Plaza Deportiva
 - 2026-10-30 04:45 UTC · **El COB, sensaciones sin resultados** — La Región
+- 2026-10-30 04:27 UTC · **Ver OKTAGON 96: Gogoladze vs. Klinkhammer Online en Directo | DAZN ES** — DAZN
 - 2026-10-30 04:21 UTC · **Barcelona - Valencia: horario, TV, cómo y dónde ver la Euroliga 2026-27** — Diario AS
 - 2026-10-30 04:19 UTC · **Joel Parra, el hombre para todo** — Diario AS
 - 2026-10-30 04:16 UTC · **El Baskonia quiere fichar al menos dos jugadores** — Diario AS
 - 2026-10-30 04:00 UTC · **Horario y dónde ver el partido Casademont Zaragoza-Girona** — heraldo.es
 - 2026-10-30 04:00 UTC · **Raúl López, sobre el derbi Obradoiro - Breogán: "Yo no quiero que gane el mejor; quiero ganar yo"** — El Progreso de Lugo
-- 2026-10-30 01:36 UTC · **Trayectoria Rolando Frazer | Jugador acb | acb.com** — ACB
-- 2026-10-30 01:35 UTC · **Ver Esgueira - CA Queluz Online en Directo | DAZN ES** — DAZN
-- 2026-10-30 00:39 UTC · **Trayectoria Novica Velickovic | Jugador acb | acb.com** — ACB
-- 2026-10-30 00:11 UTC · **El Vitaudio GAB Jaén tras su pleno de triunfos en dos jornadas lidera su grupo de Primera Andaluza** — Jaén Deportiva
-- 2026-10-30 00:00 UTC · **Watch Basketball action as Atlanta Hawks takes on Cleveland Cavaliers** — DAZN
-- 2026-10-29 23:39 UTC · **Mika Jantunen tiene una lesión en la fascia plantar** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2028211/mika-jantunen-tiene-una-lesion-en-la-fascia-plantar/
-- 2026-10-29 23:14 UTC · **Jantunen sufre una lesión en la fascia plantar y Pedro Martínez se teme lo peor: "No tiene buena pinta"** — MARCA
-- 2026-10-29 23:07 UTC · **Liga U, en directo I Real Madrid - Bàsquet Girona** — MARCA
-- 2026-10-29 23:05 UTC · **Resumen del Real Madrid vs. Fenerbahce de Euroliga** — Diario AS
-- 2026-10-29 22:51 UTC · **95-76. El Real Madrid supera con nota el test del Fenerbahce** — Telemadrid
-- 2026-10-29 22:50 UTC · **Pedro Martínez enciende las alarmas con Jantunen: “No tiene muy buena pinta”** — Diario AS
-- 2026-10-29 22:50 UTC · **El Tizona recibe al líder HLA Alicante en busca de su primer triunfo como local** — Revista Forofos
-- 2026-10-29 22:50 UTC · **El Grupo Ureta Tizona busca estrenar su casillero de victorias en El Plantío ante el invicto Alicante** — Revista Forofos
-- 2026-10-29 22:49 UTC · **Otra gran noche europea del Zaragoza en la Euroliga femenina** — MARCA
-- 2026-10-29 22:40 UTC · **Agitar el árbol, pero con lo que tenemos en casa** — La Voz de Galicia
-- 2026-10-29 22:39 UTC · **El Real Madrid supera con nota el test del Fenerbahce** — Diario de Burgos
-- 2026-10-29 22:26 UTC · **Pedro Martínez: «La lesión de Jantunen es en la fascia del pie y no tiene muy buena pinta»** — OkDiario
-- 2026-10-29 22:19 UTC · **Resultados Euroliga, jornada 9: horarios, TV, partidos y clasificación** — Diario AS
-- 2026-10-29 22:19 UTC · **Tercera jornada de la EuroLeague Women: primer pleno de victorias español** — Gigantes del Basket · https://www.gigantes.com/euroleague-women/euroleague-women-tercera-jornada-que-ha-pasado/
-- 2026-10-29 22:16 UTC · **Así queda la clasificación de Euroliga tras la victoria del Madrid** — Mundo Deportivo
-- 2026-10-29 22:11 UTC · **El Madrid tiene estilo** — Diario AS
-- 2026-10-29 22:11 UTC · **Euroliga | Real Madrid 95 – 76 Fenerbahce: Fenerbahçe sucumbe al vendaval blanco** — 24segundosenblanco
-- 2026-10-29 22:10 UTC · **A Maledon no le para ni la mejor defensa de Europa** — El Mundo
-- 2026-10-29 22:06 UTC · **Ni la mejor defensa de la Euroliga detiene al Real Madrid** — MARCA
-- 2026-10-29 22:04 UTC · **El Madrid gana el duelo de estilos ante el Fenerbahçe** — EL PAÍS
-- 2026-10-29 22:02 UTC · **95-76: Un Madrid solvente no da respiro al Fenerbahçe** — Mundo Deportivo
-- 2026-10-29 22:01 UTC · **Resumen de la Euroliga: Victorias para Estrella Roja y París Basketball** — Eurohoops · https://www.eurohoops.net/es/euroleague-es/2028175/resumen-de-la-euroliga-victorias-para-estrella-roja-y-paris-basketball/
-- 2026-10-29 21:58 UTC · **El Real Madrid supera al Fenerbahce en el primer examen de la temporada y logra su décima victoria seguida** — OkDiario
-- 2026-10-29 21:56 UTC · **El Real Madrid desquicia a Saras con otro recital ofensivo** — SPORT
-- 2026-10-29 21:56 UTC · **Estos serán los grupos para la NBA Cup 2026** — Blog de Basket
-- 2026-10-29 21:54 UTC · **Qué ha pasado en la Euroliga: El Real Madrid sigue en racha y supera al Fenerbahçe** — Gigantes del Basket · https://www.gigantes.com/euroliga/que-ha-pasado-hoy-euroliga-jornada-9-2026/
-- 2026-10-29 21:46 UTC · **Ni Fenerbahçe puede con un Madrid que vuela** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2028105/ni-fenerbahce-puede-con-un-madrid-que-vuela/
-- 2026-10-29 21:45 UTC · **El Madrid da una lección de baloncesto ante el Fenerbahçe** — ABC
-- 2026-10-29 21:45 UTC · **El Real Madrid se exhibe ante Fenerbahçe de la mano de un Maledon estelar y suma su décima victoria consecutiva** — El Español
-- 2026-10-29 21:43 UTC · **El Madrid tumba al Fenerbahçe y sigue imparable** — El Imparcial - Diario liberal e independiente
-- 2026-10-29 21:31 UTC · **El Crvena Zvezda arrolla al Bayern y cierra una semana redonda (103-73)** — piratasdelbasket
-- 2026-10-29 21:24 UTC · **77-55: El Casademont pasa por encima del Kibirkstis lituano** — Mundo Deportivo
-- 2026-10-29 21:18 UTC · **Avenida vence con contundencia a Basket Namur y logra su primera victoria en Eurocup fuera de Salamanca** — Salamancahoy

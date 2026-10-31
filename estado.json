@@ -1,29 +1,28 @@
 {
- "actualizado": "2026-10-31T00:05+00:00",
+ "actualizado": "2026-10-31T05:25+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
    "ok": true,
-   "leidas": 34,
-   "guardadas": 34
+   "leidas": 31,
+   "guardadas": 31
   },
   {
    "fuente": "Google Noticias · UCAM CB",
    "ok": true,
-   "leidas": 50,
-   "guardadas": 50
+   "leidas": 24,
+   "guardadas": 24
   },
   {
    "fuente": "Fundación CB Granada (web oficial)",
-   "ok": true,
-   "leidas": 10,
-   "guardadas": 1
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='fundacioncbgranada.es', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='fundacioncbgranada.es', port=443) at 0x7fea90ee"
   },
   {
    "fuente": "Google Noticias · Covirán Granada",
    "ok": true,
-   "leidas": 18,
-   "guardadas": 18
+   "leidas": 29,
+   "guardadas": 29
   },
   {
    "fuente": "Google Noticias · Olga Lorente",
@@ -34,8 +33,8 @@
   {
    "fuente": "Google Noticias · Jaime Nadal",
    "ok": true,
-   "leidas": 3,
-   "guardadas": 3
+   "leidas": 2,
+   "guardadas": 2
   },
   {
    "fuente": "Google Noticias · Noelia Gómez Mira",
@@ -52,8 +51,8 @@
   {
    "fuente": "Google Noticias · Liga Endesa mercado",
    "ok": true,
-   "leidas": 55,
-   "guardadas": 55
+   "leidas": 27,
+   "guardadas": 27
   },
   {
    "fuente": "Google Noticias · Euroliga",
@@ -64,20 +63,20 @@
   {
    "fuente": "Google Noticias · EuroCup",
    "ok": true,
-   "leidas": 40,
-   "guardadas": 40
+   "leidas": 52,
+   "guardadas": 52
   },
   {
    "fuente": "Google Noticias · BCL",
    "ok": true,
-   "leidas": 16,
-   "guardadas": 16
+   "leidas": 18,
+   "guardadas": 18
   },
   {
    "fuente": "Google Noticias · Primera FEB",
    "ok": true,
-   "leidas": 90,
-   "guardadas": 90
+   "leidas": 88,
+   "guardadas": 88
   },
   {
    "fuente": "Gigantes del Basket",

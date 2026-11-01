@@ -1,10 +1,11 @@
 # Radar de baloncesto
 
-Actualizado: 2026-11-01T02:20+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-11-01T09:24+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (103)
+## UCAM Murcia CB (98)
 
+- 2026-11-01 05:02 UTC · **Análisis del UCAM Murcia-Lleida: el UCAM vuelve a dar miedo en casa al recuperar su esencia** — La Opinión de Murcia
 - 2026-10-31 23:21 UTC · **Liga Endesa | acb.com** — ACB
 - 2026-10-31 22:29 UTC · **Victoria con récord del UCAM Murcia, clara también la del Zaragoza y remontó el Leyma Coruña** — Encestando
 - 2026-10-31 22:24 UTC · **Sito Alonso presume de la "identidad UCAM" en el récord histórico de anotación del Murcia** — COPE
@@ -102,15 +103,10 @@ Actualizado: 2026-11-01T02:20+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-29 13:08 UTC · **Partidos David Doblas** — ACB
 - 2026-10-29 12:56 UTC · **Alberto Soto: "Tenemos que corregir nuestros errores y seguir creciendo como equipo"** — UCAM Deportes
 - 2026-10-29 10:09 UTC · **El desafío de Steinbergs: adaptarse al ADN de UCAM Murcia** — Cadena SER
-- 2026-10-29 08:50 UTC · **Mira los partidos completos de Surne Bilbao y UCAM Murcia en la Champions League de baloncesto** — RTVE.es
-- 2026-10-29 07:53 UTC · **Estad. Avanzada Marc García** — ACB
-- 2026-10-29 06:26 UTC · **Temporada Fotis Katsikaris | Entrenador acb** — ACB
-- 2026-10-29 05:03 UTC · **La Fed no sorprende y mantiene sin cambios los tipos de interés** — Murcia Plaza [posible rumor]
-- 2026-10-29 05:00 UTC · **El ataque del UCAM Murcia, demasiado dependiente de unos pocos** — La Opinión de Murcia
-- 2026-10-29 04:00 UTC · **'ElPozo Sports Universe', el lugar donde se alimentan los valores del deporte** — elDiario.es
 
-## Covirán Granada (50)
+## Covirán Granada (52)
 
+- 2026-11-01 07:20 UTC · **Las chicas de Mané Campaña, a recuperar las buenas sensaciones** — Melilla Hoy
 - 2026-10-31 23:04 UTC · **Uno a Uno: Covirán 71-66** — Granada en Juego
 - 2026-10-31 22:55 UTC · **El Covirán dedica el triunfo al pívot Abdou Thiam tras dejar el hospital** — Ideal
 - 2026-10-31 22:40 UTC · **Así ha ganado el Iberolea Palencia en Cantabria** — El Norte de Castilla
@@ -130,6 +126,7 @@ Actualizado: 2026-11-01T02:20+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-31 18:58 UTC · **El Covirán Granada se impone, no sin sufrimiento, a un pobre Partizan de Fuenlabrada** — Granada Hoy
 - 2026-10-31 18:57 UTC · **El Covirán salta entre los mejores** — Ideal
 - 2026-10-31 18:57 UTC · **El Covirán salta ya entre los mejores** — Ideal
+- 2026-10-31 18:02 UTC · **Ver Granada CF - Atlético de Madrid Online en Directo | DAZN ES** — DAZN
 - 2026-10-31 16:05 UTC · **Mourinho sobre el calendario: "Nos hacen un grandísimo regalo, a ver si los dejamos tristes"** — Ideal
 - 2026-10-31 15:50 UTC · **La Salle Nacional afronta un duro compromiso ante el CAB Estepona - El Faro de Melilla** — El Faro de Melilla
 - 2026-10-31 12:42 UTC · **Covirán-Fuenlabrada | Resumen, resultado y momentos destacados** — GranadaDigital
@@ -167,8 +164,36 @@ Actualizado: 2026-11-01T02:20+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-31 20:42 UTC · **Ciclón ofensivo y récord anotador del UCAM Murcia para arrollar al Lleida (125-98)** — MurciaEconomía.com
 - 2026-10-30 11:02 UTC · **Sito Alonso: “Todavía no disfruto como voy a disfrutar, pero esto es un proceso”** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (89)
+## Resto (últimas 12 h) (49)
 
+- 2026-11-01 09:07 UTC · **El Casademont Zaragoza golea al Girona (107-78) y firma su segundo mejor inicio en la Liga Endesa** — Solobasket · https://www.solobasket.com/liga-endesa/casademont-zaragoza-girona-107-78-segundo-mejor-inicio
+- 2026-11-01 09:00 UTC · **MoraBanc Andorra vs Valencia Basket: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN
+- 2026-11-01 08:45 UTC · **Laprovittola rescata su magia en Badalona** — Deia
+- 2026-11-01 08:26 UTC · **El siguiente reto del Surne Bilbao es sumar fuera de casa** — Deia
+- 2026-11-01 08:10 UTC · **Kosner Baskonia vs Kids&Us Manresa: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN
+- 2026-11-01 08:00 UTC · **Todo lo que llega a Movistar Plus en noviembre: Champions, LaLiga, baloncesto, tenis y el mejor cine por solo 9,99 euros** — Mundo Deportivo
+- 2026-11-01 07:58 UTC · **Hoy tienes baloncesto gratis de la Liga Endesa: se emiten dos partidos en abierto por TV** — ADSLZone
+- 2026-11-01 07:36 UTC · **Leyma Coruña remonta ante Tenerife y desata la alegría en el Coliseum (93-89)** — noticiascoruna
+- 2026-11-01 07:33 UTC · **Baskonia recibe al colista con la obligación de frenar su caída** — Gasteiz Hoy
+- 2026-11-01 07:26 UTC · **Real Madrid - Recoletas Salud San Pablo Burgos: horario, dónde ver hoy en TV y canal del partido de la Liga Endesa** — MARCA
+- 2026-11-01 07:10 UTC · **El Askatuak GBC, a poner coto a su mala racha hoy en el Gasca** — El Diario Vasco
+- 2026-11-01 07:01 UTC · **Horario y dónde ver en TV el Unicaja-Barcelona de Liga ACB** — Málaga Hoy
+- 2026-11-01 07:00 UTC · **A Willy Hernangómez le ha llegado el momento de la revancha ante el Barça** — SPORT
+- 2026-11-01 07:00 UTC · **Aday Mara pone cuatro tapones en la derrota de los Thunder en Houston; Hezonja, 11 rebotes en el triunfo de los Cavs** — Solobasket · https://www.solobasket.com/nba/aday-mara-cuatro-tapones-thunder-rockets-hezonja-cavaliers
+- 2026-11-01 06:51 UTC · **Tavares tapona a la historia con un récord gigantesco** — MARCA
+- 2026-11-01 06:05 UTC · **El Barça se cita en el Carpena con Willy Hernangómez** — Mundo Deportivo
+- 2026-11-01 06:00 UTC · **Unicaja-Barça: la prueba del algodón (19 horas)** — La Opinión de Málaga
+- 2026-11-01 05:01 UTC · **A por una victoria en Andorra para cerrar una semana exigente** — Levante-EMV
+- 2026-11-01 05:01 UTC · **El Palmer Basket se mide al Oviedo en el estreno de Joan Sastre** — Diario de Mallorca
+- 2026-11-01 04:40 UTC · **Real Madrid - Burgos: horario, TV y dónde ver la ACB 2026-27** — Diario AS
+- 2026-11-01 04:39 UTC · **Unicaja - Barcelona: horario, TV y dónde ver la ACB 2026-27** — Diario AS
+- 2026-11-01 04:38 UTC · **Willy, morbo total** — Diario AS
+- 2026-11-01 04:38 UTC · **Estudiantes y Granca: de la élite a la reconstrucción** — Diario AS
+- 2026-11-01 04:00 UTC · **El Río Breogán busca ante el Monbus Obradoiro su cuarto triunfo de la temporada** — El Progreso de Lugo
+- 2026-11-01 03:30 UTC · **Real Madrid vs San Pablo Burgos: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN
+- 2026-11-01 03:28 UTC · **ND-EUROLIGA-RM-FENERBAHCE-ALEGRIA-GRUPO_SG15773** — 24segundosenblanco
+- 2026-11-01 03:15 UTC · **Monbus Obradoiro vs Río Breogán: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN
+- 2026-11-01 03:00 UTC · **Los dos máximos anotadores de Primera FEB, cara a cara en el Palmer-Alimerka Oviedo** — La Nueva España
 - 2026-11-01 00:36 UTC · **El insaciable Real Madrid de Pedro Martínez: arranque de récord y diez victorias consecutivas** — ABC
 - 2026-11-01 00:05 UTC · **El Valencia Basket busca otra alegría antes de tres semanas sin Roig Arena** — Superdeporte
 - 2026-10-31 23:50 UTC · **Horario, canal y dónde ver por TV el Unicaja - Barça Basket de la Liga Endesa** — Mundo Deportivo
@@ -178,6 +203,7 @@ Actualizado: 2026-11-01T02:20+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-31 23:16 UTC · **Mal final de partido y derrota del CB Canarias (93-89)** — Cadena SER
 - 2026-10-31 23:10 UTC · **La unión sostuvo a un equipo que supo agitar el árbol** — La Voz de Galicia
 - 2026-10-31 23:04 UTC · **El día de los hombres grandes del Leyma Coruña** — La Voz de Galicia
+- 2026-10-31 23:01 UTC · **Derrota por la mínima del Albacete Basket en Zamora (90-89)** — masquealba
 - 2026-10-31 22:58 UTC · **Real Madrid-San Pablo Burgos: a cerrar otra semana perfecta** — Real Madrid CF | Web Oficial
 - 2026-10-31 22:50 UTC · **93-89 | El Leyma Coruña espanta los fantasmas en la noche de Halloween** — La Opinión A Coruña
 - 2026-10-31 22:44 UTC · **Leyma Coruña frena a La Laguna Tenerife y Casademont Zaragoza se desmelena** — Notimérica
@@ -189,72 +215,3 @@ Actualizado: 2026-11-01T02:20+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-31 22:20 UTC · **El Iberolea Palencia se cobra revancha** — El Norte de Castilla
 - 2026-10-31 22:03 UTC · **El Bàsquet Menorca no levanta cabeza ni en Bintalfa** — Menorca - Es diari
 - 2026-10-31 21:37 UTC · **Eric del Castillo** — ACB
-- 2026-10-31 21:22 UTC · **El Caja 87 aprende a sufrir para ganar en Menorca (69-73)** — Diario de Sevilla
-- 2026-10-31 21:22 UTC · **El COB espanta sus fantasmas y se impone ante el Mallorca (83-73)** — La Voz de Galicia
-- 2026-10-31 21:21 UTC · **Emotivo minuto de silencio en la Liga Endesa** — ACB
-- 2026-10-31 21:20 UTC · **Gerard Encuentra: "Sin defensa es imposible ganar"** — Mundo Deportivo
-- 2026-10-31 21:18 UTC · **Natxo Lezkano analiza el encuentro de la jornada 6 en Primera FEB frente al Grupo Alega Cantabria** — Tribuna de Palencia.
-- 2026-10-31 21:00 UTC · **Regreso al Roig Arena para seguir con la racha en Liga** — Levante-EMV
-- 2026-10-31 21:00 UTC · **Deportes: Estudio Estadio, en directo | 31/10** — RTVE.es
-- 2026-10-31 20:58 UTC · **El Joventut recupera la senda de la victoria tras imponerse a Recoletas Zamora (71-61)** — piratasdelbasket
-- 2026-10-31 20:57 UTC · **Marcelinho Huertas ya es tercero en partidos disputados en la Liga Endesa: Este es el top 15 del ránking** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/marcelinho-huertas-tercero-partidos-acb/
-- 2026-10-31 20:44 UTC · **El CB Zamora baja de la nube al Albacete Basket** — La Tribuna de Albacete
-- 2026-10-31 20:42 UTC · **(Fotos)El Bàsquet Menorca vuelve a caer en un final cruel ante el Caja 87** — Menorca al Dia
-- 2026-10-31 20:38 UTC · **Un mal tercer cuarto condena al Fibwi Mallorca en Ourense** — Diario de Mallorca
-- 2026-10-31 20:37 UTC · **Resumen de la ACB: Zaragoza y Murcia arrasan en casa** — Eurohoops (español) · https://www.eurohoops.net/es/acb-es/2029111/resumen-de-la-acb-zaragoza-y-murcia-arrasan-en-casa/
-- 2026-10-31 20:25 UTC · **Amida Brimah, nuevo refuerzo del Río Breogán** — piratasdelbasket
-- 2026-10-31 20:23 UTC · **Raquel Romo pone en valor el trabajo invisible de 'staff' y jugadoras cuando no hay tiempo de entrenar** — Tribuna de Salamanca.
-- 2026-10-31 20:19 UTC · **El Fibwi Mallorca no levanta cabeza** — Ultima Hora
-- 2026-10-31 20:17 UTC · **PASEN Y VEAN** — Basket Zaragoza |
-- 2026-10-31 20:14 UTC · **El Valencia Basket busca su tercera victoria consecutiva en Liga Endesa ante un Andorra necesitado** — Hortanoticias.com
-- 2026-10-31 20:14 UTC · **El Casademont Zaragoza arrolla al Girona con Vives al mando (107-78)** — piratasdelbasket
-- 2026-10-31 20:12 UTC · **Primera FEB - Grupo Alega Cantabria VS Iberolea Palencia: Crónica y resultado** — Tribuna de Palencia.
-- 2026-10-31 20:10 UTC · **Leyma Coruña vs La Laguna Tenerife 31 oct 2026** — ACB
-- 2026-10-31 20:08 UTC · **Amida Brimah, refuerzo de emergencia del Río Breogán por la lesión de Aleksa Ilic** — La Voz de Galicia
-- 2026-10-31 19:55 UTC · **Triunfo arrollador para el Casademont** — Diario AS
-- 2026-10-31 19:47 UTC · **Moncho Fernández: "El Casademont ha sido muy superior en todo"** — Mundo Deportivo
-- 2026-10-31 19:46 UTC · **El FIATC Girona se estrella en Zaragoza (107-78)** — El Periódico
-- 2026-10-31 19:44 UTC · **107-78: El Casademont recupera su mejor versión y gana al FIATC Girona** — Mundo Deportivo
-- 2026-10-31 19:01 UTC · **El Casademont Zaragoza firma su 2º mejor inicio en Liga Endesa** — ACB
-- 2026-10-31 18:54 UTC · **Jornada 6: Tavares a dos tapones del récord y crisis en el Madrid** — Blog de Basket
-- 2026-10-31 18:54 UTC · **Satoransky se recupera tras una aparatosa caída en Euroliga** — Blog de Basket
-- 2026-10-31 18:44 UTC · **Valencia Basket busca recuperar el pulso liguero en una complicada visita a Andorra** — Las Provincias
-- 2026-10-31 18:26 UTC · **Las mejores imágenes del Casademont Zaragoza-FIATC Girona en el Príncipe Felipe** — heraldo.es
-- 2026-10-31 18:24 UTC · **Casademont Zaragoza vs FIATC Girona 31 oct 2026** — ACB
-- 2026-10-31 18:23 UTC · **La ACB hablará gallego en la pista de Sar** — La Voz de Galicia
-- 2026-10-31 18:13 UTC · **Un Barça en racha busca el triunfo en Málaga en un duelo histórico de Liga Endesa** — SPORT
-- 2026-10-31 18:13 UTC · **"He aprendido a estar ajeno al ruido mediático; elegí un sitio en el que pudiera encajar"** — Mundo Deportivo
-- 2026-10-31 18:12 UTC · **El Palmer Basket Mallorca quiere subir otro escalón** — Ultima Hora
-- 2026-10-31 18:05 UTC · **Real Madrid vs Recoletas Salud San Pablo Burgos: horario y dónde ver el partido de la Liga Endesa en TV** — Solobasket · https://www.solobasket.com/liga-endesa/real-madrid-san-pablo-burgos-horario-donde-ver
-- 2026-10-31 18:05 UTC · **El Kids&Us Manresa, aún sin fichar, visita Vitoria muy necesitado** — Mundo Deportivo
-- 2026-10-31 17:54 UTC · **El Iren BCB necesita creer en el reto de conquistar León** — Hoy
-- 2026-10-31 17:50 UTC · **El Valencia busca reaccionar en Andorra tras su derrota ante el Barça** — Mundo Deportivo
-- 2026-10-31 17:45 UTC · **🔴 Directo | El COB se enfrenta al Fibwi Palma con el objetivo de volver a ganar** — La Región
-- 2026-10-31 17:31 UTC · **Exigente vuelta a la realidad para el Valencia Basket en Andorra** — El Desmarque
-- 2026-10-31 17:24 UTC · **Baskonia y Kids&Us Manresa, frente a frente para romper sus malas rachas** — SPORT
-- 2026-10-31 17:13 UTC · **La previa: un examen 'final' para el CB Gran Canaria y el Movistar Estudiantes, dos colosos dormidos** — La Provincia
-- 2026-10-31 17:09 UTC · **Las lesiones ponen en jaque a la Euroliga** — Diario de Noticias de Álava
-- 2026-10-31 17:06 UTC · **Menorca - Caja 87** — Flashscore.es
-- 2026-10-31 16:55 UTC · **Casademont Zaragoza vs FIATC Girona 31 oct 2026 | ACB Live Resumen del Partido | ACB.com** — ACB
-- 2026-10-31 16:53 UTC · **Casademont Zaragoza vs FIATC Girona Oct 31, 2026** — ACB
-- 2026-10-31 16:48 UTC · **El Valencia quiere entrar en racha en la Liga en la pista del necesitado Andorra** — Plaza Deportiva
-- 2026-10-31 16:45 UTC · **Ibon Navarro ya tiene su talismán** — Diario AS
-- 2026-10-31 16:40 UTC · **El Cajasol Coto Córdoba intentará recuperar su mejor versión en Donostia** — Diario Córdoba
-- 2026-10-31 16:34 UTC · **La mejor defensa de la liga visita a un Coruña que encaja 102 puntos por partido** — Canarias en Pleno
-- 2026-10-31 16:30 UTC · **Leyma Coruña vs La Laguna Tenerife: hora, bajas y cómo llegan** — Radio Televisión Canaria
-- 2026-10-31 16:28 UTC · **Bartzokas quiere a Dorsey en el equipo: “No tengo problemas de ego con los jugadores”** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2029096/bartzokas-quiere-a-dorsey-en-el-equipo-no-tengo-problemas-de-ego-con-los-jugadores/
-- 2026-10-31 16:20 UTC · **Txus Vidorreta, un autentico ‘zorro’ en los banquillos ACB, ante su gran reto de batir al Barça: ”Estoy esperando con ganas el partido”** — SPORT
-- 2026-10-31 16:09 UTC · **Baskonia sucumbe ante ASVEL y amplía su crisis** — Blog de Basket
-- 2026-10-31 16:02 UTC · **Satoransky se pronuncia tras su durísima caída: "Fue un momento aterrador"** — SPORT
-- 2026-10-31 16:01 UTC · **Parra: "Somos el Barça y vamos a Málaga a competir"** — Mundo Deportivo
-- 2026-10-31 15:48 UTC · **PREVIA J.5: Duelo de altos vuelos en Zaragoza y prueba al liderato en Madrid** — Federación Española de Baloncesto
-- 2026-10-31 15:34 UTC · **El Baskonia cae ante el ASVEL (94-79) y suma siete derrotas seguidas; Perasovic: “No nos podemos hundir en el desánimo”** — Solobasket · https://www.solobasket.com/liga-endesa/asvel-baskonia-94-79-perasovic-siete-derrotas
-- 2026-10-31 15:32 UTC · **Exigente cierre a la semana triple en la pista del MoraBanc Andorra** — Valencia Basket Club
-- 2026-10-31 15:25 UTC · **Top 10 Plays | Round 9 | 2026-27 EuroLeague Regular Season** — Euroleague Basketball
-- 2026-10-31 15:25 UTC · **An incredible leap by Kao! Motorola Magic Moment** — Euroleague Basketball
-- 2026-10-31 15:22 UTC · **Valencia Basket afronta su último partido en el Roig Arena en tres semanas buscando alargar las sensaciones** — Valencia Basket Club
-- 2026-10-31 15:21 UTC · **Liga U, Jornada 6: Barça Atlètic sigue invicto y dos equipos se estrenan** — ACB
-- 2026-10-31 15:16 UTC · **Los Boston Celtics garantizan el tercer año de Hugo González en la NBA: los detalles de su contrato** — Gigantes del Basket · https://www.gigantes.com/nba/hugo-gonzalez-celtics-opcion-contrato-2027-28/
-- 2026-10-31 14:53 UTC · **Una de las grandes citas de la temporada espera en el Movistar Arena** — cbgrancanaria.net
-- 2026-10-31 14:46 UTC · **Unicaja quiere albergar la Final Four 2027 de la BCL** — Eurohoops (español) [posible rumor] · https://www.eurohoops.net/es/fiba-champions-league-es/2029053/unicaja-quiere-albergar-la-final-four-2027-de-la-bcl/
-- 2026-10-31 14:28 UTC · **El top-10 de la Euroliga habla español** — Mundo Deportivo

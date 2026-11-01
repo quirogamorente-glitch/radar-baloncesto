@@ -1,14 +1,17 @@
 # Radar de baloncesto
 
-Actualizado: 2026-11-01T16:10+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-11-01T20:37+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (98)
+## UCAM Murcia CB (99)
 
+- 2026-11-01 18:07 UTC · **Ver UCAM Murcia Car - Kids&Us Manresa Online en Directo | DAZN ES** — DAZN
 - 2026-11-01 12:58 UTC · **El UCAM Murcia CF golea en La Condomina para seguir en lo más alto** — MurciaEconomía.com
 - 2026-11-01 11:00 UTC · **El UCAM Murcia bate su récord anotador en la Liga Endesa: 125 puntos al Lleida** — Solobasket · https://www.solobasket.com/liga-endesa/ucam-murcia-record-anotador-125-puntos-lleida
+- 2026-11-01 10:36 UTC · **El PSOE mantiene a casi la mitad de los cabezas de lista al Congreso, incluidos colaboradores de Santos Cerdán** — Murcia Plaza
 - 2026-11-01 10:35 UTC · **El UCAM CB bate tres récords de anotación y el de valoración en su exhibición ante el Lleida** — Murcia Plaza
 - 2026-11-01 05:02 UTC · **Análisis del UCAM Murcia-Lleida: el UCAM vuelve a dar miedo en casa al recuperar su esencia** — La Opinión de Murcia
+- 2026-10-31 23:43 UTC · **Partidos Goran Huskic** — ACB
 - 2026-10-31 23:21 UTC · **Liga Endesa | acb.com** — ACB
 - 2026-10-31 22:29 UTC · **Victoria con récord del UCAM Murcia, clara también la del Zaragoza y remontó el Leyma Coruña** — Encestando
 - 2026-10-31 22:24 UTC · **Sito Alonso presume de la "identidad UCAM" en el récord histórico de anotación del Murcia** — COPE
@@ -58,6 +61,7 @@ Actualizado: 2026-11-01T16:10+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-30 16:42 UTC · **Los fondos de inversión españoles retoman la tendencia de crecimiento en octubre** — Murcia Plaza
 - 2026-10-30 16:41 UTC · **Alcaraz pasa a semifinales de Viena con una versión sólida frente a Paul y le espera Medvedev** — Murcia Plaza
 - 2026-10-30 15:46 UTC · **El Tribunal de Cuentas detecta deficiencias e irregularidades en la actividad contractual del CNIO** — Murcia Plaza
+- 2026-10-30 15:46 UTC · **El déficit público sube al 1,75% del PIB hasta agosto y el del Estado crece al 2,19% hasta septiembre** — Murcia Plaza
 - 2026-10-30 15:46 UTC · **La Seguridad Social logra superávit de 7.125 millones hasta septiembre tras subir ingresos por cuotas** — Murcia Plaza
 - 2026-10-30 15:46 UTC · **Frente Amplio eleva la presión sobre Puente al reclamar oficialmente su dimisión** — Murcia Plaza
 - 2026-10-30 15:10 UTC · **Radicevic, fichaje temporal para el Asisa Joventut** — MARCA
@@ -100,12 +104,11 @@ Actualizado: 2026-11-01T16:10+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-30 03:08 UTC · **Ver Michigan @ Rutgers Online en Directo | DAZN ES** — DAZN
 - 2026-10-30 02:03 UTC · **Vídeos y noticias de Askia Booker** — ACB
 - 2026-10-30 01:24 UTC · **Ver Leicester Riders - Newcastle Eagles Online en Directo | DAZN ES** — DAZN
-- 2026-10-29 17:55 UTC · **Vísteme despacio, que tengo prisa, en el UCAM Murcia** — La Verdad
-- 2026-10-29 17:32 UTC · **El Palacio recibe al iLERNA Lleida** — UCAM Deportes
-- 2026-10-29 17:01 UTC · **UCAM Murcia CF y bp se alían para ofrecer descuentos en carburante a los aficionados del Club** — UCAM Deportes
 
 ## Covirán Granada (54)
 
+- 2026-11-01 18:18 UTC · **El Sima Granada se deja tres puntos antes de afrontar la Copa** — Ideal
+- 2026-11-01 16:36 UTC · **El Río Breogán incorpora al pívot Amida Brimah** — ACB
 - 2026-11-01 09:26 UTC · **El Partizán de Fuenlabrada pierde ante el Granada y suma su quinta derrota en Primera FEB** — El Diario de Madrid
 - 2026-11-01 07:30 UTC · **El Coviran Granada suma su segunda victoria consecutiva a base de defensa y sentencia al Partizan con un triple decisivo de Rousselle** — Motril Digital
 - 2026-11-01 07:20 UTC · **Las chicas de Mané Campaña, a recuperar las buenas sensaciones** — Melilla Hoy
@@ -113,6 +116,7 @@ Actualizado: 2026-11-01T16:10+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-31 22:55 UTC · **El Covirán dedica el triunfo al pívot Abdou Thiam tras dejar el hospital** — Ideal
 - 2026-10-31 22:40 UTC · **Así ha ganado el Iberolea Palencia en Cantabria** — El Norte de Castilla
 - 2026-10-31 20:49 UTC · **El Covirán UAPO Granada roza la perfección para vencer al líder** — Ideal
+- 2026-10-31 20:25 UTC · **Roope Korhonen revalida triunfo en el Rally de Granada** — Ideal
 - 2026-10-31 20:15 UTC · **Arturo Ruiz: «La ventaja pudo ser mayor con mejor tiro de dos»** — Ideal
 - 2026-10-31 20:11 UTC · **El Coviran Granada sale vivo del Palacio ante un Fuenlabrada desatinado** — Ahora Granada
 - 2026-10-31 19:42 UTC · **Procesión Extraordinaria de la Santa Cena de Granada, en directo** — Granada Hoy
@@ -150,27 +154,82 @@ Actualizado: 2026-11-01T16:10+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-10-30 16:17 UTC · **En Granada acaba un calendario de locos** — Ideal
 - 2026-10-30 15:24 UTC · **Partizán de Fuenlabrada busca en Granada una nueva victoria con la defensa como prioridad** — El Diario de Madrid
 - 2026-10-30 12:42 UTC · **Covirán Granada - Partizán de Fuenlabrada, en directo** — GranadaDigital
+- 2026-10-30 12:15 UTC · **Fútbol: Granada - Espanyol, en directo | Liga Femenin** — RTVE.es
 - 2026-10-30 11:58 UTC · **Ruiz sobre el duelo ante Fuenlabrada: "Nos puede dar esa ambición para afrontar lo que nos viene por delante"** — GranadaDigital
 - 2026-10-30 11:56 UTC · **El Coviran Granada recibe en el Palacio al Partizan de Fuenlabrada** — Fundación CB Granada (web oficial) · https://fundacioncbgranada.es/el-coviran-granada-recibe-en-el-palacio-al-partizan-de-fuenlabrada/
 - 2026-10-30 11:17 UTC · **Arturo Ruiz: «Estaremos al completo»** — Ideal
 - 2026-10-30 02:59 UTC · **No puede hacerse de rogar más** — Menorca - Es diari
 - 2026-10-29 23:15 UTC · **Pere Tomàs: «Vuelvo a disfrutar como jugador»** — Ideal
 - 2026-10-29 20:46 UTC · **Pacheta: “Hemos hecho un partido serio y espero que esto no pare”** — Howl.Link
-- 2026-10-29 17:32 UTC · **El Partizan de Fuenlabrada, un rival que no ha arrancado bien** — Granada Hoy
-- 2026-10-29 17:31 UTC · **Mateo Díaz comparte honores con Smith** — Ideal
-- 2026-10-29 17:25 UTC · **El Rally de Granada arranca con un tramo urbano** — Howl.Link
-- 2026-10-29 16:24 UTC · **Un alpinista granadino corona el punto más alto del Himalaya tras ocho días en la nieve** — Ideal
 
-## Periodistas preferentes (4)
+## Periodistas preferentes (6)
 
+- 2026-11-01 18:27 UTC · **La Deportiva Minera asalta La Arboleja a balón parado y acaricia el liderato (0-1)** — MurciaEconomía.com
+- 2026-11-01 14:46 UTC · **Carlos Alcaraz reina en Viena sin ceder un solo set y mira con ambición al tramo final de la temporada** — MurciaEconomía.com
 - 2026-11-01 13:19 UTC · **El Real Murcia resiste y amarra tres puntos de oro en El Maulí (0-1)** — MurciaEconomía.com
 - 2026-11-01 12:58 UTC · **El UCAM Murcia CF golea en La Condomina para seguir en lo más alto** — MurciaEconomía.com
 - 2026-10-31 20:42 UTC · **Ciclón ofensivo y récord anotador del UCAM Murcia para arrollar al Lleida (125-98)** — MurciaEconomía.com
 - 2026-10-30 11:02 UTC · **Sito Alonso: “Todavía no disfruto como voy a disfrutar, pero esto es un proceso”** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (112)
+## Resto (últimas 12 h) (150)
 
+- 2026-11-01 20:32 UTC · **Alonzo Verge Jr (Leyma Coruña), jugador de la jornada 6 de la Liga Endesa** — Infobae
+- 2026-11-01 20:27 UTC · **El Barça vence por primera vez a domicilio esta temporada** — ACB
+- 2026-11-01 20:26 UTC · **Zarpazo del Movistar Estudiantes a la Primera FEB** — Diario AS
+- 2026-11-01 20:13 UTC · **El Barça y Brizuela triunfan en el cara o cruz final ante el Unicaja (89-92)** — La Opinión de Málaga
+- 2026-11-01 20:08 UTC · **Unicaja 89 - Barça 92 Jornada 6 Liga Endesa 2026/27** — Unicaja Baloncesto
+- 2026-11-01 20:07 UTC · **89-92: El Barça amplía su racha con otra victoria ajustada en el Carpena** — Mundo Deportivo
+- 2026-11-01 20:06 UTC · **Parra y Brizuela lideran otra épica remontada del Barça** — SPORT
+- 2026-11-01 20:01 UTC · **Un viaje por la Jornada 6: Tavares, Huertas y un derbi para los libros del Río Breogán** — ACB
+- 2026-11-01 19:59 UTC · **El Barça acaba dibujando una sonrisa en Málaga después de un partidazo** — La Vanguardia
+- 2026-11-01 19:59 UTC · **El Baskonia de Perasovic consigue su primer triunfo (106-83)** — kirolakeitb.eus
+- 2026-11-01 19:58 UTC · **El Barça sigue sobreviviendo y ganando** — Eurohoops (español) · https://www.eurohoops.net/es/acb-es/2029506/el-barca-sigue-sobreviviendo-y-ganando/
+- 2026-11-01 19:57 UTC · **Alonzo Verge Jr., Jugador de la Jornada 6** — ACB
+- 2026-11-01 19:52 UTC · **Un CB Gran Canaria de pesadilla entierra ante el Estudiantes su candidatura al ascenso directo (102-80)** — La Provincia
+- 2026-11-01 19:50 UTC · **Victoria contundente en Andorra para cerrar una semana muy exigente (79-111)** — Valencia Basket Club
+- 2026-11-01 19:50 UTC · **Xavi Albert: "No hemos fallado en los básicos después de una doble jornada de Eurolliga"** — Plaza Deportiva
+- 2026-11-01 19:50 UTC · **El Alimerka OCB cede en la última jugada en Palma de Mallorca (80-79)** — Oviedo Baloncesto
+- 2026-11-01 19:47 UTC · **El Valencia, sin piedad ante el Andorra** — Diario AS
+- 2026-11-01 19:41 UTC · **El Palmer Basket se agarra a la épica: victoria en el último segundo y debut destacado de Joan Sastre** — Diario de Mallorca
+- 2026-11-01 19:40 UTC · **Derrota en el Movistar Arena (102-80)** — cbgrancanaria.net
+- 2026-11-01 19:38 UTC · **102-80: El Gran Canaria se desploma frente a Estudiantes en la segunda parte** — Tinta Amarilla
+- 2026-11-01 19:37 UTC · **Al Alimerka Oviedo Baloncesto esta vez le sale cruz: pierde por la mínima en la última jugada ante el Palmer (80-79)** — La Nueva España
+- 2026-11-01 19:36 UTC · **Gaizka Maiza decide un final de infarto y da la victoria al Askatuak (75-73)** — Noticias de Gipuzkoa
+- 2026-11-01 19:34 UTC · **Valencia Basket, segunda ocasión por encima de 110 puntos este curso** — ACB
+- 2026-11-01 19:29 UTC · **79-111: El Valencia pasa por encima del MoraBanc** — Mundo Deportivo
+- 2026-11-01 19:26 UTC · **Valencia Basket no levanta el pie del acelerador y gana en Andorra (79-111)** — ACB
+- 2026-11-01 19:22 UTC · **El Cajasol Coto Córdoba cae en Donostia con una canasta fallada sobre la bocina** — Diario Córdoba
+- 2026-11-01 19:11 UTC · **El Askatuak remonta en el último cuarto y frena al Cajasol Coto Córdoba (75-73)** — elDiario.es
+- 2026-11-01 19:09 UTC · **Kosner Baskonia vs Kids&Us Manresa 1 nov 2026** — ACB
+- 2026-11-01 19:08 UTC · **Brooks y Saint-Supéry hacen volar al Valencia Basket en Andorra** — Levante-EMV
+- 2026-11-01 19:06 UTC · **El Palmer Basket sube de nivel** — Ultima Hora
+- 2026-11-01 19:00 UTC · **El Baskonia rompe su peor racha de derrotas en más de una década** — Cadena SER
+- 2026-11-01 19:00 UTC · **Clasificación de la Euroliga: Real Madrid, Valencia y Barça, en el pelotón de siete equipos con 6-3 tras la jornada 9** — Solobasket · https://www.solobasket.com/euroliga/clasificacion-euroliga-jornada-9-real-madrid-valencia-barca
+- 2026-11-01 19:00 UTC · **¡Disfruta de las mejores imágenes del Grupo Ureta Tizona – HLA Alicante!** — CB Tizona
+- 2026-11-01 18:59 UTC · **Stefan Joksimovic, al nivel de los Ricky Rubio y Doncic adolescentes** — ACB
+- 2026-11-01 18:58 UTC · **Ocampo: "Hemos competido 26 minutos y nos hemos hundido"** — Mundo Deportivo
+- 2026-11-01 18:41 UTC · **Fútbol: Eibar - Real Sociedad, en directo | Liga Femenina** — RTVE.es
+- 2026-11-01 18:40 UTC · **106-83: El Baskonia de Perasovic logra su primera victoria** — Mundo Deportivo
+- 2026-11-01 18:39 UTC · **Las mejores imágenes del Obradoiro-Breogán** — La Voz de Galicia
+- 2026-11-01 18:27 UTC · **La Deportiva Minera asalta La Arboleja a balón parado y acaricia el liderato (0-1)** — MurciaEconomía.com
+- 2026-11-01 18:07 UTC · **Unicaja vs Barça 1 nov 2026** — ACB
+- 2026-11-01 18:07 UTC · **Ver Euskaltax Bilbao Basket - Obradoiro Online en Directo | DAZN ES** — DAZN
+- 2026-11-01 18:01 UTC · **Quedan 300 días: presentada la cuenta atrás para la Copa del Mundo FIBA ​​2027** — Eurohoops (español) · https://www.eurohoops.net/es/fiba-world-cup-es/2029505/quedan-300-dias-presentada-la-cuenta-atras-para-la-copa-del-mundo-fiba-%e2%80%8b%e2%80%8b2027/
+- 2026-11-01 17:51 UTC · **El Unicaja-Barcelona, en fotos** — Málaga Hoy
+- 2026-11-01 17:48 UTC · **El Baskonia suma su primera victoria de la era Perasovic** — Diario AS
+- 2026-11-01 17:47 UTC · **MoraBanc Andorra vs Valencia Basket 1 nov 2026** — ACB
+- 2026-11-01 17:47 UTC · **Canal y horario del Unicaja - Barça Basket: dónde ver por TV el partido de la Liga Endesa de baloncesto** — Mundo Deportivo
+- 2026-11-01 17:46 UTC · **La primera de Perasovic, del susto a la paliza ante el colista Manresa (106-83)** — naiz:
+- 2026-11-01 17:41 UTC · **Marcelinho Huertas, más leyenda de la Liga Endesa** — Mundo Deportivo
+- 2026-11-01 17:27 UTC · **Unicaja - Barça, en directo: partido de la Liga Endesa, hoy en vivo** — SPORT
+- 2026-11-01 17:15 UTC · **Unicaja - Barcelona en directo | Última hora de Liga Endesa en vivo hoy** — MARCA
+- 2026-11-01 17:11 UTC · **Primer equipo Movistar Estudiantes-Cajasiete Gran Canaria (Jornada 6, Primera FEB 26/27)** — cbgrancanaria.net
+- 2026-11-01 16:49 UTC · **Las palabras de Pedro Martínez sobre las opciones del Real Madrid en el mercado y la situación de Eli Ndiaye** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/palabras-pedro-martinez-eli-ndiaye-repescar/
+- 2026-11-01 16:39 UTC · **Un problema más para Sekulic: Balcerowski, baja contra Unicaja** — SPORT
+- 2026-11-01 16:13 UTC · **Lucas Marí, en la lista de Xavi Albert para el Morabanc Andorra - Valencia Basket** — Levante-EMV
+- 2026-11-01 16:04 UTC · **Dani Miret: "La corta rotación nos ha perjudicado en la segunda mitad"** — Mundo Deportivo
 - 2026-11-01 16:03 UTC · **El equipo canario que más anota de la liga pone a prueba al Movistar Estudiantes invicto** — Canarias en Pleno
+- 2026-11-01 16:01 UTC · **78-81: El Surne Bilbao y los árbitros desquician a la Penya** — Mundo Deportivo
 - 2026-11-01 15:58 UTC · **Lugo celebra en Santa María la victoria del Río Breogán en el derbi** — ACB
 - 2026-11-01 15:58 UTC · **Derrota del San Pablo ante el Real Madrid (90-79)** — Cadena SER
 - 2026-11-01 15:55 UTC · **Atletismo: Maratón de Nueva York 2026, en directo** — RTVE.es
@@ -181,18 +240,22 @@ Actualizado: 2026-11-01T16:10+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-01 15:41 UTC · **Pedro Martínez abre la puerta a Ndiaye: "Nos gustaría incorporarlo"** — Mundo Deportivo
 - 2026-11-01 15:40 UTC · **El Baskonia llega a un acuerdo con el iLERNA Lleida para llevarse a Zach Perrin** — SPORT
 - 2026-11-01 15:37 UTC · **Martínez: “No hay nadie que conozca a Tavares que no se alegre”** — Diario AS
-- 2026-11-01 15:33 UTC · **Hlinason sostiene al Bilbao Basket en la victoria de infarto ante el Joventut** — BilbaoHiria
 - 2026-11-01 15:33 UTC · **Pedro Martínez quiere recuperar a Eli Ndiaye** — Eurohoops (español) [posible rumor] · https://www.eurohoops.net/es/acb-es/2029444/pedro-martinez-quiere-recuperar-a-eli-ndiaye/
+- 2026-11-01 15:33 UTC · **Hlinason sostiene al Bilbao Basket en la victoria de infarto ante el Joventut** — BilbaoHiria
 - 2026-11-01 15:26 UTC · **El Surne Bilbao Basket asalta Badalona con un gran Darrun Hilliard (78-81)** — kirolakeitb.eus
 - 2026-11-01 15:24 UTC · **Edy Tavares, máximo taponador histórico en la Liga ACB** — EL PAÍS
 - 2026-11-01 15:22 UTC · **Una estelar Gabby Williams guía a las Valkyries al primer anillo de su historia** — SPORT
 - 2026-11-01 15:12 UTC · **Lleno virtual para el Unicaja-Barça de esta tarde en el Carpena** — La Opinión de Málaga
 - 2026-11-01 14:57 UTC · **El Madrid valora recuperar a Ndiaye** — Diario AS
 - 2026-11-01 14:47 UTC · **El Breogán logra su récord de anotación a domicilio en la ACB e iguala su mayor triunfo en un derbi gallego** — Diario de Santiago
+- 2026-11-01 14:46 UTC · **Carlos Alcaraz reina en Viena sin ceder un solo set y mira con ambición al tramo final de la temporada** — MurciaEconomía.com
 - 2026-11-01 14:39 UTC · **El Río Breogán se pasea en el derbi gallego** — MARCA
 - 2026-11-01 14:32 UTC · **El Surne Bilbao Basket asalta Badalona con la doble H: Hilliard y Hlinason** — MARCA
 - 2026-11-01 14:25 UTC · **La Xunta asiste al derbi gallego de la Liga Endesa entre el Monbus Obradoiro y el Río Breogán** — Xunta de Galicia
+- 2026-11-01 14:20 UTC · **Las lesiones no cortan la racha de un Real Madrid en el que Tavares ya es historia: máximo taponador de la ACB** — El Mundo
+- 2026-11-01 14:20 UTC · **Tavares a OKDIARIO tras superar el récord de tapones: «Competir en el Madrid no te da espacio a relajarte»** — OkDiario
 - 2026-11-01 14:18 UTC · **Estudiantes** — Encestando
+- 2026-11-01 14:05 UTC · **Tavares agranda su leyenda: máximo taponador de la historia de la Liga Endesa** — Libertad Digital
 - 2026-11-01 14:05 UTC · **Tavares agranda su leyenda como máximo taponador de la Liga Endesa** — Libertad Digital
 - 2026-11-01 14:03 UTC · **El Madrid supera al Burgos a ritmo de crucero y con Tavares haciendo historia** — Superdeporte
 - 2026-11-01 13:54 UTC · **Río Breogán, mayor victoria visitante y en un derbi gallego acb** — ACB
@@ -213,16 +276,19 @@ Actualizado: 2026-11-01T16:10+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-01 13:29 UTC · **De Fran Vázquez a Tavares: la cima de los tapones en una ACB de otra época** — Elplural.com
 - 2026-11-01 13:25 UTC · **Real Madrid vs Recoletas Salud San Pablo Burgos 1 nov 2026** — ACB
 - 2026-11-01 13:19 UTC · **El Real Murcia resiste y amarra tres puntos de oro en El Maulí (0-1)** — MurciaEconomía.com
-- 2026-11-01 13:17 UTC · **El Real Madrid se gusta y Edy Tavares hace historia** — Eurohoops · https://www.eurohoops.net/es/acb-es/2029358/el-real-madrid-se-gusta-y-edy-tavares-hace-historia/
 - 2026-11-01 13:17 UTC · **Mo Gueye pasó pruebas médicas en Barcelona tras el partido en la Euroliga** — Las Provincias
+- 2026-11-01 13:17 UTC · **El Real Madrid se gusta y Edy Tavares hace historia** — Eurohoops · https://www.eurohoops.net/es/acb-es/2029358/el-real-madrid-se-gusta-y-edy-tavares-hace-historia/
 - 2026-11-01 13:15 UTC · **Tavares se convierte en el máximo taponador de la historia de la ACB en la victoria ante el Recoletas Salud San Pablo Burgos** — La Razón
 - 2026-11-01 13:14 UTC · **El Madrid sigue a velocidad de crucero tras ganar al Burgos y Tavares entra en la historia de la ACB como máximo taponador** — El Español
 - 2026-11-01 13:13 UTC · **Edy Tavares, líder histórico de la Liga Endesa en tapones** — ACB
 - 2026-11-01 13:11 UTC · **Tavares ya es el máximo taponador en la historia de la ACB y lo celebra con su familia sobre la cancha** — MARCA
 - 2026-11-01 13:05 UTC · **Walter Tavares, con 739, se convierte en el mayor taponador histórico de la Liga Endesa** — HolaNews
+- 2026-11-01 13:03 UTC · **Tavares bate un histórico récord de la Liga Endesa** — Mundo Deportivo
+- 2026-11-01 13:03 UTC · **Edy Tavares, historia de la ACB: detienen el partido para hacerle un homenaje tras su tapón 739** — Diario AS
 - 2026-11-01 13:03 UTC · **Edy Tavares, historia de la ACB: detienen el partido para hacerle un homenaje por su tapón 739** — Diario AS
 - 2026-11-01 13:00 UTC · **Marcelinho Huertas supera a Nacho Rodríguez y ya es el tercer jugador con más partidos de la Liga Endesa** — Solobasket · https://www.solobasket.com/liga-endesa/marcelinho-huertas-tercero-mas-partidos-liga-endesa
 - 2026-11-01 12:59 UTC · **Real Madrid vs Recoletas Salud San Pablo Burgos Nov 1, 2026** — ACB
+- 2026-11-01 12:48 UTC · **Octava victoria seguida para el Hozono Global Jairis** — Onda Regional de Murcia | ORM
 - 2026-11-01 12:46 UTC · **Edy Tavares supera a Fran Vázquez y se convierte en el máximo taponador de la historia de la Liga Endesa** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/edy-tavares-maximo-tadponador-acb/
 - 2026-11-01 12:39 UTC · **Asisa Joventut vs Surne Bilbao 1 nov 2026** — ACB
 - 2026-11-01 12:35 UTC · **Tavares, máximo taponador en la historia de la ACB** — MARCA
@@ -237,6 +303,7 @@ Actualizado: 2026-11-01T16:10+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-01 11:22 UTC · **Las Valkyries tocan la gloria en la WNBA con Lorena Torres como representante española** — Gigantes del Basket · https://www.gigantes.com/wnba/lorena-torres-wnba-campeonas-valkyries/
 - 2026-11-01 11:09 UTC · **Murcia desata su ofensiva y bate un récord histórico** — Blog de Basket
 - 2026-11-01 11:06 UTC · **Misión ¿imposible? para el San Pablo Burgos** — Diario de Burgos
+- 2026-11-01 11:04 UTC · **Asisa Joventut vs Surne Bilbao Nov 1, 2026** — ACB
 - 2026-11-01 11:00 UTC · **EN DIRECTO | Al San Pablo se le puede hacer largo el partido** — Diario de Burgos
 - 2026-11-01 11:00 UTC · **EN DIRECTO | El San Pablo resiste al descanso** — Diario de Burgos
 - 2026-11-01 11:00 UTC · **EN DIRECTO | El San Pablo sigue la estela del Madrid** — Diario de Burgos
@@ -244,41 +311,15 @@ Actualizado: 2026-11-01T16:10+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-01 11:00 UTC · **Ni un buen San Pablo es capaz de frenar al Real Madrid (90-79)** — Diario de Burgos
 - 2026-11-01 10:44 UTC · **Real Madrid - Burgos, en directo: ACB (Liga Endesa) 2026/27 hoy en vivo** — Diario AS
 - 2026-11-01 10:38 UTC · **La segunda juventud de Guillem Vives** — Mundo Deportivo
-- 2026-11-01 10:24 UTC · **Deportes: Estadio 2, en directo | 02/11** — RTVE.es
 - 2026-11-01 10:24 UTC · **Juancho Hernangómez relata cómo fue su salida del Real Madrid con 15 años y su relación con Ataman en el Panathinaikos** — Gigantes del Basket · https://www.gigantes.com/euroliga/juancho-hernangomez-salida-real-madrid-relacion-ataman/
+- 2026-11-01 10:24 UTC · **Deportes: Estadio 2, en directo | 02/11** — RTVE.es
 - 2026-11-01 10:20 UTC · **A qué hora es el Real Madrid - Recoletas Salud San Pablo Burgos: horario, dónde ver hoy en TV y canal del partido de la Liga Endesa** — MARCA
 - 2026-11-01 10:17 UTC · **Vídeo, imágenes y reacciones al partido frente al Grupo Alega Cantabria** — Palencia en la Red
 - 2026-11-01 10:00 UTC · **La lesión de Holmgren lo cambia todo: OKC cancela un fichaje que ya tenía acordado** — Blog de Basket
-- 2026-11-01 10:00 UTC · **Aday Mara eleva su techo en la NBA** — Eurosport
 - 2026-11-01 10:00 UTC · **El resumen de la noche NBA: Highlights, resultados y estadísticas. Wembanyama y Maxey brillan** — Gigantes del Basket · https://www.gigantes.com/nba/resumen-nba-hoy-highlights-resultados-estadisticas/
+- 2026-11-01 10:00 UTC · **Aday Mara eleva su techo en la NBA** — Eurosport
 - 2026-11-01 09:56 UTC · **Baloncesto: Albacete - Ilunion, en directo | 02/11** — RTVE.es
 - 2026-11-01 09:53 UTC · **En directo: Obradoiro - Breogán; primer derbi gallego de la temporada en la Liga Endesa** — La Voz de Galicia
-- 2026-11-01 09:28 UTC · **Unicaja-Barça: horario y dónde ver por TV el partido de la Liga Endesa** — Sport Aragón
 - 2026-11-01 09:28 UTC · **El líder sigue invicto en el día del récord de Tavares** — Real Madrid CF | Web Oficial
-- 2026-11-01 09:07 UTC · **El Casademont Zaragoza golea al Girona (107-78) y firma su segundo mejor inicio en la Liga Endesa** — Solobasket · https://www.solobasket.com/liga-endesa/casademont-zaragoza-girona-107-78-segundo-mejor-inicio
-- 2026-11-01 09:00 UTC · **MoraBanc Andorra vs Valencia Basket: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN
-- 2026-11-01 08:45 UTC · **Laprovittola rescata su magia en Badalona** — Deia
-- 2026-11-01 08:42 UTC · **Maledon recibe el MVP de la Liga en octubre** — Real Madrid CF | Web Oficial
-- 2026-11-01 08:37 UTC · **La nueva vida de Aday Mara** — Diario AS
-- 2026-11-01 08:26 UTC · **El siguiente reto del Surne Bilbao es sumar fuera de casa** — Deia
-- 2026-11-01 08:10 UTC · **Kosner Baskonia vs Kids&Us Manresa: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN
-- 2026-11-01 08:00 UTC · **Todo lo que llega a Movistar Plus en noviembre: Champions, LaLiga, baloncesto, tenis y el mejor cine por solo 9,99 euros** — Mundo Deportivo
-- 2026-11-01 07:58 UTC · **Hoy tienes baloncesto gratis de la Liga Endesa: se emiten dos partidos en abierto por TV** — ADSLZone
-- 2026-11-01 07:42 UTC · **Hezonja da zancadas hacia su objetivo** — Diario AS
-- 2026-11-01 07:36 UTC · **Leyma Coruña remonta ante Tenerife y desata la alegría en el Coliseum (93-89)** — noticiascoruna
-- 2026-11-01 07:33 UTC · **Baskonia recibe al colista con la obligación de frenar su caída** — Gasteiz Hoy
-- 2026-11-01 07:26 UTC · **Real Madrid - Recoletas Salud San Pablo Burgos: horario, dónde ver hoy en TV y canal del partido de la Liga Endesa** — MARCA
-- 2026-11-01 07:10 UTC · **El Askatuak GBC, a poner coto a su mala racha hoy en el Gasca** — El Diario Vasco
-- 2026-11-01 07:01 UTC · **Horario y dónde ver en TV el Unicaja-Barcelona de Liga ACB** — Málaga Hoy
-- 2026-11-01 07:00 UTC · **A Willy Hernangómez le ha llegado el momento de la revancha ante el Barça** — SPORT
-- 2026-11-01 07:00 UTC · **Aday Mara pone cuatro tapones en la derrota de los Thunder en Houston; Hezonja, 11 rebotes en el triunfo de los Cavs** — Solobasket · https://www.solobasket.com/nba/aday-mara-cuatro-tapones-thunder-rockets-hezonja-cavaliers
-- 2026-11-01 06:51 UTC · **Tavares tapona a la historia con un récord gigantesco** — MARCA
-- 2026-11-01 06:07 UTC · **Ver Casademont Zaragoza - FIATC Girona Online en Directo | DAZN ES** — DAZN
-- 2026-11-01 06:05 UTC · **El Barça se cita en el Carpena con Willy Hernangómez** — Mundo Deportivo
-- 2026-11-01 06:00 UTC · **Unicaja-Barça: la prueba del algodón (19 horas)** — La Opinión de Málaga
-- 2026-11-01 05:01 UTC · **A por una victoria en Andorra para cerrar una semana exigente** — Levante-EMV
-- 2026-11-01 05:01 UTC · **El Palmer Basket se mide al Oviedo en el estreno de Joan Sastre** — Diario de Mallorca
-- 2026-11-01 04:40 UTC · **Real Madrid - Burgos: horario, TV y dónde ver la ACB 2026-27** — Diario AS
-- 2026-11-01 04:39 UTC · **Unicaja - Barcelona: horario, TV y dónde ver la ACB 2026-27** — Diario AS
-- 2026-11-01 04:38 UTC · **Willy, morbo total** — Diario AS
-- 2026-11-01 04:38 UTC · **Estudiantes y Granca: de la élite a la reconstrucción** — Diario AS
+- 2026-11-01 09:28 UTC · **Unicaja-Barça: horario y dónde ver por TV el partido de la Liga Endesa** — Sport Aragón
+- 2026-11-01 09:23 UTC · **Real Madrid - Recoletas Salud San Pablo Burgos en directo | Última hora de Liga Endesa en vivo hoy** — MARCA

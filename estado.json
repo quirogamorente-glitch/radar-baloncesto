@@ -1,17 +1,17 @@
 {
- "actualizado": "2026-11-02T23:13+00:00",
+ "actualizado": "2026-11-03T03:57+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
    "ok": true,
-   "leidas": 32,
-   "guardadas": 32
+   "leidas": 30,
+   "guardadas": 30
   },
   {
    "fuente": "Google Noticias · UCAM CB",
    "ok": true,
-   "leidas": 18,
-   "guardadas": 18
+   "leidas": 23,
+   "guardadas": 23
   },
   {
    "fuente": "Fundación CB Granada (web oficial)",
@@ -22,8 +22,8 @@
   {
    "fuente": "Google Noticias · Covirán Granada",
    "ok": true,
-   "leidas": 35,
-   "guardadas": 32
+   "leidas": 31,
+   "guardadas": 31
   },
   {
    "fuente": "Google Noticias · Olga Lorente",
@@ -52,26 +52,26 @@
   {
    "fuente": "Google Noticias · Liga Endesa mercado",
    "ok": true,
-   "leidas": 52,
+   "leidas": 51,
    "guardadas": 51
   },
   {
    "fuente": "Google Noticias · Euroliga",
    "ok": true,
-   "leidas": 100,
-   "guardadas": 87
+   "leidas": 97,
+   "guardadas": 97
   },
   {
    "fuente": "Google Noticias · EuroCup",
    "ok": true,
-   "leidas": 23,
-   "guardadas": 22
+   "leidas": 48,
+   "guardadas": 48
   },
   {
    "fuente": "Google Noticias · BCL",
    "ok": true,
-   "leidas": 19,
-   "guardadas": 19
+   "leidas": 18,
+   "guardadas": 18
   },
   {
    "fuente": "Google Noticias · Primera FEB",
@@ -87,9 +87,8 @@
   },
   {
    "fuente": "Eurohoops (español)",
-   "ok": true,
-   "leidas": 20,
-   "guardadas": 17
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='www.eurohoops.net', port=443): Read timed out. (read timeout=20)"
   },
   {
    "fuente": "Solobasket",

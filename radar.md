@@ -1,10 +1,13 @@
 # Radar de baloncesto
 
-Actualizado: 2026-11-03T19:24+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-11-04T00:02+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (59)
+## UCAM Murcia CB (36)
 
+- 2026-11-03 21:35 UTC · **Qué ha pasado en la BCL: Asisa Joventut y Unicaja se mantienen invictos a base de triples** — Gigantes del Basket · https://www.gigantes.com/bcl/que-ha-pasado-bcl-hoy-ucam-murcia-surne-bilbao-jornada3/
+- 2026-11-03 20:23 UTC · **Campazzo se pierde el duelo ante el UCAM Murcia y agrava la plaga de lesiones del Real Madrid** — La Opinión de Murcia
+- 2026-11-03 16:45 UTC · **El fútbol español llora la muerte de Jesús de Miguel: "Un día muy triste"** — Ideal
 - 2026-11-03 16:31 UTC · **UCAM Esports construye su equipo de VALORANT para conquistar el VALORANT Champions Tour** — UCAM Deportes
 - 2026-11-03 16:22 UTC · **Real Murcia, FC Cartagena y otros clubes de la Región también muestran su dolor por la muerte de Jesús de Miguel** — La Opinión de Murcia
 - 2026-11-03 16:15 UTC · **Laporta sobre el fallecimiento del jugador del CD Tenerife "nos ha dejado consternados a todos"** — La Verdad
@@ -29,6 +32,7 @@ Actualizado: 2026-11-03T19:24+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-02 05:02 UTC · **Agenda deportiva de la semana: qué ver en televisión y los equipos de la Región** — La Opinión de Murcia
 - 2026-11-02 05:00 UTC · **UCAM Murcia: Will Falk, mucho más que un ‘cuatro’ de circunstancias** — La Opinión de Murcia
 - 2026-11-01 20:56 UTC · **UCAM Murcia Car - Kids&Us Manresa Liga U** — DAZN
+- 2026-11-01 19:59 UTC · **Dónde ver el Barcelona baloncesto hoy: a qué hora juega, canal de TV y streaming** — DAZN
 - 2026-11-01 18:30 UTC · **La vida es más fácil para el UCAM Murcia con Howard Sant-Roos** — La Verdad
 - 2026-11-01 18:07 UTC · **Ver UCAM Murcia Car - Kids&Us Manresa Online en Directo | DAZN ES** — DAZN
 - 2026-11-01 12:58 UTC · **El UCAM Murcia CF golea en La Condomina para seguir en lo más alto** — MurciaEconomía.com
@@ -37,39 +41,13 @@ Actualizado: 2026-11-03T19:24+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-01 10:35 UTC · **El UCAM CB bate tres récords de anotación y el de valoración en su exhibición ante el Lleida** — Murcia Plaza
 - 2026-11-01 05:02 UTC · **Análisis del UCAM Murcia-Lleida: el UCAM vuelve a dar miedo en casa al recuperar su esencia** — La Opinión de Murcia
 - 2026-11-01 01:06 UTC · **UCAM Murcia - Granada 107-91** — Flashscore.es
-- 2026-10-31 23:43 UTC · **Partidos Goran Huskic** — ACB
-- 2026-10-31 23:21 UTC · **Liga Endesa | acb.com** — ACB
-- 2026-10-31 22:29 UTC · **Victoria con récord del UCAM Murcia, clara también la del Zaragoza y remontó el Leyma Coruña** — Encestando
-- 2026-10-31 22:24 UTC · **Sito Alonso presume de la "identidad UCAM" en el récord histórico de anotación del Murcia** — COPE
-- 2026-10-31 22:17 UTC · **Qué ha pasado en la Liga Endesa: Récord anotador de UCAM Murcia, remontada de Leyma Coruña y otro triunfo de Casademont Zaragoza** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/que-ha-pasado-hoy-jornada-6-liga-endesa-2026/
-- 2026-10-31 22:15 UTC · **El UCAM Murcia firma su récord de anotación en un festival ofensivo ante el Lleida** — COPE
-- 2026-10-31 21:46 UTC · **El UCAM Murcia más anotador de siempre despeja las dudas abusando del Lleida** — La Verdad
-- 2026-10-31 21:38 UTC · **¡Histórico UCAM Murcia! Los de Sito Alonso destrozan su récord de anotación con 125 puntos ante el Lleida** — Murcia Actualidad
-- 2026-10-31 21:31 UTC · **Sito Alonso: "Destaco el orgullo y la unión, tuvimos identidad UCAM"** — Murcia Plaza
-- 2026-10-31 21:28 UTC · **El día de todos los récords** — UCAM Deportes
-- 2026-10-31 21:28 UTC · **UCAM Murcia vs iLERNA Lleida Oct 31, 2026** — ACB
-- 2026-10-31 21:27 UTC · **El UCAM Murcia rompe su récord anotador ante el iLERNA Lleida** — SPORT
-- 2026-10-31 21:22 UTC · **El UCAM Murcia toma aire en una bacanal ofensiva con récord de anotación** — MARCA
-- 2026-10-31 21:20 UTC · **Las imágenes de la victoria del UCAM CB Murcia ante el Lleida** — La Verdad
-- 2026-10-31 21:19 UTC · **Un UCAM Murcia de récord** — Diario AS
-- 2026-10-31 21:17 UTC · **125-98: El Lleida no puede con el vendaval ofensivo del UCAM** — Mundo Deportivo
-- 2026-10-31 21:13 UTC · **Festín anotador de UCAM Murcia ante iLERNA Lleida (125-98)** — ACB
-- 2026-10-31 21:11 UTC · **El mejor partido del UCAM Murcia en la Liga Endesa** — ACB
-- 2026-10-31 21:00 UTC · **El UCAM CB, con su récord anotador en la ACB, vence al Lleida despejando dudas** — Murcia Plaza
-- 2026-10-31 20:57 UTC · **El UCAM Murcia arrolla al iLERNA Lleida con una exhibición ofensiva (125-98)** — La 7
-- 2026-10-31 20:51 UTC · **Sant-Roos lidera la exhibición del UCAM Murcia ante el Lleida (125-98)** — piratasdelbasket
-- 2026-10-31 20:42 UTC · **El UCAM Murcia vuelve a dar miedo en el Palacio por Halloween** — La Opinión de Murcia
-- 2026-10-31 20:42 UTC · **Ciclón ofensivo y récord anotador del UCAM Murcia para arrollar al Lleida (125-98)** — MurciaEconomía.com
-- 2026-10-31 20:38 UTC · **UCAM Murcia se gusta ante Lleida** — Cadena SER
-- 2026-10-31 20:34 UTC · **El UCAM bate su récord histórico de anotación ante Lleida (125-98)** — Onda Regional de Murcia | ORM
-- 2026-10-31 20:22 UTC · **El UCAM Murcia vuelve a meter miedo en el Palacio por Halloween** — La Opinión de Murcia
-- 2026-10-31 19:43 UTC · **La Previa del UCAM Murcia CF - RCD Mallorca "B"** — UCAM Deportes
 
-## Covirán Granada (35)
+## Covirán Granada (22)
 
+- 2026-11-03 22:06 UTC · **El Sima Granada se pide otra ronda de Copa tras imponerse a un gran rival** — Ideal
+- 2026-11-03 22:03 UTC · **David Valero recibe en Baza un homenaje a su trayectoria deportiva** — Ideal
 - 2026-11-03 18:48 UTC · **Primer momento de la verdad para el Covirán Granada** — Granada Hoy
 - 2026-11-03 17:38 UTC · **🏀 Estudiantes arrolla al Gran Canaria y sigue invicto** — Telemadrid
-- 2026-11-03 16:45 UTC · **El fútbol español llora la muerte de Jesús de Miguel: "Un día muy triste"** — Ideal
 - 2026-11-03 15:35 UTC · **Carolina Marín recibe el Marca Leyenda** — Ideal
 - 2026-11-03 11:57 UTC · **Alrededor de 75 ciclistas ponen fin al circuito provincial de BTT de media maratón en Cádiar** — Ideal
 - 2026-11-03 10:45 UTC · **El 83,6% de los conductores que hacen cursos de recuperación parcial de puntos reincide** — Ideal
@@ -88,22 +66,8 @@ Actualizado: 2026-11-03T19:24+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-01 09:26 UTC · **El Partizán de Fuenlabrada pierde ante el Granada y suma su quinta derrota en Primera FEB** — El Diario de Madrid
 - 2026-11-01 07:30 UTC · **El Coviran Granada suma su segunda victoria consecutiva a base de defensa y sentencia al Partizan con un triple decisivo de Rousselle** — Motril Digital
 - 2026-11-01 07:20 UTC · **Las chicas de Mané Campaña, a recuperar las buenas sensaciones** — Melilla Hoy
-- 2026-10-31 23:04 UTC · **Uno a Uno: Covirán 71-66** — Granada en Juego
-- 2026-10-31 22:55 UTC · **El Covirán dedica el triunfo al pívot Abdou Thiam tras dejar el hospital** — Ideal
-- 2026-10-31 22:40 UTC · **Así ha ganado el Iberolea Palencia en Cantabria** — El Norte de Castilla
-- 2026-10-31 20:49 UTC · **El Covirán UAPO Granada roza la perfección para vencer al líder** — Ideal
-- 2026-10-31 20:25 UTC · **Roope Korhonen revalida triunfo en el Rally de Granada** — Ideal
-- 2026-10-31 20:15 UTC · **Arturo Ruiz: «La ventaja pudo ser mayor con mejor tiro de dos»** — Ideal
-- 2026-10-31 20:11 UTC · **El Coviran Granada sale vivo del Palacio ante un Fuenlabrada desatinado** — Ahora Granada
-- 2026-10-31 19:42 UTC · **Procesión Extraordinaria de la Santa Cena de Granada, en directo** — Granada Hoy
-- 2026-10-31 19:41 UTC · **El Coviran Granada se lleva una trabajada victoria** — Fundación CB Granada (web oficial) · https://fundacioncbgranada.es/el-coviran-granada-se-lleva-una-trabajaba-victoria/
-- 2026-10-31 19:40 UTC · **Arturo Ruiz: "La defensa nos ha permitido seguir en el partido"** — GranadaDigital
-- 2026-10-31 19:38 UTC · **Retransmisión de la Procesión Extraordinaria de la Santa Cena de Granada** — Granada Hoy
-- 2026-10-31 19:37 UTC · **Así fue la actuación de los jugadores del Covirán Granada ante el Partizan de Fuenlabrada** — Granada Hoy
-- 2026-10-31 19:29 UTC · **Las mejores imágenes de la victoria del Covirán Granada ante el Partizan de Fuenlabrada** — Granada Hoy
-- 2026-10-31 19:28 UTC · **El Covirán coge tono en el Palacio, 71-66** — Granada en Juego
 
-## Periodistas preferentes (9)
+## Periodistas preferentes (8)
 
 - 2026-11-03 05:07 UTC · **Duelo de 'artilleros' en el Movistar Arena: Ennis y Forrest desafían al invicto de Pedro Martínez** — MurciaEconomía.com
 - 2026-11-03 05:07 UTC · **El Hozono Global Jairis afronta una semana clave antes del parón de selecciones impulsado por una racha imparable** — murciaeconomia.com
@@ -113,10 +77,45 @@ Actualizado: 2026-11-03T19:24+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-01 14:46 UTC · **Carlos Alcaraz reina en Viena sin ceder un solo set y mira con ambición al tramo final de la temporada** — MurciaEconomía.com
 - 2026-11-01 13:19 UTC · **El Real Murcia resiste y amarra tres puntos de oro en El Maulí (0-1)** — MurciaEconomía.com
 - 2026-11-01 12:58 UTC · **El UCAM Murcia CF golea en La Condomina para seguir en lo más alto** — MurciaEconomía.com
-- 2026-10-31 20:42 UTC · **Ciclón ofensivo y récord anotador del UCAM Murcia para arrollar al Lleida (125-98)** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (109)
+## Resto (últimas 12 h) (102)
 
+- 2026-11-03 23:06 UTC · **Real Madrid-Panathinaikos: partidazo en el Movistar Arena** — Real Madrid CF | Web Oficial
+- 2026-11-03 22:51 UTC · **Cuarta jornada de la EuroLeague Women: ¡Valencia Basket asalta Estambul y Casademont Zaragoza hace lo propio en Francia!** — Gigantes del Basket · https://www.gigantes.com/euroleague-women/euroleague-women-cuarta-jornada-que-ha-pasado/
+- 2026-11-03 22:34 UTC · **Lietkabelis - Manresa: pronóstico y cuotas | EuroCup** — BetBrothers.es
+- 2026-11-03 22:34 UTC · **San Pablo Burgos - Rostock Seawolves: pronóstico y cuotas | EuroCup** — BetBrothers.es
+- 2026-11-03 22:18 UTC · **Apuestas TurkTelekom - Frankfurt** — Gainblers
+- 2026-11-03 22:14 UTC · **64-81: El Asisa Joventut logra su primer triunfo a domicilio de la temporada** — Mundo Deportivo
+- 2026-11-03 22:12 UTC · **Francis Alonso y su hoja de tiro impecable desde el tiro libre** — La Voz de Galicia
+- 2026-11-03 22:00 UTC · **J.5: Trinity Ezeanatogu y el dulce estreno de una MVP con dos victorias en una sola tarde** — Federación Española de Baloncesto
+- 2026-11-03 21:53 UTC · **El Unicaja somete al combativo Pallacanestro Reggiana con récord de triples** — MARCA
+- 2026-11-03 21:49 UTC · **El Manresa firma al hermano de una estrella de la NBA** — DXT Campeón
+- 2026-11-03 21:49 UTC · **El 1x1 del Basket Landes - Casademont Zaragoza: la experiencia es un grado y Hempe y Oma tienen matrícula** — Sport Aragón
+- 2026-11-03 21:47 UTC · **El ASISA Joventut sigue invicto en la BCL** — Penya
+- 2026-11-03 21:43 UTC · **Resumen de la EuroCup: Moore decide un partido histórico para el PAOK sobre la bocina** — Eurohoops · https://www.eurohoops.net/es/eurocup-es/2030436/resumen-de-la-eurocup-moore-decide-un-partido-historico-para-el-paok-sobre-la-bocina/
+- 2026-11-03 21:42 UTC · **El Asisa Joventut sigue invicto en Europa** — Diario AS
+- 2026-11-03 21:41 UTC · **El Unicaja solventa ante el Pallacanestro Reggiana con un festival de triples (99-94)** — Cadena SER
+- 2026-11-03 21:41 UTC · **99-94 | El Unicaja firma pleno de victorias en la BCL pese a dormirse en los laureles** — El Español
+- 2026-11-03 21:40 UTC · **Resumen de la BCL: Unicaja y Joventut se mantienen invictos** — Eurohoops (español) · https://www.eurohoops.net/es/fiba-champions-league-es/2030435/resumen-de-la-bcl-unicaja-y-joventut-se-mantienen-invictos/
+- 2026-11-03 21:28 UTC · **Unicaja 99 - Pallacanestro Reggiana 94 1ª Fase Liga Regular Basketball Champions League 2026/27** — Unicaja Baloncesto
+- 2026-11-03 21:21 UTC · **El Unicaja solventa la primera vuelta de la BCL con una victoria ante la Reggiana** — 101TV
+- 2026-11-03 21:17 UTC · **Sufrido triunfo del Casademont Zaragoza en cancha del Basket Landes** — MARCA
+- 2026-11-03 21:12 UTC · **El Kids&Us Manresa incorpora el ala-pívot Isaiah Mobley para los próximos dos meses** — ACB
+- 2026-11-03 21:06 UTC · **El San Pablo Burgos quiere volver a sonreír en Europa** — Revista Forofos
+- 2026-11-03 21:05 UTC · **La crónica del Basket Landes (69-70) Casademont Zaragoza. Cuando pinta cruz, sale cara** — Sport Aragón
+- 2026-11-03 20:56 UTC · **Que pase el siguiente: el Casademont también conquista Landes (69-70)** — Cadena SER
+- 2026-11-03 20:47 UTC · **Casademont Zaragoza sobrevive a otro infarto en Francia para sumar un valioso triunfo y seguir invicto en Euroliga** — Aragón Digital
+- 2026-11-03 20:47 UTC · **MBK Ružomberok-Meins Avenida: horario y cómo ver en directo y por TV el partido de Eurocup** — La Gaceta de Salamanca
+- 2026-11-03 20:40 UTC · **Así queda el Casademont Zaragoza en la clasificación de la Euroliga** — heraldo.es
+- 2026-11-03 20:29 UTC · **Las interesantes reflexiones de Giannis Antetokounmpo sobre Luka Doncic y su nivel** — Gigantes del Basket · https://www.gigantes.com/nba/interesantes-reflexiones-giannis-antetokounmpo-luka-doncic/
+- 2026-11-03 20:13 UTC · **Manresa apuesta por Ščuka para reforzar su juego interior** — Blog de Basket
+- 2026-11-03 20:13 UTC · **Verge Jr. brilla en la remontada del Leyma ante Tenerife** — Blog de Basket
+- 2026-11-03 20:13 UTC · **Jornada 10 de la Euroliga: duelos decisivos en la lucha por el liderato** — Blog de Basket
+- 2026-11-03 19:46 UTC · **Alarma en la Selección: Facundo Campazzo sufrió una lesión muscular y será baja en Real Madrid** — DeporTV
+- 2026-11-03 19:45 UTC · **El Real Madrid sufre otra dura lesión antes de jugársela en Europa** — El Imparcial - Diario liberal e independiente
+- 2026-11-03 19:40 UTC · **71-73: El Valencia Basket logra un triunfo histórico en Estambul** — Mundo Deportivo
+- 2026-11-03 19:28 UTC · **Valencia Basket logra un triunfo histórico en Estambul en la gran noche de Peterson** — Plaza Deportiva
+- 2026-11-03 19:20 UTC · **Fotos del partido Basket Landes-Casademont Zaragoza, de la Euroliga femenina** — heraldo.es
 - 2026-11-03 19:05 UTC · **Peterson lidera la épica victoria del Valencia Basket en Estambul** — Levante-EMV
 - 2026-11-03 19:02 UTC · **Alerta por Campazzo: el base argentino sufrió una lesión muscular** — Diario Huarpe
 - 2026-11-03 18:41 UTC · **El Cajasol Coto Córdoba pone en marcha su Academia CCB con Gonzalo Rodríguez al frente** — elDiario.es
@@ -131,12 +130,14 @@ Actualizado: 2026-11-03T19:24+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-03 17:28 UTC · **Meins Avenida busca otra victoria de carácter en la pista más física del grupo** — Tribuna de Salamanca.
 - 2026-11-03 17:25 UTC · **El Kids&Us Manresa ficha al ala-pívot bahameño Isaiah Mobley** — Mundo Deportivo
 - 2026-11-03 17:22 UTC · **Facundo Campazzo sufre una lesión en el bíceps femoral izquierdo** — Teleprensa
+- 2026-11-03 17:18 UTC · **Horario, canal y dónde ver por TV el Real Madrid - Panathinaikos de la Euroliga de baloncesto** — Mundo Deportivo
 - 2026-11-03 17:18 UTC · **Horario, canal y dónde ver por TV el Hapoel Tel Aviv - Barça Basket de la Euroliga de baloncesto** — Mundo Deportivo
 - 2026-11-03 17:17 UTC · **Campazzo sufre una lesión en el bíceps femoral izquierdo** — Europa Press
 - 2026-11-03 17:17 UTC · **Horario, canal y dónde ver por TV la décima jornada de la Euroliga de baloncesto** — Mundo Deportivo
 - 2026-11-03 17:15 UTC · **El argentino Facundo Campazzo sufre una lesión en el bíceps femoral izquierdo** — Infobae
 - 2026-11-03 17:09 UTC · **Pedro Martínez: "Ojalá que las bajas no nos quiten la forma en la que queremos jugar"** — Telemadrid
 - 2026-11-03 17:08 UTC · **El San Pablo Burgos quiere dar un golpe de timón en Europa** — El Correo de Burgos
+- 2026-11-03 17:04 UTC · **Campazzo sufre una lesión en el bíceps femoral: no estará contra el Panathiniakos y el Real Madrid ya sólo ...** — OkDiario
 - 2026-11-03 17:00 UTC · **Pedro Ramírez: "El baloncesto español no para de evolucionar y de crecer"** — Infobae
 - 2026-11-03 16:55 UTC · **Con las bajas de Campazzo y Maledon, el Real Madrid tendrá que "jugar algo diferente" contra el Panathinaikos** — Encestando
 - 2026-11-03 16:54 UTC · **Isaiah Mobley, ¿el segundo fichaje del KIDS&US Manresa?** — SPORT
@@ -147,7 +148,9 @@ Actualizado: 2026-11-03T19:24+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-03 16:11 UTC · **Aaron Doornekamp entra en el podio histórico de minutos de La Laguna Tenerife** — ACB
 - 2026-11-03 16:03 UTC · **Javi Rodríguez primer invitado a Marca Basket en la cafetería Sherwood** — Oviedo Baloncesto
 - 2026-11-03 16:00 UTC · **El Gipuzkoa, un viejo conocido del CB Gran Canaria, pero con matices** — La Provincia
+- 2026-11-03 16:00 UTC · **Pedro Sánchez, 54 años, sobre su rutina: "Me levanto sobre las 5 de la mañana y me gusta mucho la lectura y salir cuando puedo con la bicicleta"** — Defensa Central
 - 2026-11-03 15:58 UTC · **Eurocup Women – Brod na Savi vs. CB Jairis: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-11-03 15:56 UTC · **La Región de Murcia acogerá el #KDTINF2027** — Federación Española de Baloncesto
 - 2026-11-03 15:55 UTC · **Apuestas Napoli - Trento** — Gainblers
 - 2026-11-03 15:31 UTC · **El Valencia Basket femenino desafía en Estambul al campeón Fenerbahçe** — Solobasket · https://www.solobasket.com/internacional/fenerbahce-valencia-basket-femenino-euroliga-estambul
 - 2026-11-03 15:20 UTC · **Real Madrid - Panathinaikos: horario, canal y dónde ver en TV y online el partido de la Euroliga 2026-2027** — Estadio Deportivo
@@ -156,6 +159,8 @@ Actualizado: 2026-11-03T19:24+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-03 14:47 UTC · **Unicaja – Pallacanestro Reggiana: el Carpena vuelve a vestirse de BCL con el liderato en juego** — Andalucía Información
 - 2026-11-03 14:43 UTC · **Pedro Martínez quiere recuperar a Eli Ndiaye, el fichaje que su Real Madrid le quitó al Valencia Basket cuando quería jugar en el Roig Arena** — Superdeporte
 - 2026-11-03 14:23 UTC · **Expectación entre la 'marea negra' ante la visita del Alba Berlín** — Deia
+- 2026-11-03 14:09 UTC · **Bosna Royal vs Balkan » Mejores Cuotas y Estadísticas** — Odds Scanner
+- 2026-11-03 14:07 UTC · **Jones: “Va a ser un partido difícil y hay que estar concentrados”** — Real Madrid CF | Web Oficial
 - 2026-11-03 14:07 UTC · **Eurocup Women – Ensino vs. Lattes Montpellier: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
 - 2026-11-03 14:00 UTC · **Movistar Estudiantes se abona a las segundas partes para ganar** — Soy de Madrid
 - 2026-11-03 13:59 UTC · **Facundo Campazzo se suma a la lista de lesionados del Real Madrid** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2030172/facundo-campazzo-se-suma-a-la-lista-de-lesionados-del-real-madrid/
@@ -175,54 +180,5 @@ Actualizado: 2026-11-03T19:24+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-03 12:21 UTC · **Kevin Bercy, refuerzo del Gipuzkoa mirando al CB Gran Canaria** — La Provincia
 - 2026-11-03 12:16 UTC · **TJ Shorts, MVP de la Euroliga en octubre: Valencia es una bocanada de aire fresco para mí** — Infobae
 - 2026-11-03 12:16 UTC · **Antetokounmpo alimenta la crisis de Miami Heat señalando a sus compañeros** — Blog de Basket
-- 2026-11-03 12:13 UTC · **El Kids&Us Manresa, a dar un golpe encima de la mesa en Lituania** — Mundo Deportivo
 - 2026-11-03 12:13 UTC · **Euroliga | Real Madrid – Panathinaikos: con lo puesto ante la armada de Zeljko** — 24segundosenblanco
-- 2026-11-03 12:02 UTC · **El inicio a nivel MVP de Luka Doncic en Lakers** — Gigantes del Basket · https://www.gigantes.com/nba/el-inicio-a-nivel-mvp-de-luka-doncic-en-lakers/
-- 2026-11-03 11:42 UTC · **Eurocup Women – Ostrava vs. Spar Girona: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
-- 2026-11-03 11:37 UTC · **T.J. Shorts MVP de octubre de la Euroliga** — Nostresport
-- 2026-11-03 11:34 UTC · **TJ Shorts, tras ganar el MVP de octubre de la Euroliga: "Vuelvo a disfrutar del baloncesto"** — Levante-EMV
-- 2026-11-03 11:30 UTC · **TJ Shorts, elegido MVP de octubre de la Euroliga** — Plaza Deportiva
-- 2026-11-03 11:26 UTC · **Basket Landes - Casademont Zaragoza: horario y dónde ver gratis y online la Euoliga** — Sport Aragón
-- 2026-11-03 11:18 UTC · **TJ Shorts, MVP de octubre en la Euroliga** — Superdeporte
-- 2026-11-03 11:09 UTC · **El Real Madrid pide al Joventut de Badalona el regreso de Ndiaye** — Blog de Basket
-- 2026-11-03 11:02 UTC · **Fernando Romay, 67 años: "No puedo cobrar el 100% de mi jubilación. Si el Real Madrid cotizaba por mí, me declaraban profesional y entonces no podría ir a los Juegos Olímpicos, ni a los Europeos, ni con la Selección"** — Mundo Deportivo [posible rumor]
-- 2026-11-03 11:00 UTC · **El Real Madrid reclama la vuelta de Eli John Ndiaye al Joventut** — Solobasket [posible rumor] · https://www.solobasket.com/liga-endesa/real-madrid-reclama-vuelta-ndiaye-joventut
-- 2026-11-03 10:55 UTC · **"Mi sueño es ser más grande que el Real Madrid", el surrealista objetivo de un empresario griego** — Crónica Global
-- 2026-11-03 10:49 UTC · **Por qué no hay hoy NBA: La razón por la que este 3 de noviembre no hay partidos** — Gigantes del Basket · https://www.gigantes.com/nba/por-que-no-hay-hoy-nba-partidos-3noviembre/
-- 2026-11-03 10:42 UTC · **Eurocup – Lietkabelis vs. Manresa: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
-- 2026-11-03 10:40 UTC · **J.5: Cesarina Capellán, la MVP que se coronó allí donde todo comenzó** — Federación Española de Baloncesto
-- 2026-11-03 10:39 UTC · **El SPAR Girona visita la Ostrava en la cuarta jornada del EuroCup Women** — Basquet Girona
-- 2026-11-03 10:32 UTC · **Descuento para socios y socias en el Clásico de baloncesto del 27 de diciembre** — FC Barcelona
-- 2026-11-03 10:30 UTC · **El Insolac Caja87 asalta Mahón en un desenlace de infarto y logra su primer triunfo a domicilio (69-73)** — Muchodeporte
-- 2026-11-03 10:30 UTC · **La BCL vuelve al Carpena frente al Pallacanestro Reggiana** — Federación Andaluza De Baloncesto
-- 2026-11-03 10:29 UTC · **Giannis defiende la candidatura al MVP de Doncic: «Algunas personas tienen miedo de decir eso»** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2030083/giannis-defiende-la-candidatura-al-mvp-de-doncic-algunas-personas-tienen-miedo-de-decir-eso/
-- 2026-11-03 10:27 UTC · **Resumen de la NBA: Doncic sigue brillando y anota 42 puntos ante los Heat** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2030084/resumen-de-la-nba-doncic-sigue-brillando-y-anota-42-puntos-ante-los-heat/
-- 2026-11-03 10:24 UTC · **Los Thunder retirarán el número 0 de Russell Westbrook** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2030085/los-thunder-retiraran-el-numero-0-de-russell-westbrook/
-- 2026-11-03 10:22 UTC · **Luka Scuka ficha por el Kids&Us Manresa** — Eurohoops (español) · https://www.eurohoops.net/es/eurocup-es/2030082/luka-scuka-ficha-por-el-kidsus-manresa/
-- 2026-11-03 10:14 UTC · **Sonido del banquillo: "No podemos rendirnos ahora"** — ACB
-- 2026-11-03 10:00 UTC · **El equipo prepara el partido contra el Panathinaikos** — Real Madrid CF | Web Oficial
-- 2026-11-03 09:55 UTC · **Real Madrid vs Panathinaikos: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
-- 2026-11-03 09:45 UTC · **Fichajes ACB: Luka Scuka, Eli John Ndiaye, Bakary Dibba, Jabari Parker...** — Málaga Hoy
-- 2026-11-03 09:41 UTC · **A por el 10 en la pista del Basket Landes** — Aragón Play
-- 2026-11-03 09:41 UTC · **El Barça de basket se acostumbra a ganar en el alambre** — COPE
-- 2026-11-03 09:40 UTC · **El desolador parte médico trastoca los planes del Real Madrid** — Mundo Deportivo
-- 2026-11-03 09:32 UTC · **Almansa arranca fuerte la NCAA** — Diario AS
-- 2026-11-03 09:11 UTC · **Cuándo juega el Real Madrid de baloncesto hoy: Día, hora y TV vs Panathinaikos** — Gigantes del Basket · https://www.gigantes.com/euroliga/cuando-juega-real-madrid/
-- 2026-11-03 09:09 UTC · **Los equipos de Castilla y León suman seis victorias en una nueva jornada** — Federación de Baloncesto de Castilla y León
-- 2026-11-03 09:06 UTC · **Haro: “¿Renovación de Pellegrini? Cuando tenga que llegar eso, llegará...** — Diario AS
-- 2026-11-03 09:04 UTC · **¡Oficial! El Manresa, colista de la Liga Endesa, ficha al esloveno Luka Scuka** — Solobasket · https://www.solobasket.com/liga-endesa/manresa-ficha-luka-scuka-ala-pivot-esloveno
-- 2026-11-03 09:01 UTC · **Meins Avenida, a por la victoria en Ruzomberok en su último viaje de la fase de grupos** — Infobae
-- 2026-11-03 08:57 UTC · **El Grupo Ureta Tizona cayó por 79-89 ante el HLA Alicante en el Polideportivo Municipal El Plantío** — Tu voz en Pinares
-- 2026-11-03 08:47 UTC · **¿Quién frena a Ricky Rubio?** — SPORT
-- 2026-11-03 08:45 UTC · **Basket Landes-Casademont Zaragoza: una victoria que valdría mucho más que la décima consecutiva** — Aragón Digital
-- 2026-11-03 08:17 UTC · **El Madrid busca su séptima victoria ante Panathinaikos** — Blog de Basket
-- 2026-11-03 08:09 UTC · **La Euroliga castiga a Estrella Roja y Partizán por incidentes en Belgrado** — Blog de Basket
-- 2026-11-03 08:02 UTC · **Cameron Hunt, el hombre tranquilo** — Unicaja Baloncesto
-- 2026-11-03 08:00 UTC · **La metamorfosis del Real Madrid con Pedro Martínez: un cambio de estilo que va más allá del triple** — OkDiario
-- 2026-11-03 08:00 UTC · **Sacramento al fin gana** — Diario AS
-- 2026-11-03 07:56 UTC · **Jabari Parker y un posible regreso** — Mundo Deportivo
-- 2026-11-03 07:50 UTC · **Porto - Joventut: pronóstico y cuotas | Basketball Champions League** — BetBrothers.es
-- 2026-11-03 07:49 UTC · **Bàsquet Girona - Patrioti Levice: pronóstico y cuotas | Copa Europea de la FIBA** — BetBrothers.es
-- 2026-11-03 07:47 UTC · **Temporada Michael Ruffin** — ACB
-- 2026-11-03 07:33 UTC · **Horario y dónde ver en TV el Unicaja-Reggiana de la BCL** — Málaga Hoy
-- 2026-11-03 07:27 UTC · **El Meins Avenida afronta dos partidos en 48 horas esta semana** — SALAMANCArtv AL DÍA
+- 2026-11-03 12:13 UTC · **El Kids&Us Manresa, a dar un golpe encima de la mesa en Lituania** — Mundo Deportivo

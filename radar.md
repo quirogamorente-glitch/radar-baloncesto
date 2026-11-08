@@ -1,10 +1,13 @@
 # Radar de baloncesto
 
-Actualizado: 2026-11-07T23:01+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-11-08T02:17+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (58)
+## UCAM Murcia CB (60)
 
+- 2026-11-08 00:47 UTC · **Liga Endesa | acb.com** — ACB
+- 2026-11-07 23:31 UTC · **Real Madrid-UCAM Murcia: el líder busca su 7ª victoria seguida en Liga** — Real Madrid CF | Web Oficial
+- 2026-11-07 23:29 UTC · **Basketball | Baskonia vs. UCAM Murcia** — DAZN
 - 2026-11-07 22:27 UTC · **Horario, canal y dónde ver por TV el Real Madrid - UCAM Murcia de la Liga Endesa de baloncesto** — Mundo Deportivo
 - 2026-11-07 20:25 UTC · **El Heliodoro Rodríguez López y el fútbol español despiden a Jesús de Miguel** — La Verdad
 - 2026-11-07 18:57 UTC · **Sito Alonso busca la "determinación" para asaltar la pista del Real Madrid** — COPE
@@ -62,7 +65,6 @@ Actualizado: 2026-11-07T23:01+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-05 08:46 UTC · **Dylan Ennis lanza Ennis Hoops, su propio juego de baloncesto** — ACB
 - 2026-11-05 08:44 UTC · **Ethan Happ, tres meses de baja** — ACB
 - 2026-11-05 05:16 UTC · **Emanuel Cate, el gigante que comanda al UCAM Murcia y otea los récords históricos del club** — MurciaEconomía.com
-- 2026-11-04 23:03 UTC · **El Real Madrid recibe este domingo al UCAM Murcia** — Real Madrid CF | Web Oficial
 
 ## Covirán Granada (46)
 
@@ -120,16 +122,24 @@ Actualizado: 2026-11-07T23:01+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-06 10:19 UTC · **Sito Alonso, ante el reto en Madrid: “Nos falta la determinación final para ganar allí”** — MurciaEconomía.com
 - 2026-11-05 05:16 UTC · **Emanuel Cate, el gigante que comanda al UCAM Murcia y otea los récords históricos del club** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (105)
+## Resto (últimas 12 h) (85)
 
+- 2026-11-08 00:17 UTC · **Cajasiete Gran Canaria vence al Gipuzkoa (87-66) y suma su quinta victoria** — TELDE OJEANDO
+- 2026-11-08 00:03 UTC · **La borrasca Bruna deja sin afición el La Laguna Tenerife-Joventut de este domingo** — El Burgado Digital
+- 2026-11-07 23:40 UTC · **Javi Rodríguez, entrenador del Alimerka Oviedo Baloncesto, tras ganar al Coto Córdoba: "Nos queda mucho que mejorar"** — La Nueva España
+- 2026-11-07 23:30 UTC · **Simmons, el mejor ante el Lleida. ¿Quién lo ha sido para ti? Vota aquí** — El Correo
+- 2026-11-07 23:29 UTC · **El Coto Córdoba encadena otra derrota (70-63)** — El Debate
+- 2026-11-07 23:04 UTC · **La defensa y el Palacio impulsan al Alimerka Oviedo** — Killer Asturias
+- 2026-11-07 22:47 UTC · **El Baskonia controla su caída** — El Correo
 - 2026-11-07 22:45 UTC · **Velimir Perasovic: "No es fácil jugar dos partidos en poco tiempo y con pocos jugadores"** — Infobae
 - 2026-11-07 22:35 UTC · **El 1x1 del Baskonia ante el iLerna Lleida: Simmons, la sangre fría de un líder** — Diario de Noticias de Álava
 - 2026-11-07 22:32 UTC · **93-98: El iLerna Lleida no puede culminar una gran remontada** — Mundo Deportivo
 - 2026-11-07 22:31 UTC · **El Palmer planta cara al líder** — Ultima Hora
 - 2026-11-07 22:27 UTC · **Qué ha pasado en la Liga Endesa: Kids&Us Manresa se estrena y vencen Kosner Baskonia y FIATC Girona** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/que-ha-pasado-hoy-jornada7-acb/
-- 2026-11-07 22:25 UTC · **El Baskonia sobrevive a la remontada del iLerna Lleida y asalta el Barris Nord** — SPORT
 - 2026-11-07 22:25 UTC · **Segunda victoria consecutiva liguera del Baskonia de Peras** — Diario AS
+- 2026-11-07 22:25 UTC · **El Baskonia sobrevive a la remontada del iLerna Lleida y asalta el Barris Nord** — SPORT
 - 2026-11-07 22:24 UTC · **Honor a los 9 héroes del Baskonia en Lleida (93-98)** — Cadena SER
+- 2026-11-07 22:22 UTC · **Simmons sostiene al Baskonia ante la reacción de Batemon (93-98)** — piratasdelbasket
 - 2026-11-07 22:16 UTC · **Moncho Fernández: "Fontajau nos da fuerza"** — Mundo Deportivo
 - 2026-11-07 22:15 UTC · **Resumen de la ACB: Manresa consigue su primera victoria, Baskonia gana a domicilio** — Eurohoops · https://www.eurohoops.net/es/acb-es/2032011/resumen-de-la-acb-manresa-consigue-su-primera-victoria-baskonia-gana-a-domicilio/
 - 2026-11-07 22:02 UTC · **El Alimerka Oviedo Baloncesto pica piedra para ganar al Cajasol Coto Córdoba en un partido poco vistoso (70-63)** — La Nueva España
@@ -138,9 +148,11 @@ Actualizado: 2026-11-07T23:01+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-07 21:42 UTC · **Un Cajasol Coto Córdoba inferior al Alimerka Oviedo encaja su cuarta derrota seguida** — Diario Córdoba
 - 2026-11-07 21:39 UTC · **El Bàsquet Menorca firma en Albacete su primera victoria de la temporada** — Bàsquet Menorca
 - 2026-11-07 21:36 UTC · **El Cajasol Coto Córdoba empieza tarde el partido en Oviedo (70-63)** — Cordobadeporte
+- 2026-11-07 21:27 UTC · **El Surne Bilbao se queda sin pólvora al final** — El Correo
 - 2026-11-07 21:25 UTC · **El Cajasiete Gran Canaria se hace fuerte en casa para cosechar un nuevo triunfo (87-66)** — cbgrancanaria.net
 - 2026-11-07 21:22 UTC · **El Girona sigue intratable en casa** — Diario AS
 - 2026-11-07 21:16 UTC · **Los 90 segundos finales frustran al Surne Bilbao en Fontajau (92-87)** — Deia
+- 2026-11-07 21:14 UTC · **El Bàsquet Menorca estrena su casillero de victorias con un triunfo de carácter en Albacete** — Menorca - Es diari
 - 2026-11-07 21:12 UTC · **El riesgo de la suspensión de un partido: espada de Damocles para el CB Canarias ante un calendario recargado** — Eldía
 - 2026-11-07 21:11 UTC · **87-66: El Gran Canaria no encuentra obstáculos para batir al Askatuak** — Tinta Amarilla
 - 2026-11-07 20:56 UTC · **Victoria de carácter para tumbar al Surne Bilbao en Fontajau** — Basquet Girona
@@ -150,8 +162,10 @@ Actualizado: 2026-11-07T23:01+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-07 20:49 UTC · **Primer tropiezo del Movistar Estudiantes** — Diario AS
 - 2026-11-07 20:47 UTC · **92-87. El FIATC Girona consigue una trabajada victoria** — Infobae
 - 2026-11-07 20:45 UTC · **Martinas Geben da el triunfo al FIATC Girona desde la línea de personal** — MARCA
+- 2026-11-07 20:43 UTC · **El Girona gana desde la línea de tiros libres al Bilbao (92-87)** — piratasdelbasket
 - 2026-11-07 20:41 UTC · **Diego Ocampo: "Hemos ganado un partido muy duro a nivel emocional"** — Mundo Deportivo
 - 2026-11-07 20:38 UTC · **Darrun Hilliard anota 24 y Bilbao Basket cae en Girona con 7 de 17 libres** — BilbaoHiria
+- 2026-11-07 20:37 UTC · **Notae da al Manresa su primera victoria tras dos prórrogas (100-99)** — piratasdelbasket
 - 2026-11-07 20:36 UTC · **La línea de tiro libre castiga al Surne Bilbao en Girona** — Radio Nervión
 - 2026-11-07 20:35 UTC · **El HLA Alicante se abona a la épica en la noche de Llompart** — Información
 - 2026-11-07 20:34 UTC · **A la séptima, la vencida: el Manresa gana tras dos prórrogas** — Diario AS
@@ -163,6 +177,7 @@ Actualizado: 2026-11-07T23:01+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-07 20:18 UTC · **iLERNA Lleida vs Kosner Baskonia 7 nov 2026** — ACB
 - 2026-11-07 20:10 UTC · **Notae lidera el agónico y frenético estreno del Kids&Us Manresa en Liga Endesa** — SPORT
 - 2026-11-07 20:02 UTC · **El Bàsquet Menorca resurge en Albacete y consigue su primera victoria de la temporada** — Menorca al Dia
+- 2026-11-07 20:01 UTC · **El Palau, listo para el festival ofensivo que prometen Barça y Breogán** — SPORT
 - 2026-11-07 19:50 UTC · **El Valencia Basket quiere conquistar Burgos antes de regresar al Roig Arena** — Superdeporte
 - 2026-11-07 19:49 UTC · **Horario, canal y dónde ver por TV la jornada 7 de Liga Endesa de baloncesto** — Mundo Deportivo
 - 2026-11-07 19:47 UTC · **Leyma Coruña-Andorra: Evaluación de madurez ante un rival directo por la permanencia en la ACB** — La Opinión A Coruña
@@ -194,36 +209,3 @@ Actualizado: 2026-11-07T23:01+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-07 15:00 UTC · **Vidorreta rebaja las expectativas sobre la vuelta del lesionado Nzosa con el Unicaja** — La Opinión de Málaga
 - 2026-11-07 14:54 UTC · **Brizuela advierte antes de medirse a Breogán: "Son un rival muy complicado, hay que tener muchísimo cuidado"** — SPORT
 - 2026-11-07 14:37 UTC · **Pierria Henry prepara su vuelta a la EuroLeague con el Maccabi** — piratasdelbasket
-- 2026-11-07 14:09 UTC · **Jornada 7 de Liga Endesa: Manresa busca su primer triunfo** — Blog de Basket
-- 2026-11-07 14:09 UTC · **Tenerife cierra las gradas ante la alerta meteorológica** — Blog de Basket
-- 2026-11-07 14:09 UTC · **Henry busca regresar a la Euroliga con Maccabi tras casi cuatro años** — Blog de Basket
-- 2026-11-07 14:05 UTC · **El partido La Laguna Tenerife-Joventut se jugará a puerta cerrada** — Mundo Deportivo
-- 2026-11-07 14:00 UTC · **Giannis Antetokounmpo, sobre Luka Doncic: "Es uno de los mejores anotadores de todos los tiempos, si no el mejor. Siento que algunas personas tienen medio de decir eso, pero él tiene que estar ahí arriba"** — SPORT
-- 2026-11-07 13:27 UTC · **El partido de Liga Endesa entre La Laguna Tenerife y Asisa Joventut se jugará a puerta cerrada** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/laguna-tenerife-asisa-joventut-partido-puerta-cerrada/
-- 2026-11-07 13:23 UTC · **El partido ante el Joventut, a puerta cerrada en Tenerife** — Canarias en Pleno
-- 2026-11-07 13:21 UTC · **La Laguna Tenerife-Joventut se jugará sin aficionados en el Santiago Martín** — Eldía
-- 2026-11-07 13:20 UTC · **Sebas Saiz dice adiós a la temporada en Japón por una grave lesión de rodilla** — Gigantes del Basket · https://www.gigantes.com/mas-basket/sebas-saiz-grave-lesion-rodilla-japon/
-- 2026-11-07 13:17 UTC · **El partido de mañana ante el Joventut se jugará a puerta cerrada, por la borrasca y la alerta decretada** — CB Canarias
-- 2026-11-07 13:12 UTC · **El partido de mañana ante el Joventut se jugará a puerta cerrada** — CB Canarias
-- 2026-11-07 13:10 UTC · **El encuentro entre La Laguna Tenerife y ASISA Joventut se jugará a puerta cerrada** — ACB
-- 2026-11-07 12:59 UTC · **Esperanzador debut de Santi Aldama con los Mavericks tras dejar atrás su larga lesión: 'Será realmente bueno para nosotros'** — SPORT
-- 2026-11-07 12:57 UTC · **Ibon Navarro iguala el mejor inicio del Estrella Roja en la Euroliga: Las claves de sus buenos resultados** — Gigantes del Basket · https://www.gigantes.com/euroliga/ibon-navarro-record-estrella-roja/
-- 2026-11-07 12:53 UTC · **El Tizona busca en Sevilla una victoria que le permita dar continuidad a su crecimiento** — Revista Forofos
-- 2026-11-07 12:48 UTC · **El San Pablo busca recuperar el pulso en casa ante el campeón Valencia Basket** — Revista Forofos
-- 2026-11-07 12:41 UTC · **Fisac: «Burgos no es un sitio para rendirse nadie»** — El Correo de Burgos
-- 2026-11-07 12:41 UTC · **Sergio Llorente, experiencia y talento para el Fibwi Mallorca Bàsquet Palma** — Federación Española de Baloncesto
-- 2026-11-07 12:39 UTC · **Jastin no arranca: vuelve a estar lesionado** — Diario AS
-- 2026-11-07 12:34 UTC · **Ver Bristol Flyers - Surrey 89ers Online en Directo | DAZN ES** — DAZN
-- 2026-11-07 12:32 UTC · **Pierria Henry probará con Maccabi Tel Aviv** — Eurohoops (español) [posible rumor] · https://www.eurohoops.net/es/euroleague-es/2031843/pierria-henry-cerca-de-volver-a-la-euroliga-y-firmar-por-maccabi/
-- 2026-11-07 12:32 UTC · **Pierria Henry, cerca de volver a la Euroliga y firmar por Maccabi** — Eurohoops (español) [posible rumor] · https://www.eurohoops.net/es/euroleague-es/2031843/pierria-henry-cerca-de-volver-a-la-euroliga-y-firmar-por-maccabi/
-- 2026-11-07 12:22 UTC · **Test de altura para el Breogán en el Palau** — Diario de Santiago
-- 2026-11-07 12:20 UTC · **Pronóstico Casademont Zaragoza - CB Málaga - Liga ACB** — SportyTrader
-- 2026-11-07 12:17 UTC · **#Baloncesto | Jairis, líder en Europa, Avenida y Girona lograron la victoria en sus respectivos duelos de Eurocopa** — Visibilitas
-- 2026-11-07 12:00 UTC · **iLERNA Lleida vs Kosner Baskonia: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN
-- 2026-11-07 12:00 UTC · **El Olimpia Milano destituye a Peppe Poeta tras caer ante el Valencia Basket** — Solobasket · https://www.solobasket.com/euroliga/olimpia-milano-destituye-poeta-valencia-basket
-- 2026-11-07 11:55 UTC · **Vuelve a casa la Liga Endesa con un partido de alto nivel** — San Pablo Burgos
-- 2026-11-07 11:48 UTC · **El Asisa Joventut, pendiente de la borrasca Bruna para viajar y jugar en Tenerife** — El Periódico
-- 2026-11-07 11:45 UTC · **El Mirai Euskotren y el Inversus Gernika suman nuevas victorias; el Kutxabank Araski sigue sin ganar** — kirolakeitb.eus
-- 2026-11-07 11:40 UTC · **Nadir Hifi se lleva el MVP de la jornada 10 en la Euroliga** — Eurohoops · https://www.eurohoops.net/es/euroleague-es/2031833/nadir-hifi-se-lleva-el-mvp-de-la-jornada-10-en-la-euroliga/
-- 2026-11-07 11:12 UTC · **El Valencia Basket, al asalto de la pista del Burgos** — Plaza Deportiva
-- 2026-11-07 11:04 UTC · **Baloncesto | Azulmarino Palma, la revelación de la liga femenina** — RTVE.es

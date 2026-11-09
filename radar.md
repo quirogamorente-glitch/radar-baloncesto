@@ -1,14 +1,16 @@
 # Radar de baloncesto
 
-Actualizado: 2026-11-08T23:50+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-11-09T05:59+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (92)
+## UCAM Murcia CB (93)
 
+- 2026-11-08 22:55 UTC · **Basketball | UCAM Murcia vs. CB San Pablo Burgos** — DAZN
 - 2026-11-08 22:32 UTC · **El Real Madrid tumba al UCAM Murcia y el Barça gana con secuelas** — Europa Press
 - 2026-11-08 20:56 UTC · **Sito Alonso, tras el Real Madrid-UCAM Murcia: "Nos ha faltado que nos duela más alguna canasta que nos meten"** — La Opinión de Murcia
 - 2026-11-08 20:49 UTC · **El UCAM Murcia cae en la capital ante el Real Madrid** — Cadena SER
 - 2026-11-08 20:43 UTC · **Resumen del Real Madrid vs UCAM Murcia, jornada 7 de la Liga Endesa** — Diario AS
+- 2026-11-08 20:30 UTC · **Pradilla lidera al Real Madrid ante el UCAM Murcia (90-71)** — piratasdelbasket
 - 2026-11-08 20:25 UTC · **Un apagón en el último cuarto condena al UCAM Murcia ante el Real Madrid (90-71)** — La 7
 - 2026-11-08 20:23 UTC · **Real Madrid vs UCAM Murcia Nov 8, 2026** — ACB Live
 - 2026-11-08 20:21 UTC · **El UCAM Murcia CB planta cara pero sucumbe ante el Real Madrid en el último cuarto** — COPE
@@ -22,6 +24,7 @@ Actualizado: 2026-11-08T23:50+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-08 20:10 UTC · **Al UCAM CB sigue sin darle para ganar al Madrid en su cancha** — Murcia Plaza
 - 2026-11-08 20:10 UTC · **El Real Madrid frena al UCAM Murcia con otra paliza para seguir invicto en Liga** — OkDiario
 - 2026-11-08 20:08 UTC · **Resumen de la Liga Endesa: el Real Madrid no falla y sigue como invicto** — Eurohoops · https://www.eurohoops.net/es/acb-es/2032521/resumen-de-la-liga-endesa-el-real-madrid-no-falla-y-sigue-como-invicto/
+- 2026-11-08 20:06 UTC · **El Madrid sigue invicto en la ACB tras siete jornadas** — EL PAÍS
 - 2026-11-08 19:59 UTC · **El UCAM Murcia se desploma en el último cuarto tras plantarle cara al Real Madrid** — murciaeconomia.com
 - 2026-11-08 19:57 UTC · **El Real Madrid destroza en la pintura al UCAM Murcia y sigue imparable en la ACB** — El Mundo
 - 2026-11-08 19:56 UTC · **El Real Madrid sigue intratable en Liga ACB y tumba al UCAM Murcia** — El Debate
@@ -95,10 +98,8 @@ Actualizado: 2026-11-08T23:50+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-06 10:20 UTC · **Baloncesto: Murcia - Bamberg, en directo | Champions** — RTVE.es
 - 2026-11-06 10:19 UTC · **Sito Alonso, ante el reto en Madrid: “Nos falta la determinación final para ganar allí”** — MurciaEconomía.com
 - 2026-11-06 09:41 UTC · **Orihuela – UCAM Murcia CF: A seguir por todo lo alto** — UCAM Deportes
-- 2026-11-06 05:00 UTC · **Real Madrid-UCAM Murcia: seis finales crueles y un triunfo que no llega** — La Opinión de Murcia
-- 2026-11-06 00:18 UTC · **Resultados de Barcelona vs UCAM Murcia, historial de enfrentamientos (H2H) | Baloncesto** — Flashscore.es
 
-## Covirán Granada (36)
+## Covirán Granada (35)
 
 - 2026-11-08 19:12 UTC · **El Covirán Granada ya se encuentra a tres victorias de la plaza que otorga el ascenso directo** — Granada Hoy
 - 2026-11-08 08:01 UTC · **¡A volver a la senda del triunfo!** — Melilla Hoy
@@ -135,7 +136,6 @@ Actualizado: 2026-11-08T23:50+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-06 11:23 UTC · **Iberolea Palencia - Covirán Granada, en directo** — GranadaDigital
 - 2026-11-06 09:09 UTC · **El Coviran Granada visita hoy al Iberolea Palencia con la baja de Edu Durán y el reto de sumar su tercera victoria consecutiva** — Muchodeporte
 - 2026-11-06 07:33 UTC · **Iberolea Palencia – Covirán Granada: candidatos, este es su momento** — Agente Libre Digital
-- 2026-11-06 05:00 UTC · **El Covirán, ante su primera gran batalla en la liga** — GranadaDigital
 
 ## Periodistas preferentes (5)
 
@@ -145,11 +145,21 @@ Actualizado: 2026-11-08T23:50+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-06 21:21 UTC · **MurciaEconomía Radio emitirá el choque entre el Real Murcia Imperial y la Deportiva Minera desde Espinardo** — MurciaEconomía.com
 - 2026-11-06 10:19 UTC · **Sito Alonso, ante el reto en Madrid: “Nos falta la determinación final para ganar allí”** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (127)
+## Resto (últimas 12 h) (58)
 
+- 2026-11-09 05:30 UTC · **Horas de incertidumbre en el Barça con las lesiones de Punter y Evbuomwan** — SPORT
+- 2026-11-09 05:16 UTC · **San Pablo Burgos - Valencia Basket: pronóstico y cuotas | Liga Endesa** — BetBrothers.es
+- 2026-11-09 05:14 UTC · **Basket Zaragoza - Unicaja: pronóstico y cuotas | Liga Endesa** — BetBrothers.es
+- 2026-11-09 05:11 UTC · **Euroliga: Valencia, Real Madrid y Barça van a por todas** — Blog de Basket
+- 2026-11-09 05:10 UTC · **El Real Madrid se come al Murcia y afianza su liderato en la Liga Endesa** — Blog de Basket
+- 2026-11-09 05:09 UTC · **El Barça logra su séptima victoria en la Liga Endesa ante el Breogán** — Blog de Basket
+- 2026-11-09 04:30 UTC · **Lo del Casademont Zaragoza femenino no es normal** — El Periódico de Aragón
+- 2026-11-09 01:50 UTC · **J.7: D’Moi Hodge conquista un MVP de lustre mundial para el Palmer Basket Mallorca** — Federación Española de Baloncesto
+- 2026-11-09 01:35 UTC · **Resultados de Real Madrid vs Anadolu Efes, historial de enfrentamientos (H2H) | Baloncesto** — Flashscore.es
 - 2026-11-08 22:50 UTC · **J.6 | Jornada de destronamientos de invictos** — Federación Española de Baloncesto
 - 2026-11-08 21:17 UTC · **Gonzalo García de Vitoria, entrenador del Casademont Zaragoza: “¡Cómo estaba el Príncipe Felipe, eh!”** — heraldo.es
 - 2026-11-08 21:16 UTC · **El argentino Nico Brussino, Jugador de la Jornada 7 de la Liga Endesa española 2026-27** — Infobae
+- 2026-11-08 21:16 UTC · **Huertas, Pacheco y el pleno del Madrid marcan la jornada 7** — piratasdelbasket
 - 2026-11-08 21:13 UTC · **Clasificación Liga ACB: el Unicaja pierde posiciones** — Diario Sur
 - 2026-11-08 21:11 UTC · **Pablo Mera** — ACB
 - 2026-11-08 21:02 UTC · **Pablo Mera, séptimo debutante más precoz con el Real Madrid** — ACB
@@ -163,7 +173,6 @@ Actualizado: 2026-11-08T23:50+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-08 20:14 UTC · **Nico Brussino, Jugador de la Jornada 7 de la Liga Endesa 2026-27** — ACB
 - 2026-11-08 20:09 UTC · **Pablo Mera debuta con el Real Madrid** — Real Madrid CF | Web Oficial
 - 2026-11-08 20:07 UTC · **90-71: Las bajas no merman la eficacia del Real Madrid** — Mundo Deportivo
-- 2026-11-08 20:06 UTC · **El Madrid sigue invicto en la ACB tras siete jornadas** — EL PAÍS
 - 2026-11-08 20:00 UTC · **Real Madrid - Murcia en directo - Liga Endesa: Resultados y resúmenes de Baloncesto - 08/11/2026** — Eurosport
 - 2026-11-08 19:59 UTC · **El CB Zamora coge ritmo con su primer triunfo a domicilio y dosis de gran baloncesto** — La Opinión de Zamora
 - 2026-11-08 19:53 UTC · **103-100 | El Leyma doblega al Andorra con un 'pachecazo' sobre la bocina** — La Opinión A Coruña
@@ -172,12 +181,13 @@ Actualizado: 2026-11-08T23:50+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-08 19:42 UTC · **Un viaje por la Jornada 7: finales de infarto, leyendas que siguen escalando y un líder invicto** — ACB
 - 2026-11-08 19:40 UTC · **MoraBanc Andorra bate su récord de triples (20) en un partido** — ACB
 - 2026-11-08 19:34 UTC · **CASADEMONT ZARAGOZA Y LA MAREA ROJA RUGEN EN EL FELIPE** — Basket Zaragoza |
+- 2026-11-08 19:28 UTC · **Apuestas Villerbaune - Besiktas** — Gainblers
 - 2026-11-08 19:28 UTC · **Así queda el Casademont Zaragoza en la clasificación tras el partidazo ante el Unicaja** — heraldo.es
 - 2026-11-08 19:25 UTC · **El «1x1» de la victoria del Leyma sobre el Andorra** — La Voz de Galicia
 - 2026-11-08 19:24 UTC · **Un triplazo de Pacheco sobre la bocina lanza al Leyma** — Diario AS
 - 2026-11-08 19:19 UTC · **Uno a uno del Leyma Coruña contra el Morabanc Andorra: El Coliseum se rinde a Caio Pacheco** — La Opinión A Coruña
-- 2026-11-08 19:09 UTC · **Apoteosis en el Coliseum con un triple de Pacheco sobre la bocina que le da el triunfo al Leyma sobre el Andorra (103-100)** — La Voz de Galicia
 - 2026-11-08 19:09 UTC · **Pierrià Henry podría volver en dos meses con el Maccabi** — Diario AS [posible rumor]
+- 2026-11-08 19:09 UTC · **Apoteosis en el Coliseum con un triple de Pacheco sobre la bocina que le da el triunfo al Leyma sobre el Andorra (103-100)** — La Voz de Galicia
 - 2026-11-08 19:08 UTC · **¡Caio Pacheco anota sobre la bocina pagar ganar!** — ACB
 - 2026-11-08 19:04 UTC · **Paolo Galbiati encuentra trabajo en el staff de la selección italiana** — naiz:
 - 2026-11-08 18:52 UTC · **96-91: Brussino despliega las alas al Casademont** — Mundo Deportivo
@@ -191,86 +201,7 @@ Actualizado: 2026-11-08T23:50+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-08 18:29 UTC · **Nico Brussino (25 puntos, 36 valoración) deja números nunca vistos en Casademont Zaragoza** — ACB
 - 2026-11-08 18:28 UTC · **El Ourense derrota al Partizán de Fuenlabrada con una canasta sobre la bocina** — El Diario de Madrid
 - 2026-11-08 18:26 UTC · **Los errores finales condenan al Unicaja en Zaragoza (96-91)** — Diario Sur
+- 2026-11-08 18:20 UTC · **Pedro Martínez recoge el trofeo al mejor entrenador del año de la AEEB** — Real Madrid CF | Web Oficial
+- 2026-11-08 18:04 UTC · **Casademont Zaragoza 96 - Unicaja 91 Jornada 7 Liga Endesa 2026/27** — Unicaja Baloncesto
 - 2026-11-08 18:04 UTC · **Este es el resumen del Casademont Zaragoza 96-91 Unicaja de la Jornada 7 de la Liga Endesa** — Radio Marca Málaga
 - 2026-11-08 18:00 UTC · **Clasificación de la Euroliga tras la jornada 10: Valencia, tercero; Barça y Real Madrid, en el pelotón; Baskonia, colista** — Solobasket · https://www.solobasket.com/euroliga/clasificacion-euroliga-jornada-10-valencia-tercero-baskonia
-- 2026-11-08 17:51 UTC · **Okeke se une a la lista de lesionados del Madrid** — Mundo Deportivo
-- 2026-11-08 17:46 UTC · **Okeke, nueva lesión en el Real Madrid; el canterano Pablo Mera, convocado** — Infobae
-- 2026-11-08 17:26 UTC · **Leyma Coruña vs MoraBanc Andorra 8 nov 2026** — ACB
-- 2026-11-08 17:12 UTC · **Tizona Burgos se impone al Insolac Caja87 en un final ajustado (73-75)** — Andalucía Información
-- 2026-11-08 17:06 UTC · **Casademont Zaragoza-Unicaja, en fotos** — Málaga Hoy
-- 2026-11-08 17:00 UTC · **Kobi Simmons toma las riendas del Baskonia** — Diario de Noticias de Álava
-- 2026-11-08 16:22 UTC · **J.6: Paula Vaquera, la MVP con más garra del Mipelletymas BF León** — Federación Española de Baloncesto
-- 2026-11-08 16:22 UTC · **J.5: Paula Vaquera, la MVP con más garra del Mipelletymas BF León** — Federación Española de Baloncesto
-- 2026-11-08 16:14 UTC · **La Laguna Tenerife firma su quinta victoria** — Diario AS
-- 2026-11-08 16:12 UTC · **El Valencia Basket crece como equipo tras la gira de cuatro partidos fuera de casa** — Las Provincias
-- 2026-11-08 16:10 UTC · **Miret: "Hemos hecho un buen partido, seguimos firmes con el objetivo de la Copa"** — Mundo Deportivo
-- 2026-11-08 16:09 UTC · **Casademont Zaragoza vs Unicaja 8 nov 2026** — ACB Live
-- 2026-11-08 16:00 UTC · **El Cajasol Coto Córdoba iguala la peor racha de derrotas de su historia en una misma temporada** — Diario Córdoba
-- 2026-11-08 15:55 UTC · **Casademont Zaragoza vs Unicaja Nov 8, 2026** — ACB
-- 2026-11-08 15:44 UTC · **Mavra se abre paso en la historia breoganista a base de asistencias** — La Voz de Galicia
-- 2026-11-08 15:35 UTC · **93-100. Buena imagen en un disputado duelo** — San Pablo Burgos
-- 2026-11-08 15:30 UTC · **Los Nets de Jordi Fernández caen en Atlanta (124-121) tras mandar de 17 puntos** — Solobasket · https://www.solobasket.com/nba/nets-jordi-fernandez-caen-hawks-atlanta
-- 2026-11-08 15:28 UTC · **Dominik Mavra se convierte en el máximo asistente histórico del Río Breogán en Liga Endesa** — El Progreso de Lugo
-- 2026-11-08 15:28 UTC · **80-74: La Penya tropieza en los instantes finales en Tenerife** — Mundo Deportivo
-- 2026-11-08 15:07 UTC · **93-100: Valencia Basket saca una trabajada victoria en Burgos** — Mundo Deportivo
-- 2026-11-08 15:05 UTC · **EHF EUROCUP MASCULINA (Balonmano) hoy en TV: horarios y canales** — La Vanguardia
-- 2026-11-08 15:05 UTC · **Valencia Basket frena a un San Pablo que soñó con la victoria** — El Correo de Burgos
-- 2026-11-08 15:04 UTC · **El Grupo Ureta Tizona firma una remontada de carácter en Sevilla y suma su segunda victoria liguera (73-75)** — CB Tizona
-- 2026-11-08 15:03 UTC · **J.6: Nada ni nadie puede con los líderes Sevilla Cajasol Gardenstore y Osés Construcción** — Federación Española de Baloncesto
-- 2026-11-08 14:45 UTC · **Matt Thomas, descarte de Txus Vidorreta para el Casademont Zaragoza-Unicaja** — La Opinión de Málaga
-- 2026-11-08 14:40 UTC · **Río Breogán – Recoletas Salud San Pablo Burgos: ficha y horario | Liga Endesa 2026-27** — Gigantes del Basket
-- 2026-11-08 14:39 UTC · **Alarma en el Palau: Punter se retira lesionado** — Mundo Deportivo
-- 2026-11-08 14:37 UTC · **Remontada de carácter del Valencia** — Diario AS
-- 2026-11-08 14:32 UTC · **«Si no jugamos al 120% no ganamos a nadie», el aviso de Varela tras la derrota del Albacete Basket** — El Digital de Albacete
-- 2026-11-08 14:27 UTC · **Sekulic: “Esta racha es fruto de todo el trabajo colectivo** — Diario AS
-- 2026-11-08 14:20 UTC · **Marcelino Huertas, 8º máximo anotador histórico de la Liga Endesa** — ACB
-- 2026-11-08 14:18 UTC · **Sigue EN DIRECTO el Casademont Zaragoza VS Unicaja de la Jornada 7 de la Liga Endesa** — Radio Marca Málaga
-- 2026-11-08 14:18 UTC · **DIRECTO | ¡Kevin Knox entra en convocatoria y Matt Thomas se queda fuera en Zaragoza!** — Radio Marca Málaga
-- 2026-11-08 14:17 UTC · **Primera FEB: Un Caja 87 sin respuestas tras el descanso regala la victoria a Tizona Burgos (73-75)** — Diario de Sevilla
-- 2026-11-08 14:09 UTC · **Banchi vuelve al Olimpia Milano tras 11 años** — Blog de Basket
-- 2026-11-08 14:09 UTC · **Jornada 7: Victorias de Barça, Valencia y Baskonia** — Blog de Basket
-- 2026-11-08 14:05 UTC · **Las fotos más espectaculares del Barça- Río Breogán** — Mundo Deportivo
-- 2026-11-08 14:04 UTC · **99-91: El Barça suda sangre para doblegar al Río Breogán** — Mundo Deportivo
-- 2026-11-08 14:02 UTC · **El Valencia Basket saca el carácter para remontar en una gran segunda parte** — MARCA
-- 2026-11-08 14:00 UTC · **Víctor Sada, exjugador del Barça: "Estoy muy orgulloso de ser de Badalona y tengo mucha familia y amigos, pero siempre he tenido una rivalidad muy sana con la Penya"** — SPORT
-- 2026-11-08 14:00 UTC · **Simmons rescata al Baskonia en Lleida con triple decisivo** — Blog de Basket
-- 2026-11-08 13:58 UTC · **Sekulic le pide más a Tyrese Martin: "Está jugando bien, pero todavía lo puede hacer mejor"** — SPORT
-- 2026-11-08 13:53 UTC · **El Barça resuelve con paciencia el órdago breoganista (99-91)** — ACB
-- 2026-11-08 13:53 UTC · **Reacción en la segunda mitad para sumar la cuarta seguida en Liga Endesa en Burgos (93-100)** — Valencia Basket Club
-- 2026-11-08 13:46 UTC · **El Barça tira del bigotudo Balcerowski para ganar al Breogán y sumar su séptima victoria seguida** — Diario de Mallorca
-- 2026-11-08 13:43 UTC · **El Barça resiste a un gran Río Breogán y a las lesiones** — MARCA
-- 2026-11-08 13:40 UTC · **El HLA Alicante completa un inicio de récord en Primera FEB** — Cadena SER
-- 2026-11-08 13:36 UTC · **Sekulic: "No pensamos en rachas, sólo en el próximo partido"** — Mundo Deportivo
-- 2026-11-08 13:35 UTC · **Recoletas Salud San Pablo Burgos vs Valencia Basket 8 nov 2026** — ACB
-- 2026-11-08 13:31 UTC · **Kevin Knox, Matt Thomas o Cameron Hunt: ¿quién será el descarte de Txus Vidorreta para el Casademont Zaragoza-Unicaja?** — La Opinión de Málaga
-- 2026-11-08 13:30 UTC · **Valencia Basket recupera sus fuerzas a tiempo y cierra una semana perfecta a domicilio** — Levante-EMV
-- 2026-11-08 13:29 UTC · **Pi Henry vuelve al baloncesto: estará a prueba con Maccabi** — Gasteiz Hoy
-- 2026-11-08 13:29 UTC · **Pi Henry vuelve al baloncesto con el equipo que lo cambió todo** — Gasteiz Hoy
-- 2026-11-08 13:25 UTC · **El pívot del Barça de basket que se reivindica en plena búsqueda de descartes NBA: el juego coral de Sekulic se consolida con varios líderes** — Crónica Global
-- 2026-11-08 13:23 UTC · **Barcelona - Breogan Lugo en directo - Liga Endesa: Resultados y resúmenes de Baloncesto - 08/11/2026** — Eurosport
-- 2026-11-08 13:21 UTC · **La Laguna Tenerife vs Asisa Joventut 8 nov 2026** — ACB
-- 2026-11-08 13:19 UTC · **Paolo Galbiati se incorpora al cuerpo técnico de Italia** — Eurohoops (español) · https://www.eurohoops.net/es/fiba-es/2032288/paolo-galbiati-se-incorpora-al-cuerpo-tecnico-de-italia/
-- 2026-11-08 13:19 UTC · **El Casademont Zaragoza mide su vuelo ante un Unicaja que llega con pólvora nueva** — Sport Aragón
-- 2026-11-08 13:16 UTC · **Luca Banchi regresa oficialmente al Olimpia Milano como entrenador** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2032270/luca-banchi-regresa-oficialmente-al-olimpia-milano-como-entrenador/
-- 2026-11-08 13:16 UTC · **El 1x1 del Barça ante el Río Breogán** — Mundo Deportivo
-- 2026-11-08 13:16 UTC · **La hábil maniobra del Barça para olvidar las lesiones: el Instant Replay del ARA** — Diari ARA
-- 2026-11-08 13:14 UTC · **Detienen a un hombre frente a la residencia de LeBron James en Los Ángeles** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2032269/detienen-a-un-hombre-frente-a-la-residencia-de-lebron-james-en-los-angeles/
-- 2026-11-08 13:13 UTC · **Stephen Curry supera a LeBron James: «Valoro la longevidad»** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2032271/stephen-curry-supera-a-lebron-james-valoro-la-longevidad/
-- 2026-11-08 13:12 UTC · **Horario y dónde ver online el Casademont Zaragoza - Unicaja de Málaga de Liga Endesa** — Sport Aragón
-- 2026-11-08 13:11 UTC · **Aday Mara iguala la racha de tapones de Pau Gasol como novato: «Está evolucionando ante nuestros ojos»** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2032272/aday-mara-iguala-la-racha-de-tapones-de-pau-gasol-como-novato-esta-evolucionando-ante-nuestros-ojos/
-- 2026-11-08 13:11 UTC · **Parra y Brizuela tiran del Barça ante el Breogán (99-91)** — piratasdelbasket
-- 2026-11-08 13:10 UTC · **España en la Ventana FIBA de noviembre: Partidos, horarios, TV, lista y resultados** — Gigantes del Basket · https://www.gigantes.com/selecciones/espana-en-la-ventana-fiba-de-noviembre-partidos-horarios-tv-lista-y-resultados/
-- 2026-11-08 13:10 UTC · **Resumen de la NBA: Wembanyama anota 29 puntos en 24 minutos; Wagner registra 30 puntos y 11 rebotes** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2032273/resumen-de-la-nba-wembanyama-anota-29-puntos-en-24-minutos-wagner-registra-30-puntos-y-11-rebotes/
-- 2026-11-08 13:09 UTC · **Barça vs Río Breogán 8 nov 2026** — ACB
-- 2026-11-08 13:08 UTC · **El Barça, en la salud y en la enfermedad** — Diario AS
-- 2026-11-08 13:07 UTC · **Victoria muy costosa del Barça: lesionados Punter y Evbuomwan** — Eurohoops (español) · https://www.eurohoops.net/es/acb-es/2032263/victoria-muy-costosa-del-barca-lesionados-punter-y-evbuomwan/
-- 2026-11-08 13:06 UTC · **Recoletas Salud San Pablo Burgos vs Valencia Basket Nov 8, 2026** — ACB
-- 2026-11-08 13:05 UTC · **El Barça acaba con un combativo Breogán pero paga un alto precio con las lesiones** — SPORT
-- 2026-11-08 13:03 UTC · **¿Qué se juega España en la Ventana FIBA de noviembre? Lo analizamos** — Gigantes del Basket · https://www.gigantes.com/selecciones/que-se-juega-espana-en-la-ventana-fiba-de-noviembre/
-- 2026-11-08 13:02 UTC · **Dominik Mavra, líder histórico del Río Breogán en asistencias** — ACB
-- 2026-11-08 12:51 UTC · **Savignani: "Seguimos evolucionando; esta competición es como una maratón"** — Cadena SER
-- 2026-11-08 12:24 UTC · **El Tenerife-Joventut se jugará con público al rebajarse las restricciones por Bruna** — Mundo Deportivo
-- 2026-11-08 12:16 UTC · **¡Alarma en el Barça! Punter y Evbuomwan se retiran lesionados ante el Breogán** — SPORT
-- 2026-11-08 12:00 UTC · **El FIATC Girona gana al Surne Bilbao (92-87) y sigue invicto en Fontajau** — Solobasket · https://www.solobasket.com/liga-endesa/girona-gana-bilbao-92-87-invicto-fontajau
-- 2026-11-08 12:00 UTC · **Qué ha pasado en la Liga Endesa: Barça y La Laguna Tenerife vencen en casa mientras Valencia Basket gana en Burgos** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/que-ha-pasado-hoy-jornada7-acb/
-- 2026-11-08 11:59 UTC · **El banquillo del Olimpia Milano ya tiene nuevo dueño** — Mundo Deportivo

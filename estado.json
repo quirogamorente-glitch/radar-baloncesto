@@ -1,17 +1,17 @@
 {
- "actualizado": "2026-11-10T15:40+00:00",
+ "actualizado": "2026-11-10T21:25+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
    "ok": true,
-   "leidas": 47,
-   "guardadas": 47
+   "leidas": 45,
+   "guardadas": 45
   },
   {
    "fuente": "Google Noticias · UCAM CB",
    "ok": true,
-   "leidas": 23,
-   "guardadas": 23
+   "leidas": 26,
+   "guardadas": 26
   },
   {
    "fuente": "Fundación CB Granada (web oficial)",
@@ -22,8 +22,8 @@
   {
    "fuente": "Google Noticias · Covirán Granada",
    "ok": true,
-   "leidas": 14,
-   "guardadas": 14
+   "leidas": 13,
+   "guardadas": 13
   },
   {
    "fuente": "Google Noticias · Olga Lorente",
@@ -64,8 +64,8 @@
   {
    "fuente": "Google Noticias · EuroCup",
    "ok": true,
-   "leidas": 30,
-   "guardadas": 30
+   "leidas": 29,
+   "guardadas": 29
   },
   {
    "fuente": "Google Noticias · BCL",
@@ -76,13 +76,14 @@
   {
    "fuente": "Google Noticias · Primera FEB",
    "ok": true,
-   "leidas": 38,
-   "guardadas": 38
+   "leidas": 36,
+   "guardadas": 36
   },
   {
    "fuente": "Gigantes del Basket",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='www.gigantes.com', port=443): Max retries exceeded with url: /feed/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.gigantes.com', port=443): Failed to establish a n"
+   "ok": true,
+   "leidas": 10,
+   "guardadas": 10
   },
   {
    "fuente": "Eurohoops (español)",

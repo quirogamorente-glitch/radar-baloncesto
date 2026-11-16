@@ -1,13 +1,15 @@
 # Radar de baloncesto
 
-Actualizado: 2026-11-15T23:54+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-11-16T06:08+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (68)
+## UCAM Murcia CB (67)
 
+- 2026-11-15 23:00 UTC · **Bilbao Basket pierde ante el UCAM Murcia su racha invicta en Miribilla** — naiz:
 - 2026-11-15 22:29 UTC · **Basketball | Bilbao vs. UCAM Murcia** — DAZN
 - 2026-11-15 20:30 UTC · **Ponsarnau tras el UCAM Murcia: «Colectivamente no hemos tenido nada de fluidez»** — BilbaoHiria
 - 2026-11-15 20:02 UTC · **Sito Alonso, tras el Surne Bilbao-UCAM Murcia: "Espero que esta victoria le dé más empaque al equipo"** — La Opinión de Murcia
+- 2026-11-15 19:52 UTC · **El UCAM CB logra su primer triunfo liguero como visitante del curso con un Forrest sensacional** — Murcia Plaza
 - 2026-11-15 19:40 UTC · **Un UCAM Murcia CB muy sólido asalta Bilbao y se mete en la lucha por la Copa del Rey (76-84)** — COPE
 - 2026-11-15 19:36 UTC · **UCAM Murcia asalta Miribilla y supera a Bilbao** — Cadena SER
 - 2026-11-15 19:35 UTC · **Qué ha pasado en la Liga Endesa: Real Madrid y Barça siguen sumando con el UCAM Murcia asalta Miribilla** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/que-ha-pasado-hoy-liga-endesa-jornada8/
@@ -70,11 +72,8 @@ Actualizado: 2026-11-15T23:54+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-13 08:15 UTC · **Trayectoria Víctor Arteaga | Jugador acb | acb.com** — ACB
 - 2026-11-13 08:06 UTC · **Temporada Martynas Pocius** — ACB
 - 2026-11-13 06:42 UTC · **Partidos Marius Grigonis** — ACB
-- 2026-11-13 05:00 UTC · **UCAM Murcia CB: Sito Alonso y una herida que no cicatriza en Bilbao** — La Opinión de Murcia
-- 2026-11-13 00:19 UTC · **Estad. Avanzada Tomás Bellas** — ACB
-- 2026-11-13 00:17 UTC · **Trayectoria Oscar Quintana | Entrenador acb | acb.com** — ACB
 
-## Covirán Granada (36)
+## Covirán Granada (34)
 
 - 2026-11-15 22:59 UTC · **El Covirán compite como un grande sin premio** — Ideal
 - 2026-11-15 20:28 UTC · **El Covirán Granada ya está más cerca de la cola que de la cabeza de la clasificación** — Granada Hoy
@@ -110,8 +109,6 @@ Actualizado: 2026-11-15T23:54+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-13 11:30 UTC · **El Coviran despide noviembre en el Palacio contra Movistar Estudiantes** — Fundación CB Granada (web oficial) · https://fundacioncbgranada.es/el-coviran-despide-noviembre-en-el-palacio-contra-movistar-estudiantes/
 - 2026-11-13 11:07 UTC · **Arturo Ruiz: «Este partido contra el Estudiantes será distinto»** — Ideal
 - 2026-11-13 09:49 UTC · **Temporada Alfredo Fabón** — ACB
-- 2026-11-13 05:00 UTC · **Greg Parham: "Tenemos el talento y jugadores dispuestos a esforzarse"** — GranadaDigital
-- 2026-11-13 04:33 UTC · **El ICG Força Lleida de Ignacio Rosa remonta y amarra tercera plaza en la Liga LEB Oro** — 8Directo
 
 ## Periodistas preferentes (4)
 
@@ -120,15 +117,24 @@ Actualizado: 2026-11-15T23:54+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-13 10:25 UTC · **Sito Alonso exige máxima concentración en Miribilla: “No podemos frustrarnos pronto ni dejar que la atmósfera nos saque”** — MurciaEconomía.com
 - 2026-11-13 09:04 UTC · **Checa rebaja la euforia del derbi ante el Real Murcia Imperial: “No venimos a quitarle el sitio a nadie, venimos a competir con nuestras armas”** — murciaeconomia.com
 
-## Resto (últimas 12 h) (100)
+## Resto (últimas 12 h) (61)
 
+- 2026-11-16 06:00 UTC · **El seguro Gerard Martín: nunca se ha perdido un partido por lesión con el Barça** — Mundo Deportivo
+- 2026-11-16 05:44 UTC · **Clasificación ACB: El Unicaja vuelve a la zona noble** — Málaga Hoy
+- 2026-11-16 04:00 UTC · **Santi Martínez: «El Basket Xiria contó conmigo después de una grave lesión de rodilla»** — La Voz de Galicia
+- 2026-11-16 03:10 UTC · **Flamengo contra Nacional - Semifinales - Liga Sudamericana de Baloncesto FIBA 2026** — FIBA
+- 2026-11-16 02:31 UTC · **Bahcesehir Kol. vs Korfez Basket » Mejores Cuotas y Estadísticas** — Odds Scanner
+- 2026-11-16 01:19 UTC · **Lewis Elliot Hopkins Sims - Olympias Patras - Perfil del Jugador/de la Jugadora - EuroCup Challenge** — FIBA
+- 2026-11-16 01:10 UTC · **Christopher Razis - Keravnos - Perfil del Jugador/de la Jugadora - EuroChallenge** — FIBA
 - 2026-11-15 23:09 UTC · **J.8: El quinto periodo, al habla los entrenadores** — Federación Española de Baloncesto
 - 2026-11-15 22:46 UTC · **Rasir Bolton: el disciplinado hijo de un entrenador de instituto que hace números que el breoganismo no veía desde hace dos décadas** — La Voz de Galicia
 - 2026-11-15 22:44 UTC · **Precaución con Cubarsí, pendiente de pruebas** — Mundo Deportivo
 - 2026-11-15 22:38 UTC · **El Real Madrid visita el miércoles al Besiktas** — Real Madrid CF | Web Oficial
 - 2026-11-15 22:37 UTC · **Pedro Martínez se acuerda de su otro "gran equipo" tras igualar el récord de partidos ACB: "Esto es de mi familia"** — MARCA
+- 2026-11-15 22:07 UTC · **Real Madrid - Hapoel Tel Aviv** — Flashscore.es
 - 2026-11-15 21:51 UTC · **Fiestón del fichaje de Ferrero que determina el futuro de Jódar en las ATP Finals de Turín** — Mundo Deportivo
 - 2026-11-15 21:16 UTC · **Real Madrid y Barça imponen su ley** — Diario Palentino
+- 2026-11-15 20:57 UTC · **Pedro Martínez, más emotivo que nunca: "Me acuerdo de mi pareja, no puedo estar solo tanto tiempo en la élite. Sabe lo que hemos pasado"** — Mundo Deportivo
 - 2026-11-15 20:56 UTC · **Theo Maledon, exhibición en tiempo récord** — ACB
 - 2026-11-15 20:55 UTC · **El Real Madrid sigue sin perder en la Liga Endesa tras otro gran triunfo al Baskonia** — OkDiario
 - 2026-11-15 20:45 UTC · **Emmanuel Wembi ficha por Grupo Alega Cantabria por dos meses** — Ifomo Noticias 24h
@@ -137,6 +143,7 @@ Actualizado: 2026-11-15T23:54+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-15 20:28 UTC · **Rasir Bolton, MVP de la Jornada y ya entre los grandes del Breogán** — Diario de Santiago
 - 2026-11-15 20:27 UTC · **“Maledon nos dijo ayer que tenía confianza y ganas de jugar”** — Diario AS
 - 2026-11-15 20:22 UTC · **Emmanuel Wembi refuerza el juego interior de Grupo Alega Cantabria** — Federación Española de Baloncesto
+- 2026-11-15 20:22 UTC · **El Palmer toma impulso en Son Moix y supera al Albacete** — Ultima Hora
 - 2026-11-15 20:22 UTC · **El Palmer supera al Albacete** — Ultima Hora
 - 2026-11-15 20:16 UTC · **84-98: Maledon y Feliz desarman al Baskonia y disparan al Real Madrid** — Mundo Deportivo
 - 2026-11-15 20:15 UTC · **Kosner Baskonia vs Real Madrid Nov 15, 2026** — ACB
@@ -173,52 +180,3 @@ Actualizado: 2026-11-15T23:54+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-15 18:17 UTC · **El Barça rubrica su semana fantástica con un festival ante el Obradoiro: +25 puntos** — La Vanguardia
 - 2026-11-15 18:13 UTC · **El martillo pilón del Barça** — Diario AS
 - 2026-11-15 18:11 UTC · **El Barça alarga ante Obradoiro su momento más dulce** — SPORT
-- 2026-11-15 18:06 UTC · **El Barça se da un festín y ya van nueve victorias seguidas** — Eurohoops · https://www.eurohoops.net/es/acb-es/2035579/el-barca-se-da-un-festin-y-ya-van-nueve-victorias-seguidas/
-- 2026-11-15 18:04 UTC · **Triunfos con muchos puntos del Alicante, Estu, Granca y Alega Cantabria** — Encestando
-- 2026-11-15 18:00 UTC · **ASISA Joventut 99-94 Casademont Zaragoza: Laprovittola corta la racha de la Penya** — Solobasket · https://www.solobasket.com/liga-endesa/joventut-casademont-zaragoza-laprovittola-sulejmanovic-racha
-- 2026-11-15 17:11 UTC · **Unicaja 82 - FIATC Girona 70 Jornada 8 Liga Endesa 2026/27 - Crónica** — Unicaja Baloncesto
-- 2026-11-15 17:11 UTC · **Per Martin Ringström - PAOK BC MARFIN - Perfil del Jugador/de la Jugadora - EuroCup** — FIBA
-- 2026-11-15 16:54 UTC · **¡Abdu Kone debuta oficialmente con el Barça!** — SPORT
-- 2026-11-15 16:46 UTC · **El Barça hace debutar a Kone, uno de los proyectos de La Masia** — Mundo Deportivo
-- 2026-11-15 16:36 UTC · **Chus Bueno: "La Euroliga no necesita a la NBA para triunfar"** — Eurohoops · https://www.eurohoops.net/es/trademarks-es/2035607/chus-bueno-la-euroliga-no-necesita-a-la-nba-para-triunfar/
-- 2026-11-15 16:31 UTC · **Las palabras de Gerard Encuentra tras la derrota del iLERNA Lleida ante el Kids&Us Manresa** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/palabras-gerard-encuentra-derrota-ilerna-lleida-kidsus-manresa/
-- 2026-11-15 16:12 UTC · **Barça vs Monbus Obradoiro 15 nov 2026** — ACB
-- 2026-11-15 16:01 UTC · **Gonzalo Orozco bate el récord anotador de Guille del Pino en el Cajasol Coto Córdoba en su partido 100 como blanquiverde** — Diario Córdoba
-- 2026-11-15 15:55 UTC · **Umoja Gibson vuelve a caer lesionado** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2035571/umoja-gibson-vuelve-a-caer-lesionado/
-- 2026-11-15 15:52 UTC · **Pavel Milos - BK Prostejov - Perfil del Jugador/de la Jugadora - EuroCup Challenge** — FIBA
-- 2026-11-15 15:51 UTC · **Varapalo para el Barça en forma de lesión** — Mundo Deportivo
-- 2026-11-15 15:48 UTC · **De liderar el ascenso del curso pasado, a tirar del carro en ACB** — La Voz de Galicia
-- 2026-11-15 15:39 UTC · **Kosner Baskonia - Real Madrid en directo | Última hora de Liga Endesa en vivo hoy** — MARCA
-- 2026-11-15 15:35 UTC · **Barcelona - Monbus Obradoiro en directo | Última hora de Liga Endesa en vivo hoy** — MARCA
-- 2026-11-15 15:30 UTC · **Los Nets de Jordi Fernández caen en Memphis (129-110) sin Michael Porter Jr.** — Solobasket · https://www.solobasket.com/nba/nets-jordi-fernandez-caen-grizzlies-memphis
-- 2026-11-15 15:26 UTC · **Gran partido ofensivo del Valencia Basket para sumar la quinta seguida en Liga Endesa (111-97)** — El Desmarque
-- 2026-11-15 14:18 UTC · **Gerard Encuentra: "Tenemos que hacer algo, porque esto no está funcionando"** — Mundo Deportivo
-- 2026-11-15 14:04 UTC · **Gran partido ofensivo para sumar la quinta seguida en Liga Endesa (111-97)** — Valencia Basket Club
-- 2026-11-15 14:01 UTC · **El Unicaja suda para doblegar al Bàsquet Girona** — MARCA
-- 2026-11-15 13:54 UTC · **El Unicaja coge aire a ráfagas** — Diario AS
-- 2026-11-15 13:54 UTC · **Allen desarma al Lleida** — Diario AS
-- 2026-11-15 13:52 UTC · **Brooks lidera otro recital ofensivo del Valencia Basket** — MARCA
-- 2026-11-15 13:50 UTC · **Unicaja despega tras el descanso y gana a FIATC Girona (82-70)** — ACB
-- 2026-11-15 13:49 UTC · **El Kids&Us Manresa sale de la zona de descenso a costa del iLERNA Lleida** — SPORT
-- 2026-11-15 13:49 UTC · **82-70 | El Unicaja se lleva un triunfo necesario contra Girona** — El Español
-- 2026-11-15 13:48 UTC · **El Leyma Coruña da la cara pero cae ante el todopoderoso Valencia Basket** — Basquet Coruña
-- 2026-11-15 13:47 UTC · **El Valencia Basket alarga su buena racha ante el Leyma Coruña** — Las Provincias
-- 2026-11-15 13:46 UTC · **Este es el resumen del Unicaja 82-70 Bàsquet Girona de la jornada 8** — Radio Marca Málaga
-- 2026-11-15 13:45 UTC · **Willy Hernangómez y Berni Rodríguez. Volver a disfrutar** — Unicaja Baloncesto
-- 2026-11-15 13:42 UTC · **El Kids&Us Manresa vuelve de Lleida con victoria** — Bàsquet Manresa
-- 2026-11-15 13:39 UTC · **Las notas y el 1×1 del Unicaja en su duelo ante el FIATC Girona** — Radio Marca Málaga
-- 2026-11-15 13:38 UTC · **111-97. Valencia Basket no da opción al Leyma Coruña** — Mundo Deportivo
-- 2026-11-15 13:35 UTC · **Qué ha pasado en la Liga Endesa: Kids&US Manresa asalta el Barris Nord mientras Valencia Basket y Unicaja Málaga no fallan en casa** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/que-ha-pasado-hoy-liga-endesa-jornada8/
-- 2026-11-15 13:32 UTC · **El Kids&Us Manresa gana y sale de la zona de descenso a costa del iLerna Lleida (92-98)** — ACB
-- 2026-11-15 13:30 UTC · **Unicaja 82 - FIATC Girona 70 Jornada 8 Liga Endesa 2026/27** — Unicaja Baloncesto
-- 2026-11-15 13:29 UTC · **92-98: Un Kids&Us Manresa más coral suma la segunda victoria en Lleida y sale del descenso** — Mundo Deportivo
-- 2026-11-15 13:18 UTC · **Valencia Basket gana a Leyma Coruña en un nuevo recital ofensivo (111-97)** — ACB
-- 2026-11-15 13:18 UTC · **El Valencia impone su ritmo ante el Leyma Coruña (111-97)** — Diario de Santiago
-- 2026-11-15 13:17 UTC · **Armoni Brooks lidera el triunfo ante Leyma Coruña** — Diario AS
-- 2026-11-15 13:03 UTC · **Unicaja vs FIATC Girona 15 nov 2026** — ACB
-- 2026-11-15 13:01 UTC · **El Partizán de Fuenlabrada vence al Cajasol Coto Córdoba y logra su segundo triunfo en Primera FEB** — El Diario de Madrid
-- 2026-11-15 13:00 UTC · **Valencia Basket prolonga su gran momento ante Leyma Coruña** — Plaza Deportiva
-- 2026-11-15 12:33 UTC · **Ndiaye vuelve a la disciplina del Real Madrid tras jugar su último partido con el Joventut** — Mundo Deportivo
-- 2026-11-15 12:30 UTC · **Titans Adareva y Pando Mataró estrenan el palmarés de la segunda temporada** — Federación Española de Baloncesto
-- 2026-11-15 12:15 UTC · **Eli Ndiaye vuelve al Real Madrid** — Eurohoops · https://www.eurohoops.net/es/acb-es/2035462/eli-ndiaye-vuelve-al-real-madrid/
-- 2026-11-15 12:00 UTC · **Clasificación de la Euroliga tras la jornada 11: Valencia, líder; Barça, cuarto; Real Madrid, quinto; Baskonia, colista** — Solobasket · https://www.solobasket.com/euroliga/clasificacion-euroliga-jornada-11-valencia-lider-baskonia

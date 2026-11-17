@@ -1,29 +1,27 @@
 {
- "actualizado": "2026-11-16T16:07+00:00",
+ "actualizado": "2026-11-17T00:19+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
-   "ok": true,
-   "leidas": 38,
-   "guardadas": 38
+   "ok": false,
+   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22UCAM+Murcia%22+baloncesto+when%3A3d&hl=es&gl=ES&ceid=ES:es"
   },
   {
    "fuente": "Google Noticias · UCAM CB",
    "ok": true,
-   "leidas": 23,
-   "guardadas": 23
+   "leidas": 18,
+   "guardadas": 18
   },
   {
    "fuente": "Fundación CB Granada (web oficial)",
-   "ok": true,
-   "leidas": 10,
-   "guardadas": 1
+   "ok": false,
+   "error": "no es un RSS válido (<unknown>:94:2: mismatched tag)"
   },
   {
    "fuente": "Google Noticias · Covirán Granada",
    "ok": true,
-   "leidas": 24,
-   "guardadas": 24
+   "leidas": 22,
+   "guardadas": 22
   },
   {
    "fuente": "Google Noticias · Olga Lorente",
@@ -52,8 +50,8 @@
   {
    "fuente": "Google Noticias · Liga Endesa mercado",
    "ok": true,
-   "leidas": 24,
-   "guardadas": 24
+   "leidas": 23,
+   "guardadas": 23
   },
   {
    "fuente": "Google Noticias · Euroliga",
@@ -64,20 +62,19 @@
   {
    "fuente": "Google Noticias · EuroCup",
    "ok": true,
-   "leidas": 21,
-   "guardadas": 21
+   "leidas": 25,
+   "guardadas": 25
   },
   {
    "fuente": "Google Noticias · BCL",
-   "ok": true,
-   "leidas": 8,
-   "guardadas": 8
+   "ok": false,
+   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Basketball+Champions+League%22+OR+%22BCL%22+baloncesto+when%3A3d&hl=es&gl=ES&ceid=ES:es"
   },
   {
    "fuente": "Google Noticias · Primera FEB",
    "ok": true,
-   "leidas": 35,
-   "guardadas": 35
+   "leidas": 37,
+   "guardadas": 37
   },
   {
    "fuente": "Gigantes del Basket",

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T08:10+00:00",
+ "actualizado": "2026-11-17T17:41+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
@@ -9,19 +9,20 @@
   },
   {
    "fuente": "Google Noticias · UCAM CB",
-   "ok": false,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22UCAM+Murcia+CB%22+OR+%22UCAM+CB%22+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 21,
+   "guardadas": 21
   },
   {
    "fuente": "Fundación CB Granada (web oficial)",
    "ok": false,
-   "error": "no es un RSS válido (<unknown>:94:2: mismatched tag)"
+   "error": "HTTPSConnectionPool(host='fundacioncbgranada.es', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='fundacioncbgranada.es', port=443) at 0x76e681f5"
   },
   {
    "fuente": "Google Noticias · Covirán Granada",
    "ok": true,
-   "leidas": 20,
-   "guardadas": 20
+   "leidas": 22,
+   "guardadas": 22
   },
   {
    "fuente": "Google Noticias · Olga Lorente",
@@ -37,30 +38,33 @@
   },
   {
    "fuente": "Google Noticias · Noelia Gómez Mira",
-   "ok": false,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Noelia+G%C3%B3mez+Mira%22+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 0,
+   "guardadas": 0
   },
   {
    "fuente": "Google Noticias · Liga Endesa",
-   "ok": false,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Liga+Endesa%22+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 100,
+   "guardadas": 100
   },
   {
    "fuente": "Google Noticias · Liga Endesa mercado",
    "ok": true,
-   "leidas": 23,
-   "guardadas": 23
+   "leidas": 25,
+   "guardadas": 25
   },
   {
    "fuente": "Google Noticias · Euroliga",
-   "ok": false,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Euroliga+baloncesto+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 100,
+   "guardadas": 100
   },
   {
    "fuente": "Google Noticias · EuroCup",
    "ok": true,
-   "leidas": 30,
-   "guardadas": 30
+   "leidas": 28,
+   "guardadas": 28
   },
   {
    "fuente": "Google Noticias · BCL",
@@ -71,8 +75,8 @@
   {
    "fuente": "Google Noticias · Primera FEB",
    "ok": true,
-   "leidas": 38,
-   "guardadas": 38
+   "leidas": 41,
+   "guardadas": 41
   },
   {
    "fuente": "Gigantes del Basket",

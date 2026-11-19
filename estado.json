@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T23:08+00:00",
+ "actualizado": "2026-11-19T04:16+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
@@ -45,14 +45,13 @@
   {
    "fuente": "Google Noticias · Liga Endesa",
    "ok": true,
-   "leidas": 93,
-   "guardadas": 93
+   "leidas": 96,
+   "guardadas": 96
   },
   {
    "fuente": "Google Noticias · Liga Endesa mercado",
-   "ok": true,
-   "leidas": 26,
-   "guardadas": 26
+   "ok": false,
+   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Liga+Endesa%22+fichaje+OR+renovaci%C3%B3n+OR+lesi%C3%B3n+when%3A3d&hl=es&gl=ES&ceid=ES:es"
   },
   {
    "fuente": "Google Noticias · Euroliga",
@@ -63,20 +62,20 @@
   {
    "fuente": "Google Noticias · EuroCup",
    "ok": true,
-   "leidas": 38,
-   "guardadas": 38
+   "leidas": 39,
+   "guardadas": 39
   },
   {
    "fuente": "Google Noticias · BCL",
    "ok": true,
-   "leidas": 19,
-   "guardadas": 19
+   "leidas": 17,
+   "guardadas": 17
   },
   {
    "fuente": "Google Noticias · Primera FEB",
    "ok": true,
-   "leidas": 50,
-   "guardadas": 50
+   "leidas": 52,
+   "guardadas": 52
   },
   {
    "fuente": "Gigantes del Basket",

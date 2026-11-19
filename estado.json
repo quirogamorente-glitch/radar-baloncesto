@@ -1,28 +1,29 @@
 {
- "actualizado": "2026-11-19T04:16+00:00",
+ "actualizado": "2026-11-19T13:33+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
    "ok": true,
-   "leidas": 22,
-   "guardadas": 22
+   "leidas": 23,
+   "guardadas": 23
   },
   {
    "fuente": "Google Noticias · UCAM CB",
    "ok": true,
-   "leidas": 24,
-   "guardadas": 24
+   "leidas": 23,
+   "guardadas": 23
   },
   {
    "fuente": "Fundación CB Granada (web oficial)",
-   "ok": false,
-   "error": "no es un RSS válido (<unknown>:94:2: mismatched tag)"
+   "ok": true,
+   "leidas": 10,
+   "guardadas": 2
   },
   {
    "fuente": "Google Noticias · Covirán Granada",
    "ok": true,
-   "leidas": 18,
-   "guardadas": 18
+   "leidas": 17,
+   "guardadas": 17
   },
   {
    "fuente": "Google Noticias · Olga Lorente",
@@ -33,8 +34,8 @@
   {
    "fuente": "Google Noticias · Jaime Nadal",
    "ok": true,
-   "leidas": 4,
-   "guardadas": 4
+   "leidas": 5,
+   "guardadas": 5
   },
   {
    "fuente": "Google Noticias · Noelia Gómez Mira",
@@ -45,13 +46,14 @@
   {
    "fuente": "Google Noticias · Liga Endesa",
    "ok": true,
-   "leidas": 96,
-   "guardadas": 96
+   "leidas": 78,
+   "guardadas": 78
   },
   {
    "fuente": "Google Noticias · Liga Endesa mercado",
-   "ok": false,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Liga+Endesa%22+fichaje+OR+renovaci%C3%B3n+OR+lesi%C3%B3n+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 27,
+   "guardadas": 27
   },
   {
    "fuente": "Google Noticias · Euroliga",
@@ -62,8 +64,8 @@
   {
    "fuente": "Google Noticias · EuroCup",
    "ok": true,
-   "leidas": 39,
-   "guardadas": 39
+   "leidas": 40,
+   "guardadas": 40
   },
   {
    "fuente": "Google Noticias · BCL",
@@ -74,8 +76,8 @@
   {
    "fuente": "Google Noticias · Primera FEB",
    "ok": true,
-   "leidas": 52,
-   "guardadas": 52
+   "leidas": 37,
+   "guardadas": 37
   },
   {
    "fuente": "Gigantes del Basket",

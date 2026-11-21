@@ -1,10 +1,11 @@
 # Radar de baloncesto
 
-Actualizado: 2026-11-20T19:09+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-11-21T00:52+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (67)
+## UCAM Murcia CB (68)
 
+- 2026-11-20 22:25 UTC · **Horario, canal y dónde ver por TV la jornada 8 de Liga Endesa de baloncesto** — Mundo Deportivo
 - 2026-11-20 15:54 UTC · **El UCAM Murcia CB recibe al Casademont Zaragoza, "rival capacitado para luchar por todo"** — Murcia Plaza
 - 2026-11-20 13:06 UTC · **Sito Alonso apela a la identidad del UCAM Murcia CB para competir contra el talento de Zaragoza** — COPE
 - 2026-11-20 12:39 UTC · **Sito reivindica a Forrest: «Es el mejor jugador que tenemos ahora mismo, con una diferencia abismal»** — La Opinión de Murcia
@@ -12,6 +13,7 @@ Actualizado: 2026-11-20T19:09+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-20 12:26 UTC · **El UCAM Murcia y JUVER renuevan una alianza con historia** — UCAM Deportes
 - 2026-11-20 12:26 UTC · **“Intentamos ser UCAM Murcia en todas las facetas del juego”** — UCAM Deportes
 - 2026-11-20 12:25 UTC · **García de Vitoria, entrenador del Casademont: "El UCAM Murcia son ninjas en defensa"** — Heraldo de Aragón
+- 2026-11-20 12:09 UTC · **Partidos Alec Brown** — ACB
 - 2026-11-20 12:06 UTC · **La Previa del UCAM Murcia CF - Yeclano Deportivo** — UCAM Deportes
 - 2026-11-20 12:00 UTC · **Sito Alonso: "Es un partido de máxima dificultad porque Zaragoza pelea por todo"** — Onda Regional de Murcia | ORM
 - 2026-11-20 11:50 UTC · **Pronóstico UCAM Murcia - Casademont Zaragoza - Liga ACB** — SportyTrader
@@ -71,10 +73,10 @@ Actualizado: 2026-11-20T19:09+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-18 03:09 UTC · **Estad. Avanzada Miguel Asensio** — ACB
 - 2026-11-18 01:47 UTC · **Trayectoria Askia Booker | Jugador acb | acb.com** — ACB
 - 2026-11-18 01:16 UTC · **Estad. Avanzada José Ángel Antelo** — ACB
-- 2026-11-17 22:44 UTC · **Liga Endesa | acb.com** — ACB
 
-## Covirán Granada (28)
+## Covirán Granada (27)
 
+- 2026-11-20 23:06 UTC · **Dejan Kravic se hace con hueco en la pintura** — Ideal
 - 2026-11-20 17:13 UTC · **Alex Murphy, la experiencia de 'Robocop' frente al Covirán** — Ideal
 - 2026-11-20 16:43 UTC · **Grupo Alega–Covirán Granada: horario del partido en el Trueba** — Ifomo Noticias 24h
 - 2026-11-20 15:57 UTC · **Onda Deportiva Granada, viernes 20/11/2026** — Onda Cero
@@ -101,8 +103,6 @@ Actualizado: 2026-11-20T19:09+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-18 10:47 UTC · **Huétor Tájar reúne a 40 ajedrecistas en la quinta edición del Torneo Torre Alquería** — Ideal
 - 2026-11-18 10:11 UTC · **El Coviran Granada y Fundación La Caixa renuevan su acuerdo de colaboración** — Fundación CB Granada (web oficial) · https://fundacioncbgranada.es/el-coviran-granada-y-fundacion-la-caixa-renuevan-su-acuerdo-de-colaboracion/
 - 2026-11-18 09:27 UTC · **Xabi Oroz y Silverio, entre los mejores de la octava jornada** — Ideal
-- 2026-11-17 23:05 UTC · **El Covirán, a ritmo de aspirante de 'playoff'** — Ideal
-- 2026-11-17 19:49 UTC · **El granadino Germán Martínez volverá a enfrentarse a su exequipo** — Granada Hoy
 
 ## Periodistas preferentes (7)
 
@@ -114,10 +114,64 @@ Actualizado: 2026-11-20T19:09+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-18 11:38 UTC · **Josema Gómez: "El equipo va con una ilusión tremenda a hacer un gran partido en La Condomina"** — murciaeconomia.com
 - 2026-11-18 10:53 UTC · **"Tenemos que defender nuestra identidad": el mensaje de Jean-Marc Pansa antes de recibir al Zaragoza** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (119)
+## Resto (últimas 12 h) (113)
 
+- 2026-11-21 00:12 UTC · **Ver Euskaltax Bilbao Basket - Unicaja Alhaurín de la Torre Online en Directo | DAZN ES** — DAZN
+- 2026-11-20 23:45 UTC · **Qué ha pasado hoy en la Euroliga: Olympiacos arrolla al Real Madrid y el Barça cae en la prórroga ante Estrella Roja** — Gigantes del Basket · https://www.gigantes.com/euroliga/que-ha-pasado-hoy-euroliga-jornada13-2026/
+- 2026-11-20 23:10 UTC · **La sangría defensiva y los problemas en ataque condenan al Baskonia de Perasovic** — El Correo
+- 2026-11-20 23:03 UTC · **El Real Madrid recibe mañana al Joventut en Liga** — Real Madrid CF | Web Oficial
+- 2026-11-20 22:55 UTC · **Las palabras de Aleksander Sekulic después de la derrota del Barça en la prórroga frente a Estrella Roja** — Gigantes del Basket · https://www.gigantes.com/euroliga/palabras-sekulic-derrota-prorroga-estrella-roja/
+- 2026-11-20 22:51 UTC · **Así está la clasificación de la Euroliga tras las derrotas de Madrid y Barça** — MARCA
+- 2026-11-20 22:51 UTC · **El Barça raja contra el arbitraje: “Hay cosas que no puedo entender”** — Diario AS
+- 2026-11-20 22:40 UTC · **Resumen del Barcelona vs. Estrella Roja de Euroliga** — Diario AS
+- 2026-11-20 22:33 UTC · **Sekulic: "Hay cosas que no se entienden"** — Mundo Deportivo
+- 2026-11-20 22:29 UTC · **Así fue la polémica falta de Nebo que terminó con Joel Parra expulsado y señalándose el escudo** — Mundo Deportivo
+- 2026-11-20 22:28 UTC · **Resumen del Olympiacos vs. Real Madrid de Euroliga** — Diario AS
+- 2026-11-20 22:26 UTC · **Sekulic, tras perder ante Estrella Roja: “Peleamos duro, pero hay cosas arbitrales que no entiendo”** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2038496/sekulic-tras-perder-ante-estrella-roja-peleamos-duro-pero-hay-cosas-arbitrales-que-no-entiendo/
+- 2026-11-20 22:25 UTC · **Horario, canal y dónde ver por TV la jornada 9 de Liga Endesa de baloncesto** — Mundo Deportivo
+- 2026-11-20 22:21 UTC · **El 1x1 del Barça ante el Estrella Roja** — Mundo Deportivo
+- 2026-11-20 22:20 UTC · **Así queda la clasificación de la Euroliga tras la polémica derrota del Barça y el descalabro del Real Madrid ante el Olympiacos** — Mundo Deportivo
+- 2026-11-20 22:15 UTC · **El Barça cede en el Palau con polémica al final de la prórroga** — MARCA
+- 2026-11-20 22:10 UTC · **Barça vs Estrella Roja: estadísticas y datos en directo | Euroliga 2026/2027** — Diario AS
+- 2026-11-20 22:08 UTC · **Pedro Martínez: "No estamos encontrando el buen baloncesto de otros momentos"** — SPORT
+- 2026-11-20 22:07 UTC · **Pedro Llompart, cuando las terceras partes también pueden ser buenas** — La Verdad
+- 2026-11-20 22:03 UTC · **Huracán Carter derriba a un Barça que acaba tan exhausto como desquiciado** — Diario AS
+- 2026-11-20 21:58 UTC · **Euroliga: Resultados en vivo, partidos y tablas** — 365Scores
+- 2026-11-20 21:57 UTC · **100-103: El Barça se estrella en otro final de infarto** — Mundo Deportivo
+- 2026-11-20 21:57 UTC · **Máxima indignación en el Palacio** — Diari ARA
+- 2026-11-20 21:55 UTC · **El Barça cede ante el Estrella Roja con polémica arbitral** — SPORT
+- 2026-11-20 21:54 UTC · **Resultados Euroliga, jornada 13: horarios, TV, partidos y clasificación** — Diario AS
+- 2026-11-20 21:50 UTC · **El Barça vuelve a desaprovechar una gran oportunidad de sumar** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2038414/el-barca-vuelve-a-desaprovechar-una-gran-oportunidad-de-sumar/
+- 2026-11-20 21:47 UTC · **Las palabras de Pedro Martínez tras la derrota del Real Madrid ante Olympiacos** — Gigantes del Basket · https://www.gigantes.com/euroliga/palabras-pedro-martinez-olympiacos-derrota/
+- 2026-11-20 21:44 UTC · **Morata, lesión en su ‘prime’** — Diario AS
+- 2026-11-20 21:35 UTC · **Resumen de la Euroliga: Efes gana a ASVEL, Jones destroza al Madrid, Estrella Roja gana en el Palau** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2038442/resumen-de-la-euroliga-efes-gana-a-asvel-jones-destroza-al-madrid/
+- 2026-11-20 21:31 UTC · **Pedro Martínez, tras caer ante Olympiacos: “Quizá no estemos pasando por un buen momento”** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2038435/pedro-martinez-tras-caer-ante-olympiacos-quiza-no-estemos-pasando-por-un-buen-momento/
+- 2026-11-20 21:28 UTC · **La carrera del Unicaja por la Copa encara una prueba difícil en Burgos** — Diario Sur
+- 2026-11-20 21:26 UTC · **El campeón le mete una paliza al Real Madrid** — MARCA
+- 2026-11-20 21:26 UTC · **El Olympiacos destroza a un Real Madrid irreconocible** — OkDiario
+- 2026-11-20 21:24 UTC · **El Olympiacos pasa por encima del Real Madrid (92-76)** — EL PAÍS
+- 2026-11-20 21:23 UTC · **Desastre total del Madrid** — Diario AS
+- 2026-11-20 21:17 UTC · **Olympiacos saca los colores al Real Madrid en una semana para olvidar** — El Mundo
+- 2026-11-20 21:17 UTC · **92-76: El campeón de Europa retrata al Real Madrid** — Mundo Deportivo
+- 2026-11-20 21:17 UTC · **Euroliga | Olympiacos 92 - 76 Real Madrid: un Madrid irreconocible firma otra noche para olvidar** — 24segundosenblanco
+- 2026-11-20 21:14 UTC · **Olympiacos juega como quiere con un Madrid roto** — SPORT
+- 2026-11-20 21:10 UTC · **El campeón hunde más a un Madrid sin identidad** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2038329/el-campeon-hunde-mas-a-un-madrid-sin-identidad/
+- 2026-11-20 21:09 UTC · **Olympiacos - Real Madrid, Euroliga: marcador, valoraciones y estadísticas con la derrota del conjunto blanco** — El Español
+- 2026-11-20 21:08 UTC · **El Olympiacos despedaza al Real Madrid** — ABC
+- 2026-11-20 21:07 UTC · **El Real Madrid no reacciona en la Euroliga y naufraga frente a Olympiacos en la derrota más abultada de la temporada** — El Español
+- 2026-11-20 20:48 UTC · **El San Pablo Burgos busca ante el Unicaja su primera victoria en el Coliseum** — Revista Forofos
+- 2026-11-20 20:44 UTC · **El Galatasaray confirma uno de los fichajes del año en Europa: ¡Olivia Miles jugará en Turquía!** — Gigantes del Basket · https://www.gigantes.com/euroleague-women/galatasaray-confirma-fichaje-olivia-miles/
+- 2026-11-20 19:54 UTC · **La Liga Endesa rompe récords: nueve jornadas de goleadas** — Blog de Basket
+- 2026-11-20 19:54 UTC · **Evans llega al San Pablo Burgos con experiencia europea** — Blog de Basket
+- 2026-11-20 19:54 UTC · **Pantzar fuera seis semanas: Unicaja en crisis de cupos** — Blog de Basket
+- 2026-11-20 19:30 UTC · **Jaka Lakovic y Aleksander Sekulic, casi hermanos desde la infancia, pero enemigos el domingo durante un par de horas** — Eldía
+- 2026-11-20 19:20 UTC · **La Laguna Tenerife se enfrenta al FC Barcelona en un duelo clave de la Liga Endesa** — www.elcomentariodigital.com
+- 2026-11-20 19:10 UTC · **Nueve partidos de récord: Pedro Martínez y Moncho regresan** — Blog de Basket
+- 2026-11-20 19:10 UTC · **Abass cierra su etapa en Dubái y vuelve a Bolonia** — Blog de Basket
 - 2026-11-20 19:05 UTC · **Olympiacos - Real Madrid, baloncesto hoy en directo: resultado, valoraciones y estadísticas en vivo del partido de la Euroliga** — El Español
+- 2026-11-20 19:00 UTC · **"Debemos entender cuanto antes cuáles son nuestras fortalezas"** — Diario de Burgos
 - 2026-11-20 19:00 UTC · **El Iberolea Palencia recibe al Palmer Mallorca en la jornada 9 de Primera FEB** — Tribuna de Palencia.
+- 2026-11-20 18:58 UTC · **Sigue la 13ª jornada de la Euroliga 26/27 en directo** — Flashscore.es
 - 2026-11-20 18:58 UTC · **Estadísticas del Olympiacos - Real Madrid de la jornada 13 de la Euroliga** — ABC
 - 2026-11-20 18:53 UTC · **El debut de Killian Hayes con la camiseta del Barça tendrá que esperar** — Mundo Deportivo
 - 2026-11-20 18:46 UTC · **Walker Kessler defiende a Doncic: “Es mejor de lo que mucha gente piensa”** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2038327/walker-kessler-defiende-a-doncic-es-mejor-de-lo-que-mucha-gente-piensa/
@@ -127,14 +181,17 @@ Actualizado: 2026-11-20T19:09+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-20 18:34 UTC · **Olympiacos - Real Madrid en directo | Última hora de Euroliga en vivo hoy** — MARCA
 - 2026-11-20 18:25 UTC · **El Unicaja busca romper el maleficio de Burgos** — Radio Marca Málaga
 - 2026-11-20 18:24 UTC · **Pedro Rivero: "Hay que hacer un último esfuerzo antes de las ventanas de las selecciones"** — Información
+- 2026-11-20 18:10 UTC · **A qué hora es el Barcelona - Estrella Roja: horario y dónde ver hoy en TV el partido de Euroliga** — MARCA
 - 2026-11-20 18:06 UTC · **El Palmer Basket vuelve a activar el modo Primera FEB** — Ultima Hora
-- 2026-11-20 18:00 UTC · **Ver Día 3 - Sesión 1 | Las Vegas Online en Directo | DAZN ES** — DAZN
 - 2026-11-20 18:00 UTC · **Barcelona - Estrella Roja en directo | Última hora de Euroliga en vivo hoy** — MARCA
+- 2026-11-20 18:00 UTC · **Ver Día 3 - Sesión 1 | Las Vegas Online en Directo | DAZN ES** — DAZN
+- 2026-11-20 17:52 UTC · **Jornada 9 de la Liga Endesa: récord de Pedro Martínez y regreso de Moncho al Sar** — piratasdelbasket
 - 2026-11-20 17:39 UTC · **Carles Marco, entrenador del Leyma Coruña: 'Esperamos contar al cien por cien con Dimsa y Uleckas'** — La Opinión A Coruña
 - 2026-11-20 17:20 UTC · **La NBA señala el gran problema de la Euroliga: "Prácticamente ninguno de sus equipos es capaz de sostenerse"** — SPORT
 - 2026-11-20 17:13 UTC · **La decisión de Stojakovic: las dos selecciones que compiten para que juegue con sus países** — Gigantes del Basket · https://www.gigantes.com/selecciones/andrej-stojakovic-decision-seleccion-serbia-grecia/
 - 2026-11-20 17:05 UTC · **Sigue el Fundación CB Canarias - Barça Atlètic, en streaming** — Mundo Deportivo
 - 2026-11-20 17:03 UTC · **Awudu Abass regresa a la Virtus** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2038291/awudu-abass-regresa-a-la-virtus/
+- 2026-11-20 17:00 UTC · **La vida de Chase Audige tras salir del Unicaja: pieza clave en un San Pablo Burgos que marca la salvación** — Radio Marca Málaga
 - 2026-11-20 17:00 UTC · **La vida de Chase Audige tras salir del Unicaja: pieza clave en un San Pablo Burgos en crisis** — Radio Marca Málaga
 - 2026-11-20 16:48 UTC · **Crisis en el baloncesto griego: “Vivimos el periodo más oscuro”** — Diario AS
 - 2026-11-20 16:46 UTC · **Valladolid - Ponferrada: 'A por otro de esos retos llamados 'imposibles'** — La Nueva Crónica
@@ -152,8 +209,9 @@ Actualizado: 2026-11-20T19:09+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-20 15:43 UTC · **El ASISA Joventut busca asaltar el Movistar Arena** — Penya
 - 2026-11-20 15:40 UTC · **Partizán Fuenlabrada-Tizona Burgos: Iñaki Martín pide el apoyo del Fernando Martín** — El Diario de Madrid
 - 2026-11-20 15:37 UTC · **El récord de partidos que batirá Pedro Martínez este domingo, en datos** — ACB
-- 2026-11-20 15:30 UTC · **Pedro Martínez 'olvida' de mencionar Valencia Basket en el repaso de su carrera y las redes estallan** — Superdeporte
+- 2026-11-20 15:30 UTC · **Pedro Martínez 'olvida' mencionar a Valencia Basket en el repaso de su carrera y las redes estallan** — Superdeporte
 - 2026-11-20 15:30 UTC · **Guerra en Europa entre el campeón y el Partizan por su estrella: "No está en venta"** — Mundo Deportivo
+- 2026-11-20 15:30 UTC · **Pedro Martínez 'olvida' de mencionar Valencia Basket en el repaso de su carrera y las redes estallan** — Superdeporte
 - 2026-11-20 15:23 UTC · **En directo, Olympiacos - Real Madrid** — El Mundo
 - 2026-11-20 14:54 UTC · **Última cita de Liga Endesa antes del parón de noviembre** — San Pablo Burgos
 - 2026-11-20 14:47 UTC · **El Real Madrid es la llave maestra** — Diario AS
@@ -161,77 +219,13 @@ Actualizado: 2026-11-20T19:09+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-20 14:35 UTC · **Vidorreta avisa: «El Burgos viene de anotar 110 puntos en Lugo»** — Diario Sur
 - 2026-11-20 14:31 UTC · **Valencia Basket-Innova-TSN Leganés: horario y dónde ver por TV y online el partido de Liga Femenina Endesa** — Superdeporte
 - 2026-11-20 14:26 UTC · **El PAOK, cerca de fichar a Justin Anderson** — piratasdelbasket
+- 2026-11-20 14:11 UTC · **Carmen Lence, Moncho Fernández y Kasibabu, invitados de O Noso Basket** — piratasdelbasket
+- 2026-11-20 14:09 UTC · **Bayern vence a Baskonia y deja a los vitorianos en crisis** — Blog de Basket
 - 2026-11-20 13:44 UTC · **El UEMC Valladolid busca cerrar la semana con otro triunfo ante el Ponferrada** — Tribuna de Valladolid.
 - 2026-11-20 13:42 UTC · **Matteo Spagnolo: “Soy positivo y quiero ser positivo”** — kirolakeitb.eus
 - 2026-11-20 13:22 UTC · **Vídeo: Rueda de prensa de Jaume Ponsarnau previa al derbi Surne Bilbao-Kosner Baskonia** — kirolakeitb.eus
 - 2026-11-20 13:14 UTC · **El baloncesto, presente en el debate electoral** — Gigantes del Basket · https://www.gigantes.com/mas-basket/baloncesto-debate-electoral-sanchez-feijoo/
+- 2026-11-20 13:09 UTC · **Tenerife vs Barcelona: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
 - 2026-11-20 13:07 UTC · **Valencia Basket actualiza su récord histórico de rebotes en la Euroliga** — Plaza Deportiva
 - 2026-11-20 13:05 UTC · **Watch UAE President Cup Live Stream Online | DAZN ES** — DAZN
 - 2026-11-20 12:56 UTC · **La revelación visita a una certeza** — Diario Palentino
-- 2026-11-20 12:38 UTC · **El Grupo Ureta Tizona busca dar continuidad al triunfo copero en el Fernando Martín** — CB Tizona
-- 2026-11-20 12:30 UTC · **El Valencia Basket devora Europa desde el rebote y firma un 10-3 de récord** — Las Provincias
-- 2026-11-20 12:27 UTC · **El Estrella Roja confirma una importante baja antes de jugar contra el Barça** — Mundo Deportivo
-- 2026-11-20 12:14 UTC · **de la Fuente** — ACB
-- 2026-11-20 12:12 UTC · **Ponsarnau y sus referentes en ACB** — Diario AS
-- 2026-11-20 12:00 UTC · **La Laguna Tenerife homenajeará a Rizo ante el Barça: “Cometí una locura al coger aquel equipo”** — Solobasket · https://www.solobasket.com/liga-endesa/la-laguna-tenerife-homenaje-jose-carlos-hernandez-rizo
-- 2026-11-20 11:54 UTC · **Fischer: «Hemos cometido errores pero esta liga es larga y vamos a más»** — Canarias7
-- 2026-11-20 11:53 UTC · **PREVIA J.7 | Lideratos en juego en choques intensos** — Federación Española de Baloncesto
-- 2026-11-20 11:52 UTC · **Luke Fischer avisa que deberán imponer su ritmo de juego para tumbar a Hestia Menorca** — Cadena SER
-- 2026-11-20 11:50 UTC · **Kobe Newton, duda para el regreso del Cáceres a la liga** — El Periódico Extremadura
-- 2026-11-20 11:39 UTC · **El Valencia Basket sigue rompiendo registros en EuroLeague en una remontada épica (92-87)** — Valencia Capital Radio
-- 2026-11-20 11:35 UTC · **Agenda del Baloncesto Andaluz | Fin de Semana 20-22 Noviembre** — Federación Andaluza De Baloncesto
-- 2026-11-20 11:33 UTC · **La frustración de Mohamed Dabone al que solo frena la burocracia** — SPORT
-- 2026-11-20 11:29 UTC · **Deporte hoy en TV: LaLiga EA Sports, Euroliga, MotoGP, Fórmula 1 y todo lo que no te puedes perder este fin de semana** — Mundo Deportivo
-- 2026-11-20 11:27 UTC · **FC Barcelona hoy: LaLiga EA Sports, Euroliga, Liga F, Liga Endesa, Liga Asobal y Segunda RFEF** — Mundo Deportivo
-- 2026-11-20 11:26 UTC · **Los Consejos de Luisheel para la Jornada 9** — ACB
-- 2026-11-20 11:25 UTC · **Resultados de Unicaja vs Valencia Basket, historial de enfrentamientos (H2H) | Baloncesto** — Flashscore.es
-- 2026-11-20 11:15 UTC · **David Varela pone en perspectiva las tres derrotas del Albacete Basket: «Estamos en crisis por nuestro propio nivel de exigencia** — El Digital de Albacete
-- 2026-11-20 11:00 UTC · **Olympiacos-Real Madrid: previa, contexto y apuestas del duelo de Euroliga** — Relevo Deportes
-- 2026-11-20 11:00 UTC · **Jornada 9 de Primera FEB: horarios de los partidos del fin de semana, con el líder Alicante en Oviedo** — Solobasket · https://www.solobasket.com/primera-feb/jornada-9-primera-feb-horarios-partidos
-- 2026-11-20 10:58 UTC · **Spagnolo y Ansorregi: "No te pierdas el derbi vasco"** — kirolakeitb.eus
-- 2026-11-20 10:57 UTC · **Wemby describe su viral canasta, un tiro lanzando directamente hacia abajo** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2038153/wemby-describe-su-viral-canasta-un-tiro-lanzando-directamente-hacia-abajo/
-- 2026-11-20 10:56 UTC · **Tyrese Haliburton espera que su próximo contrato sea de 300 millones de dólares** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2038154/tyrese-haliburton-espera-que-su-proximo-contrato-sea-de-300-millones-de-dolares/
-- 2026-11-20 10:54 UTC · **Shannon Evans vuelve a la Liga Endesa y firma con el San Pablo Burgos** — Eurohoops · https://www.eurohoops.net/es/eurocup-es/2038159/shannon-evans-vuelve-a-la-liga-endesa-y-firma-con-el-san-pablo-burgos/
-- 2026-11-20 10:54 UTC · **El UEMC Baloncesto Valladolid quiere cerrar una exigente semana con otro triunfo en el derbi ante el Clínica Ponferrada: «Tenemos que parar su ritmo** — Club Baloncesto Ciudad de Valladolid
-- 2026-11-20 10:50 UTC · **Resumen de la NBA: Wembanyama guía a los Spurs a otra victoria con un doble-doble** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2038156/resumen-de-la-nba-wembanyama-guia-a-los-spurs-a-otra-victoria-con-un-doble-doble/
-- 2026-11-20 10:47 UTC · **Shannon Evans pasa el reconocimiento médico y ya es nuevo jugador del San Pablo Burgos** — Diario de Burgos
-- 2026-11-20 10:46 UTC · **Las palabras de Killian Hayes como jugador del Barça: "He seguido al club desde pequeño"** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/palabras-killian-hayes-barca-nuevo-fichaje/
-- 2026-11-20 10:45 UTC · **Valencia Basket: ¿Quién se acuerda de Pedro Martínez?** — SPORT
-- 2026-11-20 10:43 UTC · **El Valencia Basket remonta ante la Virtus Bolonia y consolida su liderato en la Euroliga** — Sphera Sports
-- 2026-11-20 10:40 UTC · **Carles Marco, entrenador del Leyma Coruña: 'Esperamos contar al cien por cien con Dimas y Uleckas'** — La Opinión A Coruña
-- 2026-11-20 10:38 UTC · **ACB y FEB, unidos en el frente común español de la Liga U** — Diario AS
-- 2026-11-20 10:37 UTC · **Más problemas de lesiones para Valencia Basket: Rivero acabó tocado** — Levante-EMV
-- 2026-11-20 10:30 UTC · **Barça-Estrella Roja: horario y dónde ver por TV y online el partido de Euroliga hoy** — Sport Aragón
-- 2026-11-20 10:23 UTC · **Agenda deportiva del fin de semana** — Onda Cero
-- 2026-11-20 10:15 UTC · **Shannon Evans, nuevo refuerzo para la dirección de juego del San Pablo Burgos** — BURGOSconecta
-- 2026-11-20 10:14 UTC · **El San Pablo Burgos incorpora a Shannon Evans antes de recibir al Unicaja** — La Opinión de Málaga
-- 2026-11-20 10:11 UTC · **El baloncesto acb, presente en el debate electoral** — ACB
-- 2026-11-20 10:11 UTC · **Olympiacos-Real Madrid: horario y dónde ver por TV y online el partido de Euroliga hoy** — Sport Aragón
-- 2026-11-20 10:10 UTC · **COPA 1/8: Aitor Anabitarte y el MVP de la reafirmación de todo un proyecto** — Federación Española de Baloncesto
-- 2026-11-20 10:04 UTC · **Moncho Fernández regresa a Sar: «Santiago es mi casa y mi lugar en el mundo»** — Diario de Santiago
-- 2026-11-20 10:01 UTC · **El Kids&Us Manresa, a seguir con el 'modo avión' en la Liga Endesa** — Infobae
-- 2026-11-20 10:00 UTC · **Melwin Pantzar, seis semanas de baja: el Unicaja vuelve a tener problemas con los cupos** — Solobasket · https://www.solobasket.com/liga-endesa/pantzar-baja-seis-semanas-unicaja-cupos
-- 2026-11-20 09:59 UTC · **San Pablo Burgos ficha a Shannon Evans antes de jugar frente a Unicaja** — Radio Marca Málaga
-- 2026-11-20 09:58 UTC · **Carles Marco – Previa J9 – Leyma Coruña – iLERNA Lleida** — Basquet Coruña
-- 2026-11-20 09:42 UTC · **Shannon Evans refuerza la dirección de juego del San Pablo Burgos** — Mundo Deportivo
-- 2026-11-20 09:41 UTC · **Valencia Basket-Río Breogán: horario y dónde ver por TV y online el partido de Liga Endesa** — Superdeporte
-- 2026-11-20 09:25 UTC · **El Recoletas Salud San Pablo Burgos se refuerza con Shannon Evans: Toda la info** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/shannon-evans-fichaje-san-pablo-burgos-info/
-- 2026-11-20 09:23 UTC · **Baskonia toca fondo en Europa y Kamenjas se convierte en su único rayo de esperanza** — SPORT
-- 2026-11-20 09:19 UTC · **BALONCESTO: El base de Unicaja Melwin Pantzar, baja por lesión durante mes y medio** — Canal Sur
-- 2026-11-20 09:09 UTC · **Shannon Evans fortalece la dirección de juego del Recoletas Salud San Pablo Burgos** — ACB
-- 2026-11-20 09:07 UTC · **El Madrid, con un problema menos en su duelo de hoy ante Olympiacos en Atenas** — SPORT
-- 2026-11-20 09:03 UTC · **Shannon Evans fortalece la dirección de juego** — San Pablo Burgos
-- 2026-11-20 09:00 UTC · **El Monbus Obradoiro ficha a Maksim Salash, ala-pívot bielorruso que ya jugó en el San Pablo Burgos** — Solobasket · https://www.solobasket.com/liga-endesa/obradoiro-ficha-maksim-salash-ala-pivot-bielorruso
-- 2026-11-20 08:59 UTC · **Verdugo del Barça en el Palau, Hifi lo vuelve a hacer: triple ganador contra el Maccabi** — Mundo Deportivo
-- 2026-11-20 08:59 UTC · **Sydney, Nova Scotia - Day 5 - Men’s Quarter-Finals Grand Slam of Curling** — DAZN
-- 2026-11-20 08:57 UTC · **El CB Zamora afronta este mediodía una exigente batalla en Sevilla con tres puntos de mira: competir, resistir y ganar** — ZA49
-- 2026-11-20 08:45 UTC · **Barcelona - Estrella Roja: horario y dónde ver hoy en TV el partido de Euroliga** — MARCA
-- 2026-11-20 08:44 UTC · **El Granca presenta un presupuesto de 9,3 millones sostenido en un 64% por fondos públicos** — Atlántico Hoy
-- 2026-11-20 08:43 UTC · **El Melilla Ciudad del Deporte busca prolongar su invicto ante el CB Toledo Basket en el Javier Imbroda** — Club Melilla Baloncesto
-- 2026-11-20 08:12 UTC · **NBA Europa cree que puede tener interés global: “Un partido entre el Madrid y el Milan será relevante en China y en EE.UU.”** — Mundo Deportivo [posible rumor]
-- 2026-11-20 08:10 UTC · **Valencia Basket firma una remontada de carácter ante la Virtus y alcanza las diez victorias en Euroliga (92-87)** — SempreValencia.com
-- 2026-11-20 08:10 UTC · **El Real Madrid certifica el drama para Ricky Rubio y Juventut: así la Copa del Rey será imposible** — El Nacional.cat
-- 2026-11-20 08:09 UTC · **El Valencia Basket remonta ante Virtus con parcial de 17-3** — Blog de Basket
-- 2026-11-20 08:05 UTC · **NBA Europa mantiene su hoja de ruta para 2027: anuncio de equipos, inversores y próximos pasos** — Gigantes del Basket · https://www.gigantes.com/bcl/nba-europa-mantiene-su-hoja-de-ruta-para-2027-anuncio-de-equipos-inversores-y-proximos-pasos/
-- 2026-11-20 08:00 UTC · **El Valencia Basket remonta ante la Virtus (92-87) y sigue líder de la Euroliga** — Solobasket · https://www.solobasket.com/euroliga/valencia-basket-virtus-bolonia-remontada-lider-euroliga
-- 2026-11-20 07:58 UTC · **El resumen de la noche NBA: Highlights, resultados y estadísticas. Wemby sigue dominando** — Gigantes del Basket · https://www.gigantes.com/nba/resumen-nba-hoy-highlights-resultados-estadisticas/

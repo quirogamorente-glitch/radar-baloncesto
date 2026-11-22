@@ -1,9 +1,9 @@
 # Radar de baloncesto
 
-Actualizado: 2026-11-22T01:35+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-11-22T08:50+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (69)
+## UCAM Murcia CB (66)
 
 - 2026-11-21 23:29 UTC · **El Casademont Zaragoza frena la remontada del UCAM Murcia y se lleva un duelo épico** — COPE
 - 2026-11-21 23:23 UTC · **Sito Alonso: "Hicimos cosas muy buenas que no se tradujeron en el marcador"** — Murcia Plaza
@@ -71,9 +71,6 @@ Actualizado: 2026-11-22T01:35+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-19 10:50 UTC · **El Radar (21 y 22 de noviembre)** — Federación de Baloncesto de la Región de Murcia
 - 2026-11-19 10:34 UTC · **El UCAM Murcia quiere prolongar su idilio en el Palacio** — UCAM Deportes
 - 2026-11-19 10:02 UTC · **Trayectoria David DiLeo | Jugador acb | acb.com** — ACB
-- 2026-11-19 06:10 UTC · **Ver Galatasaray - Legia Warszawa Online en Directo | DAZN ES** — DAZN
-- 2026-11-19 06:00 UTC · **El BSR Puertollano recibe a UCAM Murcia en la penúltima jornada del Grupo B** — Lanza Digital
-- 2026-11-19 05:01 UTC · **Birutis vuelve a poner a prueba la defensa interior del UCAM Murcia** — La Opinión de Murcia
 
 ## Covirán Granada (22)
 
@@ -110,8 +107,11 @@ Actualizado: 2026-11-22T01:35+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-19 13:09 UTC · **José Ángel Carrillo: "El objetivo es el ascenso directo, pero hay que ser muy exigentes en cada partido"** — murciaeconomia.com
 - 2026-11-19 12:14 UTC · **Alejandro Gómez analiza en MurciaEconomía Radio el arranque liguero del UCAM Murcia, la economía del club y el ‘caso DeJulius’** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (84)
+## Resto (últimas 12 h) (21)
 
+- 2026-11-22 08:02 UTC · **El vestuario del Barça estalla contra los arbitrajes: “Estamos jugando cinco contra ocho”** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2038946/el-vestuario-del-barca-estalla-contra-los-arbitrajes-estamos-jugando-cinco-contra-ocho/
+- 2026-11-22 08:00 UTC · **San Pablo Burgos 71-94 Unicaja: Noua y Perry rompen la racha negra en el Coliseum** — Solobasket · https://www.solobasket.com/liga-endesa/unicaja-gana-burgos-noua-perry-racha-coliseum
+- 2026-11-22 07:00 UTC · **Hugo González, titular en la derrota de los Celtics ante los Kings (97-96)** — Solobasket · https://www.solobasket.com/nba/hugo-gonzalez-titular-celtics-derrota-kings
 - 2026-11-22 01:20 UTC · **Último acelerón antes del parón para el COB** — La Región
 - 2026-11-22 01:13 UTC · **Qué ha pasado hoy en la Liga Endesa: Casademont Zaragoza, Kids&Us Manresa y Unicaja suman victorias** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/que-ha-pasado-hoy-jornada9-liga-endesa-2026/
 - 2026-11-21 23:42 UTC · **J.9: El quinto periodo, al habla los entrenadores** — Federación Española de Baloncesto
@@ -130,69 +130,17 @@ Actualizado: 2026-11-22T01:35+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-21 20:59 UTC · **J.9: El Grupo Ureta Tizona confirma su reacción clasificatoria venciendo en Fuenlabrada** — Federación Española de Baloncesto
 - 2026-11-21 20:52 UTC · **Resumen de la ACB: Unicaja arrolla fuera de casa, tercera seguida para Manresa** — Eurohoops · https://www.eurohoops.net/es/acb-es/2038821/resumen-de-la-acb-unicaja-arrolla-fuera-de-casa-tercera-seguida-para-manresa/
 - 2026-11-21 20:51 UTC · **San Pablo Burgos cae frente a Unicaja en el Coliseum (71-94)** — Burgosnoticias
-- 2026-11-21 20:48 UTC · **Horario, canal y dónde ver por TV el Real Madrid Basket - Asisa Joventut de la Liga Endesa** — Mundo Deportivo
-- 2026-11-21 20:24 UTC · **Horario, canal y dónde ver por TV el La Laguna Tenerife - Barça Basket de la Liga Endesa** — Mundo Deportivo
-- 2026-11-21 20:23 UTC · **El Palmer Basket se apaga en Palencia** — Ultima Hora
-- 2026-11-21 20:19 UTC · **El Unicaja gana a lo grande en Burgos** — MARCA
-- 2026-11-21 20:04 UTC · **Recoletas Salud San Pablo Burgos 71 - Unicaja 94 Jornada 9 Liga Endesa 2026/27 - Crónica** — Unicaja Baloncesto
-- 2026-11-21 20:02 UTC · **El Tizona cambia el partido tras el descanso y conquista Fuenlabrada** — El Correo de Burgos
-- 2026-11-21 19:57 UTC · **El Grupo Ureta Tizona da la vuelta al partido en Fuenlabrada y suma su tercera victoria (73-87)** — CB Tizona
-- 2026-11-21 19:57 UTC · **El Iberolea Palencia vence al Palmer Basket tras un tercer cuarto arrollador** — Tribuna de Palencia.
-- 2026-11-21 19:33 UTC · **Unicaja vuela en Burgos de la mano de Noua y Perry (71-94)** — ACB
-- 2026-11-21 19:31 UTC · **71-94: Unicaja arrolla sin paliativos a San Pablo Burgos** — Mundo Deportivo
-- 2026-11-21 19:30 UTC · **El Unicaja se pasea en el Coliseum y rompe una racha negativa ante el San Pablo Burgos (71-94)** — Cadena SER
-- 2026-11-21 19:29 UTC · **Txus Vidorreta: "Muy satisfechos, no solo por ganar, sino por cómo lo hemos hecho"** — Málaga Hoy
-- 2026-11-21 19:23 UTC · **Jaka Lakovic, entrenador de La Laguna Tenerife: «Contra el Barça hay que escoger el veneno»** — Eldía
-- 2026-11-21 19:21 UTC · **Beşiktaş llega a un acuerdo con Reggie Perry** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2038919/besiktas-llega-a-un-acuerdo-con-reggie-perry/
-- 2026-11-21 19:15 UTC · **Perry y Noua agrandan la crisis del Burgos** — Diario AS
-- 2026-11-21 19:12 UTC · **Valencia Basket recibe al Río Breogán sin Rivero ni Reuvers y con Mirotic en duda** — Mundo Deportivo
-- 2026-11-21 19:06 UTC · **El San Pablo reacciona tarde y acaba desbordado por el Unicaja** — El Correo de Burgos
-- 2026-11-21 19:00 UTC · **Estas son las estadísticas del San Pablo Burgos 71-94 Unicaja de la Liga Endesa** — Radio Marca Málaga
-- 2026-11-21 18:55 UTC · **El Unicaja gana 71-94 en Burgos y se va con una sonrisa de oreja a oreja al parón FIBA** — La Opinión de Málaga
-- 2026-11-21 18:54 UTC · **La previa: el monoplaza del CB Gran Canaria se cruza con el Básquet Menorca para continuar con su persecución** — La Provincia
-- 2026-11-21 18:53 UTC · **Este es el resumen del San Pablo Burgos 71-94 Unicaja de la Liga Endesa** — Radio Marca Málaga
-- 2026-11-21 18:51 UTC · **Unicaja suma la quinta y rompe su racha negra en Burgos** — ACB
-- 2026-11-21 18:50 UTC · **Este es el 1×1 y las notas del Unicaja en su visita al Coliseum de Burgos** — Radio Marca Málaga
-- 2026-11-21 18:49 UTC · **El Cajasol Coto Córdoba visita al colista para sobreponerse a su racha negativa** — elDiario.es
-- 2026-11-21 18:48 UTC · **Recoletas Salud San Pablo Burgos 71 - Unicaja 94 Jornada 9 Liga Endesa 2026/27** — Unicaja Baloncesto
-- 2026-11-21 18:39 UTC · **Kids&Us Manresa vs MoraBanc Andorra 21 nov 2026** — ACB
-- 2026-11-21 18:33 UTC · **¡Así te hemos contado la gran victoria a domicilio del Unicaja ante el San Pablo Burgos!** — Radio Marca Málaga
-- 2026-11-21 18:23 UTC · **Recoletas Salud San Pablo Burgos vs Unicaja 21 nov 2026** — ACB
-- 2026-11-21 18:11 UTC · **Balcerowski, y el 'reset' obligado del Barça: "Hay que olvidar la derrota ante Estrella Roja y quedarnos con lo positivo"** — SPORT
-- 2026-11-21 18:10 UTC · **Ver Día 4 - Sesión 1 | Las Vegas Online en Directo | DAZN ES** — DAZN
-- 2026-11-21 18:10 UTC · **Ver KOK 130: Freiburg, Germany Online en Directo | DAZN ES** — DAZN
-- 2026-11-21 18:10 UTC · **Ver OKTAGON 98: Legierski vs. Buchinger Online en Directo | DAZN ES** — DAZN
-- 2026-11-21 18:10 UTC · **Ver Sydney, Nova Scotia - Day 5 - Women’s Quarter-Finals Online en Directo | DAZN ES** — DAZN
-- 2026-11-21 18:09 UTC · **PREVIA J.7: El reto de mantener la excelencia cita al Sevilla Cajasol Gardensore** — Federación Española de Baloncesto
-- 2026-11-21 17:26 UTC · **El Melilla Ciudad del Deporte busca prolongar su invicto ante el CB Toledo Basket en el Javier Imbroda - El** — El Faro de Melilla
-- 2026-11-21 17:18 UTC · **Recoletas Salud San Pablo Burgos vs Unicaja Nov 21, 2026** — ACB
-- 2026-11-21 17:13 UTC · **El Leyma, a apuntalar el fortín del Coliseum ante un Lleida con las alarmas encendidas** — La Opinión A Coruña
-- 2026-11-21 17:11 UTC · **Dynamo Moscow – Panathinaikos: marcadores y pronósticos** — Sofascore
-- 2026-11-21 17:08 UTC · **La imagen es escalofriante: la terrible lesión de Doué** — Diario AS
-- 2026-11-21 17:07 UTC · **Valencia Basket vuelve a 1986: camisetas retro y un duelo de vértigo ante el Río Breogán** — Levante-EMV
-- 2026-11-21 17:00 UTC · **El Cajasol Coto Córdoba quiere salir de su mala racha ante el colista con la baja de Nuga y la duda de Cone** — Diario Córdoba
-- 2026-11-21 17:00 UTC · **Watch Day 4 - Session 1 | Las Vegas Live Stream Online | DAZN ES** — DAZN
-- 2026-11-21 17:00 UTC · **OKTAGON 98: Legierski vs. Buchinger OKTAGON MMA** — DAZN
-- 2026-11-21 16:42 UTC · **Un enrachado Valencia Basket recibe al Breogán, su alumno aventajado en ataque** — El Desmarque
-- 2026-11-21 16:41 UTC · **CB Canarias - FC Barcelona, el duelo de dos mejores amigos** — Cadena SER
-- 2026-11-21 16:37 UTC · **Tino Ugidos, nuevo entrenador del IREN BCBadajoz** — Federación Española de Baloncesto
-- 2026-11-21 16:33 UTC · **El Fibwi quiere alzar el vuelo** — Ultima Hora
-- 2026-11-21 16:22 UTC · **El Cajasiete Gran Canaria busca prolongar su buena racha ante Bàsquet Menorca** — cbgrancanaria.net
-- 2026-11-21 16:15 UTC · **El Asisa Joventut desafía al invicto Real Madrid en un choque con sabor a récord** — Mundo Deportivo
-- 2026-11-21 16:01 UTC · **Un derbi para recuperar sensaciones** — Infobae
-- 2026-11-21 16:01 UTC · **La peor serie de tiros libres en la historia de la Euroliga** — MARCA
-- 2026-11-21 15:48 UTC · **FIBA Europa mantiene las restricciones actuales sobre los equipos rusos, bielorrusos e israelíes** — Eurohoops (español) · https://www.eurohoops.net/es/fiba-es/2038787/fiba-europa-mantiene-las-restricciones-actuales-sobre-los-equipos-rusos-bielorrusos-e-israelies/
-- 2026-11-21 15:44 UTC · **El Surne Bilbao y el Kosner Baskonia quieren aprovechar el derbi para tomar impulso** — kirolakeitb.eus
-- 2026-11-21 15:44 UTC · **Reacción obligada del iLerna Lleida en Coruña** — SPORT
-- 2026-11-21 15:35 UTC · **De la pasión turca a la tragedia griega: el Real Madrid regresa de vacío tras sufrir su peor semana de la temporada** — El Confidencial
-- 2026-11-21 15:17 UTC · **PREVIA J.8: El Melilla Ciudad del Deporte defiende su reinado como último invicto** — Federación Española de Baloncesto
-- 2026-11-21 15:15 UTC · **El FIATC Girona quiere estrenarse a domicilio en el partido más especial para Moncho Fernández** — SPORT
-- 2026-11-21 15:08 UTC · **Homenaje a los orígenes del Valencia Basket en la visita del Breogán** — Las Provincias
-- 2026-11-21 15:00 UTC · **DIRECTO | ¡Diez arriba el Unicaja tras el primer cuarto! (16-26)** — Radio Marca Málaga
-- 2026-11-21 15:00 UTC · **DIRECTO | ¡Inicio arrollador del Unicaja en Burgos! (3-19)** — Radio Marca Málaga
-- 2026-11-21 15:00 UTC · **¡Sigue EN DIRECTO el San Pablo Burgos vs Unicaja de la jornada 9 de la Liga Endesa!** — Radio Marca Málaga
-- 2026-11-21 14:56 UTC · **El Real Madrid vuelve a descarrilar ante su gran debilidad** — SPORT
-- 2026-11-21 14:44 UTC · **La lesión de Melwin Pantzar complica el diciembre de Unicaja** — KarloBag.eu
-- 2026-11-21 14:34 UTC · **El Casademont Zaragoza está de celebración: alcanza los 1.000 partidos en su historia** — Mundo Deportivo
-- 2026-11-21 14:06 UTC · **Valencia Basket regresa del parón recibiendo a Innova-tsn Leganés en el Roig Arena** — Valencia Basket Club
-- 2026-11-21 13:41 UTC · **Un Breo que quiere perdurar** — La Voz de Galicia
+
+## Fuentes que han fallado
+- Google Noticias · UCAM Murcia CB
+- Google Noticias · UCAM CB
+- Google Noticias · Covirán Granada
+- Google Noticias · Olga Lorente
+- Google Noticias · Jaime Nadal
+- Google Noticias · Noelia Gómez Mira
+- Google Noticias · Liga Endesa
+- Google Noticias · Liga Endesa mercado
+- Google Noticias · Euroliga
+- Google Noticias · EuroCup
+- Google Noticias · BCL
+- Google Noticias · Primera FEB

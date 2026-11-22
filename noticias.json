@@ -1,9 +1,51 @@
 {
- "actualizado": "2026-11-22T01:35+00:00",
+ "actualizado": "2026-11-22T08:50+00:00",
  "ventana_horas": 72,
  "total": 400,
  "nota": "Avisos de noticias detectadas. NO están verificadas: comprobar siempre en la fuente original. Los enlaces de Google Noticias (enlace_es_google=true) no se abren directamente: buscar el titular.",
  "noticias": [
+  {
+   "titulo": "El vestuario del Barça estalla contra los arbitrajes: “Estamos jugando cinco contra ocho”",
+   "enlace": "https://www.eurohoops.net/es/euroleague-es/2038946/el-vestuario-del-barca-estalla-contra-los-arbitrajes-estamos-jugando-cinco-contra-ocho/",
+   "medio": "Eurohoops (español)",
+   "resumen": "Darío Brizuela, Joel Parra y Justin Robinson alzaron la voz tras la derrota ante el Estrella Roja para denunciar la falta de respeto arbitral que se viene repitiendo en los últimos partidos The post El vestuario del Barça estalla contra los arbitrajes: “Estamos jugando cinco contra ocho” appeared fi",
+   "publicada": "2026-11-22T08:02+00:00",
+   "enlace_es_google": false,
+   "id": "f0bd9d27dcd7",
+   "etiquetas": [],
+   "detectada": "2026-11-22T08:50+00:00",
+   "vias": [
+    "Eurohoops (español)"
+   ]
+  },
+  {
+   "titulo": "San Pablo Burgos 71-94 Unicaja: Noua y Perry rompen la racha negra en el Coliseum",
+   "enlace": "https://www.solobasket.com/liga-endesa/unicaja-gana-burgos-noua-perry-racha-coliseum",
+   "medio": "Solobasket",
+   "resumen": "El Unicaja gana 71-94 en Burgos con 23 puntos y 36 de valoración de Noua y 20 de Perry, rompe cinco derrotas seguidas en el Coliseum y llega al parón con 5-4.",
+   "publicada": "2026-11-22T08:00+00:00",
+   "enlace_es_google": false,
+   "id": "9508d9b519b9",
+   "etiquetas": [],
+   "detectada": "2026-11-22T08:50+00:00",
+   "vias": [
+    "Solobasket"
+   ]
+  },
+  {
+   "titulo": "Hugo González, titular en la derrota de los Celtics ante los Kings (97-96)",
+   "enlace": "https://www.solobasket.com/nba/hugo-gonzalez-titular-celtics-derrota-kings",
+   "medio": "Solobasket",
+   "resumen": "Hugo González fue titular con 5 puntos, 4 rebotes y +13 en la derrota de los Celtics en Sacramento (97-96). Santi Aldama ganó con Dallas a los Clippers de Baba Miller.",
+   "publicada": "2026-11-22T07:00+00:00",
+   "enlace_es_google": false,
+   "id": "42b90dae9762",
+   "etiquetas": [],
+   "detectada": "2026-11-22T08:50+00:00",
+   "vias": [
+    "Solobasket"
+   ]
+  },
   {
    "titulo": "Último acelerón antes del parón para el COB",
    "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlBxNWEzQjFpa2JRbjBHaHlEa2ZNYWZ3M3dfUzVoTEZhNnZuSUp1VTJmT3NiZl9TLTVpV3JKYzIyMGtsRUhlbkJsb3kxQkVyOTd0WUJBVnJFQVExLU1la3NaTzlDZGhWVDVUMlNuR2pWZURpcWZKRGJNQ0tnVk81d3drdFRNcFFocXc?oc=5",
@@ -2286,22 +2328,6 @@
    ]
   },
   {
-   "titulo": "Salud San Pablo Burgos vs Unicaja: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN",
-   "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUXA1b2x4Z1QzSEJSYlpYckZ2LW5sNmN0MTBLMk9sLXUwT2F6UzZJZC11a2dkWDZxd0xESTR0TVBMeU1nLVBJaWEwMEZRNVdKTmJ1RkpvMEpnaFE5UDI0Wk9USGtJOEJQSHl2a1M2NDB0RXByWHJtTmdnUVlMaWNWSHFMRGRuTlNTa2N1QnBzaWItSUlySTUyVmJxMEZObUVMRDYtMjJtRm1zYkZma0RENDhCN0dUS1lnc3ZlM1h0a0M2WC01N1hXcXpDdXB1WjU1dVQ1SFdvTWY5bnQ1OTdDZnJfcl9LM1FqbmxxQUY0dE9uYjlXQlhmNDJodw?oc=5",
-   "medio": "DAZN",
-   "resumen": "",
-   "publicada": "2026-11-21T09:00+00:00",
-   "enlace_es_google": true,
-   "id": "43810d189d91",
-   "etiquetas": [
-    "acb"
-   ],
-   "detectada": "2026-11-21T21:43+00:00",
-   "vias": [
-    "Google Noticias · Liga Endesa"
-   ]
-  },
-  {
    "titulo": "Pedro Martínez batirá ante el Joventut el récord de partidos de la era ACB tras el 92-76 de Olympiacos",
    "enlace": "https://www.solobasket.com/liga-endesa/pedro-martinez-record-partidos-acb-joventut",
    "medio": "Solobasket",
@@ -2317,6 +2343,22 @@
     "Google Noticias · Euroliga",
     "Google Noticias · Liga Endesa",
     "Solobasket"
+   ]
+  },
+  {
+   "titulo": "Salud San Pablo Burgos vs Unicaja: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN",
+   "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUXA1b2x4Z1QzSEJSYlpYckZ2LW5sNmN0MTBLMk9sLXUwT2F6UzZJZC11a2dkWDZxd0xESTR0TVBMeU1nLVBJaWEwMEZRNVdKTmJ1RkpvMEpnaFE5UDI0Wk9USGtJOEJQSHl2a1M2NDB0RXByWHJtTmdnUVlMaWNWSHFMRGRuTlNTa2N1QnBzaWItSUlySTUyVmJxMEZObUVMRDYtMjJtRm1zYkZma0RENDhCN0dUS1lnc3ZlM1h0a0M2WC01N1hXcXpDdXB1WjU1dVQ1SFdvTWY5bnQ1OTdDZnJfcl9LM1FqbmxxQUY0dE9uYjlXQlhmNDJodw?oc=5",
+   "medio": "DAZN",
+   "resumen": "",
+   "publicada": "2026-11-21T09:00+00:00",
+   "enlace_es_google": true,
+   "id": "43810d189d91",
+   "etiquetas": [
+    "acb"
+   ],
+   "detectada": "2026-11-21T21:43+00:00",
+   "vias": [
+    "Google Noticias · Liga Endesa"
    ]
   },
   {
@@ -4007,6 +4049,22 @@
    ]
   },
   {
+   "titulo": "La lista de Lituania antes de las decisivas ventanas FIBA de noviembre",
+   "enlace": "https://www.gigantes.com/selecciones/plantilla-lituania-convocatoria-ventanas-fiba-noviembre-2026/",
+   "medio": "Gigantes del Basket",
+   "resumen": "",
+   "publicada": "2026-11-20T18:43+00:00",
+   "enlace_es_google": false,
+   "id": "66d967dbfc4f",
+   "etiquetas": [],
+   "detectada": "2026-11-20T19:09+00:00",
+   "vias": [
+    "Gigantes del Basket",
+    "Google Noticias · Euroliga",
+    "Google Noticias · Liga Endesa"
+   ]
+  },
+  {
    "titulo": "Real Madrid - Valencia Basket en directo - Euroliga: Resultados y resúmenes de Baloncesto - 17/12/2026",
    "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcjNqOW03OG5hX0o0QW55UkJGRFY1UmFWeWpUUFRBeUdjcUoxUU45SjhhMll6MVgtbUVWZnFoYkZXU1BfaWlxTDdVR2RYODhpXzhYTjYxWDVaTmZKamQ5SHVlRm1nZXNmV0xsdUl2bEZEb1pHdVQ5WU41bmM3cnVVdW52X051UHhSczY1WVFkQVlJeWIxa1BGbERRWFZRYURGckNuOUpHZGk?oc=5",
    "medio": "Eurosport",
@@ -4036,22 +4094,6 @@
    "detectada": "2026-11-21T21:43+00:00",
    "vias": [
     "Google Noticias · Euroliga"
-   ]
-  },
-  {
-   "titulo": "La lista de Lituania antes de las decisivas ventanas FIBA de noviembre",
-   "enlace": "https://www.gigantes.com/selecciones/plantilla-lituania-convocatoria-ventanas-fiba-noviembre-2026/",
-   "medio": "Gigantes del Basket",
-   "resumen": "",
-   "publicada": "2026-11-20T18:43+00:00",
-   "enlace_es_google": false,
-   "id": "66d967dbfc4f",
-   "etiquetas": [],
-   "detectada": "2026-11-20T19:09+00:00",
-   "vias": [
-    "Gigantes del Basket",
-    "Google Noticias · Euroliga",
-    "Google Noticias · Liga Endesa"
    ]
   },
   {
@@ -5388,6 +5430,22 @@
    ]
   },
   {
+   "titulo": "Jornada 9 de Primera FEB: horarios de los partidos del fin de semana, con el líder Alicante en Oviedo",
+   "enlace": "https://www.solobasket.com/primera-feb/jornada-9-primera-feb-horarios-partidos",
+   "medio": "Solobasket",
+   "resumen": "Horarios de la jornada 9 de Primera FEB, el 21 y 22 de noviembre: el HLA Alicante, invicto, visita Oviedo y el Movistar Estudiantes recibe al Ourense el domingo.",
+   "publicada": "2026-11-20T11:00+00:00",
+   "enlace_es_google": false,
+   "id": "5f44ee12d04d",
+   "etiquetas": [
+    "feb"
+   ],
+   "detectada": "2026-11-22T08:50+00:00",
+   "vias": [
+    "Solobasket"
+   ]
+  },
+  {
    "titulo": "Gonzalo García de Vitoria: \"Tenemos que saber que el partido ante UCAM Murcia va a ser muy físico\"",
    "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1AwbHMtTE8xa1RXQ3d5QjVOcTJnX3JuT3o4RzN2UGNyVTdLR3ZJOGVBQVZWMWU1VGdTUDV1dTlKdmpuTkRQU0pFZDY3MU5XaTMzYVl0VUJNRjRLSnItLVkwdVFvdG9fNllEU2REdXBnMW5jT084ODBVOEJ2Qi1JSS02OVlTVmJMRkxIUXlvcUJlRlgyWEM2QTZlR1l6Q01wTjF3anY4Wmw?oc=5",
    "medio": "Aragón Play",
@@ -6003,72 +6061,6 @@
    "detectada": "2026-11-20T11:18+00:00",
    "vias": [
     "Google Noticias · Covirán Granada"
-   ]
-  },
-  {
-   "titulo": "Ver Galatasaray - Legia Warszawa Online en Directo | DAZN ES",
-   "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGhma0c4ODFPeEVJTTBPWlVoMGJJRFdxS0E2NWxmNTA1ZVlITWRoSGRTdzEzNmM5UEtETkZERVNWM3BqS0I4cy1RcGN0ZE0zN0t6UnAxdGo3QWpGdjFHcjIwYk8ySENzb2JmTWZZYnBrQTRpTVAtY2RxNXJWalJST1pacnRHU19hdVJOUENR?oc=5",
-   "medio": "DAZN",
-   "resumen": "",
-   "publicada": "2026-11-19T06:10+00:00",
-   "enlace_es_google": true,
-   "id": "5f306a891379",
-   "etiquetas": [
-    "ucam"
-   ],
-   "detectada": "2026-11-19T21:48+00:00",
-   "vias": [
-    "Google Noticias · BCL",
-    "Google Noticias · UCAM Murcia CB"
-   ]
-  },
-  {
-   "titulo": "El BSR Puertollano recibe a UCAM Murcia en la penúltima jornada del Grupo B",
-   "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOczEwS0JlVklfWTk1S21hdUItWkZwWnd0S05Od0N4bzRjeGRyMUxrM25jbUVmdDg3Wm54Z0thVlVhQmZBMkZfbVJRUDU5WTd3NVhQV3Qwd1BXSzFKdmp1amxYRGxNc1Z2R2J4WjNUYmE5d2wwWUFiSGloeGptam9OcWp0elNDUU0tRk5yTzBabWFiTU82YzRVbUtMaFljczNYWEE3VW4yWGdtd2FpLWJGZmpLY3ZVNHkyMFUzQnN2WUNOd3h6NEJzbEtoZFBralNwczJVN01NTHF4RnVWcUg5dUh4clgwenFmaFBCRXRINkZGSGFma0pORnIyOWZCSmo0eWxV0gGIAkFVX3lxTFB5MU9LdWY3TWphczBuVGtvRG1zNTRsU2wwcHZqNmFTR0x4RVZJcDhRUy1MUmV6d3dfbEk1Z05QR0JBTDNjMjRiMHhwY25xbkFBbTN3aExLNF9PanM5ak1YU2FwMUlUcHppV1VBUE1NS09zcV9UbHJvb1NKOGd6am85VEsxaXdFLVBUVjVlcUVaODVBbEoyRUNCMlIxS2xMaTBoMnF2ajB4UXg3SDNOdFN4M0JrcFhoeTBjMHFHWnVVUTBhWEY5NWItNjdVcG9ubzVuT0w1RTN5TEFmOWRIX0FuSXJmUEdDQldIUC0zZWwyajFhME1Fdzlsb0R0aGVOR2Q3cEQ5VWszUg?oc=5",
-   "medio": "Lanza Digital",
-   "resumen": "",
-   "publicada": "2026-11-19T06:00+00:00",
-   "enlace_es_google": true,
-   "id": "5a4178510a36",
-   "etiquetas": [
-    "ucam"
-   ],
-   "detectada": "2026-11-19T13:33+00:00",
-   "vias": [
-    "Google Noticias · UCAM Murcia CB"
-   ]
-  },
-  {
-   "titulo": "Birutis vuelve a poner a prueba la defensa interior del UCAM Murcia",
-   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUy1VeFBrUm9Sc0lnOHM4YWx5TWZvRXJUYkE3Z1NkY2JBQmdzZHByTFd6YVR2V3RISVlFSEJ4WlZsc0lMQXJhd3J5WXpQNmpCc0k5aXNxZGVJdFJtdkQ1MkM5WUpGWUF5dTJVUF8ycjVlS1VzSGZZUUNBODVaM0J2b1Y1R3d1Z0NxdF9OQm9fczZOa0hSTWU0UXhOQ2tlRTduSGh4TFB30gGrAUFVX3lxTE9ZYnNpQzJVX2hEMVJDaVVUX1NqTzJURjRDNXRoaDVxTVMzZGFkZU9zVzhFLXhUQkVua2lKYlphS1RrVVpTOVl6eVc1SFBqMF9QUE85NEJYbWtGRUJHOVdxN2FnTzdBU052dC0ybWxiNG1MQjc0Y1dGUVZLYU5ZY0Utb2Z3S0tzclJvbGZNLUZqQThhVmxPekxCMFhqQ3JLVVZweUgyMXdIdFItdw?oc=5",
-   "medio": "La Opinión de Murcia",
-   "resumen": "",
-   "publicada": "2026-11-19T05:01+00:00",
-   "enlace_es_google": true,
-   "id": "35bc64f70cf9",
-   "etiquetas": [
-    "ucam"
-   ],
-   "detectada": "2026-11-19T13:33+00:00",
-   "vias": [
-    "Google Noticias · UCAM CB",
-    "Google Noticias · UCAM Murcia CB"
-   ]
-  },
-  {
-   "titulo": "Watch Obradoiro - UCAM Murcia Car Live Stream Online | DAZN ES",
-   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbVR2ZFVrQkUzSTY1dU52bG00SnJQNFJwZzBTX2ZFZDZaQTE4UF9NTUlOc3hhcEN3QzhveTR0d1dmZzFCM05EVVJwVDRxbkxpSDZsOWxWaDdjM21OMTJMYVoyM0psRmlGYXJDTEVDT2xGM2p4MS1JcV85NDdYYlZKTjlpNlViWkg2R1FN?oc=5",
-   "medio": "DAZN",
-   "resumen": "",
-   "publicada": "2026-11-18T10:33+00:00",
-   "enlace_es_google": true,
-   "id": "656a8b672261",
-   "etiquetas": [
-    "ucam"
-   ],
-   "detectada": "2026-11-18T16:34+00:00",
-   "vias": [
-    "Google Noticias · UCAM Murcia CB"
    ]
   }
  ]

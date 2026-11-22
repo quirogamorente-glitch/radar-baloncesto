@@ -1,71 +1,83 @@
 {
- "actualizado": "2026-11-22T08:50+00:00",
+ "actualizado": "2026-11-22T17:02+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22UCAM+Murcia%22+baloncesto+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 37,
+   "guardadas": 37
   },
   {
    "fuente": "Google Noticias · UCAM CB",
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22UCAM+Murcia+CB%22+OR+%22UCAM+CB%22+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 20,
+   "guardadas": 20
   },
   {
    "fuente": "Fundación CB Granada (web oficial)",
    "ok": true,
    "leidas": 10,
-   "guardadas": 1
+   "guardadas": 2
   },
   {
    "fuente": "Google Noticias · Covirán Granada",
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Covir%C3%A1n+Granada%22+OR+%22Fundaci%C3%B3n+CB+Granada%22+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 26,
+   "guardadas": 26
   },
   {
    "fuente": "Google Noticias · Olga Lorente",
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Olga+Lorente%22+baloncesto+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 0,
+   "guardadas": 0
   },
   {
    "fuente": "Google Noticias · Jaime Nadal",
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Jaime+Nadal%22+UCAM+OR+baloncesto+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 5,
+   "guardadas": 5
   },
   {
    "fuente": "Google Noticias · Noelia Gómez Mira",
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Noelia+G%C3%B3mez+Mira%22+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 0,
+   "guardadas": 0
   },
   {
    "fuente": "Google Noticias · Liga Endesa",
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Liga+Endesa%22+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 100,
+   "guardadas": 100
   },
   {
    "fuente": "Google Noticias · Liga Endesa mercado",
-   "ok": false,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Liga+Endesa%22+fichaje+OR+renovaci%C3%B3n+OR+lesi%C3%B3n+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 28,
+   "guardadas": 28
   },
   {
    "fuente": "Google Noticias · Euroliga",
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Euroliga+baloncesto+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 100,
+   "guardadas": 100
   },
   {
    "fuente": "Google Noticias · EuroCup",
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=EuroCup+baloncesto+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 54,
+   "guardadas": 54
   },
   {
    "fuente": "Google Noticias · BCL",
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Basketball+Champions+League%22+OR+%22BCL%22+baloncesto+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 5,
+   "guardadas": 5
   },
   {
    "fuente": "Google Noticias · Primera FEB",
-   "ok": false,
-   "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Primera+FEB%22+when%3A3d&hl=es&gl=ES&ceid=ES:es"
+   "ok": true,
+   "leidas": 50,
+   "guardadas": 50
   },
   {
    "fuente": "Gigantes del Basket",

@@ -1,10 +1,16 @@
 # Radar de baloncesto
 
-Actualizado: 2026-11-23T02:55+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-11-23T12:12+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (71)
+## UCAM Murcia CB (63)
 
+- 2026-11-23 11:36 UTC · **La UCAM luce en su 30 aniversario los frutos de su apoyo al olimpismo español** — UCAM Deportes
+- 2026-11-23 11:26 UTC · **Jonah Radebaugh se hace centenario con el UCAM Murcia CB y entra en un selecto club** — COPE
+- 2026-11-23 11:25 UTC · **El equipo academia de UCAM Esports Club se proclama campeón de Madrid in Game** — UCAM Deportes
+- 2026-11-23 10:56 UTC · **UCAM Murcia aprovecha el parón FIBA para hacer borrón y cuenta nueva** — Cadena SER
+- 2026-11-23 10:33 UTC · **Seis jugadores del UCAM Murcia se concentrarán con sus selecciones** — UCAM Deportes
+- 2026-11-23 05:01 UTC · **El pobre acierto en los tiros de dos, un lastre para el UCAM Murcia** — La Opinión de Murcia
 - 2026-11-22 22:41 UTC · **Temporada Dino Radoncic** — ACB
 - 2026-11-22 19:05 UTC · **El filial del UCAM CB cae en Santiago un partido que ganaba por 16 al descanso (71-69)** — Murcia Plaza
 - 2026-11-22 17:00 UTC · **Checa: "Tenemos que aprender a cerrar antes los partidos"** — UCAM Deportes
@@ -31,12 +37,14 @@ Actualizado: 2026-11-23T02:55+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-21 22:35 UTC · **CVictoria de oficio de Casademont Zaragoza ante UCAM Murcia (72-74)** — ACB
 - 2026-11-21 22:11 UTC · **El UCAM Murcia reacciona tarde y cae ante Zaragoza en el Palacio** — Cadena SER
 - 2026-11-21 22:11 UTC · **El Unicaja se aleja del UCAM Murcia y el Manresa gana al Andorra un duelo clave en zona baja** — Europa Press
-- 2026-11-21 20:17 UTC · **UCAM Murcia vs Casademont Zaragoza 21 nov 2026** — ACB
+- 2026-11-21 20:17 UTC · **UCAM Murcia vs Casademont Zaragoza 21 nov 2026 | ACB Live Resumen del Partido | ACB.com** — ACB
 - 2026-11-21 20:17 UTC · **El UCAM Murcia CB no llega a la orilla** — Onda Regional de Murcia | ORM
+- 2026-11-21 20:17 UTC · **UCAM Murcia vs Casademont Zaragoza 21 nov 2026** — ACB
 - 2026-11-21 20:04 UTC · **UCAM Murcia vs Casademont Zaragoza Nov 21, 2026** — ACB
 - 2026-11-21 19:45 UTC · **Liga Endesa: UCAM Murcia - Casdemont Zaragoza, en directo** — La Opinión de Murcia
 - 2026-11-21 18:57 UTC · **El BSR Reformatteria Puertollano no puede con UCAM Murcia** — Lanza Digital
 - 2026-11-21 18:10 UTC · **Ver Obradoiro - UCAM Murcia Car Online en Directo | DAZN ES** — DAZN
+- 2026-11-21 18:00 UTC · **Jose López firma un doblete de campeonatos con Dhelmise y Excadrill** — UCAM Deportes
 - 2026-11-21 17:53 UTC · **Informe del rival: Así es el Yeclano Deportivo** — UCAM Deportes
 - 2026-11-21 14:25 UTC · **Resultados de UCAM Murcia vs Real Madrid, historial de enfrentamientos (H2H) | Baloncesto** — Flashscore.es
 - 2026-11-21 13:40 UTC · **El Casademont quiere volver a la senda de la victoria ante el difícil UCAM Murcia** — Mundo Deportivo
@@ -57,28 +65,14 @@ Actualizado: 2026-11-23T02:55+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-20 12:39 UTC · **Sito reivindica a Forrest: «Es el mejor jugador que tenemos ahora mismo, con una diferencia abismal»** — La Opinión de Murcia
 - 2026-11-20 12:35 UTC · **Sito Alonso y su fe ciega en Juani Marcos: "Tiene que ganar confianza en sí mismo y eso va a llegar"** — Cadena SER
 - 2026-11-20 12:35 UTC · **Thibaut Courtois amplía su contrato con el Real Madrid hasta 2028** — La Verdad
-- 2026-11-20 12:26 UTC · **“Intentamos ser UCAM Murcia en todas las facetas del juego”** — UCAM Deportes
 - 2026-11-20 12:26 UTC · **El UCAM Murcia y JUVER renuevan una alianza con historia** — UCAM Deportes
+- 2026-11-20 12:26 UTC · **“Intentamos ser UCAM Murcia en todas las facetas del juego”** — UCAM Deportes
 - 2026-11-20 12:25 UTC · **García de Vitoria, entrenador del Casademont: "El UCAM Murcia son ninjas en defensa"** — Heraldo de Aragón
-- 2026-11-20 12:09 UTC · **Partidos Alec Brown** — ACB
-- 2026-11-20 12:06 UTC · **La Previa del UCAM Murcia CF - Yeclano Deportivo** — UCAM Deportes
-- 2026-11-20 12:00 UTC · **Sito Alonso: "Es un partido de máxima dificultad porque Zaragoza pelea por todo"** — Onda Regional de Murcia | ORM
-- 2026-11-20 11:50 UTC · **Pronóstico UCAM Murcia - Casademont Zaragoza - Liga ACB** — SportyTrader
-- 2026-11-20 11:35 UTC · **Sito Alonso pide al UCAM Murcia imponer su identidad ante Casademont Zaragoza: «Tenemos que ir a ganar siempre»** — Murcia Actualidad
-- 2026-11-20 11:21 UTC · **El UCAM Business Class e Inforges abordan una jornada sobre ciberseguridad e Inteligencia Artificial** — UCAM Deportes
-- 2026-11-20 10:47 UTC · **Gonzalo García de Vitoria: "Tenemos que saber que el partido ante UCAM Murcia va a ser muy físico"** — Aragón Play
-- 2026-11-20 10:42 UTC · **Sito Alonso advierte sobre el peligro del Casademont Zaragoza: “Han hecho un equipo capacitado para luchar por todo** — MurciaEconomía.com
-- 2026-11-20 10:31 UTC · **Horario y dónde ver por televisión el UCAM Murcia - Casademont Zaragoza de este sábado** — Sport Aragón
-- 2026-11-20 10:12 UTC · **UCAM MURCIA, UN NUEVO RETO LEJOS DE CASA** — Basket Zaragoza |
-- 2026-11-20 08:57 UTC · **Almagromur, nuevo integrante del UCAM Business Club** — UCAM Deportes
-- 2026-11-20 08:30 UTC · **El BSR AMIAB Puertollano recibe al UCAM Murcia en la recta final de la primera fase** — La Tribuna de Ciudad Real
-- 2026-11-20 05:25 UTC · **Alejandro Gómez: "Me preocupa bastante más perder la identidad que acabar decimocuartos o sextos"** — MurciaEconomía.com
-- 2026-11-20 05:04 UTC · **Los principales clubes de la Región tiran de sus núcleos de empresas para equilibrar las cuentas** — Murcia Plaza
-- 2026-11-20 05:00 UTC · **Dylan Ennis, del UCAM Murcia, entra en el selecto ‘club de los 4.000 minutos’** — La Opinión de Murcia
-- 2026-11-20 04:00 UTC · **Horario y dónde ver el partido UCAM Murcia-Casademont Zaragoza** — Heraldo de Aragón
 
-## Covirán Granada (47)
+## Covirán Granada (42)
 
+- 2026-11-23 11:53 UTC · **El Covirán sale de los playoff tras una jornada que agita la FEB** — GranadaDigital
+- 2026-11-23 09:47 UTC · **Arturo Ruiz y Álvaro Cárdenas, concentrados con la selección** — Ideal
 - 2026-11-22 23:46 UTC · **El Racing gana 3-2 a la Real Sociedad con un doblete de Zabiri y un penalti de Canales** — Ifomo Noticias 24h
 - 2026-11-22 20:29 UTC · **El Motril y el Huétor Vega vencen, convencen y golean** — Ideal
 - 2026-11-22 20:24 UTC · **Los Ríos B venció 0-15 a Internacional América en Segunda Regional** — Filtración.es
@@ -119,139 +113,74 @@ Actualizado: 2026-11-23T02:55+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-20 16:43 UTC · **Grupo Alega–Covirán Granada: horario del partido en el Trueba** — Ifomo Noticias 24h
 - 2026-11-20 16:43 UTC · **Reinosa acogerá el Campeonato de Cantabria de ciclocross nocturno el 5 de diciembre** — Ifomo Noticias 24h
 - 2026-11-20 15:57 UTC · **Onda Deportiva Granada, viernes 20/11/2026** — Onda Cero
-- 2026-11-20 11:42 UTC · **El Coviran juega el último partido de noviembre ante el Grupo Alega Cantabria** — Fundación CB Granada (web oficial) · https://fundacioncbgranada.es/el-coviran-juega-el-ultimo-partido-de-noviembre-ante-el-grupo-alega-cantabria/
-- 2026-11-20 11:00 UTC · **Arturo Ruiz: "Cuando recuperemos la normalidad, seremos el Covirán que queremos ser"** — Granada Hoy
-- 2026-11-20 10:41 UTC · **Arturo Ruiz: «Estoy centrado en seguir picando piedra«** — Ideal
-- 2026-11-20 10:30 UTC · **Arturo Ruiz: "Sigo pensando en que esto va a salir bien"** — GranadaDigital
-- 2026-11-20 09:48 UTC · **Más allá del Triple 2x03 | De malas sensaciones y responsabilidades** — GranadaDigital
-- 2026-11-20 08:00 UTC · **El Covirán vuelve a perder en un final ajustado, 85-84** — Granada en Juego
-- 2026-11-20 08:00 UTC · **El Granada CF–Real Madrid de Liga F, partido de la jornada en MarcadorEnJuego** — Granada en Juego
 
 ## Periodistas preferentes (6)
 
+- 2026-11-23 07:38 UTC · **Al Hozono Global Jairis no se le olvida ganar tras el parón y firma su duodécima victoria consecutiva** — MurciaEconomía.com
+- 2026-11-23 05:27 UTC · **ElPozo Murcia recibe al Sporting Anderlecht en el histórico regreso de la Champions al Palacio** — murciaeconomia.com
+- 2026-11-23 05:27 UTC · **El FC Cartagena conoce hoy a su rival de élite para la segunda ronda de la Copa del Rey** — MurciaEconomía.com
 - 2026-11-22 17:10 UTC · **Un Cartagonova en ebullición celebra un triunfo agónico en medio de la protesta social** — MurciaEconomía.com
 - 2026-11-22 13:20 UTC · **El Yeclano Deportivo frena el asalto al liderato del UCAM Murcia CF en La Condomina** — murciaeconomia.com
 - 2026-11-21 22:16 UTC · **La reacción defensiva no basta y Casademont Zaragoza se lleva un final de infarto en Murcia (72-74)** — MurciaEconomía.com
-- 2026-11-20 10:42 UTC · **Sito Alonso advierte sobre el peligro del Casademont Zaragoza: “Han hecho un equipo capacitado para luchar por todo** — MurciaEconomía.com
-- 2026-11-20 08:57 UTC · **Checa hace autocrítica antes de recibir al Yeclano: “Si alguien entorpeció el trabajo del equipo la semana pasada, fui yo”** — murciaeconomia.com
-- 2026-11-20 05:25 UTC · **Alejandro Gómez: "Me preocupa bastante más perder la identidad que acabar decimocuartos o sextos"** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (117)
+## Resto (últimas 12 h) (59)
 
+- 2026-11-23 12:00 UTC · **El Valencia Basket de Osetkowski, Mario y Taylor bate su récord de anotación en un partido oficial de la Liga Endesa justo antes de jugar contra el Unicaja** — La Opinión de Málaga
+- 2026-11-23 11:54 UTC · **Badio vuelve al Roig Arena ante el rival de una de las mayores gestas del Valencia Basket** — Superdeporte
+- 2026-11-23 11:52 UTC · **Baskonia vs Anadolu Efes: estadísticas previas y datos en directo | Euroliga 2026/2027** — Diario AS
+- 2026-11-23 11:50 UTC · **La selección española se concentra en Guadalajara con dos aragoneses en la lista de convocados** — Heraldo de Aragón
+- 2026-11-23 11:44 UTC · **Rasir Bolton (Breogán), MVP de noviembre de la Liga Endesa** — Diario de Santiago
+- 2026-11-23 11:38 UTC · **Dragan Apic, fuerza interior al servicio de iLERNA Lleida** — ACB
+- 2026-11-23 11:38 UTC · **Mercado Liga ACB: el Baskonia ficha a Zacharie Perrin y el Lleida a Dragan Apic** — Diario Sur
+- 2026-11-23 11:38 UTC · **Oficial: Zach Perrin, baskonista hasta 2030** — Diario AS
+- 2026-11-23 11:37 UTC · **La cantera amarilla suma una nueva jornada de grandes resultados** — cbgrancanaria.net
+- 2026-11-23 11:35 UTC · **Valencia vs. Panathinaikos: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-11-23 11:06 UTC · **Rasir Bolton, MVP del mes de noviembre** — ACB
+- 2026-11-23 11:05 UTC · **Baskonia ficha a Perrin hasta 2030 y mantiene la confianza en Perasovic** — Gasteiz Hoy
+- 2026-11-23 11:01 UTC · **Quién es Zacharie Perrin, fichaje del Kosner Baskonia hasta 2030** — Gigantes del Basket
+- 2026-11-23 11:00 UTC · **Zacharie Perrin deja Lleida y ficha por el Kosner Baskonia hasta 2030** — Gigantes del Basket · https://www.gigantes.com/euroliga/zacharie-perrin-fichaje-kosner-baskonia/
+- 2026-11-23 10:58 UTC · **Zacharie Perrin deja de ser jugador del iLERNA Lleida** — ACB
+- 2026-11-23 10:55 UTC · **Barcelona vs. Fenerbahce: plantillas, horario y dónde ver** — bet365 - Apuestas deportivas en la red
+- 2026-11-23 10:54 UTC · **Oficial: Perrin ficha por el Baskonia hasta 2030** — Diario de Noticias de Álava
+- 2026-11-23 10:48 UTC · **Zacharie Perrin, juventud y talento para el juego interior de Kosner Baskonia hasta 2030** — ACB
+- 2026-11-23 10:43 UTC · **Oifical: iLERNA Lleida y Zacharie Perrin separan sus caminos** — SPORT
+- 2026-11-23 10:42 UTC · **El cordobés Gonzalo Orozco conquista su primer MVP de la jornada en Primera FEB** — El Día de Córdoba
+- 2026-11-23 10:33 UTC · **Dónde y cómo ver en directo los clasificatorios para la Copa del Mundo FIBA ​​de esta semana** — Eurohoops (español) · https://www.eurohoops.net/es/trademarks-es/2039605/donde-y-como-ver-en-directo-los-clasificatorios-para-la-copa-del-mundo-fiba-%e2%80%8b%e2%80%8bde-esta-semana/
+- 2026-11-23 10:29 UTC · **Zach Perrin ya es nuevo jugador de Baskonia** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2039599/zach-perrin-abandona-el-ilerna-lleida-proximo-destino-kosner-baskonia/
+- 2026-11-23 10:24 UTC · **Clasificación del Casademont Zaragoza en la Liga Endesa hoy, posición y resultados** — Enjoy Zaragoza
+- 2026-11-23 10:20 UTC · **Baskonia confirma la llegada del pívot Zach Perrin, traspasado desde el iLerna Lleida** — Mundo Deportivo
+- 2026-11-23 10:15 UTC · **Seis bajas por lesión: el drama del Barça de basket que pasa factura a Sekulic** — Crónica Global
+- 2026-11-23 09:50 UTC · **Clasificación del Casademont Zaragoza femenino en la Liga Femenina hoy, posición y resultados** — Enjoy Zaragoza
+- 2026-11-23 09:50 UTC · **Shai Gilgeous-Alexander sorprendido con Aday Mara: "Siempre sonría, es divertido. Y siempre compite. Estoy emocionado por ver cómo va a ser su carrera, tiene todo el potencial del mundo"** — SPORT
+- 2026-11-23 09:41 UTC · **La Federación Serbia de Baloncesto aviva su polémica con Ibon Navarro** — Mundo Deportivo
+- 2026-11-23 09:39 UTC · **Top 5 GWM, especial James Bond** — ACB
+- 2026-11-23 09:39 UTC · **El Baskonia anunciará hoy el fichaje de Zach Perrin** — Diario AS
+- 2026-11-23 09:30 UTC · **Resumen de la NBA: Jokic logra un triple-doble, Giannis no juega y Mykhailiuk anota 39 puntos** — Eurohoops (español) · https://www.eurohoops.net/es/nba-news-es/2039578/resumen-de-la-nba-jokic-logra-un-triple-doble-giannis-no-juega-y-mykhailiuk-anota-39-puntos/
+- 2026-11-23 09:16 UTC · **Serbia reprende a Ibon** — Diario AS
+- 2026-11-23 09:15 UTC · **Los Celtics firman su peor racha en cinco años y encienden las alarmas en Boston** — SPORT
+- 2026-11-23 09:06 UTC · **Baloncesto masculino: U BT Cluj, derrota en casa ante el Zadar, en la Liga Adriática** — Informat.ro
+- 2026-11-23 09:01 UTC · **Josh Nebo, entre tres y cuatro meses de baja por una lesión de rodilla** — ACB
+- 2026-11-23 08:58 UTC · **Remontada a base de carácter en San Pablo: Insolac Caja87 tumba al Zamora y respira antes del parón** — Muchodeporte
+- 2026-11-23 08:43 UTC · **Valencia Basket, una máquina de sumar de 100 en 100: lo ha logrado ya en 38 de los últimos 111 partidos** — MARCA
+- 2026-11-23 08:43 UTC · **Ibon Navarro, en un lío con la Federación Serbia: "Declaraciones groseras"** — Málaga Hoy
+- 2026-11-23 08:42 UTC · **El KO deja 71 eliminados en la Jornada 9 y solo 681 participantes siguen vivos** — ACB
+- 2026-11-23 08:41 UTC · **Más problemas para Sekulic: así está la enfermería del Barça tras la importante lesión de Josh Nebo** — Mundo Deportivo
+- 2026-11-23 08:28 UTC · **Real Madrid y Valencia Basket, campeones del Torneo FLL** — Gigantes del Basket · https://www.gigantes.com/mas-basket/real-madrid-y-valencia-basket-campeones-del-torneo-fll/
+- 2026-11-23 08:24 UTC · **Estos son los resultados del fin de semana** — Superdeporte
+- 2026-11-23 08:22 UTC · **Victorias para Palencia, Valladolid, Burgos y Salamanca en una nueva jornada de las competiciones FEB** — Federación de Baloncesto de Castilla y León
+- 2026-11-23 08:07 UTC · **El resumen de la noche NBA: Highlights, resultados y estadísticas. Denver anota 151 puntos** — Gigantes del Basket · https://www.gigantes.com/nba/resumen-nba-hoy-highlights-resultados-estadisticas/
+- 2026-11-23 08:05 UTC · **J.8: Aina Ayuso, la MVP que lidera el sueño murciano** — Federación Española de Baloncesto
+- 2026-11-23 07:51 UTC · **El emotivo homenaje del Real Madrid a Lolo Sainz** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/real-madrid-homenaje-lolo-sainz-movistar-arena/
+- 2026-11-23 07:48 UTC · **J.9: Gonzalo Orozco, el MVP de la verde luz del Cajasol Coto Córdoba** — Federación Española de Baloncesto
+- 2026-11-23 07:38 UTC · **Al Hozono Global Jairis no se le olvida ganar tras el parón y firma su duodécima victoria consecutiva** — MurciaEconomía.com
+- 2026-11-23 07:26 UTC · **“¿Killian Hayes? El tiempo dirá si el Barça es candidato a la Euroliga con él. Puede aportar grandes cosas”** — Mundo Deportivo
+- 2026-11-23 07:04 UTC · **La selección de Mateo, ante una semana trascendental** — MARCA
+- 2026-11-23 06:00 UTC · **Cómo ver lo mejor de la Euroliga 2026/27 en Movistar Plus: calendario y partidos destacados** — Movistar Plus
+- 2026-11-23 05:39 UTC · **Otra gran jugada de Carracedo** — Diario AS
+- 2026-11-23 05:30 UTC · **¡Alerta máxima en el Barça! Así está la enfermería azulgrana** — SPORT
+- 2026-11-23 05:27 UTC · **ElPozo Murcia recibe al Sporting Anderlecht en el histórico regreso de la Champions al Palacio** — murciaeconomia.com
+- 2026-11-23 05:27 UTC · **El FC Cartagena conoce hoy a su rival de élite para la segunda ronda de la Copa del Rey** — MurciaEconomía.com
+- 2026-11-23 04:00 UTC · **Un Básquet Coruña de récord a nivel ofensivo** — DXT Campeón
+- 2026-11-23 03:01 UTC · **Así ha visto Alberto Menéndez la victoria del Oviedo Baloncesto: El Alimerka se lo cree** — La Nueva España
+- 2026-11-23 02:40 UTC · **Resultados de Barcelona vs Olimpia Milano, historial de enfrentamientos (H2H) | Baloncesto** — Flashscore.es
 - 2026-11-23 01:29 UTC · **Lolo Sainz recibe el cariño del madridismo en el duelo ante el Joventut** — Diario de Santiago
-- 2026-11-22 23:28 UTC · **Real Madrid vs Asisa Joventut Nov 22, 2026** — ACB
-- 2026-11-22 22:41 UTC · **El Fibwi Mallorca Bàsquet Palma cae por 68-83 ante el Cajasol Coto Córdoba** — Bahía San Agustín
-- 2026-11-22 22:22 UTC · **Feliz gana el duelo de magos a Rubio en un partido histórico para Pedro Martínez** — Diario Libre
-- 2026-11-22 22:12 UTC · **Javi Rodríguez, tras la victoria (76-68) del Alimerka Oviedo Baloncesto al HLA Alicante: "El equipo ha estado soberbio"** — La Nueva España
-- 2026-11-22 21:58 UTC · **J.8 | Prórrogas, cambios de liderato y muchos puntos** — Federación Española de Baloncesto
-- 2026-11-22 21:47 UTC · **El Valencia Basket celebra su 40 aniversario con un récord de anotación: 129 puntos** — EL PAÍS
-- 2026-11-22 21:47 UTC · **El Valencia Basket celebra su 40 aniversario con un récord de anotación: 129 puntos | Baloncesto | Deportes** — EL PAÍS
-- 2026-11-22 21:34 UTC · **Martínez: “Es un momento complicado”** — Diario AS
-- 2026-11-22 21:14 UTC · **Jornada 9 de la Liga Endesa: récords de anotación y un Real Madrid invicto** — piratasdelbasket
-- 2026-11-22 21:03 UTC · **La mayor anotación de la historia del Valencia Basket** — Las Provincias
-- 2026-11-22 21:02 UTC · **El Alimerka Oviedo dinamita la condición de líder invicto del HLA Alicante** — piratasdelbasket
-- 2026-11-22 20:53 UTC · **El Coto Córdoba reacciona ante el colista (68-83)** — El Debate
-- 2026-11-22 20:46 UTC · **Clasificación ACB: El Unicaja se marcha séptimo al parón** — Málaga Hoy
-- 2026-11-22 20:43 UTC · **Feliz amarga a su exequipo y la Penya cae en la visita al Real Madrid** — SPORT
-- 2026-11-22 20:42 UTC · **Sekulic: “Esto no es una competición de quién tiene más problemas”** — Diario AS
-- 2026-11-22 20:42 UTC · **El Cajasiete Gran Canaria corta la racha del Bàsquet Menorca (88-62)** — Bàsquet Menorca
-- 2026-11-22 20:40 UTC · **91-88: Andrés Feliz lidera la resistencia del Madrid ante un gran ASISA Joventut** — Mundo Deportivo
-- 2026-11-22 20:34 UTC · **El Córdoba ahonda la crisis del Fibwi** — Ultima Hora
-- 2026-11-22 20:33 UTC · **A la Penya le sobran 20 segundos en Madrid** — La Vanguardia
-- 2026-11-22 20:32 UTC · **Pedro Martínez: “Nos alegramos de haber sacado este partido adelante”** — Real Madrid CF | Web Oficial
-- 2026-11-22 20:32 UTC · **Sekulic, tras caer en Tenerife: "En la segunda parte nos faltó la energía con la que arrancamos el partido"** — SPORT
-- 2026-11-22 20:27 UTC · **Resumen del Real Madrid vs Joventut , jornada 9 de la Liga Endesa** — Diario AS
-- 2026-11-22 20:26 UTC · **Feliz rescate** — Diario AS
-- 2026-11-22 20:26 UTC · **Así queda la clasificación de la ACB: El Casademont Zaragoza se asienta en la zona noble de la tabla** — El Periódico de Aragón
-- 2026-11-22 20:26 UTC · **El Fibwi Mallorca toca fondo tras caer ante un rival directo por la salvación en Son Moix** — Diario de Mallorca
-- 2026-11-22 20:26 UTC · **El Real Madrid recupera la sonrisa con una victoria muy sufrida ante el Joventut para seguir invicto en la Liga Endesa** — El Español
-- 2026-11-22 20:24 UTC · **Así queda el Unicaja en la clasificación de la Liga Endesa tras la jornada 9** — La Opinión de Málaga
-- 2026-11-22 20:22 UTC · **El Tenerife confirma la crisis del Barça** — El Imparcial - Diario liberal e independiente
-- 2026-11-22 20:21 UTC · **Feliz salva la imbatibilidad madridista ante el órdago verdinegro (91-88)** — ACB
-- 2026-11-22 20:19 UTC · **Sekulic: "No empezamos la segunda parte con la misma energía"** — Mundo Deportivo
-- 2026-11-22 20:19 UTC · **El Hozono Global Jairis se impone al Movistar Estudiantes y afianza su proyecto con la renovación de Marie Mané** — COPE
-- 2026-11-22 20:16 UTC · **Un viaje por la Jornada 9: récords de anotación y un Pedro Martínez histórico** — ACB
-- 2026-11-22 20:16 UTC · **El Real Madrid recibe el miércoles al Zalgiris en la Euroliga** — Real Madrid CF | Web Oficial
-- 2026-11-22 20:14 UTC · **El Real Madrid se sobrepone a un Ricky Rubio legendario y se libra de una semana catastrófica** — OkDiario
-- 2026-11-22 20:11 UTC · **La Laguna Tenerife resiste y acaba diluyendo al Barcelona** — MARCA
-- 2026-11-22 20:10 UTC · **Kenan Kamenjas, Jugador de la Jornada 9 de la Liga Endesa 2026-27** — ACB
-- 2026-11-22 20:10 UTC · **Así queda la clasificación de la Liga Endesa tras la victoria del Madrid y la derrota del Barça** — Mundo Deportivo
-- 2026-11-22 20:05 UTC · **Un extraordinario Ricky Rubio hace sudar la novena al Madrid en una noche de récord y homenaje en el Palacio** — El Mundo
-- 2026-11-22 20:03 UTC · **El Madrid cierra la herida con una victoria "in extremis" ante el Asisa Joventut** — La Razón
-- 2026-11-22 20:01 UTC · **Savignani, contento con el triunfo del Cajasiete Gran Canaria: «Hemos sido inteligentes ante un rival intenso»** — Canarias7
-- 2026-11-22 20:00 UTC · **El Real Madrid suma su novena victoria consecutiva en Liga** — Real Madrid
-- 2026-11-22 20:00 UTC · **El Madrid salva los muebles y sigue sin convencer** — Eurohoops (español) · https://www.eurohoops.net/es/acb-es/2039321/el-madrid-salva-los-muebles-y-sigue-sin-convencer/
-- 2026-11-22 19:56 UTC · **Real Madrid vs Asisa Joventut 22 nov 2026** — ACB
-- 2026-11-22 19:56 UTC · **Así queda el Casademont Zaragoza en la clasificación de la Liga Endesa** — Heraldo de Aragón
-- 2026-11-22 19:23 UTC · **Emotivo homenaje del madridismo al legendario Lolo Sainz** — MARCA
-- 2026-11-22 19:18 UTC · **Las palabras de Aleksander Sekulic tras la derrota del Barça en la visita a Tenerife** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/palabras-sekulic-tenerife-derrota-barca-2026/
-- 2026-11-22 19:18 UTC · **Orozco y Armus lideran en Palma el primer triunfo visitante del Cajasol Coto Córdoba (68-83)** — elDiario.es
-- 2026-11-22 19:17 UTC · **Un homenaje a los inicios con un triunfo de récord ante Río Breogán (129-111)** — Valencia Basket Club
-- 2026-11-22 19:15 UTC · **Abdu Kone impacta con el Barça** — ACB
-- 2026-11-22 19:14 UTC · **94-82: Semana fatal para el Barça, que sufre la tercera derrota seguida** — Mundo Deportivo
-- 2026-11-22 19:14 UTC · **Un Gonzalo Orozco imperial lidera en Mallorca a un Cajasol Coto que logra su primera victoria como visitante** — Diario Córdoba
-- 2026-11-22 19:12 UTC · **El 1x1 del Barça en Tenerife** — Mundo Deportivo
-- 2026-11-22 19:11 UTC · **Resumen del La Laguna Tenerife vs Barcelona, jornada 9 de la Liga Endesa** — Diario AS
-- 2026-11-22 19:11 UTC · **Así fue el homenaje del Real Madrid a Lolo Sainz** — ACB
-- 2026-11-22 19:06 UTC · **Valencia Basket sigue imparable y bate ante Breogán su récord de anotación histórico (129-111)** — El Desmarque
-- 2026-11-22 19:00 UTC · **Semana ‘horribilis’ del Barça** — Diario AS
-- 2026-11-22 18:59 UTC · **La Laguna Tenerife castiga el desplome del Barça tras el descanso** — Eurohoops (español) · https://www.eurohoops.net/es/acb-es/2039367/la-laguna-tenerife-castiga-el-desplome-del-barca-tras-el-descanso/
-- 2026-11-22 18:58 UTC · **El Madrid gana el pulso a la 'Penya' y el Barça cae** — Diario Palentino
-- 2026-11-22 18:57 UTC · **Xavi Albert analiza la victoria ante el Río Breogán y desvela su mejor recuerdo de los 40 años del club** — Levante-EMV
-- 2026-11-22 18:49 UTC · **Real Madrid vs Asisa Joventut 22 nov 2026 | ACB Live Estadísticas del Partido | ACB.com** — ACB
-- 2026-11-22 18:43 UTC · **Valencia Basket brinda por su historia con un show para el recuerdo (129-111)** — ACB
-- 2026-11-22 18:43 UTC · **El Alimerka Oviedo dinamita al líder** — El Comercio
-- 2026-11-22 18:36 UTC · **El Partizán de Fuenlabrada cae ante el Tizona Burgos tras encajar un parcial de 0-22** — El Diario de Madrid
-- 2026-11-22 18:33 UTC · **El Valencia Basket bate su récord anotador** — ACB
-- 2026-11-22 18:27 UTC · **Armoni Brooks aúpa al Valencia y troncha la resistencia del Río Breogán en un partidazo** — MARCA
-- 2026-11-22 18:25 UTC · **Homenaje a Hernández Rizo, leyenda del baloncesto tinerfeño** — ACB
-- 2026-11-22 18:23 UTC · **Pedro Martínez, entrenador con más partidos en era ACB** — ACB
-- 2026-11-22 18:23 UTC · **129-111: Valencia Basket bate su récord anotador en su victoria ante el Río Breogán** — Mundo Deportivo
-- 2026-11-22 18:19 UTC · **Rafa Nadal, volcado con el Real Madrid de baloncesto: presente en el palco del Palacio para el partido cont...** — OkDiario
-- 2026-11-22 18:17 UTC · **El Bàsquet Menorca no aguanta ante el Gran Canaria** — Menorca - Es diari
-- 2026-11-22 18:12 UTC · **Brooks lidera a un Valencia de récord** — Diario AS
-- 2026-11-22 18:07 UTC · **Exhibición con récord estratosférico en un partido de vértigo en el Roig Arena** — Levante-EMV
-- 2026-11-22 18:04 UTC · **Florentino Pérez y Rafa Nadal, en el Movistar Arena** — Real Madrid
-- 2026-11-22 18:03 UTC · **Tavares rompe la barrera de los 700 y acecha a Carroll** — Diario AS
-- 2026-11-22 18:03 UTC · **Primera derrota del Movistar Estudiantes en el Movistar Arena tras caer por un punto ante Ourense** — El Diario de Madrid
-- 2026-11-22 18:00 UTC · **Tavares, 700 partidos con el Real Madrid** — Real Madrid
-- 2026-11-22 18:00 UTC · **Valencia Basket bate su récord de anotación en un festival ofensivo ante Breogán** — Plaza Deportiva
-- 2026-11-22 18:00 UTC · **Histórico: Pedro Martínez supera a García Reneses y ya es el entrenador con más partidos en la ACB** — OkDiario
-- 2026-11-22 18:00 UTC · **Real Madrid - Asisa Joventut + La Prórroga Liga Endesa** — DAZN
-- 2026-11-22 18:00 UTC · **El Insolac Caja 87 remonta ante Caja Rural CB Zamora y frena su racha antes del parón (81-74)** — ZA3.0
-- 2026-11-22 17:50 UTC · **Estadísticas del Real Madrid - Joventut de la jornada 9 de la Liga Endesa** — ABC
-- 2026-11-22 17:30 UTC · **Qué ha pasado hoy en la Liga Endesa: El Real Madrid mantiene su invicto y La Laguna Tenerife supera al Barça** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/que-ha-pasado-hoy-jornada9-liga-endesa-2026/
-- 2026-11-22 17:30 UTC · **Real Madrid - Asisa Joventut, en directo: partido de la Liga Endesa, hoy en vivo** — SPORT
-- 2026-11-22 17:30 UTC · **Ibon Navarro no se corta: "La selección nacional no será una prioridad para nosotros"** — Mundo Deportivo
-- 2026-11-22 17:10 UTC · **Un Cartagonova en ebullición celebra un triunfo agónico en medio de la protesta social** — MurciaEconomía.com
-- 2026-11-22 17:03 UTC · **El Barça no gana para disgustos: Nebo, tres o cuatro meses de baja** — MARCA
-- 2026-11-22 16:51 UTC · **La Laguna Tenerife vs Barça 22 nov 2026 | ACB Live Estadísticas del Partido | ACB.com** — ACB
-- 2026-11-22 16:51 UTC · **La Laguna Tenerife vs Barça 22 nov 2026** — ACB
-- 2026-11-22 16:45 UTC · **La lesión de Josh Nebo: Qué tiene y cuándo vuelve con el Barça** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/josh-nebo-lesion-barca-cuando-vuelve/
-- 2026-11-22 16:43 UTC · **La Laguna Tenerife - Barça, en directo: partido de la Liga Endesa, en vivo** — SPORT
-- 2026-11-22 16:38 UTC · **Josh Nebo, fuera tres o cuatro meses** — Diario AS
-- 2026-11-22 16:34 UTC · **El eterno recuerdo de Marcelinho** — Diario AS
-- 2026-11-22 16:34 UTC · **Un apagón final condena al Girona en Santiago (91-81)** — El Periódico
-- 2026-11-22 16:33 UTC · **Qué ha pasado en la jornada 8 de la Liga Femenina Endesa: Resultados abultados y Spar Girona se reencuentra con la victoria** — Gigantes del Basket · https://www.gigantes.com/liga-femenina/que-ha-pasado-jornada-8-liga-femenina-endesa/
-- 2026-11-22 16:30 UTC · **Qué ha pasado hoy en la Liga Endesa: Surne Bilbao, Leyma Coruña y Monbus Obradoiro no fallan en casa** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/que-ha-pasado-hoy-jornada9-liga-endesa-2026/
-- 2026-11-22 16:22 UTC · **El Baskonia ata el fichaje de Perrin** — Diario de Noticias de Álava
-- 2026-11-22 16:14 UTC · **Josh Nebo estará entre 3 y 4 meses de baja y deja cojo al Barça en la pintura** — La Vanguardia
-- 2026-11-22 16:08 UTC · **Valencia Basket vs Río Breogán 22 nov 2026** — ACB
-- 2026-11-22 16:08 UTC · **Valencia Basket vs Río Breogán 22 nov 2026 | ACB Live Estadísticas del Partido | ACB.com** — ACB
-- 2026-11-22 16:07 UTC · **Grave lesión de Josh Nebo** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2039220/grave-lesion-de-josh-nebo/
-- 2026-11-22 16:04 UTC · **Parte devastador en el Barça: Nebo, de tres a cuatro meses de baja** — Mundo Deportivo
-- 2026-11-22 16:02 UTC · **Real Madrid - Asisa Joventut en directo | Última hora de Liga Endesa en vivo hoy** — MARCA
-- 2026-11-22 16:02 UTC · **Sigue el drama en el Barça con las lesiones: ¡Josh Nebo puede estar de baja hasta cuatro meses!** — SPORT
-- 2026-11-22 16:02 UTC · **Real Madrid - Joventut en directo | Última hora de Liga Endesa en vivo hoy** — MARCA
-- 2026-11-22 16:00 UTC · **La Laguna Tenerife - Barcelona en directo | Última hora de Liga Endesa en vivo hoy** — MARCA
-- 2026-11-22 15:57 UTC · **Jaume Ponsarnau: "Estamos felices, pero sobre todo nuestra gente está contenta"** — Mundo Deportivo
-- 2026-11-22 15:53 UTC · **El tinerfeño Jacobo Díaz firma su mejor actuación en la ACB** — Radio Marca Tenerife
-- 2026-11-22 15:43 UTC · **El efecto contrario de Velimir Perasovic en el Baskonia** — Mundo Deportivo
-- 2026-11-22 15:43 UTC · **Los descartes de Xavi Albert contra Breogán** — Superdeporte
-- 2026-11-22 15:43 UTC · **El Bueno Arenas cae con las botas puestas contra el Askatuak (71-79)** — masquealba
-- 2026-11-22 15:30 UTC · **Previa Barça – Athletic Club: las azulgranas buscan cerrar el año con una victoria antes del parón** — SocBlaugrana
-- 2026-11-22 15:14 UTC · **El descarte de Xavi Albert en el Valencia Basket - Río Breogán de Liga Endesa** — Levante-EMV
-- 2026-11-22 15:03 UTC · **La vergüenza de Baskonia no cesa: 13ª derrota en los últimos 15 partidos** — SPORT
-- 2026-11-22 15:00 UTC · **Euskaltax Bilbao Basket - Unicaja Alhaurín de la Torre Liga U** — DAZN
-- 2026-11-22 14:59 UTC · **Normantas y Hlinason incendian Miribilla y llevan a Surne Bilbao al triunfo en el derbi** — Cadena SER
-- 2026-11-22 14:56 UTC · **Valencia Basket recibe a Hapoel Tel Aviv: hora y canales para ver la Euroliga hoy** — En Benalmadena

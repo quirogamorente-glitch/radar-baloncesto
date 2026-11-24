@@ -1,10 +1,11 @@
 # Radar de baloncesto
 
-Actualizado: 2026-11-24T00:05+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-11-24T09:43+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (68)
+## UCAM Murcia CB (66)
 
+- 2026-11-24 05:06 UTC · **Un respiro para coger impulso: el calendario pone a prueba la resistencia del UCAM Murcia** — murciaeconomia.com
 - 2026-11-23 21:35 UTC · **El UCAM Murcia llega al parón con el problema de la generación y activo en el mercado** — La Verdad
 - 2026-11-23 17:48 UTC · **El UCAM Murcia CB pierde a seis jugadores por las Ventanas FIBA** — La Opinión de Murcia
 - 2026-11-23 17:11 UTC · **El UCAM Murcia CF y el Real Murcia CF organizan un Triangular de Veteranos Benéfico en el Estadio Heredia 21 La Condomina** — UCAM Deportes
@@ -14,6 +15,8 @@ Actualizado: 2026-11-24T00:05+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-23 15:40 UTC · **Courtois: "Los títulos empiezan por tener un buen portero"** — La Verdad
 - 2026-11-23 15:40 UTC · **Mourinho libera de presión a Vinícius: "Si lo da todo, no necesita ser el hombre del partido"** — La Verdad
 - 2026-11-23 15:30 UTC · **La 'fuga' de internacionales deja al UCAM Murcia bajo mínimos durante el parón** — COPE
+- 2026-11-23 13:59 UTC · **Trayectoria Daniel Clark | Jugador acb | acb.com** — ACB
+- 2026-11-23 13:29 UTC · **Partidos José Ángel Antelo** — ACB
 - 2026-11-23 13:09 UTC · **Marcos, Raieste, Falk, Nakic, Steinbergs y Cate, del UCAM CB, van con sus selecciones** — Murcia Plaza
 - 2026-11-23 11:36 UTC · **La UCAM luce en su 30 aniversario los frutos de su apoyo al olimpismo español** — UCAM Deportes
 - 2026-11-23 11:26 UTC · **Jonah Radebaugh se hace centenario con el UCAM Murcia CB y entra en un selecto club** — COPE
@@ -68,13 +71,8 @@ Actualizado: 2026-11-24T00:05+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-21 12:15 UTC · **Florentino anuncia que "los mejores partidos" de competiciones de UEFA se verán gratis en India** — La Verdad
 - 2026-11-21 12:00 UTC · **UCAM Murcia vs Casademont Zaragoza: horario y dónde ver hoy por TV y online la Liga Endesa 2026/27 a través de DAZN** — DAZN
 - 2026-11-21 11:25 UTC · **Florentino Pérez: "Es indigno que a estas horas Tebas todavía no haya dimitido"** — La Verdad
-- 2026-11-21 08:00 UTC · **Más allá del patrocinio: las claves para construir un deporte con futuro** — Eldía
-- 2026-11-21 07:18 UTC · **Horario y dónde ver por TV y online el UCAM Murcia - Casademont Zaragoza de este sábado** — Sport Aragón
-- 2026-11-21 05:01 UTC · **El UCAM busca reconfirmar su mejoría antes del parón** — La Opinión de Murcia
-- 2026-11-21 04:30 UTC · **La previa del UCAM Murcia-Casademont Zaragoza: A por la Copa cortos de efectivos** — El Periódico de Aragón
-- 2026-11-21 04:00 UTC · **UCAM Murcia-Casademont Zaragoza: pulso entre aspirantes a la Copa del Rey** — Heraldo de Aragón
 
-## Covirán Granada (47)
+## Covirán Granada (48)
 
 - 2026-11-23 22:45 UTC · **El Covirán entra en balance negativo** — Ideal
 - 2026-11-23 21:45 UTC · **Sierra Nevada reconoce en su gala anual la capacidad de superación** — Ideal
@@ -82,6 +80,7 @@ Actualizado: 2026-11-24T00:05+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-23 16:36 UTC · **Lección para Kljajic y Parham** — Ideal
 - 2026-11-23 13:56 UTC · **El Bathco se juega ante el Benfica el primer puesto de su grupo europeo** — Ifomo Noticias 24h
 - 2026-11-23 13:56 UTC · **El Racing se medirá al Reus FC Reddis en la segunda ronda de la Copa del Rey** — Ifomo Noticias 24h
+- 2026-11-23 13:44 UTC · **El Coviran Granada iguala su peor arranque histórico (4-5) y cae fuera de playoff en pleno parón FIBA** — La Gaceta de Granada
 - 2026-11-23 11:53 UTC · **El Covirán sale de los playoff tras una jornada que agita la FEB** — GranadaDigital
 - 2026-11-23 11:06 UTC · **La ACFD entrega los Premios Deporte Empresa 2026 en Santander** — Ifomo Noticias 24h
 - 2026-11-23 09:47 UTC · **Arturo Ruiz y Álvaro Cárdenas, concentrados con la selección** — Ideal
@@ -124,8 +123,9 @@ Actualizado: 2026-11-24T00:05+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-21 17:42 UTC · **El Covirán UAPO Granada remonta en Ceuta y defiende el liderato** — Ideal
 - 2026-11-21 10:50 UTC · **El Coviran Granada quiere dar un golpe sobre la mesa en Torrelavega** — Ahora Granada
 
-## Periodistas preferentes (6)
+## Periodistas preferentes (7)
 
+- 2026-11-24 05:06 UTC · **Un respiro para coger impulso: el calendario pone a prueba la resistencia del UCAM Murcia** — murciaeconomia.com
 - 2026-11-23 07:38 UTC · **Al Hozono Global Jairis no se le olvida ganar tras el parón y firma su duodécima victoria consecutiva** — MurciaEconomía.com
 - 2026-11-23 05:27 UTC · **ElPozo Murcia recibe al Sporting Anderlecht en el histórico regreso de la Champions al Palacio** — murciaeconomia.com
 - 2026-11-23 05:27 UTC · **El FC Cartagena conoce hoy a su rival de élite para la segunda ronda de la Copa del Rey** — MurciaEconomía.com
@@ -133,96 +133,59 @@ Actualizado: 2026-11-24T00:05+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-22 13:20 UTC · **El Yeclano Deportivo frena el asalto al liderato del UCAM Murcia CF en La Condomina** — murciaeconomia.com
 - 2026-11-21 22:16 UTC · **La reacción defensiva no basta y Casademont Zaragoza se lleva un final de infarto en Murcia (72-74)** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (91)
+## Resto (últimas 12 h) (51)
 
+- 2026-11-24 09:37 UTC · **El Valencia se reencuentra con el Panathinaikos de Badio en plena racha** — Onda Cero
+- 2026-11-24 09:34 UTC · **Valencia Basket-Panathinaikos: horario y dónde ver por TV el partido de Euroliga hoy** — Sport Aragón
+- 2026-11-24 09:19 UTC · **Yordan Minchev no seguirá en Manresa** — ACB
+- 2026-11-24 09:17 UTC · **Por qué Aday Mara no está jugando con los Oklahoma City Thunder** — Gigantes del Basket · https://www.gigantes.com/nba/por-que-aday-mara-no-juega-oklahoma-city-thunder/
+- 2026-11-24 09:00 UTC · **Adama Sanogo y Dan Dainja, en la agenda del Barça para cubrir la baja de Nebo** — Solobasket [posible rumor] · https://www.solobasket.com/liga-endesa/sanogo-dainja-agenda-barca-pivot-nebo
+- 2026-11-24 09:00 UTC · **La hora de Abdu Koné en el Barça** — SPORT
+- 2026-11-24 08:53 UTC · **Revolución total en el iLERNA Lleida: cuatro fichajes y un esfuerzo económico extraordinario** — SPORT
+- 2026-11-24 08:50 UTC · **El CSD reconoce a Laura Gil con la medalla de oro de la Real Orden del Mérito Deportivo** — Gigantes del Basket · https://www.gigantes.com/liga-femenina/laura-gil-csd-reconocimiento-medalla-oro/
+- 2026-11-24 08:29 UTC · **Tyrese Rice, sobre la disruptiva de Nebo: "Una y otra vez, un gran partido se decide por una de estas decisiones arbitrales. Es una lástima que tuviera que terminar así"** — Mundo Deportivo
+- 2026-11-24 08:28 UTC · **Valencia Basket - Panathinaikos** — Flashscore.es
+- 2026-11-24 08:24 UTC · **Los cromos de la Minicopa Endesa Elche 2026** — ACB
+- 2026-11-24 08:00 UTC · **Félix Fernández, tras presentar a Smits y Kamenjas: “Hay confianza en Perasovic”** — Solobasket · https://www.solobasket.com/liga-endesa/felix-fernandez-confianza-perasovic-smits-kamenjas-baskonia
+- 2026-11-24 08:00 UTC · **El resumen de la noche NBA: Highlights, resultados y estadísticas. Los Thunder vuelven a caer, Minnesota arrasa y los Bucks rompen su mala racha** — Gigantes del Basket · https://www.gigantes.com/nba/resumen-nba-hoy-highlights-resultados-estadisticas/
+- 2026-11-24 07:48 UTC · **Barcelona - Fenerbahçe: horario y dónde ver hoy en TV y canal del partido de Euroliga** — MARCA
+- 2026-11-24 07:33 UTC · **Real Madrid vs Zalgiris: estadísticas previas y datos | Euroliga 2026/2027** — EL PAÍS
+- 2026-11-24 07:31 UTC · **Jordan Sakho vuelve al Breogán** — Diario de Santiago
+- 2026-11-24 07:14 UTC · **El Barça mueve ficha tras la lesión de Josh Nebo** — Mundo Deportivo
+- 2026-11-24 07:00 UTC · **Jornada 14 de la Euroliga: horarios, resultados de los partidos y resumen** — EL PAÍS
+- 2026-11-24 07:00 UTC · **Luka Doncic, 28 puntos y 8 asistencias en la revancha de los Lakers ante los Jazz (109-94)** — Solobasket · https://www.solobasket.com/nba/doncic-lakers-revancha-jazz-28-puntos
+- 2026-11-24 06:50 UTC · **El Fibwi Mallorca destituye al técnico Álex Formento tras el pésimo arranque de liga** — COPE
+- 2026-11-24 06:45 UTC · **Ni las faltas frenan a Doncic ante los Jazz** — Mundo Deportivo
+- 2026-11-24 06:37 UTC · **Falta disruptiva, el nuevo criterio arbitral que siembra dudas** — Zona de Básquet
+- 2026-11-24 06:30 UTC · **Valencia Basket - Panathinaikos: horario, dónde ver, bajas, estadísticas y pronósticos** — Betfair
+- 2026-11-24 06:08 UTC · **Los Lakers ya divisan el transatlántico desde lo alto** — Diario AS
+- 2026-11-24 06:05 UTC · **Un Barça bajo mínimos trata de escapar de la negativa racha reciente** — Mundo Deportivo
+- 2026-11-24 05:59 UTC · **El Cajasol Coto Córdoba llega al parón con la moral alta y deberes en el mercado de fichajes** — El Día de Córdoba
+- 2026-11-24 05:36 UTC · **Luces para Brahim** — Diario AS
+- 2026-11-24 05:30 UTC · **Jasikevicius mide el bache de un Barça obligado a reaccionar** — SPORT
+- 2026-11-24 05:30 UTC · **Afirman que el Barça está interesado en el pívot Adama Sanogo para reemplazar al lesionado Josh Nebo** — SPORT
+- 2026-11-24 05:01 UTC · **Brancou Badio, el reencuentro con otro héroe taronja en el regreso al Roig Arena más hostil** — Levante-EMV
+- 2026-11-24 05:00 UTC · **Gonzalo Orozco, un novato que hace historia para liderar la reacción del Coto Córdoba** — Diario Córdoba
+- 2026-11-24 04:41 UTC · **Valencia Basket vs Panathinaikos: Puntos, rebotes y asistencias por jugador | Euroliga 2026/2027** — Diario AS
+- 2026-11-24 04:39 UTC · **El COB: es ganar y a quién** — La Región
+- 2026-11-24 04:22 UTC · **Barcelona - Fenerbaçe: horario, TV, cómo y dónde ver la Euroliga 2026-27** — Diario AS
+- 2026-11-24 04:18 UTC · **Valencia Basket 2.0** — Diario AS
+- 2026-11-24 04:00 UTC · **Horario y dónde ver gratis el partido Casademont Zaragoza-Athinaikos de la Euroliga** — Heraldo de Aragón
+- 2026-11-24 04:00 UTC · **El COB supera las adversidades con un baloncesto de soluciones corales** — La Voz de Galicia
+- 2026-11-24 04:00 UTC · **Nuevos roles, mayor flexibilidad** — DXT Campeón
+- 2026-11-24 03:14 UTC · **Resultados de baloncesto del 30 de noviembre de 2026** — EL PAÍS
+- 2026-11-24 03:00 UTC · **Sander Hollanders y Daniil Shelist, del Alimerka Oviedo, a las selecciones de Países Bajos y Ucrania en la ventana FIBA** — La Nueva España
+- 2026-11-24 03:00 UTC · **El Alimerka Oviedo Baloncesto, al parón tras el triunfo más maduro y coral** — La Nueva España
+- 2026-11-24 02:59 UTC · **Bintalfa aguarda la llegada de AJ Slaughter entre cantos de sirena** — Menorca - Es diari
+- 2026-11-24 00:15 UTC · **Los peores presagios con la lesión de Manu Sánchez** — Diario AS
 - 2026-11-23 23:59 UTC · **El niño que animaba al Pamesa y ahora defiende el liderato de la Euroliga ante Obradovic** — MARCA
 - 2026-11-23 23:58 UTC · **El 'Dream Team' de Obradovic amenaza al líder Valencia** — MARCA
 - 2026-11-23 23:04 UTC · **El Barça de basket tiene muy poco margen para fichar a un pívot: la lesión de Nebo pone a Xevi Pujol contra las cuerdas** — Crónica Global
 - 2026-11-23 22:33 UTC · **Horario, canal y dónde ver por TV la jornada 14 de la Euroliga de baloncesto** — Mundo Deportivo
+- 2026-11-23 22:18 UTC · **El iLerna Lleida ficha a un pívot serbio de 2,06 m que vuelve a la ACB** — Flashscore.com.ar
 - 2026-11-23 22:11 UTC · **Horario, canal y dónde ver por TV el Real Madrid Basket - Zalgiris de la Euroliga** — Mundo Deportivo
 - 2026-11-23 21:58 UTC · **Horario, canal y dónde ver por TV el Barça Basket - Fenerbahce de la Euroliga** — Mundo Deportivo
 - 2026-11-23 21:45 UTC · **El Lleida incorporará de inmediato a cuatro jugadores y superará el presupuesto previsto** — Mundo Deportivo
-- 2026-11-23 21:18 UTC · **Uno de cada cuatro jugadores en ACB compite con nacionalidad distinta a la de nacimiento** — Mundo Deportivo
-- 2026-11-23 21:04 UTC · **De Folgueiras a Fàbrega pasando por Platteeuw y Almansa: cómo rinden los españoles en la NCAA 26/27** — Gigantes del Basket
-- 2026-11-23 20:59 UTC · **De Folgueiras a Fàbrega pasando por Platteeuw y Almansa: cómo los están haciendo los españoles en la NCAA 26/27** — Gigantes del Basket · https://www.gigantes.com/ncaa/que-esta-pasando-espanoles-folgueiras-fabrega-platteeuw-almansa/
-- 2026-11-23 20:49 UTC · **Chus Mateo: “Los jugadores siempre lo han conseguido”** — Diario AS
-- 2026-11-23 20:47 UTC · **El tercer uniforme, un seguro de victorias para La Laguna Tenerife** — Eldía
-- 2026-11-23 20:41 UTC · **Valencia Basket recibe al Panathinaikos seis meses después de la remontada que valió una Final Four** — Mundo Deportivo
-- 2026-11-23 20:30 UTC · **Euroliga, jornada 14: horarios y TV del Valencia Basket, Barça, Baskonia y Real Madrid** — Solobasket · https://www.solobasket.com/euroliga/euroliga-jornada-14-horarios-tv-equipos-espanoles
-- 2026-11-23 20:22 UTC · **El ASISA Joventut también se acuerda de Lolo Sainz** — SPORT
-- 2026-11-23 20:00 UTC · **Barcelona - Fenerbahçe: horario y dónde ver el partido de la Euroliga por TV y en directo** — SPORT
-- 2026-11-23 19:53 UTC · **El Fibwi Mallorca despide al entrenador Alex Formento** — Diario de Mallorca
-- 2026-11-23 19:52 UTC · **Fabrizio Romano frena los rumores sobre el posible fichaje de Vinicius por el PSG: "No va a ser un nombre tan grande"** — DAZN
-- 2026-11-23 19:30 UTC · **Aday Mara, tras su primera baja en la NBA: “La verdad que el primer mes no me puedo quejar”** — Solobasket · https://www.solobasket.com/nba/aday-mara-primera-baja-primer-mes-nba
-- 2026-11-23 19:12 UTC · **Turkoglu confirma que Biberovic sigue teniendo condición de nacionalizado** — Eurohoops (español) · https://www.eurohoops.net/es/fiba-world-cup-es/2039800/turkoglu-confirma-que-biberovic-sigue-teniendo-condicion-de-nacionalizado/
-- 2026-11-23 19:01 UTC · **Guerra: «El parón nos vendrá bien para refrescar y mejorar»** — Canarias7
-- 2026-11-23 19:00 UTC · **Un Efes de altibajos llega en buen momento a Vitoria** — Diario de Noticias de Álava
-- 2026-11-23 19:00 UTC · **Álex Formento, cesado como técnico del Fibwi Mallorca** — Ultima Hora
-- 2026-11-23 18:49 UTC · **Lo mejor y lo peor de la Jornada 9 en la Liga Endesa: Nuevo episodio de Zona de Gigantes** — Gigantes del Basket · https://www.gigantes.com/liga-endesa/zona-gigantes-mejor-peor-jornada-9/
-- 2026-11-23 18:46 UTC · **El sustituto de Josh Nebo en el Barça de basket tiene nombre y apellidos: el as bajo la manga de Xevi Pujol** — Crónica Global
-- 2026-11-23 18:44 UTC · **Aleksandre Phevadze, convocado por Georgia para la ventana FIBA de noviembre** — CB Tizona
-- 2026-11-23 18:43 UTC · **Lluís Costa, en el quinteto ideal de la novena jornada de Primera FEB** — Granada Hoy
-- 2026-11-23 18:38 UTC · **Presentación de Rolands Smits y Kenan Kamenjas** — Diario AS
-- 2026-11-23 18:30 UTC · **Yankuba Sima, baja: primer contratiempo para la España de Chus Mateo antes de la ventana FIBA** — Solobasket · https://www.solobasket.com/selecciones/yankuba-sima-baja-espana-ventana-chus-mateo
-- 2026-11-23 18:25 UTC · **Ibon Navarro se mete en un lío con la Federación de Serbia** — MARCA
-- 2026-11-23 18:17 UTC · **La selección de basket, ante una semana crucial** — Libertad Digital
-- 2026-11-23 18:16 UTC · **Horario y dónde ver gratis el Casademont Zaragoza - Athinaikos de Euroliga** — El Periódico de Aragón
-- 2026-11-23 18:12 UTC · **Valencia Basket examina su liderato y la revancha del Panathinaikos** — Europa Press
-- 2026-11-23 18:09 UTC · **El clásico europeo taronja Valencia Basket - Panathinaikos regresa al Roig Arena** — El Desmarque
-- 2026-11-23 18:07 UTC · **Bruno Savignani encuentra a su tridente de confianza en el CB Gran Canaria** — La Provincia
-- 2026-11-23 18:02 UTC · **Trayectoria Gabriel Fernández | Jugador acb | acb.com** — ACB
-- 2026-11-23 18:00 UTC · **Adama Sanogo y Dan Dainja, dos nombres que maneja el Barça para fichar un pívot** — Encestando
-- 2026-11-23 18:00 UTC · **El melón por abrir en el Real Madrid: nueve de sus 17 jugadores terminan contrato a final de temporada** — OkDiario
-- 2026-11-23 17:46 UTC · **El Barça recibe al Fenerbahçe en plena crisis de lesiones: seis bajas** — El Periódico
-- 2026-11-23 17:31 UTC · **El vestuario del Barça, tocado por la baja de Nebo: "Nos pega duro, es una lesión jodida"** — SPORT
-- 2026-11-23 17:30 UTC · **Josh Nebo, entre tres y cuatro meses de baja: el parte médico del Barça** — Solobasket · https://www.solobasket.com/liga-endesa/josh-nebo-baja-tres-cuatro-meses-rodilla
-- 2026-11-23 17:27 UTC · **El exnaranja Phil Scrubb, designado MVP de las finales de la liga mexicana** — DXT Campeón
-- 2026-11-23 17:25 UTC · **Tobias Borg se va con Suecia** — Diario Palentino
-- 2026-11-23 17:24 UTC · **Laura Gil, medalla de oro de la Real Orden del Mérito Deportivo** — Mundo Deportivo
-- 2026-11-23 17:02 UTC · **El Barça busca resarcirse ante el Fenerbahçe de Jasikevicius** — Europa Press
-- 2026-11-23 17:00 UTC · **El calvario de Myles Cale en ASVEL** — SPORT
-- 2026-11-23 16:58 UTC · **SuperManager 26-27: claves de la Jornada 9** — ACB
-- 2026-11-23 16:57 UTC · **Pansa, Fernández, Rubio, Balcerowski y Perry protagonizan las cinco mejores jugadas de la novena jornada** — kirolakeitb.eus
-- 2026-11-23 16:51 UTC · **El Bàsquet Menorca niega que haya 'Caso Slaughter'** — Menorca al Dia
-- 2026-11-23 16:37 UTC · **La acb, galardonada en los Premios Chupete por #UnBalónParaNoJugar** — ACB
-- 2026-11-23 16:32 UTC · **Yankuba Sima es baja en la Selección por "molestias físicas"** — Mundo Deportivo
-- 2026-11-23 16:30 UTC · **Clasificación de la Liga Endesa tras la jornada 9: el Real Madrid sigue invicto y Pedro Martínez hace historia** — Solobasket · https://www.solobasket.com/liga-endesa/clasificacion-liga-endesa-jornada-9-madrid-invicto
-- 2026-11-23 16:25 UTC · **Sekulic transforma la crisis de lesiones en una "oportunidad" para el Barça** — Mundo Deportivo
-- 2026-11-23 16:17 UTC · **El Baskonia aprovechará el parón para entrenar y retiene a la mayoría de sus internacionales** — El Correo
-- 2026-11-23 16:12 UTC · **El Fuenlabrada llega al parón contra las cuerdas** — AG Deportes
-- 2026-11-23 16:07 UTC · **La Federación Serbia responde a Ibon Navarro con un comunicado por sus declaraciones sobre las ventanas FIBA** — Gigantes del Basket · https://www.gigantes.com/selecciones/acion-serbia-comunicado-ibon-navarro-ventanas-fiba/
-- 2026-11-23 16:02 UTC · **Javonte Brown, en la preselección de Canadá para la ventana FIBA de noviembre** — CB Tizona
-- 2026-11-23 16:01 UTC · **Laura Gil, distinguida con la medalla de oro de la Real Orden del Mérito Deportivo** — Infobae
-- 2026-11-23 15:49 UTC · **El Valencia Basket busca prolongar su racha ante el Panathinaikos** — Actualidad Valencia
-- 2026-11-23 15:46 UTC · **ASVEL y Myles Cale separan sus caminos** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2039735/asvel-y-myles-cale-separan-sus-caminos/
-- 2026-11-23 15:42 UTC · **Otra corona aún mejor para Bolton: mejor jugador del mes en la Liga Endesa** — La Voz de Galicia
-- 2026-11-23 15:35 UTC · **🏀 Estudiantes se ueda sin premio ante el Ourense en un final de infarto** — Telemadrid
-- 2026-11-23 15:34 UTC · **Kosner Baskonia ficha al pívot francés Zacharie Perrin del iLerna Lleida hasta 2030** — kirolakeitb.eus
-- 2026-11-23 15:30 UTC · **¡Oficial! Zacharie Perrin ficha por el Baskonia hasta 2030 y el Lleida firma a Dragan Apic** — Solobasket · https://www.solobasket.com/liga-endesa/oficial-zacharie-perrin-baskonia-lleida-dragan-apic
-- 2026-11-23 15:24 UTC · **Xavi Albert: "El Panathinaikos es uno de los favoritos al título"** — Plaza Deportiva
-- 2026-11-23 15:22 UTC · **Real Madrid y Valencia Basket, campeones del Torneo Fundación Leucemia y Linfoma** — Diario AS
-- 2026-11-23 15:21 UTC · **Galería: Liga Endesa J9 - Recoletas Salud San Pablo Burgos-Unicaja** — San Pablo Burgos
-- 2026-11-23 15:19 UTC · **Más tiene que moverse el Barça** — Diario AS
-- 2026-11-23 15:14 UTC · **Ilerna Lleida ficha a Dragan Apic para sustituir a Zach Perrin** — SPORT
-- 2026-11-23 15:07 UTC · **Resultados de Fenerbahçe vs Real Madrid, historial de enfrentamientos (H2H) | Baloncesto** — Flashscore.es
-- 2026-11-23 15:01 UTC · **La Laguna clausura ‘Laguncesto Internacional’ con 75 mayores en la élite del baloncesto** — Canarias en Pleno
-- 2026-11-23 14:49 UTC · **Kyle Guy firma el primer 26-6-6 de la historia de La Laguna Tenerife** — ACB
-- 2026-11-23 14:40 UTC · **Así está la clasificación de Primera FEB tras la jornada 9: el Cajasol Coto Córdoba escala hasta la undécima plaza** — elDiario.es
-- 2026-11-23 14:30 UTC · **Hugo González, titular en la cuarta derrota seguida de los Celtics (88-87); Santi Aldama gana con Dallas en Utah** — Solobasket · https://www.solobasket.com/nba/hugo-gonzalez-celtics-warriors-aldama-mavericks-jazz
-- 2026-11-23 14:16 UTC · **Un tropiezo sin daños colaterales para el HLA Alicante** — Información
-- 2026-11-23 14:13 UTC · **El clásico europeo taronja ante Panathinaikos AKTOR Athens regresa al Roig Arena** — Valencia Basket Club
-- 2026-11-23 14:06 UTC · **Agustín Ubal: “Confiamos en que el Palau pueda ser nuestro sexto jugador”** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2039695/agustin-ubal-confiamos-en-que-el-palau-pueda-ser-nuestro-sexto-jugador/
-- 2026-11-23 14:01 UTC · **Trayectoria Dylan Osetkowski | Jugador acb | acb.com** — ACB
-- 2026-11-23 13:44 UTC · **Resultados de Bilbao Basket vs Real Madrid, historial de enfrentamientos (H2H) | Baloncesto** — Flashscore.es
-- 2026-11-23 13:35 UTC · **Un marcador histórico prolonga la racha del Valencia Basket en la Liga Endesa (129-111)** — Actualidad CEU
-- 2026-11-23 13:27 UTC · **Valencia Basket-Panathinaikos: horario y dónde ver por TV y online el partido de Euroliga** — Superdeporte
-- 2026-11-23 13:09 UTC · **Tarde cruzada para Remiro con su renovación sobre la mesa** — Diario AS
-- 2026-11-23 13:05 UTC · **Al Cajasiete Gran Canaria también le afecta las ventanas FIBA en Primera FEB: cuatro jugadores acuden con sus selecciones esta semana** — Canarias7
-- 2026-11-23 13:04 UTC · **LO MEJOR Y LO PEOR DE LA JORNADA 9 EN LA LIGA ENDESA** — Howl.Link
-- 2026-11-23 13:04 UTC · **Pedro Martínez ya es el entrenador con más partidos en era ACB...¡y con 600 triunfos!** — SPORT
-- 2026-11-23 13:01 UTC · **El Valencia enlaza por primera vez en la Liga ACB cuatro partidos con 100 puntos o más** — Plaza Deportiva
-- 2026-11-23 12:59 UTC · **Trayectoria C.J. Wallace | Jugador acb | acb.com** — ACB
-- 2026-11-23 12:57 UTC · **Trayectoria Pablo Aguilar | Jugador acb | acb.com** — ACB
-- 2026-11-23 12:57 UTC · **El Kosner Baskonia se hace con Zacharie Perrin y el iLerna Lleida le suple con Dragan Apic** — MARCA
-- 2026-11-23 12:43 UTC · **Adrià Gasol, hermano de Pau y Marc, sobre la presión de su apellido: "Lo que piense la gente me la trae sin cuidado, tuve la gran suerte de poder ver mucho baloncesto de altísimo nivel desde una perspectiva muy íntima y cercana""** — SPORT
-- 2026-11-23 12:27 UTC · **Manresa - Aris 113-99** — Flashscore.es
+
+## Fuentes que han fallado
+- Fundación CB Granada (web oficial)

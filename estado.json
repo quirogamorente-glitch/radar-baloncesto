@@ -1,29 +1,28 @@
 {
- "actualizado": "2026-11-24T00:05+00:00",
+ "actualizado": "2026-11-24T09:43+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
    "ok": true,
-   "leidas": 41,
-   "guardadas": 41
+   "leidas": 29,
+   "guardadas": 29
   },
   {
    "fuente": "Google Noticias · UCAM CB",
    "ok": true,
-   "leidas": 27,
-   "guardadas": 27
+   "leidas": 28,
+   "guardadas": 28
   },
   {
    "fuente": "Fundación CB Granada (web oficial)",
-   "ok": true,
-   "leidas": 10,
-   "guardadas": 1
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='fundacioncbgranada.es', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='fundacioncbgranada.es', port=443) at 0x7929eefc"
   },
   {
    "fuente": "Google Noticias · Covirán Granada",
    "ok": true,
-   "leidas": 46,
-   "guardadas": 46
+   "leidas": 44,
+   "guardadas": 44
   },
   {
    "fuente": "Google Noticias · Olga Lorente",
@@ -52,8 +51,8 @@
   {
    "fuente": "Google Noticias · Liga Endesa mercado",
    "ok": true,
-   "leidas": 48,
-   "guardadas": 48
+   "leidas": 51,
+   "guardadas": 51
   },
   {
    "fuente": "Google Noticias · Euroliga",
@@ -64,14 +63,14 @@
   {
    "fuente": "Google Noticias · EuroCup",
    "ok": true,
-   "leidas": 18,
-   "guardadas": 18
+   "leidas": 20,
+   "guardadas": 20
   },
   {
    "fuente": "Google Noticias · BCL",
    "ok": true,
-   "leidas": 6,
-   "guardadas": 6
+   "leidas": 7,
+   "guardadas": 7
   },
   {
    "fuente": "Google Noticias · Primera FEB",

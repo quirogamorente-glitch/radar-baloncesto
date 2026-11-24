@@ -1,22 +1,23 @@
 {
- "actualizado": "2026-11-24T09:43+00:00",
+ "actualizado": "2026-11-24T20:21+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
    "ok": true,
-   "leidas": 29,
-   "guardadas": 29
+   "leidas": 23,
+   "guardadas": 23
   },
   {
    "fuente": "Google Noticias · UCAM CB",
    "ok": true,
-   "leidas": 28,
-   "guardadas": 28
+   "leidas": 22,
+   "guardadas": 22
   },
   {
    "fuente": "Fundación CB Granada (web oficial)",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='fundacioncbgranada.es', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='fundacioncbgranada.es', port=443) at 0x7929eefc"
+   "ok": true,
+   "leidas": 10,
+   "guardadas": 1
   },
   {
    "fuente": "Google Noticias · Covirán Granada",
@@ -33,8 +34,8 @@
   {
    "fuente": "Google Noticias · Jaime Nadal",
    "ok": true,
-   "leidas": 6,
-   "guardadas": 6
+   "leidas": 5,
+   "guardadas": 5
   },
   {
    "fuente": "Google Noticias · Noelia Gómez Mira",
@@ -44,15 +45,14 @@
   },
   {
    "fuente": "Google Noticias · Liga Endesa",
-   "ok": true,
-   "leidas": 100,
-   "guardadas": 100
+   "ok": false,
+   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Liga+Endesa%22+when%3A3d&hl=es&gl=ES&ceid=ES:es"
   },
   {
    "fuente": "Google Noticias · Liga Endesa mercado",
    "ok": true,
-   "leidas": 51,
-   "guardadas": 51
+   "leidas": 23,
+   "guardadas": 23
   },
   {
    "fuente": "Google Noticias · Euroliga",
@@ -63,14 +63,14 @@
   {
    "fuente": "Google Noticias · EuroCup",
    "ok": true,
-   "leidas": 20,
-   "guardadas": 20
+   "leidas": 52,
+   "guardadas": 52
   },
   {
    "fuente": "Google Noticias · BCL",
    "ok": true,
-   "leidas": 7,
-   "guardadas": 7
+   "leidas": 10,
+   "guardadas": 10
   },
   {
    "fuente": "Google Noticias · Primera FEB",

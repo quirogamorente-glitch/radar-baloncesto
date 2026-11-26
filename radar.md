@@ -1,12 +1,13 @@
 # Radar de baloncesto
 
-Actualizado: 2026-11-25T22:46+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
+Actualizado: 2026-11-26T04:27+00:00 UTC. Avisos sin verificar: comprobar siempre en la fuente. Si no hay enlace, la noticia viene de Google Noticias: buscar el titular.
 
 
-## UCAM Murcia CB (45)
+## UCAM Murcia CB (46)
 
 - 2026-11-25 19:50 UTC · **Sito Alonso y Checa, frente a frente: del 'milagro' del baloncesto a la ambición del fútbol en la UCAM** — COPE
 - 2026-11-25 19:00 UTC · **El UCAM Murcia corre más, pero la ACB le adelanta: menos eficiencia ante rivales cada vez más rápidos** — La Opinión de Murcia
+- 2026-11-25 18:36 UTC · **Dustin Sleva: el único que dijo 'no' al UCAM Murcia en el histórico 2024** — La Verdad
 - 2026-11-25 18:13 UTC · **La Academia refuerza su modelo formativo con una nueva charla de metodología** — UCAM Deportes
 - 2026-11-25 14:48 UTC · **"Llegados a este punto, creo que el UCAM Murcia necesita un refuerzo"** — Cadena SER
 - 2026-11-25 13:29 UTC · **El UCAM Murcia CF, el Real Murcia CF y la Policía Nacional se unen en un Triangular Benéfico a favor de Talentismo, Never Surrender y Uapo-UCAM** — UCAM Deportes
@@ -14,6 +15,7 @@ Actualizado: 2026-11-25T22:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-25 09:31 UTC · **Pokémon llega al Cuartel de Artillería con la primera edición del UCAM TCG Series** — UCAM Deportes
 - 2026-11-25 05:06 UTC · **El UCAM Murcia regresará del parón con un calendario de equipo de Euroliga** — La Opinión de Murcia
 - 2026-11-25 04:53 UTC · **Partidos Sergio Rodríguez** — ACB
+- 2026-11-25 01:50 UTC · **Partidos Álvaro Cárdenas** — ACB
 - 2026-11-24 21:47 UTC · **Partidos Gonzalo Corbalán** — ACB
 - 2026-11-24 21:24 UTC · **Liga Endesa | acb.com** — ACB
 - 2026-11-24 19:11 UTC · **Partidos Marko Todorovic** — ACB
@@ -47,12 +49,12 @@ Actualizado: 2026-11-25T22:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-23 10:33 UTC · **Seis jugadores del UCAM Murcia se concentrarán con sus selecciones** — UCAM Deportes
 - 2026-11-23 09:41 UTC · **La Federación Serbia de Baloncesto aviva su polémica con Ibon Navarro** — Mundo Deportivo
 - 2026-11-23 08:45 UTC · **La FEDE News (23/11/2026)** — Federación de Baloncesto de la Región de Murcia
-- 2026-11-23 05:01 UTC · **El pobre acierto en los tiros de dos, un lastre para el UCAM Murcia** — La Opinión de Murcia
 - 2026-11-23 05:01 UTC · **Milagrosa victoria del Obradoiro U22 sobre el Murcia en un final de infarto en Sar** — El Correo Gallego
-- 2026-11-23 00:00 UTC · **Las 10 máximas anotaciones en un partido de Liga Endesa, equipo a equipo** — ACB
+- 2026-11-23 05:01 UTC · **El pobre acierto en los tiros de dos, un lastre para el UCAM Murcia** — La Opinión de Murcia
 
-## Covirán Granada (32)
+## Covirán Granada (31)
 
+- 2026-11-25 22:41 UTC · **La selección española se la juega en Montenegro** — Ideal
 - 2026-11-25 16:52 UTC · **Jennifer Fernández estrena su título iberoamericano** — Ideal
 - 2026-11-25 14:07 UTC · **El motrileño Daniel Rodríguez se proclama subcampeón del mundo de tenis de mesa en silla de ruedas** — Ideal
 - 2026-11-25 14:02 UTC · **Güéjar Sierra reúne este sábado a más de 1.200 corredores en la SkyRace Caras Nortes** — Ideal
@@ -83,8 +85,6 @@ Actualizado: 2026-11-25T22:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-23 09:47 UTC · **Arturo Ruiz y Álvaro Cárdenas, concentrados con la selección** — Ideal
 - 2026-11-23 08:22 UTC · **Jenkins rescata al Grupo Alega Cantabria sobre la bocina ante el Covirán Granada (85-84)** — ALERTA El Diario de Cantabria
 - 2026-11-23 08:17 UTC · **Multitudinaria pelea en un partido de fútbol de Primera Andaluza en Granada** — Ideal
-- 2026-11-23 00:15 UTC · **Partidos Daniel Fernández** — ACB
-- 2026-11-22 23:46 UTC · **El Racing gana 3-2 a la Real Sociedad con un doblete de Zabiri y un penalti de Canales** — Ifomo Noticias 24h
 
 ## Periodistas preferentes (5)
 
@@ -94,11 +94,23 @@ Actualizado: 2026-11-25T22:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-23 05:27 UTC · **ElPozo Murcia recibe al Sporting Anderlecht en el histórico regreso de la Champions al Palacio** — murciaeconomia.com
 - 2026-11-23 05:27 UTC · **El FC Cartagena conoce hoy a su rival de élite para la segunda ronda de la Copa del Rey** — MurciaEconomía.com
 
-## Resto (últimas 12 h) (108)
+## Resto (últimas 12 h) (85)
 
+- 2026-11-26 01:50 UTC · **Con una gran reacción final, Olympiacos venció a Hapoel Tel Aviv y sigue firme en lo más alto de la Eurolig...** — dsports
+- 2026-11-26 00:09 UTC · **Joksimovic devuelve la sonrisa a Baskonia en Euroliga** — Gasteiz Hoy
+- 2026-11-26 00:06 UTC · **Sergi Vidal Plana (España) - Estadísticas de Baloncesto, Altura, Edad** — FIBA
+- 2026-11-25 23:29 UTC · **Pedro Martínez: "Hemos estado bastante sólidos todo el partido"** — MARCA
+- 2026-11-25 22:59 UTC · **Horario, canal y dónde ver por TV el Montenegro - España de la fase de clasificación para el Mundial 2027** — Mundo Deportivo
+- 2026-11-25 22:56 UTC · **Resumen del Real Madrid vs. Zalgiris de Euroliga** — Diario AS
+- 2026-11-25 22:50 UTC · **Fin a la travesía del Baskonia por el desierto de la Euroliga** — Cadena SER
+- 2026-11-25 22:46 UTC · **Real Madrid-Zalgiris Kaunas | Round 14 Highlights | 2026-27 EuroLeague** — Euroleague Basketball
+- 2026-11-25 22:41 UTC · **Las claves de la gran victoria de Meins Avenida en la Eurocup** — La Gaceta de Salamanca
+- 2026-11-25 22:37 UTC · **Pedro Martínez: “El lunes esperamos tener a todo el equipo de vuelta”** — Diario AS
 - 2026-11-25 22:35 UTC · **57-75: El Valencia Basket supera al Carolo y firma una victoria con doble premio** — Mundo Deportivo
+- 2026-11-25 22:31 UTC · **Euroliga | Real Madrid 108-93 Zalgiris: el Madrid recupera la sonrisa a golpe de puntos** — 24segundosenblanco
 - 2026-11-25 22:30 UTC · **Pablo Laso: "Hemos dominado durante muchos minutos, pero hemos encadenado tres, cuatro o cinco errores que nos han costado la victoria"** — Diario de Noticias de Álava
 - 2026-11-25 22:29 UTC · **77-72: Triunfo de resistencia, clasificación y liderato para el Avenida** — Mundo Deportivo
+- 2026-11-25 22:27 UTC · **El Real Madrid recupera el ritmo ante Zalgiris** — Diario de Burgos
 - 2026-11-25 22:27 UTC · **Perasovic: "Ahora puedo hacer los cambios en función del rendimiento"** — Diario de Noticias de Álava
 - 2026-11-25 22:25 UTC · **91-82: Mariona Ortiz rescata al Casademont Zaragoza del precipicio griego** — Mundo Deportivo
 - 2026-11-25 22:23 UTC · **El Real Madrid derrota al Zalgiris y vuelve a la buena senda en Europa** — SPORT
@@ -109,6 +121,7 @@ Actualizado: 2026-11-25T22:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-25 22:16 UTC · **Un chaval enseña a ganar al Baskonia** — El Correo
 - 2026-11-25 22:13 UTC · **El Baskonia recupera el crédito ante el Efes** — SPORT
 - 2026-11-25 22:12 UTC · **Hogar, dulce hogar** — Diario AS
+- 2026-11-25 22:11 UTC · **Euroliga. El Real Madrid muestra músculo ante el Zalgiris** — El Imparcial - Diario liberal e independiente
 - 2026-11-25 22:09 UTC · **El Baskonia logra una victoria vital contra Laso** — Diario Palentino
 - 2026-11-25 22:04 UTC · **Raquel Romo: "Ser primeras de Eurocup es un victorión, hay que celebrarlo y mañana nos volvemos a poner el mono de trabajo"** — La Gaceta de Salamanca
 - 2026-11-25 22:03 UTC · **Mourinho, talismán en la paliza del Madrid al Zalgiris** — ABC
@@ -119,6 +132,7 @@ Actualizado: 2026-11-25T22:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-25 21:54 UTC · **El Real Madrid vuelve a la senda de la victoria en la Euroliga a lo grande: arrolla al Zalgiris y se reencuentra con su juego** — El Español
 - 2026-11-25 21:53 UTC · **El Madrid saca su mejor versión antes del parón** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2040644/el-madrid-saca-su-mejor-version-antes-del-paron/
 - 2026-11-25 21:52 UTC · **Basket Landes – Athinaikos Qualco: ficha y horario | EuroLeague Women 2026-27** — Gigantes del Basket
+- 2026-11-25 21:46 UTC · **El Baskonia recupera la sonrisa antes del parón** — Diario de Noticias de Álava
 - 2026-11-25 21:42 UTC · **Por fin una alegría en Vitoria: el Baskonia rompe su mala racha** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2040811/por-fin-una-alegria-en-vitoria-el-baskonia-rompe-su-mala-racha/
 - 2026-11-25 21:40 UTC · **86-81: Perrin ya inclina la balanza en Vitoria** — Mundo Deportivo
 - 2026-11-25 21:38 UTC · **Primera victoria de Perasovic en la presente Euroliga** — Diario AS
@@ -137,6 +151,7 @@ Actualizado: 2026-11-25T22:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-25 19:55 UTC · **Estadísticas del Real Madrid - Zalgiris de la jornada 14 de la Euroliga** — ABC
 - 2026-11-25 19:50 UTC · **El Valencia Basket sella la clasificación con un recital de triples de Chloe Bibby** — Levante-EMV
 - 2026-11-25 19:44 UTC · **Valencia Basket arrasa en la pista de Flammes Carolo y pasa a la siguiente ronda de la Euroliga** — Superdeporte
+- 2026-11-25 19:43 UTC · **Valencia Basket vs Panathinaikos: Puntos, rebotes y asistencias por jugador | Euroliga 2026/2027** — Diario AS
 - 2026-11-25 19:38 UTC · **El Casademont Zaragoza ya conoce a sus tres próximos rivales en la Euroliga** — El Periódico de Aragón
 - 2026-11-25 19:38 UTC · **El Hozono Jairis somete al Panatlilikos y sigue como un tiro** — Onda Regional de Murcia | ORM
 - 2026-11-25 19:30 UTC · **Montenegro-España, un partido clave (19:00, Teledeporte y Vamos)** — Federación Española de Baloncesto
@@ -145,6 +160,7 @@ Actualizado: 2026-11-25T22:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-25 19:17 UTC · **Chus Mateo: "Hay que cuidar a estos chicos, son superhéroes"** — MARCA
 - 2026-11-25 19:16 UTC · **Chus Mateo: “Estos chicos son superhéroes”** — Diario AS
 - 2026-11-25 19:15 UTC · **FOTOS | El Meins Avenida pasa como primero de grupo a dieciseisavos de la Eurocup con solo 7 jugadoras ante el Chartres (77-72)** — SALAMANCArtv AL DÍA
+- 2026-11-25 19:08 UTC · **Una noche 'sin dormir' por la selección: "Ha sido un 'escape room' complicado"** — El Mundo
 - 2026-11-25 18:56 UTC · **El Barça fuerza la salida de Sekulic de la selección eslovena** — Diario AS
 - 2026-11-25 18:55 UTC · **Balance en el parón: el CB Gran Canaria, rehén de una liga partida en dos** — La Provincia
 - 2026-11-25 18:54 UTC · **El Barça impide que Aleksander Sekulić siga al frente del banquillo de Eslovenia** — Eurohoops (español) · https://www.eurohoops.net/es/fiba-world-cup-es/2040707/el-barca-impide-que-aleksandar-sekulic-siga-al-frente-del-banquillo-de-eslovenia/
@@ -165,42 +181,3 @@ Actualizado: 2026-11-25T22:46+00:00 UTC. Avisos sin verificar: comprobar siempre
 - 2026-11-25 16:56 UTC · **Real Madrid - Zalgiris Kaunas en directo | Última hora de Euroliga en vivo hoy** — MARCA
 - 2026-11-25 16:42 UTC · **"Si hay que elegir, prefiero entrar en los play-off por el título, que participar en la Copa": Rafa Pueyo, director deportivo de Surne Bilbao** — Cadena SER
 - 2026-11-25 16:28 UTC · **Valencia Basket 3x3 afronta en Hong Kong su segunda gran cita en el World Tour** — Valencia Basket Club
-- 2026-11-25 16:27 UTC · **Apuestas AZS AJP Gorzow Wielkopolski Porta Xi Ensino 26 de noviembre de 2026 (Cuotas Eurocup - Women)** — SportyTrader
-- 2026-11-25 16:06 UTC · **‘Agradecido’, el documental sobre Puado y su lesión: “No es solo la historia del capitán del Espanyol, es la d** — Diario AS
-- 2026-11-25 15:55 UTC · **De la Euroliga a Podgorica en 10 horas: por la selección lo que sea** — MARCA
-- 2026-11-25 15:49 UTC · **El choque de calendarios condiciona a España en su camino hacia el Mundial** — Mundo Deportivo
-- 2026-11-25 15:11 UTC · **Rasir Bolton, MVP de noviembre en la Liga Endesa tras su histórico 50 de valoración** — Solobasket · https://www.solobasket.com/liga-endesa/rasir-bolton-mvp-noviembre-liga-endesa-breogan
-- 2026-11-25 15:01 UTC · **Zonas de tiro Stanley Umude** — ACB
-- 2026-11-25 14:58 UTC · **No es liga para jóvenes: la radiografía por edades de la Euroliga** — Gigantes del Basket · https://www.gigantes.com/euroliga/no-es-liga-para-jovenes-foto-demografica-de-la-euroliga-2026-27/
-- 2026-11-25 14:56 UTC · **Cajasol Coto Córdoba y CP Peñarroya-Pueblonuevo se citan en Vista Alegre por la Copa Diputación** — www.andaluzabaloncesto.org
-- 2026-11-25 14:53 UTC · **Máximo Anotador Endesa de la Jornada 9** — ACB
-- 2026-11-25 14:52 UTC · **La Selección ya está en Montenegro con cinco Euroligas** — Diario AS
-- 2026-11-25 14:51 UTC · **La NBA anuncia al menos 10.000 millones de euros para financiar pabellones en Europa: el Unicaja aspira a jugar su nueva liga en 2027** — La Opinión de Málaga
-- 2026-11-25 14:25 UTC · **Sekulic se la juega con el último fichaje del Barça para volver a competir por la Euroliga** — El Nacional.cat
-- 2026-11-25 14:14 UTC · **La EuroLeague tendrá su propia Summer League** — piratasdelbasket
-- 2026-11-25 13:48 UTC · **Cajasol Coto Córdoba y Peñarroya, una final de altura por la Copa Diputación en Vista Alegre** — El Día de Córdoba
-- 2026-11-25 13:38 UTC · **La Laguna Tenerife en la ACB y la Champions: cómo se analiza un partido de baloncesto** — Canal 4 Tenerife
-- 2026-11-25 13:37 UTC · **DAZN y la FIBA presentan BasketballTV** — Diario AS
-- 2026-11-25 13:07 UTC · **La revolución de la NBA en Europa empieza en los pabellones** — Diario AS
-- 2026-11-25 13:05 UTC · **El Baskonia busca reencontrarse con la victoria en la Euroliga ante el Anadolu Efes** — VAVEL.com
-- 2026-11-25 13:03 UTC · **Baskonia busca la luz en Euroliga** — Gasteiz Hoy
-- 2026-11-25 13:00 UTC · **NBA Europa anuncia una iniciativa para destinar 10.000 millones al desarrollo de pabellones de primer nivel** — Mundo Deportivo
-- 2026-11-25 12:52 UTC · **Sólo Jaime Fernández mejora el estreno de Amine Noua en el Unicaja** — Málaga Hoy
-- 2026-11-25 12:32 UTC · **Sarunas Jasikevicius analiza el nuevo Barça de Sekulic: 'Tiene mucho mérito lo que han hecho hasta ahora, me encanta como están'** — SPORT
-- 2026-11-25 12:15 UTC · **J.7: La zona noble manda en un fin de semana de exigencia máxima** — Federación Española de Baloncesto
-- 2026-11-25 12:11 UTC · **Disfruta durante 2 meses por 2 euros del mejor cine, fútbol y series de Movistar Plus sin permanencia** — MARCA
-- 2026-11-25 12:01 UTC · **España afronta una 'ventana FIBA' clave para la Copa del Mundo** — ACB
-- 2026-11-25 12:01 UTC · **5 jugadores en peligro de traspaso en la NBA** — Gigantes del Basket · https://www.gigantes.com/nba/5-jugadores-en-peligro-de-traspaso-en-la-nba/
-- 2026-11-25 12:00 UTC · **Maksim Salash se presenta en el Obradoiro: “Por mi parte no había ninguna duda”** — Solobasket · https://www.solobasket.com/liga-endesa/maksim-salash-presentacion-obradoiro-acb
-- 2026-11-25 11:45 UTC · **FIBA y DAZN lanzan BasketballTV para reunir el baloncesto internacional en una única plataforma** — Diario Siglo XXI
-- 2026-11-25 11:40 UTC · **La FIBA y DAZN lanzan BasketballTV, donde se podrán ver los partidos de la Basketball Champions League** — Diario Sur
-- 2026-11-25 11:36 UTC · **Jasikevicius sale en defensa de Sekulic y el Barça: “Tiene mucho mérito lo que ha hecho hasta ahora, estoy seguro de que volverán donde estaban”** — Eurohoops (español) · https://www.eurohoops.net/es/euroleague-es/2040521/jasikevicius-sale-en-defensa-de-sekulic-y-el-barca-tiene-mucho-merito-lo-que-ha-hecho-hasta-ahora-estoy-seguro-de-que-volveran-donde-estaban/
-- 2026-11-25 11:36 UTC · **Hora y dónde ver gratis en TV los partidos de España contra Montenegro y Grecia de clasificación para el Mundial 2027** — RTVE.es
-- 2026-11-25 11:26 UTC · **Vukovi – Čelik: marcadores y pronósticos** — Sofascore
-- 2026-11-25 11:09 UTC · **Euroliga: el Madrid quiere salir del play-in ante el Zalgiris** — Relevo Deportes
-- 2026-11-25 11:09 UTC · **Brizuela, Parra y Nkamhoua representarán al Barça en las ventanas mundialistas** — SPORT
-- 2026-11-25 11:08 UTC · **Trayectoria Roger Grimau | Jugador acb | acb.com** — ACB
-- 2026-11-25 11:07 UTC · **DAZN y la FIBA ​​lanzan BasketballTV: «El hogar global del baloncesto»** — Eurohoops · https://www.eurohoops.net/es/fiba-world-cup-es/2040517/dazn-y-la-fiba-%e2%80%8b%e2%80%8blanzan-basketballtv-el-hogar-global-del-baloncesto/
-- 2026-11-25 11:07 UTC · **DAZN y FIBA ​​presentan la nueva casa del baloncesto: BasketballTV** — Gigantes del Basket · https://www.gigantes.com/mas-basket/dazn-y-fiba-presentan-la-nueva-casa-del-baloncesto-basketballtv/
-- 2026-11-25 11:00 UTC · **Kevin Knox y la Euroliga: su contrato con el Unicaja contempla una vía de salida, según Diario Sur** — Solobasket [posible rumor] · https://www.solobasket.com/liga-endesa/kevin-knox-unicaja-contrato-salida-euroliga
-- 2026-11-25 10:49 UTC · **Real Madrid-Zalgiris: vuelve la Euroliga al Palacio** — Real Madrid CF | Web Oficial

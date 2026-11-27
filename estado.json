@@ -1,28 +1,29 @@
 {
- "actualizado": "2026-11-27T15:20+00:00",
+ "actualizado": "2026-11-27T23:34+00:00",
  "fuentes": [
   {
    "fuente": "Google Noticias · UCAM Murcia CB",
    "ok": true,
-   "leidas": 19,
-   "guardadas": 19
+   "leidas": 37,
+   "guardadas": 37
   },
   {
    "fuente": "Google Noticias · UCAM CB",
    "ok": true,
-   "leidas": 25,
-   "guardadas": 25
+   "leidas": 30,
+   "guardadas": 30
   },
   {
    "fuente": "Fundación CB Granada (web oficial)",
-   "ok": false,
-   "error": "no es un RSS válido (<unknown>:94:2: mismatched tag)"
+   "ok": true,
+   "leidas": 10,
+   "guardadas": 0
   },
   {
    "fuente": "Google Noticias · Covirán Granada",
    "ok": true,
-   "leidas": 11,
-   "guardadas": 11
+   "leidas": 12,
+   "guardadas": 12
   },
   {
    "fuente": "Google Noticias · Olga Lorente",
@@ -45,14 +46,14 @@
   {
    "fuente": "Google Noticias · Liga Endesa",
    "ok": true,
-   "leidas": 71,
-   "guardadas": 71
+   "leidas": 78,
+   "guardadas": 78
   },
   {
    "fuente": "Google Noticias · Liga Endesa mercado",
    "ok": true,
-   "leidas": 27,
-   "guardadas": 27
+   "leidas": 28,
+   "guardadas": 28
   },
   {
    "fuente": "Google Noticias · Euroliga",
@@ -63,20 +64,20 @@
   {
    "fuente": "Google Noticias · EuroCup",
    "ok": true,
-   "leidas": 61,
-   "guardadas": 61
+   "leidas": 28,
+   "guardadas": 28
   },
   {
    "fuente": "Google Noticias · BCL",
    "ok": true,
-   "leidas": 15,
-   "guardadas": 15
+   "leidas": 19,
+   "guardadas": 19
   },
   {
    "fuente": "Google Noticias · Primera FEB",
    "ok": true,
-   "leidas": 78,
-   "guardadas": 78
+   "leidas": 80,
+   "guardadas": 80
   },
   {
    "fuente": "Gigantes del Basket",
